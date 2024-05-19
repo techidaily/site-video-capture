@@ -1,6 +1,6 @@
-# TechiDaily
+# Video Capture Site
 
-Welcome to [https://android-transfer.techidaily.com](https://android-transfer.techidaily.com)
+Welcome to [https://video-capture.techidaily.com](https://video-capture.techidaily.com)
 
 ## Publish
 
