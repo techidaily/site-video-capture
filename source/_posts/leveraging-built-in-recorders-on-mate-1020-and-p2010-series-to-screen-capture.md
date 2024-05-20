@@ -1,7 +1,7 @@
 ---
 title: "\"Leveraging Built-In Recorders on Mate 10/20 & P20/10 Series to Screen Capture\""
-date: 2024-05-18T08:16:17.309Z
-updated: 2024-05-19T08:16:17.309Z
+date: 2024-05-19T21:35:58.845Z
+updated: 2024-05-20T21:35:58.845Z
 tags: 
   - screen-recording
   - ai video
@@ -401,4 +401,5 @@ Follow @Max Wales
 <li><a href="https://sound-optimizing.techidaily.com/new-10-premier-volume-maximizers-for-windows-pcs-elevate-your-audio-experience-now/"><u>New 10 Premier Volume Maximizers for Windows PCs - Elevate Your Audio Experience Now!</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-about-vivo-y27s-frp-bypass-by-drfone-android/"><u>In 2024, About Vivo Y27s FRP Bypass</u></a></li>
 </ul></div>
+
 

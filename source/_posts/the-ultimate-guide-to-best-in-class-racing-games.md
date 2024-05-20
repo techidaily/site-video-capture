@@ -495,3 +495,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/new-do-you-want-to-know-about-phone-aspect-ratio-vertical-trying-to-learn-about-iphone-vertical-video-dimensions-read-this-article-to-get-all-your-answers-o/"><u>New Do You Want to Know About Phone Aspect Ratio Vertical? Trying to Learn About iPhone Vertical Video Dimensions? Read This Article to Get All Your Answers on Vertical Phone Aspect Ratio Definition, Types and Tips</u></a></li>
 </ul></div>
 
+

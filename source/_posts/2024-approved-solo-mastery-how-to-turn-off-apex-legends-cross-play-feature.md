@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Solo Mastery  How to Turn Off Apex Legends' Cross-Play Feature\""
-date: 2024-05-18T08:17:45.194Z
-updated: 2024-05-19T08:17:45.194Z
+date: 2024-05-19T21:36:02.122Z
+updated: 2024-05-20T21:36:02.122Z
 tags: 
   - screen-recording
   - ai video
@@ -337,4 +337,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-tools.techidaily.com/top-video-editing-apps-for-smartphone-creators-for-2024/"><u>Top Video Editing Apps for Smartphone Creators for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-is-fake-gps-location-pro-and-is-it-good-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>What is Fake GPS Location Pro and Is It Good On Motorola Defy 2? | Dr.fone</u></a></li>
 </ul></div>
+
 

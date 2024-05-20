@@ -1,7 +1,7 @@
 ---
 title: "Enrich Video Narrative with Slow Motion on iPhone"
-date: 2024-05-18T08:13:51.161Z
-updated: 2024-05-19T08:13:51.161Z
+date: 2024-05-19T21:35:53.596Z
+updated: 2024-05-20T21:35:53.596Z
 tags: 
   - screen-recording
   - ai video
@@ -550,4 +550,5 @@ iPhone offers various easy-to-use and creative tools and apps for producing inno
 <li><a href="https://ai-driven-video-production.techidaily.com/new-the-ultimate-list-10-timecode-calculators-for-film-and-video-pros-for-2024/"><u>New The Ultimate List 10 Timecode Calculators for Film and Video Pros for 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-quick-guide-for-making-google-slideshows-for-2024/"><u>New How To Quick Guide for Making Google Slideshows for 2024</u></a></li>
 </ul></div>
+
 

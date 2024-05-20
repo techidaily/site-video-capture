@@ -1,7 +1,7 @@
 ---
 title: "\"Detailed Walkthrough  Timer Creation in OBS Broadcasts for 2024\""
-date: 2024-05-18T08:23:40.235Z
-updated: 2024-05-19T08:23:40.235Z
+date: 2024-05-19T21:36:16.375Z
+updated: 2024-05-20T21:36:16.375Z
 tags: 
   - screen-recording
   - ai video
@@ -270,4 +270,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://smart-video-editing.techidaily.com/new-adjust-video-aspect-ratio-in-minutes-a-step-by-step-guide-for-2024/"><u>New Adjust Video Aspect Ratio in Minutes A Step-by-Step Guide for 2024</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-samsung-galaxy-a54-5g-by-drfone-android/"><u>The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Samsung Galaxy A54 5G</u></a></li>
 </ul></div>
+
 

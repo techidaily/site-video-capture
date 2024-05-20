@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Urban Uprising  Video Game List Like GTA V\""
-date: 2024-05-18T08:14:21.265Z
-updated: 2024-05-19T08:14:21.265Z
+date: 2024-05-19T21:35:54.997Z
+updated: 2024-05-20T21:35:54.997Z
 tags: 
   - screen-recording
   - ai video
@@ -841,4 +841,5 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
 <li><a href="https://audio-shaping.techidaily.com/updated-top-rated-pop-backdrop-tunes-compilation/"><u>Updated Top-Rated Pop Backdrop Tunes Compilation</u></a></li>
 <li><a href="https://techidaily.com/undelete-lost-data-from-itel-s23-by-fonelab-android-recover-data/"><u>Undelete lost data from Itel S23</u></a></li>
 </ul></div>
+
 

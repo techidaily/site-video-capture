@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Full Screen Mastery Achieved in Obs"
-date: 2024-05-18T08:23:32.043Z
-updated: 2024-05-19T08:23:32.043Z
+date: 2024-05-19T21:36:16.140Z
+updated: 2024-05-20T21:36:16.140Z
 tags: 
   - screen-recording
   - ai video
@@ -277,4 +277,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-pause-life360-location-sharing-for-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Pause Life360 Location Sharing For Samsung Galaxy F15 5G | Dr.fone</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-8-best-educational-animation-software-for-school/"><u>New In 2024, 8 Best Educational Animation Software for School</u></a></li>
 </ul></div>
+
 

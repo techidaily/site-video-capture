@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Live on Air  How to Broadcast on YouTube & Twitch Using OBS\""
-date: 2024-05-18T08:11:07.519Z
-updated: 2024-05-19T08:11:07.519Z
+date: 2024-05-19T21:35:47.687Z
+updated: 2024-05-20T21:35:47.687Z
 tags: 
   - screen-recording
   - ai video
@@ -168,4 +168,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://sound-tweaking.techidaily.com/updated-2024-approved-premium-online-mp3-customization-suite/"><u>Updated 2024 Approved Premium Online MP3 Customization Suite</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-apple-iphone-13-mini-without-password-by-drfone-ios/"><u>How to Remove Apple ID from Apple iPhone 13 mini without Password?</u></a></li>
 </ul></div>
+
 

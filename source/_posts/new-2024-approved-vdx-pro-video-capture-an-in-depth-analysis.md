@@ -312,3 +312,4 @@ There may be a lot of other similar applications like VSDC on the internet out t
 <li><a href="https://sound-tweaking.techidaily.com/new-show-audio-waveform-and-add-waveform-animation-in-premiere-protutorial/"><u>New Show Audio Waveform and Add Waveform Animation in Premiere ProTutorial</u></a></li>
 </ul></div>
 
+

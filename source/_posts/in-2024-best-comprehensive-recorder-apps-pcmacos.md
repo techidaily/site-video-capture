@@ -412,3 +412,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-a78-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after A78 has been deleted.</u></a></li>
 </ul></div>
 
+

@@ -285,3 +285,4 @@ Yes. Google Translate is a free speech to text service available for Windows, iO
 <li><a href="https://blog-min.techidaily.com/how-to-sign-a-pdf-v14-document-with-electronic-signature-software-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to sign a PDF v1.4 document with electronic signature software</u></a></li>
 </ul></div>
 
+

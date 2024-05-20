@@ -1,7 +1,7 @@
 ---
 title: "[New] MoziScreen Plugins for Firefox"
-date: 2024-05-18T08:09:25.584Z
-updated: 2024-05-19T08:09:25.584Z
+date: 2024-05-19T21:35:43.698Z
+updated: 2024-05-20T21:35:43.698Z
 tags: 
   - screen-recording
   - ai video
@@ -681,4 +681,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-11-tools-to-create-radial-blur-photo-mobile-and-desktop/"><u>Updated In 2024, 11 Tools To Create Radial Blur Photo Mobile And Desktop</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-macos-compatible-video-editor-avs-software/"><u>Updated MacOS Compatible Video Editor AVS Software</u></a></li>
 </ul></div>
+
 

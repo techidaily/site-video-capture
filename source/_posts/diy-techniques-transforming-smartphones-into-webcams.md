@@ -1,7 +1,7 @@
 ---
 title: "\"DIY Techniques  Transforming Smartphones Into Webcams\""
-date: 2024-05-18T08:16:29.138Z
-updated: 2024-05-19T08:16:29.138Z
+date: 2024-05-19T21:35:59.295Z
+updated: 2024-05-20T21:35:59.295Z
 tags: 
   - screen-recording
   - ai video
@@ -595,4 +595,5 @@ Follow @Max Wales
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-unleash-your-creativity-top-vertical-video-editing-apps-for-mobile/"><u>New In 2024, Unleash Your Creativity Top Vertical Video Editing Apps for Mobile</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/1713942946418-top-gif-to-mp4-converters-for-2024/"><u>Top GIF to MP4 Converters for 2024</u></a></li>
 </ul></div>
+
 

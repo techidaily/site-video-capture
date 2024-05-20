@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Artistry Behind Capturing Evening Light and People\""
-date: 2024-05-18T08:08:41.428Z
-updated: 2024-05-19T08:08:41.428Z
+date: 2024-05-19T21:35:42.142Z
+updated: 2024-05-20T21:35:42.142Z
 tags: 
   - screen-recording
   - ai video
@@ -217,4 +217,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-elevate-your-footage-expert-advice-for-stunning-home-videos-for-2024/"><u>Updated Elevate Your Footage Expert Advice for Stunning Home Videos for 2024</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-infinix-zero-30-5g-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Infinix Zero 30 5G</u></a></li>
 </ul></div>
+
 

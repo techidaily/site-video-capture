@@ -689,3 +689,4 @@ Gameplay recording, for instance, Minecraft should be possible effectively utili
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-lava-blaze-curve-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Lava Blaze Curve 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

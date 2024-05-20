@@ -423,3 +423,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-honor-x50iplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Honor X50i+ | Dr.fone</u></a></li>
 </ul></div>
 
+

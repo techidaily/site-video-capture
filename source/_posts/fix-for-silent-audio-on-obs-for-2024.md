@@ -1,7 +1,7 @@
 ---
 title: "Fix for Silent Audio on OBS for 2024"
-date: 2024-05-18T08:24:36.754Z
-updated: 2024-05-19T08:24:36.754Z
+date: 2024-05-19T21:36:18.125Z
+updated: 2024-05-20T21:36:18.125Z
 tags: 
   - screen-recording
   - ai video
@@ -573,4 +573,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://location-social.techidaily.com/how-to-detect-and-stop-mspy-from-spying-on-your-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>How to Detect and Stop mSpy from Spying on Your Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-unlocking-iphone-7-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>In 2024, Unlocking iPhone 7 Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
 </ul></div>
+
 

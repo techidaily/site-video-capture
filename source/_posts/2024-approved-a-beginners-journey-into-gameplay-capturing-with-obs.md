@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  A Beginner's Journey Into Gameplay Capturing with OBS\""
-date: 2024-05-18T08:16:00.575Z
-updated: 2024-05-19T08:16:00.575Z
+date: 2024-05-19T21:35:58.205Z
+updated: 2024-05-20T21:35:58.205Z
 tags: 
   - screen-recording
   - ai video
@@ -399,4 +399,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://change-location.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-vivo-y200e-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Vivo Y200e 5G? | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-smooth-operator-top-video-stabilizer-apps-for-2024/"><u>Updated Smooth Operator Top Video Stabilizer Apps for 2024</u></a></li>
 </ul></div>
+
 

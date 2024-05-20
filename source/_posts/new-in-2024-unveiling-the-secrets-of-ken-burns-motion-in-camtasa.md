@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Unveiling the Secrets of Ken Burns Motion in Camtasa"
-date: 2024-05-18T08:03:32.583Z
-updated: 2024-05-19T08:03:32.583Z
+date: 2024-05-19T21:35:30.820Z
+updated: 2024-05-20T21:35:30.820Z
 tags: 
   - screen-recording
   - ai video
@@ -342,4 +342,5 @@ Follow @Max Wales
 <li><a href="https://ai-driven-video-production.techidaily.com/how-to-download-filmora-torrent-for-free-in-2024/"><u>How to Download Filmora Torrent for FREE, In 2024</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-how-to-create-a-slideshow-with-movavi-slideshow-maker/"><u>Updated 2024 Approved How to Create a Slideshow with Movavi Slideshow Maker</u></a></li>
 </ul></div>
+
 

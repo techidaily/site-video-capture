@@ -1,7 +1,7 @@
 ---
 title: "\"From Game to Giga  Full PS4 Capture Using OBS\""
-date: 2024-05-18T08:05:45.603Z
-updated: 2024-05-19T08:05:45.603Z
+date: 2024-05-19T21:35:35.796Z
+updated: 2024-05-20T21:35:35.796Z
 tags: 
   - screen-recording
   - ai video
@@ -407,4 +407,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://activate-lock.techidaily.com/how-to-successfully-bypass-icloud-activation-lock-from-iphone-se-by-drfone-ios/"><u>How to Successfully Bypass iCloud Activation Lock from iPhone SE</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-hitfilm-express-a-guide-to-download-install-key-features/"><u>Updated Hitfilm Express - A Guide to Download, Install, Key Features</u></a></li>
 </ul></div>
+
 

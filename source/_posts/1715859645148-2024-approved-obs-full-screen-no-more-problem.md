@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Obs Full-Screen No More Problem!\""
-date: 2024-05-18T08:18:01.300Z
-updated: 2024-05-19T08:18:01.300Z
+date: 2024-05-19T21:36:03.687Z
+updated: 2024-05-20T21:36:03.687Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-redmi-note-12-5g-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Redmi Note 12 5G to Protect Your Individual Information</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-in-2024-eliminating-the-noise-a-step-by-step-approach-to-clearer-sound-editing-in-audacity/"><u>New In 2024, Eliminating the Noise A Step-by-Step Approach to Clearer Sound Editing in Audacity</u></a></li>
 </ul></div>
+
 

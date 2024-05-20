@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Discovering the Power of Fraps in Video Capture\""
-date: 2024-05-18T08:18:57.619Z
-updated: 2024-05-19T08:18:57.619Z
+date: 2024-05-19T21:36:05.999Z
+updated: 2024-05-20T21:36:05.999Z
 tags: 
   - screen-recording
   - ai video
@@ -356,4 +356,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://phone-solutions.techidaily.com/how-to-add-digital-signature-to-a-pdf-v13-document-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>How to add digital signature to a PDF v1.3 document</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Motorola Edge 40 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

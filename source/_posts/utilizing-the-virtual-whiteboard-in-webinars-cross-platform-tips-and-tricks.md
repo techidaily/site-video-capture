@@ -1,7 +1,7 @@
 ---
 title: "\"Utilizing the Virtual Whiteboard in Webinars  Cross-Platform Tips and Tricks\""
-date: 2024-05-18T08:16:30.211Z
-updated: 2024-05-19T08:16:30.211Z
+date: 2024-05-19T21:35:59.340Z
+updated: 2024-05-20T21:35:59.340Z
 tags: 
   - screen-recording
   - ai video
@@ -551,4 +551,5 @@ Follow @Richard Bennett
 <li><a href="https://easy-unlock-android.techidaily.com/forgotten-the-voicemail-password-of-realme-c67-4g-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Realme C67 4G? Try These Fixes</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-unlocking-great-sound-audio-editing-techniques-in-fcp/"><u>Updated In 2024, Unlocking Great Sound Audio Editing Techniques in FCP</u></a></li>
 </ul></div>
+
 

@@ -471,3 +471,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/updated-what-wikipedia-cant-tell-you-about-the-10-batman-cartoons/"><u>Updated What Wikipedia Cant Tell You About the 10 Batman Cartoons</u></a></li>
 </ul></div>
 
+

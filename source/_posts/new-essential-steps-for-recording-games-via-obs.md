@@ -1,7 +1,7 @@
 ---
 title: "[New] Essential Steps for Recording Games via OBS"
-date: 2024-05-18T08:00:50.169Z
-updated: 2024-05-19T08:00:50.169Z
+date: 2024-05-19T21:35:24.941Z
+updated: 2024-05-20T21:35:24.941Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://fix-guide.techidaily.com/realme-12plus-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 12+ 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-send-and-fake-live-location-on-facebook-messenger-of-your-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>How to Send and Fake Live Location on Facebook Messenger Of your Meizu 21 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Reconnecting Sound Tracks to OBS Broadcasts"
-date: 2024-05-18T08:24:41.072Z
-updated: 2024-05-19T08:24:41.072Z
+date: 2024-05-19T21:36:18.333Z
+updated: 2024-05-20T21:36:18.333Z
 tags: 
   - screen-recording
   - ai video
@@ -603,4 +603,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://sound-optimizing.techidaily.com/the-essential-guide-to-choosing-your-best-guitar-recording-application/"><u>The Essential Guide to Choosing Your Best Guitar Recording Application</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-best-xiaomi-14-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>In 2024, Best Xiaomi 14 Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
 </ul></div>
+
 

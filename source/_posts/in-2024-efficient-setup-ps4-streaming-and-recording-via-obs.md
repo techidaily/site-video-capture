@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Efficient Setup  PS4 Streaming and Recording via OBS\""
-date: 2024-05-18T08:23:21.484Z
-updated: 2024-05-19T08:23:21.484Z
+date: 2024-05-19T21:36:15.778Z
+updated: 2024-05-20T21:36:15.778Z
 tags: 
   - screen-recording
   - ai video
@@ -419,4 +419,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ios-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-iphone-12-without-itunes-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked iPhone 12 Without iTunes</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-the-complete-guide-to-oneplus-nord-ce-3-lite-5g-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>In 2024, The Complete Guide to OnePlus Nord CE 3 Lite 5G FRP Bypass Everything You Need to Know</u></a></li>
 </ul></div>
+
 

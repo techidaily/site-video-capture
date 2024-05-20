@@ -573,3 +573,4 @@ Follow @Liza Brown
 <li><a href="https://screen-mirror.techidaily.com/how-to-display-apple-iphone-12-pro-screen-on-pc-easily-drfone-by-drfone-ios/"><u>How to Display Apple iPhone 12 Pro Screen on PC Easily? | Dr.fone</u></a></li>
 </ul></div>
 
+

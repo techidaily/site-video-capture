@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Lowering OBS Video Bandwidth\""
-date: 2024-05-18T08:08:22.304Z
-updated: 2024-05-19T08:08:22.304Z
+date: 2024-05-19T21:35:41.498Z
+updated: 2024-05-20T21:35:41.498Z
 tags: 
   - screen-recording
   - ai video
@@ -269,4 +269,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://ios-unlock.techidaily.com/in-2024-easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-13-by-drfone-ios/"><u>In 2024, Easy Steps on How To Create a New Apple ID Account On iPhone 13</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-experts-selection-of-windows-compatible-noise-cancellation-applications/"><u>2024 Approved The Experts Selection of Windows-Compatible Noise Cancellation Applications</u></a></li>
 </ul></div>
+
 

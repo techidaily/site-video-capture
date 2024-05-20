@@ -437,3 +437,4 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-itel-a60-to-mac-drfone-by-drfone-android/"><u>How to Mirror Itel A60 to Mac? | Dr.fone</u></a></li>
 </ul></div>
 
+

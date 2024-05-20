@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Shine Through the Game  Fixes for Dark Capture by OBS\""
-date: 2024-05-18T08:19:19.641Z
-updated: 2024-05-19T08:19:19.641Z
+date: 2024-05-19T21:36:06.778Z
+updated: 2024-05-20T21:36:06.778Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-itel-a05s-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Itel A05s Without Power Button | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-samsung-galaxy-a14-4g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Samsung Galaxy A14 4G Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Fixed OBS Audio Capture Issue for 2024"
-date: 2024-05-18T08:19:49.576Z
-updated: 2024-05-19T08:19:49.576Z
+date: 2024-05-19T21:36:07.728Z
+updated: 2024-05-20T21:36:07.728Z
 tags: 
   - screen-recording
   - ai video
@@ -574,4 +574,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Vivo V27 Pro | Dr.fone</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-lock-from-your-apple-iphone-15-pro-and-ipad-by-drfone-ios/"><u>How to Unlock iCloud lock from your Apple iPhone 15 Pro and iPad?</u></a></li>
 </ul></div>
+
 

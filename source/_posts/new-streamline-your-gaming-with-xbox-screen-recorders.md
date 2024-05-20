@@ -627,3 +627,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-how-to-color-correct-an-s-log-footage/"><u>Updated In 2024, How to Color-Correct an S-Log Footage</u></a></li>
 </ul></div>
 
+

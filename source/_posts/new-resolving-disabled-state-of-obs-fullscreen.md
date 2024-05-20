@@ -1,7 +1,7 @@
 ---
 title: "[New] Resolving Disabled State of OBS Fullscreen"
-date: 2024-05-18T08:14:27.194Z
-updated: 2024-05-19T08:14:27.194Z
+date: 2024-05-19T21:35:55.194Z
+updated: 2024-05-20T21:35:55.194Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-error-12-failed-to-detect-location-on-motorola-razr-40-drfone-by-drfone-virtual-android/"><u>In 2024, Pokemon Go Error 12 Failed to Detect Location On Motorola Razr 40? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Vivo Y100 | Dr.fone</u></a></li>
 </ul></div>
+
 

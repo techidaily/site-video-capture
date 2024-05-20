@@ -623,3 +623,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-iphone-xs-max-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On iPhone XS Max</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Camera Troubles No More with OBS"
-date: 2024-05-18T08:09:23.709Z
-updated: 2024-05-19T08:09:23.709Z
+date: 2024-05-19T21:35:43.638Z
+updated: 2024-05-20T21:35:43.638Z
 tags: 
   - screen-recording
   - ai video
@@ -277,4 +277,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-on-apple-iphone-12-pro-max-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock On Apple iPhone 12 Pro Max You Should Try Out</u></a></li>
 <li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-se-2022-without-itunes-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone SE (2022) without iTunes? | Dr.fone</u></a></li>
 </ul></div>
+
 

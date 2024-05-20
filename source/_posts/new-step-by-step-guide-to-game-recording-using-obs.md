@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Step-by-Step Guide to Game Recording Using OBS\""
-date: 2024-05-18T08:22:23.292Z
-updated: 2024-05-19T08:22:23.292Z
+date: 2024-05-19T21:36:13.320Z
+updated: 2024-05-20T21:36:13.320Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-unlock.techidaily.com/in-2024-forgotten-the-voicemail-password-of-samsung-galaxy-m54-5g-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Samsung Galaxy M54 5G? Try These Fixes</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-optimizing-listening-comfort-by-fast-tracking-audio-speed-adjustments/"><u>New 2024 Approved Optimizing Listening Comfort by Fast-Tracking Audio Speed Adjustments</u></a></li>
 </ul></div>
+
 

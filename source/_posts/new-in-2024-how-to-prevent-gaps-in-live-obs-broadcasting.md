@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, How To Prevent Gaps In Live OBS Broadcasting"
-date: 2024-05-18T08:19:50.124Z
-updated: 2024-05-19T08:19:50.124Z
+date: 2024-05-19T21:36:07.740Z
+updated: 2024-05-20T21:36:07.740Z
 tags: 
   - screen-recording
   - ai video
@@ -616,4 +616,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-infinix-note-30-5g-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Infinix Note 30 5G to Computer for iPhone and Android? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-pro-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 14 Pro Data From iOS iTunes? | Dr.fone</u></a></li>
 </ul></div>
+
 

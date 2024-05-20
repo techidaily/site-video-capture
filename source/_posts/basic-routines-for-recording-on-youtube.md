@@ -725,3 +725,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://ai-video-apps.techidaily.com/new-reframing-your-content-the-impact-of-aspect-ratio-on-video-style-for-2024/"><u>New Reframing Your Content The Impact of Aspect Ratio on Video Style for 2024</u></a></li>
 </ul></div>
 
+

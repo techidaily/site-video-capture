@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Fraps as a Video Recorder  What You Need To Know for 2024\""
-date: 2024-05-18T08:09:48.710Z
-updated: 2024-05-19T08:09:48.710Z
+date: 2024-05-19T21:35:44.983Z
+updated: 2024-05-20T21:35:44.983Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oppo-a18-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Oppo A18 to Roku | Dr.fone</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/identify-high-end-filters-and-processors-that-eradicate-unwanted-sounds-from-audio-content/"><u>Identify High-End Filters and Processors That Eradicate Unwanted Sounds From Audio Content</u></a></li>
 </ul></div>
+
 

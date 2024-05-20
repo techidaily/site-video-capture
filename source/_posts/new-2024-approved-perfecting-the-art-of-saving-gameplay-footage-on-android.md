@@ -215,3 +215,4 @@ The easiest way to record the screen on your Android device is by using the inbu
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-smart-8-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix Smart 8 Pro? | Dr.fone</u></a></li>
 </ul></div>
 
+

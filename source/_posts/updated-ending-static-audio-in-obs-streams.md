@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ending Static Audio in OBS Streams"
-date: 2024-05-18T08:22:51.608Z
-updated: 2024-05-19T08:22:51.608Z
+date: 2024-05-19T21:36:14.580Z
+updated: 2024-05-20T21:36:14.580Z
 tags: 
   - screen-recording
   - ai video
@@ -571,4 +571,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://smart-video-creator.techidaily.com/updated-in-2024-best-free-green-screen-apps-for-android-and-ios/"><u>Updated In 2024, Best Free Green Screen Apps for Android and iOS</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-discovering-the-premier-audio-capture-and-editing-apps-for-android-devices/"><u>Updated 2024 Approved Discovering the Premier Audio Capture and Editing Apps for Android Devices</u></a></li>
 </ul></div>
+
 

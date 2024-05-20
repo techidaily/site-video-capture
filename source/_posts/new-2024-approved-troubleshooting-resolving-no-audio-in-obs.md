@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Troubleshooting  Resolving No Audio in OBS\""
-date: 2024-05-18T08:18:53.273Z
-updated: 2024-05-19T08:18:53.273Z
+date: 2024-05-19T21:36:05.854Z
+updated: 2024-05-20T21:36:05.854Z
 tags: 
   - screen-recording
   - ai video
@@ -577,4 +577,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-video-editing.techidaily.com/free-luts-for-obs-how-to-use-them-in-2024/"><u>Free LUTs for OBS How to Use Them, In 2024</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/2024-approved-securing-your-google-voice-chats-phone-and-desktop-recording-techniques-explained/"><u>2024 Approved Securing Your Google Voice Chats Phone & Desktop Recording Techniques Explained</u></a></li>
 </ul></div>
+
 

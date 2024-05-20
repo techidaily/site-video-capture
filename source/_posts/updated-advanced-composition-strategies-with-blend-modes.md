@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Advanced Composition Strategies with Blend Modes"
-date: 2024-05-18T08:13:18.879Z
-updated: 2024-05-19T08:13:18.879Z
+date: 2024-05-19T21:35:52.516Z
+updated: 2024-05-20T21:35:52.516Z
 tags: 
   - screen-recording
   - ai video
@@ -464,4 +464,5 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-the-top-20-motion-graphics-companies-and-studios/"><u>New 2024 Approved The Top 20 Motion Graphics Companies & Studios</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/premier-11-auditory-editing-utilities-on-android-devices/"><u>Premier 11 Auditory Editing Utilities on Android Devices</u></a></li>
 </ul></div>
+
 

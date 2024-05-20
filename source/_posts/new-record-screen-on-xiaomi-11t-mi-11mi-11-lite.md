@@ -1,7 +1,7 @@
 ---
 title: "[New] Record Screen on Xiaomi 11T/ Mi 11/Mi 11 Lite"
-date: 2024-05-18T08:09:28.531Z
-updated: 2024-05-19T08:09:28.531Z
+date: 2024-05-19T21:35:43.849Z
+updated: 2024-05-20T21:35:43.849Z
 tags: 
   - screen-recording
   - ai video
@@ -584,4 +584,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://blog-min.techidaily.com/how-to-fix-and-retrieve-picturesvideos-from-a-water-damaged-iphone-se-that-wont-turn-on-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Fix & Retrieve Pictures/Videos From a Water Damaged iPhone SE That Wont Turn on | Stellar</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-vivo-v30-lite-5g-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Vivo V30 Lite 5G Location | Dr.fone</u></a></li>
 </ul></div>
+
 

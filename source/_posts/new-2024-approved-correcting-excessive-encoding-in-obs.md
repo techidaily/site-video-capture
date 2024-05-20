@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Correcting Excessive Encoding in OBS\""
-date: 2024-05-18T08:03:01.191Z
-updated: 2024-05-19T08:03:01.191Z
+date: 2024-05-19T21:35:29.425Z
+updated: 2024-05-20T21:35:29.425Z
 tags: 
   - screen-recording
   - ai video
@@ -301,4 +301,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-oneplus-ace-3-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your OnePlus Ace 3 in 3 Ways | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-lenovo-thinkphone-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Lenovo ThinkPhone without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

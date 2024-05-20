@@ -1016,3 +1016,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/steps-to-add-subtitles-in-canva/"><u>Steps to Add Subtitles in Canva</u></a></li>
 </ul></div>
 
+

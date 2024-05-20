@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Craft Cinematic Edits with Ease and Precision in Camtasia 9"
-date: 2024-05-18T08:24:28.023Z
-updated: 2024-05-19T08:24:28.023Z
+date: 2024-05-19T21:36:17.872Z
+updated: 2024-05-20T21:36:17.872Z
 tags: 
   - screen-recording
   - ai video
@@ -333,4 +333,5 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-detailed-tutorial-to-rotate-videos-in-cyberlink-powerdirector/"><u>New 2024 Approved Detailed Tutorial to Rotate Videos in Cyberlink PowerDirector</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-itel-s23plus-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Itel S23+ Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

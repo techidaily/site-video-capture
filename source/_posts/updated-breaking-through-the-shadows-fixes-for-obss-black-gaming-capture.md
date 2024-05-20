@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Breaking Through the Shadows  Fixes for OBS's Black Gaming Capture\""
-date: 2024-05-18T08:10:53.254Z
-updated: 2024-05-19T08:10:53.254Z
+date: 2024-05-19T21:35:47.198Z
+updated: 2024-05-20T21:35:47.198Z
 tags: 
   - screen-recording
   - ai video
@@ -245,4 +245,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-vivo-g2-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Vivo G2 Devices</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-realme-c51-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Realme C51 Location | Dr.fone</u></a></li>
 </ul></div>
+
 

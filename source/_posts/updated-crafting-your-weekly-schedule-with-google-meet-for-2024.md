@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Crafting Your Weekly Schedule with Google Meet for 2024"
-date: 2024-05-18T08:14:01.367Z
-updated: 2024-05-19T08:14:01.367Z
+date: 2024-05-19T21:35:53.967Z
+updated: 2024-05-20T21:35:53.967Z
 tags: 
   - screen-recording
   - ai video
@@ -647,4 +647,5 @@ You can share links of the meetings you have created, join with links, schedule 
 <li><a href="https://sound-tweaking.techidaily.com/updated-unlocking-new-sounds-a-journey-to-discovering-personal-vocal-change-for-2024/"><u>Updated Unlocking New Sounds A Journey to Discovering Personal Vocal Change for 2024</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-photos-from-android-gallery-after-format-on-samsung-galaxy-f15-5g-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to recover deleted photos from Android Gallery after format on Samsung Galaxy F15 5G</u></a></li>
 </ul></div>
+
 

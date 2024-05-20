@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Capturing the Action  PS4 to Video Using OBS\""
-date: 2024-05-18T08:13:36.386Z
-updated: 2024-05-19T08:13:36.386Z
+date: 2024-05-19T21:35:53.078Z
+updated: 2024-05-20T21:35:53.078Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://screen-mirror.techidaily.com/how-vivo-y100-5g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>How Vivo Y100 5G Mirror Screen to PC? | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/how-to-delete-icloud-account-on-iphone-13-pro-max-without-password-by-drfone-ios/"><u>How to Delete iCloud Account On iPhone 13 Pro Max without Password?</u></a></li>
 </ul></div>
+
 

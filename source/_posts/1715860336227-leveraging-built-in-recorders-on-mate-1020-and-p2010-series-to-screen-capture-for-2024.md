@@ -1,7 +1,7 @@
 ---
 title: "\"Leveraging Built-In Recorders on Mate 10/20 & P20/10 Series to Screen Capture. For 2024\""
-date: 2024-05-18T08:03:14.258Z
-updated: 2024-05-19T08:03:14.258Z
+date: 2024-05-19T21:35:30.218Z
+updated: 2024-05-20T21:35:30.218Z
 tags: 
   - screen-recording
   - ai video
@@ -376,4 +376,5 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/new-things-you-need-to-know-about-color-grading-in-photography/"><u>New Things You Need to Know About Color Grading in Photography</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-best-free-audio-recording-software-in-depth-reviews/"><u>New In 2024, The Best Free Audio Recording Software In-Depth Reviews</u></a></li>
 </ul></div>
+
 

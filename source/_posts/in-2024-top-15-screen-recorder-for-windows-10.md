@@ -1998,3 +1998,4 @@ This is definitely easy. Almost all the screen recorders on the market are able 
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirror-on-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>How to Screen Mirror on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
 </ul></div>
 
+

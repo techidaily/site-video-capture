@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Utilizing OBS in Android Setups  A Beginner's Manual for 2024\""
-date: 2024-05-18T08:17:18.996Z
-updated: 2024-05-19T08:17:18.996Z
+date: 2024-05-19T21:36:01.260Z
+updated: 2024-05-20T21:36:01.260Z
 tags: 
   - screen-recording
   - ai video
@@ -499,4 +499,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://easy-unlock-android.techidaily.com/unlock-your-nubia-red-magic-9-pros-potential-the-top-20-lock-screen-apps-you-need-to-try-by-drfone-android/"><u>Unlock Your Nubia Red Magic 9 Pros Potential The Top 20 Lock Screen Apps You Need to Try</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-apple-iphone-15-pro-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On Apple iPhone 15 Pro</u></a></li>
 </ul></div>
+
 

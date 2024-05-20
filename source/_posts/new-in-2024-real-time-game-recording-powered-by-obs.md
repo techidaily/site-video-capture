@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Real-Time Game Recording Powered by OBS\""
-date: 2024-05-18T08:24:17.479Z
-updated: 2024-05-19T08:24:17.479Z
+date: 2024-05-19T21:36:17.528Z
+updated: 2024-05-20T21:36:17.528Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-the-creme-de-la-creme-of-4k-video-content/"><u>New 2024 Approved The Crème De La Crème of 4K Video Content</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/the-ultimate-guide-to-avs-video-editor-review-and-tutorial/"><u>The Ultimate Guide to AVS Video Editor Review and Tutorial</u></a></li>
 </ul></div>
+
 

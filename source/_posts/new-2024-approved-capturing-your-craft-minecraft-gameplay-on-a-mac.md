@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Capturing Your Craft  Minecraft Gameplay on a Mac\""
-date: 2024-05-18T08:08:43.585Z
-updated: 2024-05-19T08:08:43.585Z
+date: 2024-05-19T21:35:42.219Z
+updated: 2024-05-20T21:35:42.219Z
 tags: 
   - screen-recording
   - ai video
@@ -396,4 +396,5 @@ Minecraft has been a popular game because of its different worlds and modes. The
 <li><a href="https://smart-video-creator.techidaily.com/new-easy-video-editing-how-to-freeze-frames-like-a-pro-in-minutes/"><u>New Easy Video Editing How to Freeze Frames Like a Pro in Minutes</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-unleash-your-creativity-top-webcam-recording-software-for-windows-10/"><u>Updated 2024 Approved Unleash Your Creativity Top Webcam Recording Software for Windows 10</u></a></li>
 </ul></div>
+
 

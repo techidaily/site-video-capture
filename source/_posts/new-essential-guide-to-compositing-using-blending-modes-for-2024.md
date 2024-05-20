@@ -1,7 +1,7 @@
 ---
 title: "[New] Essential Guide to Compositing Using Blending Modes for 2024"
-date: 2024-05-18T08:20:39.117Z
-updated: 2024-05-19T08:20:39.117Z
+date: 2024-05-19T21:36:09.553Z
+updated: 2024-05-20T21:36:09.553Z
 tags: 
   - screen-recording
   - ai video
@@ -448,4 +448,5 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-x9b-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor X9b? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Vivo V29? | Dr.fone</u></a></li>
 </ul></div>
+
 

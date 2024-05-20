@@ -1,7 +1,7 @@
 ---
 title: "[New] Addressing Disrupted Video in OBS Studio"
-date: 2024-05-18T08:04:22.205Z
-updated: 2024-05-19T08:04:22.205Z
+date: 2024-05-19T21:35:32.522Z
+updated: 2024-05-20T21:35:32.522Z
 tags: 
   - screen-recording
   - ai video
@@ -598,4 +598,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://smart-video-editing.techidaily.com/updated-best-free-video-cutting-tools-our-expert-picks-for-2024/"><u>Updated Best Free Video Cutting Tools Our Expert Picks for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/top-mp4-to-mp3-converter-apps-for-mobile-devices-for-2024/"><u>Top MP4 to MP3 Converter Apps for Mobile Devices for 2024</u></a></li>
 </ul></div>
+
 

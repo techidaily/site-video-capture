@@ -379,3 +379,4 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-change-frame-rate-in-premiere-pro/"><u>New How to Change Frame Rate in Premiere Pro</u></a></li>
 </ul></div>
 
+

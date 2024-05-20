@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Embedded Recorder Usage in Huawei's Mate Series and the P Lineup"
-date: 2024-05-18T08:25:35.723Z
-updated: 2024-05-19T08:25:35.723Z
+date: 2024-05-19T21:36:20.605Z
+updated: 2024-05-20T21:36:20.605Z
 tags: 
   - screen-recording
   - ai video
@@ -418,4 +418,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-an-alternate-reality-effect-for-2024/"><u>Updated How to Create an Alternate Reality Effect for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-tecno-pova-5-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Tecno Pova 5 Data? | Dr.fone</u></a></li>
 </ul></div>
+
 

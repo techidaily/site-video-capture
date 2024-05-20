@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Full Page Screen Capture  How to Capture Screenshots of a Full Page?\""
-date: 2024-05-18T08:06:27.022Z
-updated: 2024-05-19T08:06:27.022Z
+date: 2024-05-19T21:35:37.156Z
+updated: 2024-05-20T21:35:37.156Z
 tags: 
   - screen-recording
   - ai video
@@ -520,4 +520,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-split-videos-like-a-pro-the-best-free-tools/"><u>Updated 2024 Approved Split Videos Like a Pro The Best Free Tools</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-infinix-note-30i-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Snapchat Location Spoofer to Protect Your Privacy On Infinix Note 30i? | Dr.fone</u></a></li>
 </ul></div>
+
 

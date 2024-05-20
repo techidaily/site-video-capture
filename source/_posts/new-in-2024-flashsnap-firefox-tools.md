@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, FlashSnap Firefox Tools"
-date: 2024-05-18T08:05:56.619Z
-updated: 2024-05-19T08:05:56.619Z
+date: 2024-05-19T21:35:36.186Z
+updated: 2024-05-20T21:35:36.186Z
 tags: 
   - screen-recording
   - ai video
@@ -673,4 +673,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-adjust-video-aspect-ratio-in-minutes-a-step-by-step-guide/"><u>Updated 2024 Approved Adjust Video Aspect Ratio in Minutes A Step-by-Step Guide</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-sign-excel-2003-by-digital-signature-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How to sign Excel 2003 by digital signature</u></a></li>
 </ul></div>
+
 

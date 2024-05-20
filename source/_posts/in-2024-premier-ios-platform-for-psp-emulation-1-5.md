@@ -436,3 +436,4 @@ For macOS 10.12 or later
 <li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-mastering-aspect-ratio-in-final-cut-pro-essential-skills-for-video-editors/"><u>Updated In 2024, Mastering Aspect Ratio in Final Cut Pro Essential Skills for Video Editors</u></a></li>
 </ul></div>
 
+

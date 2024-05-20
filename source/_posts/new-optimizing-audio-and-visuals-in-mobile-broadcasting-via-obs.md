@@ -507,3 +507,4 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://ai-driven-video-production.techidaily.com/new-how-to-make-ken-burns-effect-in-final-cut-pro/"><u>New How to Make Ken Burns Effect in Final Cut Pro?</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Getting Started  Audacity's Guide to Microphone Use on Mac for 2024\""
-date: 2024-05-18T08:18:05.166Z
-updated: 2024-05-19T08:18:05.166Z
+date: 2024-05-19T21:36:03.798Z
+updated: 2024-05-20T21:36:03.798Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-android-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to Android? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-vivo-v29-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Vivo V29.</u></a></li>
 </ul></div>
+
 

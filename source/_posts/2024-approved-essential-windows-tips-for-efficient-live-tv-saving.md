@@ -471,3 +471,4 @@ Follow @Max Wales
 <li><a href="https://smart-video-creator.techidaily.com/voice-recognition-to-written-language-a-guide/"><u>Voice Recognition to Written Language A Guide</u></a></li>
 </ul></div>
 
+

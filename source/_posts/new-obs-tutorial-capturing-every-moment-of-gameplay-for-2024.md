@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS Tutorial  Capturing Every Moment of Gameplay for 2024\""
-date: 2024-05-18T08:15:38.719Z
-updated: 2024-05-19T08:15:38.719Z
+date: 2024-05-19T21:35:57.447Z
+updated: 2024-05-20T21:35:57.447Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://smart-video-creator.techidaily.com/new-mastering-time-manipulation-in-fcpx-for-2024/"><u>New Mastering Time Manipulation in FCPX for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo Y100 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

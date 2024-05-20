@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Walk of Shadows  A Comprehensive List of Intense Zombie Games for 2024\""
-date: 2024-05-18T08:21:47.695Z
-updated: 2024-05-19T08:21:47.695Z
+date: 2024-05-19T21:36:12.113Z
+updated: 2024-05-20T21:36:12.113Z
 tags: 
   - screen-recording
   - ai video
@@ -370,4 +370,5 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 <li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-honor-magic5-ultimate-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Honor Magic5 Ultimate Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-nokia-g310-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Nokia G310 | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -837,3 +837,4 @@ Follow @Richard Bennett
 <li><a href="https://animation-videos.techidaily.com/5-photoshop-alternatives-to-animate-your-logo/"><u>5 Photoshop Alternatives to Animate Your Logo</u></a></li>
 </ul></div>
 
+

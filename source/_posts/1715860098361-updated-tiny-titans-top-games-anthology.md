@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Tiny Titans' Top Games Anthology!"
-date: 2024-05-18T08:13:58.419Z
-updated: 2024-05-19T08:13:58.419Z
+date: 2024-05-19T21:35:53.878Z
+updated: 2024-05-20T21:35:53.878Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-tools.techidaily.com/updated-vegas-pro-not-your-cup-of-tea-try-these-10-mac-friendly-alternatives-for-2024/"><u>Updated Vegas Pro Not Your Cup of Tea? Try These 10 Mac-Friendly Alternatives for 2024</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/10-top-tools-to-make-pic-collage-for-windows-for-2024/"><u>10 Top Tools to Make Pic Collage for Windows for 2024</u></a></li>
 </ul></div>
+
 

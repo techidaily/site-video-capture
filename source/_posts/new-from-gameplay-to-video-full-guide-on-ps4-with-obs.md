@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Gameplay to Video  Full Guide on PS4 with OBS\""
-date: 2024-05-18T08:06:17.323Z
-updated: 2024-05-19T08:06:17.323Z
+date: 2024-05-19T21:35:36.847Z
+updated: 2024-05-20T21:35:36.847Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://iphone-transfer.techidaily.com/ultimate-guide-how-to-transfer-music-from-apple-iphone-xr-to-iphone-drfone-by-drfone-transfer-from-ios/"><u>Ultimate Guide, How to Transfer Music From Apple iPhone XR to iPhone | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-motorola-moto-g14-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Motorola Moto G14 for Parents | Dr.fone</u></a></li>
 </ul></div>
+
 

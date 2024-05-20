@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Artistry Behind Capturing Evening Light and People\""
-date: 2024-05-18T08:07:02.341Z
-updated: 2024-05-19T08:07:02.341Z
+date: 2024-05-19T21:35:38.326Z
+updated: 2024-05-20T21:35:38.326Z
 tags: 
   - screen-recording
   - ai video
@@ -185,4 +185,5 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-samsung-galaxy-a24-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Samsung Galaxy A24 Data? | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-tecno-pova-5-pro-with-video-repair-utility-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Tecno Pova 5 Pro with Video Repair Utility on Windows?</u></a></li>
 </ul></div>
+
 

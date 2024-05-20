@@ -301,3 +301,4 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-editing-video.techidaily.com/new-camtasia-vs-captivate-which-to-choose/"><u>New Camtasia Vs Captivate - Which to Choose?</u></a></li>
 </ul></div>
 
+

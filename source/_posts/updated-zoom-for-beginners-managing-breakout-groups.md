@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Zoom for Beginners  Managing Breakout Groups\""
-date: 2024-05-18T08:15:48.997Z
-updated: 2024-05-19T08:15:48.997Z
+date: 2024-05-19T21:35:57.796Z
+updated: 2024-05-20T21:35:57.796Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ Follow @Richard Bennett
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-lava-yuva-3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Lava Yuva 3 Pro? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/can-i-play-mkv-movies-on-edge-40-neo-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can I play MKV movies on Edge 40 Neo?</u></a></li>
 </ul></div>
+
 

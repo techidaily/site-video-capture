@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Ending Automatic Video Captures in QT Player\""
-date: 2024-05-18T08:19:17.745Z
-updated: 2024-05-19T08:19:17.745Z
+date: 2024-05-19T21:36:06.707Z
+updated: 2024-05-20T21:36:06.707Z
 tags: 
   - screen-recording
   - ai video
@@ -462,4 +462,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://audio-shaping.techidaily.com/where-can-i-find-moan-sound-effect/"><u>Where Can I Find Moan Sound Effect?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-detailed-guide-to-crop-video-in-sony-vegas-pro-for-2024/"><u>New Detailed Guide to Crop Video in Sony Vegas Pro for 2024</u></a></li>
 </ul></div>
+
 

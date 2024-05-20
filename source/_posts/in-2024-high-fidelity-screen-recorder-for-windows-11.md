@@ -566,3 +566,4 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-x8b-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor X8b | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Lowering the Quality of OBS Streaming for 2024"
-date: 2024-05-18T08:17:13.815Z
-updated: 2024-05-19T08:17:13.815Z
+date: 2024-05-19T21:36:01.082Z
+updated: 2024-05-20T21:36:01.082Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-revolutionizing-communication-real-time-ai-voice-changer/"><u>New In 2024, Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
 <li><a href="https://howto.techidaily.com/vivo-y100i-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y100i Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
 </ul></div>
+
 

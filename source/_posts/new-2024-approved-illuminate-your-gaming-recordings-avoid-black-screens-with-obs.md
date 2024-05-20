@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Illuminate Your Gaming Recordings  Avoid Black Screens with OBS\""
-date: 2024-05-18T08:26:02.939Z
-updated: 2024-05-19T08:26:02.939Z
+date: 2024-05-19T21:36:21.536Z
+updated: 2024-05-20T21:36:21.536Z
 tags: 
   - screen-recording
   - ai video
@@ -249,4 +249,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-samsung-galaxy-a34-5g-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Samsung Galaxy A34 5G Location Settings | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-vivo-y77t-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Vivo Y77t Without Anyone Knowing? | Dr.fone</u></a></li>
 </ul></div>
+
 

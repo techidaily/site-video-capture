@@ -933,3 +933,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://ai-driven-video-production.techidaily.com/image-size-and-shape-how-to-calculate-the-perfect-ratio/"><u>Image Size and Shape How to Calculate the Perfect Ratio</u></a></li>
 </ul></div>
 
+

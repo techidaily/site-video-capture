@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Covert Recording  Erasing Identifiable Information\""
-date: 2024-05-18T08:01:26.515Z
-updated: 2024-05-19T08:01:26.515Z
+date: 2024-05-19T21:35:26.077Z
+updated: 2024-05-20T21:35:26.077Z
 tags: 
   - screen-recording
   - ai video
@@ -515,4 +515,5 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-subtitles-in-vlc-media-play/"><u>New 2024 Approved How to Add Subtitles in VLC Media Play</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-free-split-screen-video-creators-web-based-and-desktop-options/"><u>New In 2024, Free Split Screen Video Creators Web-Based and Desktop Options</u></a></li>
 </ul></div>
+
 

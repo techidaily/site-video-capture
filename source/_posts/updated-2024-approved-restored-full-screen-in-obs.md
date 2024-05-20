@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Restored  Full Screen in OBS\""
-date: 2024-05-18T08:02:51.393Z
-updated: 2024-05-19T08:02:51.393Z
+date: 2024-05-19T21:35:29.066Z
+updated: 2024-05-20T21:35:29.066Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-vivo-y36i-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Vivo Y36i | Dr.fone</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/ultimate-guide-on-itel-p55-frp-bypass-by-drfone-android/"><u>Ultimate Guide on Itel P55 FRP Bypass</u></a></li>
 </ul></div>
+
 

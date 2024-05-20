@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Resolving OBS Fullscreen Not Functional"
-date: 2024-05-18T08:22:06.040Z
-updated: 2024-05-19T08:22:06.040Z
+date: 2024-05-19T21:36:12.726Z
+updated: 2024-05-20T21:36:12.726Z
 tags: 
   - screen-recording
   - ai video
@@ -269,4 +269,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-windows-live-movie-maker-tutorial-adding-slow-motion-to-your-videos/"><u>New 2024 Approved Windows Live Movie Maker Tutorial Adding Slow Motion to Your Videos</u></a></li>
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-tecno-pop-7-pro-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Tecno Pop 7 Pro? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

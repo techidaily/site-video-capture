@@ -1,7 +1,7 @@
 ---
 title: "\"Minecraft Homestead Blueprint #6-10\""
-date: 2024-05-18T08:00:51.784Z
-updated: 2024-05-19T08:00:51.784Z
+date: 2024-05-19T21:35:24.984Z
+updated: 2024-05-20T21:35:24.984Z
 tags: 
   - screen-recording
   - ai video
@@ -361,4 +361,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-best-capcut-templates-for-slow-motion-video-trend/"><u>In 2024, Best CapCut Templates for Slow Motion Video Trend</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-navigating-copyright-friendly-ways-to-retrieve-your-spotify-tunes-for-offline-use-for-2024/"><u>Updated Navigating Copyright-Friendly Ways to Retrieve Your Spotify Tunes for Offline Use for 2024</u></a></li>
 </ul></div>
+
 

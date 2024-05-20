@@ -1,7 +1,7 @@
 ---
 title: "\"State-of-the-Art Gaming Capture Systems, Not Just FBX Files\""
-date: 2024-05-18T08:05:29.916Z
-updated: 2024-05-19T08:05:29.916Z
+date: 2024-05-19T21:35:35.227Z
+updated: 2024-05-20T21:35:35.227Z
 tags: 
   - screen-recording
   - ai video
@@ -573,4 +573,5 @@ If you are facing FBX recorder not working issue or you are not satisfied with t
 <li><a href="https://smart-video-editing.techidaily.com/updated-top-face-swapping-tools-iphone-and-android-edition/"><u>Updated Top Face Swapping Tools IPhone and Android Edition</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-user-friendly-video-editing-tools-for-starters-for-2024/"><u>Updated User-Friendly Video Editing Tools for Starters for 2024</u></a></li>
 </ul></div>
+
 

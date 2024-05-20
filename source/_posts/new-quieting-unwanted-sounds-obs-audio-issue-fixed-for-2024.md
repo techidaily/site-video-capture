@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quieting Unwanted Sounds  OBS Audio Issue Fixed for 2024\""
-date: 2024-05-18T08:08:31.988Z
-updated: 2024-05-19T08:08:31.988Z
+date: 2024-05-19T21:35:41.821Z
+updated: 2024-05-20T21:35:41.821Z
 tags: 
   - screen-recording
   - ai video
@@ -575,4 +575,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-google-pixel-fold-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Google Pixel Fold? | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/in-2024-syncopation-techniques-matching-music-with-film-footage/"><u>In 2024, Syncopation Techniques Matching Music with Film Footage</u></a></li>
 </ul></div>
+
 

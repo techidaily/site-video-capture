@@ -467,3 +467,4 @@ Follow @Max Wales
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-best-text-animations-in-after-effects/"><u>In 2024, Best Text Animations In After Effects</u></a></li>
 </ul></div>
 
+

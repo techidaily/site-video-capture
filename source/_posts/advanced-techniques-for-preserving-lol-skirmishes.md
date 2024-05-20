@@ -483,3 +483,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://iphone-unlock.techidaily.com/7-ways-to-lock-apps-on-apple-iphone-xs-max-and-ipad-securely-drfone-by-drfone-ios/"><u>7 Ways to Lock Apps on Apple iPhone XS Max and iPad Securely | Dr.fone</u></a></li>
 </ul></div>
 
+

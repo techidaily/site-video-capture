@@ -1,7 +1,7 @@
 ---
 title: "[New] Easy Guide to Blur Background in Google Meet [Laptop and Mobile]"
-date: 2024-05-18T08:17:20.900Z
-updated: 2024-05-19T08:17:20.900Z
+date: 2024-05-19T21:36:01.326Z
+updated: 2024-05-20T21:36:01.326Z
 tags: 
   - screen-recording
   - ai video
@@ -549,4 +549,5 @@ Follow @Richard Bennett
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-disconnect-the-chatter-how-to-mute-your-microphone-in-zoom-meetings/"><u>New In 2024, Disconnect the Chatter How to Mute Your Microphone in Zoom Meetings</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/elevate-your-vlog-game-top-10-mobile-video-editing-apps/"><u>Elevate Your Vlog Game Top 10 Mobile Video Editing Apps</u></a></li>
 </ul></div>
+
 

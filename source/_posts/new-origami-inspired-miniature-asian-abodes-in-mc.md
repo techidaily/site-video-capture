@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Origami-Inspired, Miniature Asian Abodes in MC\""
-date: 2024-05-18T08:02:05.704Z
-updated: 2024-05-19T08:02:05.704Z
+date: 2024-05-19T21:35:27.464Z
+updated: 2024-05-20T21:35:27.464Z
 tags: 
   - screen-recording
   - ai video
@@ -348,4 +348,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-elevate-your-content-with-the-best-free-video-translator-apps/"><u>Updated In 2024, Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-free-online-video-editing-top-10-trimming-tools-2023-rankings/"><u>In 2024, Free Online Video Editing Top 10 Trimming Tools 2023 Rankings</u></a></li>
 </ul></div>
+
 

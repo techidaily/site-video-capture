@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Unlocking Full-Screen Recording Features in Mi 11 for 2024\""
-date: 2024-05-18T08:12:59.246Z
-updated: 2024-05-19T08:12:59.246Z
+date: 2024-05-19T21:35:51.896Z
+updated: 2024-05-20T21:35:51.896Z
 tags: 
   - screen-recording
   - ai video
@@ -570,4 +570,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://sound-tweaking.techidaily.com/updated-simple-vocal-transformation-facilities-analysis-of-capabilities-guidelines-for-usage-and-multiple-approaches/"><u>Updated Simple Vocal Transformation Facilities Analysis of Capabilities, Guidelines for Usage, and Multiple Approaches</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/new-mac-video-cutting-made-simple-quick-tips-for-large-files-for-2024/"><u>New Mac Video Cutting Made Simple Quick Tips for Large Files for 2024</u></a></li>
 </ul></div>
+
 

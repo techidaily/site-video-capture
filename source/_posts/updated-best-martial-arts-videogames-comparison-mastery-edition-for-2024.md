@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Best Martial Arts Videogames Comparison  Mastery Edition for 2024\""
-date: 2024-05-18T08:16:05.441Z
-updated: 2024-05-19T08:16:05.441Z
+date: 2024-05-19T21:35:58.394Z
+updated: 2024-05-20T21:35:58.394Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Richard Bennett
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-tecno-pova-5-drfone-by-drfone-android/"><u>How to Screen Mirroring Tecno Pova 5? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-g24-power-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola G24 Power to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

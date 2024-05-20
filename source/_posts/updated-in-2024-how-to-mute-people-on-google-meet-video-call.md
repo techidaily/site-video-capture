@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How to Mute People on Google Meet Video Call"
-date: 2024-05-18T08:08:10.759Z
-updated: 2024-05-19T08:08:10.759Z
+date: 2024-05-19T21:35:41.098Z
+updated: 2024-05-20T21:35:41.098Z
 tags: 
   - screen-recording
   - ai video
@@ -684,4 +684,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-do-perfect-match-paint-100-the-easy-way/"><u>New How to Do Perfect Match Paint 100 the Easy Way</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-11-5g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus 11 5G to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

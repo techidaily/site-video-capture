@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Dive Deep Into OBS  Advanced Techniques for Game Capture\""
-date: 2024-05-18T08:23:53.736Z
-updated: 2024-05-19T08:23:53.736Z
+date: 2024-05-19T21:36:16.792Z
+updated: 2024-05-20T21:36:16.792Z
 tags: 
   - screen-recording
   - ai video
@@ -411,4 +411,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-can-you-cast-your-apple-iphone-15-pro-max-to-windows-pc-with-ease-drfone-by-drfone-ios/"><u>In 2024, How Can You Cast Your Apple iPhone 15 Pro Max to Windows PC With Ease? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-the-top-5-android-apps-that-use-fingerprint-sensor-to-lock-your-apps-on-infinix-hot-40-by-drfone-android/"><u>In 2024, The Top 5 Android Apps That Use Fingerprint Sensor to Lock Your Apps On Infinix Hot 40</u></a></li>
 </ul></div>
+
 

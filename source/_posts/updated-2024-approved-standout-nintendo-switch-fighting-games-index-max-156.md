@@ -757,3 +757,4 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/new-lumafusion-for-mac-a-comprehensive-guide-to-installation-and-alternatives-for-2024/"><u>New Lumafusion for Mac A Comprehensive Guide to Installation and Alternatives for 2024</u></a></li>
 </ul></div>
 
+

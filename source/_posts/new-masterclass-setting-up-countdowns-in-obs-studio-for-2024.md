@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Masterclass  Setting Up Countdowns in OBS Studio for 2024\""
-date: 2024-05-18T08:13:11.884Z
-updated: 2024-05-19T08:13:11.884Z
+date: 2024-05-19T21:35:52.327Z
+updated: 2024-05-20T21:35:52.327Z
 tags: 
   - screen-recording
   - ai video
@@ -273,4 +273,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-lava-yuva-3-pro-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Lava Yuva 3 Pro Location on Skout | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

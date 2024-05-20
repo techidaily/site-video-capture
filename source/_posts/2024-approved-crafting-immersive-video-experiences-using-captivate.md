@@ -427,3 +427,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-itel-a60-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Itel A60</u></a></li>
 </ul></div>
 
+

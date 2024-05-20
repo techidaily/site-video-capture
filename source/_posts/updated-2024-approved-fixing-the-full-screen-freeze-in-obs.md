@@ -280,3 +280,4 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://screen-mirror.techidaily.com/a-guide-tecno-pova-5-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Tecno Pova 5 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
 
+

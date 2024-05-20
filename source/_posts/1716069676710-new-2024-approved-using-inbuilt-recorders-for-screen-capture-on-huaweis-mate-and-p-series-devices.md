@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Using Inbuilt Recorders for Screen Capture on Huawei's Mate and P Series Devices.\""
-date: 2024-05-18T08:18:23.093Z
-updated: 2024-05-19T08:18:23.093Z
+date: 2024-05-19T21:36:04.841Z
+updated: 2024-05-20T21:36:04.841Z
 tags: 
   - screen-recording
   - ai video
@@ -396,4 +396,5 @@ Follow @Max Wales
 <li><a href="https://audio-shaping.techidaily.com/updated-sonic-storytelling-weaving-a-tapestry-of-sound-and-imagery/"><u>Updated Sonic Storytelling Weaving a Tapestry of Sound and Imagery</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-voice-modulation-mastery-a-guide-to-installing-and-applying-autotune-in-audacity/"><u>Updated 2024 Approved Voice Modulation Mastery A Guide to Installing and Applying Autotune in Audacity</u></a></li>
 </ul></div>
+
 

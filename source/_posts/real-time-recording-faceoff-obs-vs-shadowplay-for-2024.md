@@ -228,3 +228,4 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-samsung-galaxy-s23plus-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Samsung Galaxy S23+?</u></a></li>
 </ul></div>
 
+

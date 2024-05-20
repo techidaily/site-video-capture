@@ -900,3 +900,4 @@ For macOS 10.12 or later
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-honor-magic-v2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Honor Magic V2 | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Efficient OBS Settings for Thrifty Users"
-date: 2024-05-18T08:13:53.579Z
-updated: 2024-05-19T08:13:53.579Z
+date: 2024-05-19T21:35:53.715Z
+updated: 2024-05-20T21:35:53.715Z
 tags: 
   - screen-recording
   - ai video
@@ -251,4 +251,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-12-pro-max-apples-new-iphone-by-drfone-ios/"><u>How to Unlock iPhone 12 Pro Max, Apples New iPhone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/simple-and-free-the-best-online-tone-generators-reviewed-for-2024/"><u>Simple and Free The Best Online Tone Generators Reviewed for 2024</u></a></li>
 </ul></div>
+
 

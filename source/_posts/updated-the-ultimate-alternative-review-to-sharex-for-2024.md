@@ -288,3 +288,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://review-topics.techidaily.com/how-to-pause-life360-location-sharing-for-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "Expert Techniques for Gameplay Recordings via OBS"
-date: 2024-05-18T08:13:51.430Z
-updated: 2024-05-19T08:13:51.430Z
+date: 2024-05-19T21:35:53.607Z
+updated: 2024-05-20T21:35:53.607Z
 tags: 
   - screen-recording
   - ai video
@@ -385,4 +385,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-motorola-moto-g34-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Motorola Moto G34 5G Quickly? | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-how-to-optimize-your-iphone-sound-levels-by-turning-off-dynamic-volume-control/"><u>Updated How to Optimize Your iPhone Sound Levels by Turning Off Dynamic Volume Control</u></a></li>
 </ul></div>
+
 

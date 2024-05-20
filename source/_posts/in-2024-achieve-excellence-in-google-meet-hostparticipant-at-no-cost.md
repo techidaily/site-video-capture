@@ -908,3 +908,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/sign-a-pdf-v20-document-with-electronic-signature-tool-by-ldigisigner-sign-a-pdf-sign-a-pdf/"><u>Sign a PDF v2.0 document with electronic signature tool</u></a></li>
 </ul></div>
 
+

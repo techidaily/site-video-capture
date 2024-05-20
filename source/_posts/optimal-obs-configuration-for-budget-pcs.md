@@ -1,7 +1,7 @@
 ---
 title: "Optimal OBS Configuration for Budget PCs"
-date: 2024-05-18T08:16:29.675Z
-updated: 2024-05-19T08:16:29.675Z
+date: 2024-05-19T21:35:59.326Z
+updated: 2024-05-20T21:35:59.326Z
 tags: 
   - screen-recording
   - ai video
@@ -248,4 +248,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-quiet-the-screenplay-removing-audible-aspects-from-mp4mkvavimov-and-wmv-videos/"><u>New 2024 Approved Quiet the Screenplay Removing Audible Aspects From MP4/MKV/AVI/MOV and WMV Videos</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/elegant-harmonies-choosing-classical-scores-for-ceremony-recordings/"><u>Elegant Harmonies Choosing Classical Scores for Ceremony Recordings</u></a></li>
 </ul></div>
+
 

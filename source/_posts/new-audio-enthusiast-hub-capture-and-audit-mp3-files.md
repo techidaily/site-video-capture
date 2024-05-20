@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Audio Enthusiast Hub  Capture and Audit MP3 Files\""
-date: 2024-05-18T08:08:54.642Z
-updated: 2024-05-19T08:08:54.642Z
+date: 2024-05-19T21:35:42.570Z
+updated: 2024-05-20T21:35:42.570Z
 tags: 
   - screen-recording
   - ai video
@@ -403,4 +403,5 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-detailed-steps-to-rotate-videos-using-obs/"><u>Updated 2024 Approved Detailed Steps to Rotate Videos Using OBS</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/microsoft-video-editor-the-ultimate-guide-to-editing-videos-on-windows-for-2024/"><u>Microsoft Video Editor The Ultimate Guide to Editing Videos on Windows for 2024</u></a></li>
 </ul></div>
+
 

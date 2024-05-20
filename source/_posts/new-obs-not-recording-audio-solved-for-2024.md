@@ -1,7 +1,7 @@
 ---
 title: "[New] OBS Not Recording Audio [Solved] for 2024"
-date: 2024-05-18T08:03:03.652Z
-updated: 2024-05-19T08:03:03.652Z
+date: 2024-05-19T21:35:29.514Z
+updated: 2024-05-20T21:35:29.514Z
 tags: 
   - screen-recording
   - ai video
@@ -603,4 +603,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-itel-s23plus-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Itel S23+ Screen | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Samsung Galaxy A14 4G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Standout Nintendo Switch Fighting Games Index (Max 156)"
-date: 2024-05-18T08:06:37.538Z
-updated: 2024-05-19T08:06:37.538Z
+date: 2024-05-19T21:35:37.486Z
+updated: 2024-05-20T21:35:37.486Z
 tags: 
   - screen-recording
   - ai video
@@ -781,4 +781,5 @@ For macOS 10.12 or later
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-make-your-moments-shine-best-highlight-video-makers-for-desktop-and-mobile/"><u>New In 2024, Make Your Moments Shine Best Highlight Video Makers for Desktop and Mobile</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-start-a-video-editing-career/"><u>How to Start a Video Editing Career</u></a></li>
 </ul></div>
+
 

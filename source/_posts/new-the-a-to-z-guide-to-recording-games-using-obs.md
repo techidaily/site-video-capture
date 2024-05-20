@@ -392,3 +392,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-this-article-will-explore-in-detail-how-you-can-use-the-features-available-in-wondershare-filmora-to-export-the-video-by-changing-the-resoluti/"><u>2024 Approved This Article Will Explore in Detail How You Can Use the Features Available in Wondershare Filmora to Export the Video by Changing the Resolution of the Footage</u></a></li>
 </ul></div>
 
+

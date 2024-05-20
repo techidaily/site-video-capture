@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS Studio vs Fraps  Deciding the Ultimate Screen Grab Software\""
-date: 2024-05-18T08:22:41.670Z
-updated: 2024-05-19T08:22:41.670Z
+date: 2024-05-19T21:36:14.033Z
+updated: 2024-05-20T21:36:14.033Z
 tags: 
   - screen-recording
   - ai video
@@ -273,4 +273,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://techidaily.com/repair-video-tool-repair-all-your-damaged-video-files-of-camon-20-premier-5g-on-windows-by-stellar-video-repair-mobile-video-repair/"><u>Repair Video Tool - Repair all your damaged video files of Camon 20 Premier 5G on Windows</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-record-your-screen-with-ease-a-comprehensive-guide-to-filmora-scrn/"><u>Updated 2024 Approved Record Your Screen with Ease A Comprehensive Guide to Filmora Scrn</u></a></li>
 </ul></div>
+
 

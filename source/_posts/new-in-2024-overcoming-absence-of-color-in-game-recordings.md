@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Overcoming Absence of Color in Game Recordings"
-date: 2024-05-18T08:08:12.101Z
-updated: 2024-05-19T08:08:12.101Z
+date: 2024-05-19T21:35:41.152Z
+updated: 2024-05-20T21:35:41.152Z
 tags: 
   - screen-recording
   - ai video
@@ -254,4 +254,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-vivo-y100i-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Vivo Y100i? | Dr.fone</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-the-best-ai-translator-to-translate-videos-online/"><u>New The Best AI Translator to Translate Videos Online</u></a></li>
 </ul></div>
+
 

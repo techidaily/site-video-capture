@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Record Skype Video & Audio Calls on Windows & Mac [10 Ways]"
-date: 2024-05-18T08:06:04.423Z
-updated: 2024-05-19T08:06:04.423Z
+date: 2024-05-19T21:35:36.422Z
+updated: 2024-05-20T21:35:36.422Z
 tags: 
   - screen-recording
   - ai video
@@ -1146,4 +1146,5 @@ Follow @Max Wales
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-unshaken-learn-to-stabilize-your-videos-like-a-pr/"><u>Updated In 2024, Unshaken Learn to Stabilize Your Videos Like a Pr</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-mastering-linkedin-video-thumbnails-tips-and-tricks-for-success-for-2024/"><u>New Mastering LinkedIn Video Thumbnails Tips and Tricks for Success for 2024</u></a></li>
 </ul></div>
+
 

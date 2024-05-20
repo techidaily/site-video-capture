@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Fixed  Camera Resumes with OBS\""
-date: 2024-05-18T08:12:05.437Z
-updated: 2024-05-19T08:12:05.437Z
+date: 2024-05-19T21:35:50.115Z
+updated: 2024-05-20T21:35:50.115Z
 tags: 
   - screen-recording
   - ai video
@@ -281,4 +281,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://sound-optimizing.techidaily.com/updated-a-list-singers-pitch-control-techniques-comprehensive-tools-and-workarounds-edition-for-2024/"><u>Updated A-List Singers Pitch Control Techniques Comprehensive Tools and Workarounds Edition for 2024</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-on-iphone-14-plus-find-the-best-solution-here-by-drfone-ios/"><u>In 2024, Apple ID Locked for Security Reasons On iPhone 14 Plus? Find the Best Solution Here</u></a></li>
 </ul></div>
+
 

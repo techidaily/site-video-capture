@@ -302,3 +302,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-6-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 6 to other iPhone 11 Pro devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

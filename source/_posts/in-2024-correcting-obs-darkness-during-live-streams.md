@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Correcting OBS Darkness During Live Streams"
-date: 2024-05-18T08:08:20.965Z
-updated: 2024-05-19T08:08:20.965Z
+date: 2024-05-19T21:35:41.447Z
+updated: 2024-05-20T21:35:41.447Z
 tags: 
   - screen-recording
   - ai video
@@ -258,4 +258,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-voice-clone.techidaily.com/updated-in-2024-top-8-multi-subtitles-translators-you-can-use/"><u>Updated In 2024, Top 8 Multi-Subtitles Translators You Can Use</u></a></li>
 <li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-iphone-se-2020-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your iPhone SE (2020)</u></a></li>
 </ul></div>
+
 

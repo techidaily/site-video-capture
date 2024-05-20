@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Audacity for the Mac Enthusiast  Advanced Recording Techniques\""
-date: 2024-05-18T08:16:51.624Z
-updated: 2024-05-19T08:16:51.624Z
+date: 2024-05-19T21:36:00.372Z
+updated: 2024-05-20T21:36:00.372Z
 tags: 
   - screen-recording
   - ai video
@@ -299,4 +299,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://howto.techidaily.com/calls-on-zte-nubia-z60-ultra-go-straight-to-voicemail-12-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Calls on ZTE Nubia Z60 Ultra Go Straight to Voicemail? 12 Fixes | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/why-does-my-realme-narzo-n55-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Realme Narzo N55 Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] IPhone/Android Screen Capture for Google Meet Participants"
-date: 2024-05-18T08:16:18.652Z
-updated: 2024-05-19T08:16:18.652Z
+date: 2024-05-19T21:35:58.891Z
+updated: 2024-05-20T21:35:58.891Z
 tags: 
   - screen-recording
   - ai video
@@ -1060,4 +1060,5 @@ Follow @Richard Bennett
 <li><a href="https://sound-tweaking.techidaily.com/updated-best-music-editing-apps-for-mac-devices-ranked-no-1-4/"><u>Updated Best Music Editing Apps for Mac Devices - Ranked No. 1-4</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nubia-red-magic-8s-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nubia Red Magic 8S Pro</u></a></li>
 </ul></div>
+
 

@@ -492,3 +492,4 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 <li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-infinix-gt-10-pro-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Infinix GT 10 Pro using Video Repair Utility on Mac?</u></a></li>
 </ul></div>
 
+

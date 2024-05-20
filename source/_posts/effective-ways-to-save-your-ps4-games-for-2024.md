@@ -420,3 +420,4 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://unlock-android.techidaily.com/remove-the-lock-screen-fingerprint-of-your-itel-p40-by-drfone-android/"><u>Remove the Lock Screen Fingerprint Of Your Itel P40</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Troubleshooting Common OBS Issues\""
-date: 2024-05-18T08:20:45.373Z
-updated: 2024-05-19T08:20:45.373Z
+date: 2024-05-19T21:36:10.013Z
+updated: 2024-05-20T21:36:10.013Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/how-to-change-your-sim-pin-code-on-your-xiaomi-14-ultra-phone-by-drfone-android/"><u>How To Change Your SIM PIN Code on Your Xiaomi 14 Ultra Phone</u></a></li>
 </ul></div>
+
 

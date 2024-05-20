@@ -259,3 +259,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-messages-from-nubia-red-magic-8s-pro-by-fonelab-android-recover-messages/"><u>Easy steps to recover deleted messages from Nubia Red Magic 8S Pro</u></a></li>
 </ul></div>
 
+

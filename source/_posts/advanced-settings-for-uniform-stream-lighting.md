@@ -1,7 +1,7 @@
 ---
 title: "Advanced Settings for Uniform Stream Lighting"
-date: 2024-05-18T08:06:46.695Z
-updated: 2024-05-19T08:06:46.695Z
+date: 2024-05-19T21:35:37.808Z
+updated: 2024-05-20T21:35:37.808Z
 tags: 
   - screen-recording
   - ai video
@@ -281,4 +281,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://change-location.techidaily.com/pokemon-go-error-12-failed-to-detect-location-on-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go Error 12 Failed to Detect Location On Samsung Galaxy M14 5G? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/sign-word-2013-online-add-signature-to-word-2013-for-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>Sign Word 2013 Online - Add Signature to Word 2013 for Free</u></a></li>
 </ul></div>
+
 

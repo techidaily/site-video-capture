@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Detailed Guide to Screen Record Skype via OBS\""
-date: 2024-05-18T08:16:22.952Z
-updated: 2024-05-19T08:16:22.952Z
+date: 2024-05-19T21:35:59.041Z
+updated: 2024-05-20T21:35:59.041Z
 tags: 
   - screen-recording
   - ai video
@@ -345,4 +345,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://change-location.techidaily.com/a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>A Working Guide For Pachirisu Pokemon Go Map On Vivo Y100t | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-in-2024-audiocraft-unveiled-understanding-key-traits-gathered-opinions-and-looking-beyond-avs-for-sound-mastery/"><u>Updated In 2024, Audiocraft Unveiled Understanding Key Traits, Gathered Opinions & Looking Beyond AVS for Sound Mastery</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Solving Grey Voids in Gaming Capture Software"
-date: 2024-05-18T08:09:04.934Z
-updated: 2024-05-19T08:09:04.934Z
+date: 2024-05-19T21:35:42.933Z
+updated: 2024-05-20T21:35:42.933Z
 tags: 
   - screen-recording
   - ai video
@@ -285,4 +285,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://smart-video-creator.techidaily.com/animation-in-education-top-picks-for-teachers-and-educators-for-2024/"><u>Animation in Education Top Picks for Teachers and Educators for 2024</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-expert-tips-for-gradually-diminishing-audio-volume/"><u>Updated 2024 Approved Expert Tips for Gradually Diminishing Audio Volume</u></a></li>
 </ul></div>
+
 

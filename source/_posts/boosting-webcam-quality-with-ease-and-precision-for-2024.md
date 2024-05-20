@@ -489,3 +489,4 @@ Follow @Max Wales
 <li><a href="https://sound-tweaking.techidaily.com/new-the-invisible-touch-methods-to-apply-fading-effects-on-sound-in-imovie/"><u>New The Invisible Touch Methods to Apply Fading Effects on Sound in iMovie</u></a></li>
 </ul></div>
 
+

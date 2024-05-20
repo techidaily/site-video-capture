@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimizing OBS Video Compression for 2024"
-date: 2024-05-18T08:24:02.679Z
-updated: 2024-05-19T08:24:02.679Z
+date: 2024-05-19T21:36:17.040Z
+updated: 2024-05-20T21:36:17.040Z
 tags: 
   - screen-recording
   - ai video
@@ -272,4 +272,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-6-plus-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 6 Plus Making It Possible</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-13t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi 13T Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

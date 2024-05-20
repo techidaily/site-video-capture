@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Solve Invisible Frames in Video Capture Software"
-date: 2024-05-18T08:19:00.901Z
-updated: 2024-05-19T08:19:00.901Z
+date: 2024-05-19T21:36:06.079Z
+updated: 2024-05-20T21:36:06.080Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://audio-shaping.techidaily.com/updated-amplified-anxiety-where-to-uncover-high-intensity-screams-for-2024/"><u>Updated Amplified Anxiety Where to Uncover High-Intensity Screams for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-infinix-smart-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Infinix Smart 7 | Dr.fone</u></a></li>
 </ul></div>
+
 

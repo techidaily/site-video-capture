@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Comprehensive Guide to Live-Streaming with OBS and Platforms\""
-date: 2024-05-18T08:12:22.902Z
-updated: 2024-05-19T08:12:22.903Z
+date: 2024-05-19T21:35:50.735Z
+updated: 2024-05-20T21:35:50.735Z
 tags: 
   - screen-recording
   - ai video
@@ -166,4 +166,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-samsung-galaxy-z-fold-5-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Samsung Galaxy Z Fold 5? Fix Now | Dr.fone</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlink-your-apple-iphone-se-2022-from-your-apple-id-by-drfone-ios/"><u>In 2024, How To Unlink Your Apple iPhone SE (2022) From Your Apple ID</u></a></li>
 </ul></div>
+
 

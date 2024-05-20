@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate Keyboard Shortcut Compendium for Mac Screening"
-date: 2024-05-18T08:22:18.987Z
-updated: 2024-05-19T08:22:18.987Z
+date: 2024-05-19T21:36:13.165Z
+updated: 2024-05-20T21:36:13.165Z
 tags: 
   - screen-recording
   - ai video
@@ -420,4 +420,5 @@ A screen recorder is an instrument that catches content on your Mac screen and s
 <li><a href="https://ai-driven-video-production.techidaily.com/new-from-novice-to-pro-20-adobe-premiere-shortcuts-to-elevate-your-skills-for-2024/"><u>New From Novice to Pro 20 Adobe Premiere Shortcuts to Elevate Your Skills for 2024</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/a-guide-xiaomi-14-ultra-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Xiaomi 14 Ultra Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Breaking the Freeze  Reviving Your OBS Cam\""
-date: 2024-05-18T08:18:54.897Z
-updated: 2024-05-19T08:18:54.897Z
+date: 2024-05-19T21:36:05.900Z
+updated: 2024-05-20T21:36:05.900Z
 tags: 
   - screen-recording
   - ai video
@@ -250,4 +250,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-google-pixel-8-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Google Pixel 8 Pro Screen | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-motorola-defy-2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Motorola Defy 2 to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

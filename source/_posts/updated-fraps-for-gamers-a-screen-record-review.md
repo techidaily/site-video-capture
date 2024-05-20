@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Fraps for Gamers  A Screen Record Review\""
-date: 2024-05-18T08:03:33.922Z
-updated: 2024-05-19T08:03:33.922Z
+date: 2024-05-19T21:35:30.889Z
+updated: 2024-05-20T21:35:30.889Z
 tags: 
   - screen-recording
   - ai video
@@ -360,4 +360,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-realme-12plus-5g-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Realme 12+ 5G via a USB Cable | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-samsung-galaxy-m14-4g-phone-with-broken-screen-by-drfone-android/"><u>In 2024, How to Unlock Samsung Galaxy M14 4G Phone with Broken Screen</u></a></li>
 </ul></div>
+
 

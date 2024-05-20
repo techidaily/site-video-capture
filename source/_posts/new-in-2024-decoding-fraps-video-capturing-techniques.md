@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Decoding Fraps Video Capturing Techniques"
-date: 2024-05-18T08:03:58.404Z
-updated: 2024-05-19T08:03:58.404Z
+date: 2024-05-19T21:35:31.715Z
+updated: 2024-05-20T21:35:31.715Z
 tags: 
   - screen-recording
   - ai video
@@ -341,4 +341,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-avs-video-editor-2023-a-detailed-review-of-its-capabilities-and-limitation/"><u>New 2024 Approved AVS Video Editor 2023 A Detailed Review of Its Capabilities and Limitation</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

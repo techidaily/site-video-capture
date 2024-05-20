@@ -1,7 +1,7 @@
 ---
 title: "[New] Best Practices for Documenting PS4 Gameplay"
-date: 2024-05-18T08:24:55.185Z
-updated: 2024-05-19T08:24:55.185Z
+date: 2024-05-19T21:36:18.854Z
+updated: 2024-05-20T21:36:18.854Z
 tags: 
   - screen-recording
   - ai video
@@ -365,4 +365,5 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-g54-5g-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on G54 5G?</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-sign-txt-file-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign .txt file electronically</u></a></li>
 </ul></div>
+
 

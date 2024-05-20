@@ -1,7 +1,7 @@
 ---
 title: "\"Speak and Record  IPhone Voice Memo Basics\""
-date: 2024-05-18T08:01:33.757Z
-updated: 2024-05-19T08:01:33.757Z
+date: 2024-05-19T21:35:26.290Z
+updated: 2024-05-20T21:35:26.290Z
 tags: 
   - screen-recording
   - ai video
@@ -492,4 +492,5 @@ There is no limit of recording time when it comes to recording a voice memo or n
 <li><a href="https://audio-shaping.techidaily.com/updated-techniques-in-artificial-intelligence-for-effective-sonic-clarity-and-denoising/"><u>Updated Techniques in Artificial Intelligence for Effective Sonic Clarity and Denoising</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-the-complete-handbook-to-converting-audio-files-like-a-pro/"><u>Updated The Complete Handbook to Converting Audio Files Like a Pro</u></a></li>
 </ul></div>
+
 

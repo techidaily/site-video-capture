@@ -280,3 +280,4 @@ You should have a good understanding of the differences between Camtasia and Ban
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-c210-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia C210 | Dr.fone</u></a></li>
 </ul></div>
 
+

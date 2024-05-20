@@ -1,7 +1,7 @@
 ---
 title: "[New] Capture Perfection on the Switch Console"
-date: 2024-05-18T08:14:42.043Z
-updated: 2024-05-19T08:14:42.043Z
+date: 2024-05-19T21:35:55.603Z
+updated: 2024-05-20T21:35:55.603Z
 tags: 
   - screen-recording
   - ai video
@@ -568,4 +568,5 @@ Follow @Ollie Mattison
 <li><a href="https://ios-unlock.techidaily.com/disabling-iphone-12-pro-max-parental-restrictions-withwithout-password-by-drfone-ios/"><u>Disabling iPhone 12 Pro Max Parental Restrictions With/Without Password</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-best-cinematic-luts-for-premiere-pro-recommendation/"><u>Updated In 2024, Best Cinematic LUTs For Premiere Pro Recommendation</u></a></li>
 </ul></div>
+
 

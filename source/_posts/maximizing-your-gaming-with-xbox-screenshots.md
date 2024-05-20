@@ -605,3 +605,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-get-more-stardust-in-pokemon-go-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>In 2024, How can I get more stardust in pokemon go On Sony Xperia 10 V? | Dr.fone</u></a></li>
 </ul></div>
 
+

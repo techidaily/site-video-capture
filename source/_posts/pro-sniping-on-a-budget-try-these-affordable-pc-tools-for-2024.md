@@ -512,3 +512,4 @@ For macOS 10.12 or later
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-score-your-story-editing-and-enriching-videos-with-auditory-elements-via-filmora/"><u>Updated In 2024, Score Your Story Editing and Enriching Videos with Auditory Elements via Filmora</u></a></li>
 </ul></div>
 
+

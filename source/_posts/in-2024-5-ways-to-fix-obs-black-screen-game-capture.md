@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 5 Ways to Fix OBS Black Screen Game Capture"
-date: 2024-05-18T08:14:38.520Z
-updated: 2024-05-19T08:14:38.520Z
+date: 2024-05-19T21:35:55.522Z
+updated: 2024-05-20T21:35:55.522Z
 tags: 
   - screen-recording
   - ai video
@@ -246,4 +246,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-realme-c51-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Realme C51</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/3-easy-solutions-to-hard-reset-realme-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>3 Easy Solutions to Hard Reset Realme 12 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -808,3 +808,4 @@ Follow @Richard Bennett
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-photos-files-from-honor-magic-v2-by-fonelab-android-recover-photos/"><u>How To  Restore Missing Photos Files from Honor Magic V2.</u></a></li>
 </ul></div>
 
+

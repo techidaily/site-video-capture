@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Basic OBS Setup Tips for Budget Machines\""
-date: 2024-05-18T08:24:54.109Z
-updated: 2024-05-19T08:24:54.109Z
+date: 2024-05-19T21:36:18.796Z
+updated: 2024-05-20T21:36:18.796Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-x-flip-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo X Flip Phone Using PC | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-how-to-create-emoji-on-mac-that-take-less-than-10-mins/"><u>2024 Approved How to Create Emoji on Mac That Take Less Than 10 Mins</u></a></li>
 </ul></div>
+
 

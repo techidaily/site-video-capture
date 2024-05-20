@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Reviving the Full Screen in OBS"
-date: 2024-05-18T08:02:59.272Z
-updated: 2024-05-19T08:02:59.272Z
+date: 2024-05-19T21:35:29.367Z
+updated: 2024-05-20T21:35:29.367Z
 tags: 
   - screen-recording
   - ai video
@@ -279,4 +279,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://review-topics.techidaily.com/recover-your-contacts-after-poco-m6-pro-4g-has-been-deleted-by-fonelab-android-recover-contacts/"><u>Recover your contacts after Poco M6 Pro 4G has been deleted.</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-learn-how-to-create-a-unique-repeated-text-animation-in-the-filmora-video-editor-follow-the-simple-step-by-step-instructions-for-2024/"><u>Updated Learn How to Create a Unique Repeated Text Animation in the Filmora Video Editor. Follow the Simple Step-by-Step Instructions for 2024</u></a></li>
 </ul></div>
+
 

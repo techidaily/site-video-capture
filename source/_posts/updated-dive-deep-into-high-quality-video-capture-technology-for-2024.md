@@ -316,3 +316,4 @@ ManyCam screen recorder is great as a live streaming platform but it does not li
 <li><a href="https://animation-videos.techidaily.com/how-to-make-well-done-animated-gif-by-yourself/"><u>How to Make Well Done Animated GIF By Yourself?</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "SmartCapture HD V2"
-date: 2024-05-18T08:24:53.035Z
-updated: 2024-05-19T08:24:53.035Z
+date: 2024-05-19T21:36:18.730Z
+updated: 2024-05-20T21:36:18.730Z
 tags: 
   - screen-recording
   - ai video
@@ -513,4 +513,5 @@ These days, we use our PCs and different gadgets for work, schooling, and during
 <li><a href="https://smart-video-creator.techidaily.com/updated-the-best-of-the-best-top-10-pro-audio-editing-software/"><u>Updated The Best of the Best Top 10 Pro Audio Editing Software</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/windows-movie-maker-for-mac-the-best-equivalent-options-this-year/"><u>Windows Movie Maker for Mac The Best Equivalent Options This Year</u></a></li>
 </ul></div>
+
 

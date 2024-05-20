@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Correcting Time Jumps  Fixing OBS Studio Problems for 2024\""
-date: 2024-05-18T08:26:01.087Z
-updated: 2024-05-19T08:26:01.087Z
+date: 2024-05-19T21:36:21.479Z
+updated: 2024-05-20T21:36:21.479Z
 tags: 
   - screen-recording
   - ai video
@@ -561,4 +561,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://sound-tweaking.techidaily.com/updated-future-proof-tools-for-dissecting-and-editing-audio-from-video-media/"><u>Updated Future-Proof Tools for Dissecting and Editing Audio From Video Media</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-how-to-auto-translate-youtube-videos-into-different-languages/"><u>2024 Approved How To Auto Translate YouTube Videos Into Different Languages</u></a></li>
 </ul></div>
+
 

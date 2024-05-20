@@ -230,3 +230,4 @@ If you want to record your webcam video, MyCam serves the purpose perfectly. But
 <li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-infinix-note-30i-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Infinix Note 30i.</u></a></li>
 </ul></div>
 
+

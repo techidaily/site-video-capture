@@ -818,3 +818,4 @@ Having a powerful TV screen recorder is essential these days, and finding the be
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-infinix-hot-30i-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Infinix Hot 30i Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
 
+

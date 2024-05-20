@@ -253,3 +253,4 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-xiaomi-redmi-a2-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Xiaomi Redmi A2</u></a></li>
 </ul></div>
 
+

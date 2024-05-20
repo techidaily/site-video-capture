@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Overcoming OBS Fullscreen Issues\""
-date: 2024-05-18T08:01:15.795Z
-updated: 2024-05-19T08:01:15.795Z
+date: 2024-05-19T21:35:25.718Z
+updated: 2024-05-20T21:35:25.718Z
 tags: 
   - screen-recording
   - ai video
@@ -268,4 +268,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-sony-xperia-10-v-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Sony Xperia 10 V to Another | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-13-mini-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 13 mini with iTunes</u></a></li>
 </ul></div>
+
 

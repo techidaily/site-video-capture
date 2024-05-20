@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Elite Scripting  Developing a Countdown Mechanism in OBS for 2024\""
-date: 2024-05-18T08:02:49.483Z
-updated: 2024-05-19T08:02:49.483Z
+date: 2024-05-19T21:35:29.018Z
+updated: 2024-05-20T21:35:29.018Z
 tags: 
   - screen-recording
   - ai video
@@ -268,4 +268,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-c67-4g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme C67 4G Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/12-top-picks-of-video-enhancer-software/"><u>12 Top Picks of Video Enhancer Software</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Game-to-Video Magic  Full OBS Guide for PS4 Recording for 2024\""
-date: 2024-05-18T08:24:00.794Z
-updated: 2024-05-19T08:24:00.794Z
+date: 2024-05-19T21:36:16.986Z
+updated: 2024-05-20T21:36:16.986Z
 tags: 
   - screen-recording
   - ai video
@@ -392,4 +392,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-beginners-guide-top-cartoon-video-makers-online-and-offline/"><u>Updated 2024 Approved Beginners Guide Top Cartoon Video Makers Online and Offline</u></a></li>
 <li><a href="https://ai-voice.techidaily.com/updated-in-2024-revolutionizing-communication-real-time-ai-voice-changer/"><u>Updated In 2024, Revolutionizing Communication Real-Time AI Voice Changer</u></a></li>
 </ul></div>
+
 

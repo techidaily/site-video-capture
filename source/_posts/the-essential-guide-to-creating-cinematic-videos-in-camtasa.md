@@ -1,7 +1,7 @@
 ---
 title: "The Essential Guide to Creating Cinematic Videos in Camtasa"
-date: 2024-05-18T08:19:58.493Z
-updated: 2024-05-19T08:19:58.493Z
+date: 2024-05-19T21:36:08.014Z
+updated: 2024-05-20T21:36:08.014Z
 tags: 
   - screen-recording
   - ai video
@@ -331,4 +331,5 @@ Follow @Max Wales
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-access-your-apple-iphone-xs-when-you-forget-the-passcode-drfone-by-drfone-ios/"><u>In 2024, How to Access Your Apple iPhone XS When You Forget the Passcode? | Dr.fone</u></a></li>
 <li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-xiaomi-redmi-a2plus-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Xiaomi Redmi A2+ Location Settings | Dr.fone</u></a></li>
 </ul></div>
+
 

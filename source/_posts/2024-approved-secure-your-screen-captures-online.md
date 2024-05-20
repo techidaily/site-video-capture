@@ -473,3 +473,4 @@ The answer to the question "Can you record a Google hangout?" is yes. You can us
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-asus-rog-phone-7-ultimate-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Asus ROG Phone 7 Ultimate to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

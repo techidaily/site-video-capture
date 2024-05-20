@@ -264,3 +264,4 @@ CamStudio is an open-source screen recorder, and it is suitable for regular scre
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-xiaomi-redmi-note-12-pro-5g-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Xiaomi Redmi Note 12 Pro 5G to New Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

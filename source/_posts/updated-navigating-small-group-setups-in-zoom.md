@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Navigating Small Group Setups in Zoom"
-date: 2024-05-18T08:22:05.502Z
-updated: 2024-05-19T08:22:05.502Z
+date: 2024-05-19T21:36:12.708Z
+updated: 2024-05-20T21:36:12.708Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ Follow @Richard Bennett
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-vivo-x-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share/Fake Location on WhatsApp for Vivo X Flip | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/2024-approved-the-most-complete-guide-to-make-fortnite-montage/"><u>2024 Approved The Most Complete Guide to Make Fortnite Montage</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Adjusting Settings for Audible OBS Broadcasts"
-date: 2024-05-18T08:04:22.474Z
-updated: 2024-05-19T08:04:22.474Z
+date: 2024-05-19T21:35:32.528Z
+updated: 2024-05-20T21:35:32.528Z
 tags: 
   - screen-recording
   - ai video
@@ -606,4 +606,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-samsung-galaxy-a05-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Samsung Galaxy A05 without Him Knowing | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/universal-unlock-pattern-for-vivo-s17t-by-drfone-android/"><u>Universal Unlock Pattern for Vivo S17t</u></a></li>
 </ul></div>
+
 

@@ -331,3 +331,4 @@ Follow @Shanoon Cox
 <li><a href="https://android-unlock.techidaily.com/lock-your-samsung-galaxy-xcover-6-pro-tactical-edition-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Samsung Galaxy XCover 6 Pro Tactical Edition Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 </ul></div>
 
+

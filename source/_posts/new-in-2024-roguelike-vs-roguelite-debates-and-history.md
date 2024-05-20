@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Roguelike Vs. Roguelite  Debates and History\""
-date: 2024-05-18T08:22:45.434Z
-updated: 2024-05-19T08:22:45.434Z
+date: 2024-05-19T21:36:14.331Z
+updated: 2024-05-20T21:36:14.331Z
 tags: 
   - screen-recording
   - ai video
@@ -306,4 +306,5 @@ Follow @Ollie Mattison
 <li><a href="https://voice-adjusting.techidaily.com/updated-2024-approved-the-art-of-auditory-alignment-selecting-ideal-frequency-filters/"><u>Updated 2024 Approved The Art of Auditory Alignment Selecting Ideal Frequency Filters</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-unleash-your-creativity-top-10-free-and-paid-android-video-editing-apps-for-2024/"><u>Updated Unleash Your Creativity Top 10 Free and Paid Android Video Editing Apps for 2024</u></a></li>
 </ul></div>
+
 

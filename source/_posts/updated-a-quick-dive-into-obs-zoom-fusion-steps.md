@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] A Quick Dive Into OBS-Zoom Fusion Steps\""
-date: 2024-05-18T08:18:26.093Z
-updated: 2024-05-19T08:18:26.093Z
+date: 2024-05-19T21:36:04.947Z
+updated: 2024-05-20T21:36:04.947Z
 tags: 
   - screen-recording
   - ai video
@@ -451,4 +451,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://ai-editing-video.techidaily.com/new-guide-to-using-free-luts-for-obs/"><u>New Guide To Using Free Luts for OBS</u></a></li>
 <li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-oppo-a59-5g-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Oppo A59 5G</u></a></li>
 </ul></div>
+
 

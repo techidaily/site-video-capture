@@ -512,3 +512,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://ai-video-editing.techidaily.com/tips-that-show-anybody-how-to-make-youtube-slideshow-guaranteed/"><u>Tips That Show Anybody How To Make Youtube Slideshow – Guaranteed</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, The Ken Burns Method in Camtasia 9 Explained Simply"
-date: 2024-05-18T08:09:21.294Z
-updated: 2024-05-19T08:09:21.294Z
+date: 2024-05-19T21:35:43.553Z
+updated: 2024-05-20T21:35:43.553Z
 tags: 
   - screen-recording
   - ai video
@@ -342,4 +342,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-track-and-blur-faces-in-premiere-pro/"><u>New How To Track and Blur Faces in Premiere Pro</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-top-online-tools-for-removing-background-noise-from-audio/"><u>Updated 2024 Approved Top Online Tools For Removing Background Noise From Audio</u></a></li>
 </ul></div>
+
 

@@ -499,3 +499,4 @@ If you are an avid player of Sims 4, you should record your gameplay and upload 
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-infinix-note-30-vip-racing-edition-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Infinix Note 30 VIP Racing Edition Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
 
+

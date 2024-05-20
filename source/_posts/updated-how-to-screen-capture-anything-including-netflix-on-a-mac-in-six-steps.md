@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Screen Capture Anything, Including Netflix, on a Mac in Six Steps"
-date: 2024-05-18T08:01:48.819Z
-updated: 2024-05-19T08:01:48.819Z
+date: 2024-05-19T21:35:26.815Z
+updated: 2024-05-20T21:35:26.815Z
 tags: 
   - screen-recording
   - ai video
@@ -550,4 +550,5 @@ Netflix has a horrible reputation for deleting TV episodes and movies from your 
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-decoding-speech-a-beginners-guide-to-text-conversion/"><u>New 2024 Approved Decoding Speech A Beginners Guide to Text Conversion</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Infinix Smart 8? | Dr.fone</u></a></li>
 </ul></div>
+
 

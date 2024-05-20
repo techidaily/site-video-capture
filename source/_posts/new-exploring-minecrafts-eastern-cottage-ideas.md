@@ -305,3 +305,4 @@ Follow @Ollie Mattison
 <li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-nokia-c12-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Nokia C12 Pro | Dr.fone</u></a></li>
 </ul></div>
 
+

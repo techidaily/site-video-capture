@@ -462,3 +462,4 @@ You may record anything using the same method. As a result, we've also addressed
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-ken-burns-effect-in-final-cut-pro-a-beginners-guide-to-advanced-video-editing-techniques/"><u>New In 2024, Ken Burns Effect in Final Cut Pro A Beginners Guide to Advanced Video Editing Techniques</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Illuminate Your Recording Setup  How to Prevent a Dark Screen on OBS\""
-date: 2024-05-18T08:24:55.722Z
-updated: 2024-05-19T08:24:55.722Z
+date: 2024-05-19T21:36:18.870Z
+updated: 2024-05-20T21:36:18.870Z
 tags: 
   - screen-recording
   - ai video
@@ -249,4 +249,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-the-art-of-slow-motion-top-video-editing-software-for-professionals/"><u>Updated 2024 Approved The Art of Slow Motion Top Video Editing Software for Professionals</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-samsung-galaxy-s24plus-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Samsung Galaxy S24+ FRP</u></a></li>
 </ul></div>
+
 

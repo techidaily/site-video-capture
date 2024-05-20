@@ -1,7 +1,7 @@
 ---
 title: "In 2024, The Ultimate List of Kung Fu Video Games"
-date: 2024-05-18T08:03:12.642Z
-updated: 2024-05-19T08:03:12.642Z
+date: 2024-05-19T21:35:30.167Z
+updated: 2024-05-20T21:35:30.167Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-editing-video.techidaily.com/updated-best-method-to-split-video-into-parts-online-for-2024/"><u>Updated Best Method to Split Video Into Parts Online for 2024</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-the-art-of-cinematic-video-production-a-final-cut-pro-x-tutorial-for-2024/"><u>New The Art of Cinematic Video Production A Final Cut Pro X Tutorial for 2024</u></a></li>
 </ul></div>
+
 

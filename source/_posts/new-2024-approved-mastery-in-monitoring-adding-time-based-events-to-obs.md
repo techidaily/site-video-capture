@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Mastery in Monitoring  Adding Time-Based Events to OBS\""
-date: 2024-05-18T08:26:54.490Z
-updated: 2024-05-19T08:26:54.490Z
+date: 2024-05-19T21:36:23.312Z
+updated: 2024-05-20T21:36:23.312Z
 tags: 
   - screen-recording
   - ai video
@@ -286,4 +286,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-from-apple-iphone-13-pro-max-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID From Apple iPhone 13 Pro Max without Password?</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/is-augmented-reality-conferencing-the-future-of-workplace-collaboration-in-2024/"><u>Is Augmented Reality Conferencing the Future of Workplace Collaboration, In 2024</u></a></li>
 </ul></div>
+
 

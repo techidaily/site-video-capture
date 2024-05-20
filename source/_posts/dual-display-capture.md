@@ -1,7 +1,7 @@
 ---
 title: "Dual Display Capture"
-date: 2024-05-18T08:09:53.298Z
-updated: 2024-05-19T08:09:53.298Z
+date: 2024-05-19T21:35:45.136Z
+updated: 2024-05-20T21:35:45.136Z
 tags: 
   - screen-recording
   - ai video
@@ -407,4 +407,5 @@ Follow @Max Wales
 <li><a href="https://ai-voice-clone.techidaily.com/new-top-10-ai-script-writers-to-choose-for-2024/"><u>New Top 10 AI Script Writers to Choose for 2024</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-14-plus-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 14 Plus?</u></a></li>
 </ul></div>
+
 

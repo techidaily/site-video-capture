@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Beat the Bad Guys  Top Kung Fu Action Puzzle Games\""
-date: 2024-05-18T08:05:31.539Z
-updated: 2024-05-19T08:05:31.539Z
+date: 2024-05-19T21:35:35.339Z
+updated: 2024-05-20T21:35:35.339Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ Follow @Richard Bennett
 <li><a href="https://howto.techidaily.com/what-to-do-when-poco-f5-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Poco F5 5G Has Black Screen of Death? | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-can-you-transfer-files-from-sony-xperia-1-v-to-iphone-151413-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How Can You Transfer Files From Sony Xperia 1 V To iPhone 15/14/13? | Dr.fone</u></a></li>
 </ul></div>
+
 

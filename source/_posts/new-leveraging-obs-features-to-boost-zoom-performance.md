@@ -1,7 +1,7 @@
 ---
 title: "[New] Leveraging OBS' Features to Boost Zoom Performance"
-date: 2024-05-18T08:16:42.384Z
-updated: 2024-05-19T08:16:42.384Z
+date: 2024-05-19T21:36:00.060Z
+updated: 2024-05-20T21:36:00.060Z
 tags: 
   - screen-recording
   - ai video
@@ -440,4 +440,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://ai-live-streaming.techidaily.com/in-2024-top-8-live-selling-platforms-and-beginners-tool-suggestion/"><u>In 2024, Top 8 Live Selling Platforms & Beginners Tool Suggestion</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/elite-compilation-the-leading-song-recorders-everyone-should-use-for-2024/"><u>Elite Compilation The Leading Song Recorders Everyone Should Use for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Kingdoms Collide  Ranking Top 7 Total War Historical Games\""
-date: 2024-05-18T08:02:23.587Z
-updated: 2024-05-19T08:02:23.587Z
+date: 2024-05-19T21:35:28.156Z
+updated: 2024-05-20T21:35:28.156Z
 tags: 
   - screen-recording
   - ai video
@@ -560,4 +560,5 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://sound-tweaking.techidaily.com/updated-in-2024-popular-sites-to-free-download-guitar-background-photos-and-music/"><u>Updated In 2024, Popular Sites to Free Download Guitar Background Photos and Music</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-a-complete-guide-about-wav-converter-lets-dive-into-detailed-facts-and-benefits-of-wav-audio-format-for-2024/"><u>Updated A Complete Guide About WAV Converter! Lets Dive Into Detailed Facts and Benefits of WAV Audio Format for 2024</u></a></li>
 </ul></div>
+
 

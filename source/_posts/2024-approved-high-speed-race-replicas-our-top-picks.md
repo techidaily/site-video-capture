@@ -443,3 +443,4 @@ For macOS 10.12 or later
 <li><a href="https://activate-lock.techidaily.com/how-to-delete-icloud-account-with-or-without-password-from-your-apple-iphone-12-miniwindowsmac-by-drfone-ios/"><u>How to Delete iCloud Account with or without Password from your Apple iPhone 12 mini/Windows/Mac</u></a></li>
 </ul></div>
 
+

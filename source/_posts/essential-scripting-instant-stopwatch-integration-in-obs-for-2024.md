@@ -1,7 +1,7 @@
 ---
 title: "\"Essential Scripting  Instant Stopwatch Integration in OBS for 2024\""
-date: 2024-05-18T08:16:28.334Z
-updated: 2024-05-19T08:16:28.334Z
+date: 2024-05-19T21:35:59.279Z
+updated: 2024-05-20T21:35:59.279Z
 tags: 
   - screen-recording
   - ai video
@@ -281,4 +281,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-7-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 7 to PC | Dr.fone</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-no-watermark-10-best-free-video-cutting-software/"><u>Updated 2024 Approved No Watermark 10 Best Free Video Cutting Software</u></a></li>
 </ul></div>
+
 

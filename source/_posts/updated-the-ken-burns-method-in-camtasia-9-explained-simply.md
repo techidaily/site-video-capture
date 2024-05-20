@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ken Burns Method in Camtasia 9 Explained Simply"
-date: 2024-05-18T08:21:24.521Z
-updated: 2024-05-19T08:21:24.521Z
+date: 2024-05-19T21:36:11.338Z
+updated: 2024-05-20T21:36:11.338Z
 tags: 
   - screen-recording
   - ai video
@@ -341,4 +341,5 @@ Follow @Max Wales
 <li><a href="https://android-unlock.techidaily.com/lock-your-vivo-x100-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Vivo X100 Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-note-12t-pro-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi Note 12T Pro Lock Screen Password?</u></a></li>
 </ul></div>
+
 

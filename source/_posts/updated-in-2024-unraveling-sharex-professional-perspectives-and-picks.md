@@ -268,3 +268,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-video-editing-essentials-top-brightening-apps/"><u>2024 Approved Video Editing Essentials Top Brightening Apps</u></a></li>
 </ul></div>
 
+

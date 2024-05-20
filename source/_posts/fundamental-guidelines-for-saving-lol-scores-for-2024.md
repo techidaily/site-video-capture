@@ -1,7 +1,7 @@
 ---
 title: "Fundamental Guidelines for Saving LOL Scores for 2024"
-date: 2024-05-18T08:14:08.355Z
-updated: 2024-05-19T08:14:08.355Z
+date: 2024-05-19T21:35:54.220Z
+updated: 2024-05-20T21:35:54.220Z
 tags: 
   - screen-recording
   - ai video
@@ -484,4 +484,5 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://sound-tweaking.techidaily.com/updated-mute-audio-and-add-new-sound-in-windows-movie-maker-for-2024/"><u>Updated Mute Audio and Add New Sound in Windows Movie Maker for 2024</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/in-2024-what-is-an-ai-script-generator/"><u>In 2024, What Is an AI Script Generator?</u></a></li>
 </ul></div>
+
 

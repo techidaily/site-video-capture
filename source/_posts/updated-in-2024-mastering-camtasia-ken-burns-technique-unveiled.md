@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Mastering Camtasia  Ken Burns Technique Unveiled\""
-date: 2024-05-18T08:12:16.911Z
-updated: 2024-05-19T08:12:16.911Z
+date: 2024-05-19T21:35:50.513Z
+updated: 2024-05-20T21:35:50.513Z
 tags: 
   - screen-recording
   - ai video
@@ -372,4 +372,5 @@ Follow @Max Wales
 <li><a href="https://iphone-location.techidaily.com/in-2024-how-to-change-your-location-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Your Location on Apple iPhone 6s Plus | Dr.fone</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-steady-shots-best-free-video-stabilizers-for-better-videos/"><u>Updated 2024 Approved Steady Shots Best Free Video Stabilizers for Better Videos</u></a></li>
 </ul></div>
+
 

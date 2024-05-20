@@ -266,3 +266,4 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://video-ai-editor.techidaily.com/updated-the-ultimate-guide-to-instagram-video-aspect-ratios-and-sizes-for-2024/"><u>Updated The Ultimate Guide to Instagram Video Aspect Ratios and Sizes for 2024</u></a></li>
 </ul></div>
 
+

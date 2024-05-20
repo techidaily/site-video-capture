@@ -1,7 +1,7 @@
 ---
 title: "Become an Expert at Capturing Every Detail on Xiaomi Mi 11 for 2024"
-date: 2024-05-18T08:21:50.656Z
-updated: 2024-05-19T08:21:50.656Z
+date: 2024-05-19T21:36:12.210Z
+updated: 2024-05-20T21:36:12.210Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-the-visual-blueprint-understanding-social-media-aspect-ratios-for-success/"><u>In 2024, The Visual Blueprint Understanding Social Media Aspect Ratios for Success</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-use-google-assistant-on-your-lock-screen-of-nokia-c12-phone-by-drfone-android/"><u>How to Use Google Assistant on Your Lock Screen Of Nokia C12 Phone</u></a></li>
 </ul></div>
+
 

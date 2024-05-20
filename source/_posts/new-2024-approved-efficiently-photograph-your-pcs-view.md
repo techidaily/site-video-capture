@@ -709,3 +709,4 @@ Follow @Max Wales
 <li><a href="https://ai-video-tools.techidaily.com/new-top-video-resume-creators-free-templates-and-reviews/"><u>New Top Video Resume Creators Free Templates and Reviews</u></a></li>
 </ul></div>
 
+

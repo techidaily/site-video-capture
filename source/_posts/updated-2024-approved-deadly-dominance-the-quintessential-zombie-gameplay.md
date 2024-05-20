@@ -343,3 +343,4 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 <li><a href="https://ai-editing-video.techidaily.com/detailed-steps-to-cut-a-video-in-quicktime/"><u>Detailed Steps to Cut a Video in QuickTime</u></a></li>
 </ul></div>
 
+

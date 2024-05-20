@@ -1,7 +1,7 @@
 ---
 title: "[New] The Essentials of Screen Capture with Fraps for 2024"
-date: 2024-05-18T08:07:47.289Z
-updated: 2024-05-19T08:07:47.289Z
+date: 2024-05-19T21:35:40.306Z
+updated: 2024-05-20T21:35:40.306Z
 tags: 
   - screen-recording
   - ai video
@@ -347,4 +347,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-organize-your-videos-best-mp4-metadata-taggers-for-pc-and-mac/"><u>New 2024 Approved Organize Your Videos Best MP4 Metadata Taggers for PC and Mac</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-what-is-an-ai-artist-wondershare-virbo-glossary-for-2024/"><u>New What Is an AI Artist? | Wondershare Virbo Glossary for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Practical Demonstrations  Creating and Configuring Timer Modules in OBS\""
-date: 2024-05-18T08:18:13.296Z
-updated: 2024-05-19T08:18:13.296Z
+date: 2024-05-19T21:36:04.118Z
+updated: 2024-05-20T21:36:04.118Z
 tags: 
   - screen-recording
   - ai video
@@ -296,4 +296,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-driven-video-production.techidaily.com/new-the-best-ways-to-convert-soundcloud-tracks-to-mp3-format-for-2024/"><u>New The Best Ways to Convert Soundcloud Tracks to MP3 Format for 2024</u></a></li>
 <li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

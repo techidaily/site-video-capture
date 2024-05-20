@@ -618,3 +618,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://screen-mirror.techidaily.com/in-2024-things-you-must-know-for-screen-mirroring-apple-iphone-7-drfone-by-drfone-ios/"><u>In 2024, Things You Must Know for Screen Mirroring Apple iPhone 7 | Dr.fone</u></a></li>
 </ul></div>
 
+

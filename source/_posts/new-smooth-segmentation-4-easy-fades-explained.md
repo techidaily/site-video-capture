@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Smooth Segmentation  4 Easy Fades Explained\""
-date: 2024-05-18T08:19:45.216Z
-updated: 2024-05-19T08:19:45.216Z
+date: 2024-05-19T21:36:07.594Z
+updated: 2024-05-20T21:36:07.594Z
 tags: 
   - screen-recording
   - ai video
@@ -457,4 +457,5 @@ Follow @Max Wales
 <li><a href="https://audio-shaping.techidaily.com/10-best-vocal-remover-software-app-and-online-tools-for-2024/"><u>10 Best Vocal Remover Software, App, and Online Tools for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-vivo-v27-pro-to-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Vivo V27 Pro To Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

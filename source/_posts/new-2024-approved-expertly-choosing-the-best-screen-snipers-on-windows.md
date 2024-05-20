@@ -515,3 +515,4 @@ For macOS 10.12 or later
 <li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-12-mini-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 12 mini After iOS Update? | Stellar</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"PS4 to Video  Essential Guide for Using OBS Studio for 2024\""
-date: 2024-05-18T08:07:52.153Z
-updated: 2024-05-19T08:07:52.153Z
+date: 2024-05-19T21:35:40.471Z
+updated: 2024-05-20T21:35:40.471Z
 tags: 
   - screen-recording
   - ai video
@@ -414,4 +414,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://audio-shaping.techidaily.com/advanced-audio-filtration-how-to-mute-irrelevant-clips-in-cinemapro-for-2024/"><u>Advanced Audio Filtration How to Mute Irrelevant Clips in CinemaPro for 2024</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/forgot-your-p55plus-lock-screen-pattern-pin-or-password-heres-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your P55+ lock screen pattern, PIN or password? Here’s what to do</u></a></li>
 </ul></div>
+
 

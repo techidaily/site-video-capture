@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Allocate More Ram to Minecraft\""
-date: 2024-05-18T08:21:49.040Z
-updated: 2024-05-19T08:21:49.040Z
+date: 2024-05-19T21:36:12.154Z
+updated: 2024-05-20T21:36:12.154Z
 tags: 
   - screen-recording
   - ai video
@@ -592,4 +592,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Oppo Reno 8T? | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-video-repair-tool-to-fix-and-repair-corrupted-video-files-of-redmi-note-12t-pro-by-stellar-video-repair-mobile-video-repair/"><u>Best Video Repair tool to Fix and Repair Corrupted video files of Redmi Note 12T Pro</u></a></li>
 </ul></div>
+
 

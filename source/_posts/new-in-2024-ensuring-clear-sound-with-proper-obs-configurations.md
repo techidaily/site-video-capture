@@ -573,3 +573,4 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://video-content-creator.techidaily.com/new-video-editing-essentials-how-to-resize-and-crop-videos/"><u>New Video Editing Essentials How to Resize and Crop Videos</u></a></li>
 </ul></div>
 
+

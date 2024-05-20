@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Take Full-Page Screen Images\""
-date: 2024-05-18T08:12:11.694Z
-updated: 2024-05-19T08:12:11.694Z
+date: 2024-05-19T21:35:50.352Z
+updated: 2024-05-20T21:35:50.353Z
 tags: 
   - screen-recording
   - ai video
@@ -531,4 +531,5 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/bricked-your-poco-m6-pro-4g-heres-a-full-solution-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Bricked Your Poco M6 Pro 4G? Heres A Full Solution | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-change-your-apple-iphone-14-pro-max-location-on-twitter-drfone-by-drfone-virtual-ios/"><u>How to Change your Apple iPhone 14 Pro Max Location on Twitter | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -471,3 +471,4 @@ For macOS 10.12 or later
 <li><a href="https://iphone-transfer.techidaily.com/various-methods-to-transfer-pictures-from-apple-iphone-8-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Various Methods to Transfer Pictures from Apple iPhone 8 to PC | Dr.fone</u></a></li>
 </ul></div>
 
+

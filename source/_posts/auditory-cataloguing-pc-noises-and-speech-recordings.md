@@ -1,7 +1,7 @@
 ---
 title: "\"Auditory Cataloguing  PC Noises & Speech Recordings\""
-date: 2024-05-18T08:20:13.613Z
-updated: 2024-05-19T08:20:13.613Z
+date: 2024-05-19T21:36:08.548Z
+updated: 2024-05-20T21:36:08.548Z
 tags: 
   - screen-recording
   - ai video
@@ -816,4 +816,5 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-xiaomi-redmi-note-13-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Xiaomi Redmi Note 13 5G Devices</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-the-invisible-singer-technique-extracting-lyrics-from-the-symphony-of-soundtracks/"><u>New 2024 Approved The Invisible Singer Technique Extracting Lyrics From the Symphony of Soundtracks</u></a></li>
 </ul></div>
+
 

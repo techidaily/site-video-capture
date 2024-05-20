@@ -253,3 +253,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-play-40c-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor Play 40C Phones? | Dr.fone</u></a></li>
 </ul></div>
 
+

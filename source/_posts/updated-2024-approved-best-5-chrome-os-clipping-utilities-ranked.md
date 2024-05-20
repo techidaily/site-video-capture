@@ -293,3 +293,4 @@ For macOS 10.12 or later
 <li><a href="https://video-ai-editor.techidaily.com/calculate-image-dimensions-with-ease-a-ratio-finder/"><u>Calculate Image Dimensions with Ease A Ratio Finder</u></a></li>
 </ul></div>
 
+

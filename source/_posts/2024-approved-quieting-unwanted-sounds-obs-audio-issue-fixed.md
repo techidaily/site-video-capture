@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Quieting Unwanted Sounds  OBS Audio Issue Fixed\""
-date: 2024-05-18T08:26:37.982Z
-updated: 2024-05-19T08:26:37.982Z
+date: 2024-05-19T21:36:22.696Z
+updated: 2024-05-20T21:36:22.696Z
 tags: 
   - screen-recording
   - ai video
@@ -578,4 +578,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://video-ai-editor.techidaily.com/updated-get-back-your-audio-avidemux-no-sound-solution-for-windowsmac/"><u>Updated Get Back Your Audio Avidemux No Sound Solution for Windows/Mac</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-make-a-custom-slide-show-in-powerpoint/"><u>Updated How to Make a Custom Slide Show in PowerPoint</u></a></li>
 </ul></div>
+
 

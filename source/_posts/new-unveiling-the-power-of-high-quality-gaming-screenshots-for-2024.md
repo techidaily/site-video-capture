@@ -611,3 +611,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-art-of-lower-thirds-design-in-final-cut-pro-x/"><u>Updated The Art of Lower Thirds Design in Final Cut Pro X</u></a></li>
 </ul></div>
 
+

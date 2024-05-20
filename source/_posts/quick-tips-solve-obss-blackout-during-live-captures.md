@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Tips  Solve OBS's Blackout During Live Captures\""
-date: 2024-05-18T08:21:02.538Z
-updated: 2024-05-19T08:21:02.538Z
+date: 2024-05-19T21:36:10.582Z
+updated: 2024-05-20T21:36:10.582Z
 tags: 
   - screen-recording
   - ai video
@@ -273,4 +273,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-lava-blaze-pro-5g-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Lava Blaze Pro 5G by Name | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-g2-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo G2 | Dr.fone</u></a></li>
 </ul></div>
+
 

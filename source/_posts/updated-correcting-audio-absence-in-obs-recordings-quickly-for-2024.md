@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Correcting Audio Absence in OBS Recordings Quickly for 2024"
-date: 2024-05-18T08:00:57.175Z
-updated: 2024-05-19T08:00:57.175Z
+date: 2024-05-19T21:35:25.142Z
+updated: 2024-05-20T21:35:25.142Z
 tags: 
   - screen-recording
   - ai video
@@ -600,4 +600,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-effortlessly-blur-video-footage-on-iphone-and-android-devices/"><u>Updated In 2024, Effortlessly Blur Video Footage on iPhone and Android Devices</u></a></li>
 <li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-samsung-galaxy-f54-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Samsung Galaxy F54 5G FRP Android 10/11/12/13</u></a></li>
 </ul></div>
+
 

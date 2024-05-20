@@ -448,3 +448,4 @@ Follow @Max Wales
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55t-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55T to Other Android Devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

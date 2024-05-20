@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Screen Capture Showdown  Is OBS Better Than Fraps?\""
-date: 2024-05-18T08:19:44.678Z
-updated: 2024-05-19T08:19:44.678Z
+date: 2024-05-19T21:36:07.576Z
+updated: 2024-05-20T21:36:07.576Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6 without Passcode or Face ID | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/reaper-unveiled-insights-into-advanced-recording-features-and-educational-content-for-2024/"><u>REAPER Unveiled Insights Into Advanced Recording Features & Educational Content for 2024</u></a></li>
 </ul></div>
+
 

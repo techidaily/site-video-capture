@@ -390,3 +390,4 @@ For macOS 10.12 or later
 <li><a href="https://audio-editing.techidaily.com/new-in-2024-the-beat-engineers-handbook-designing-sounds-for-the-silver-screen/"><u>New In 2024, The Beat Engineers Handbook Designing Sounds for the Silver Screen</u></a></li>
 </ul></div>
 
+

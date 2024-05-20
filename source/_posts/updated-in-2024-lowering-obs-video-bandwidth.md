@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Lowering OBS Video Bandwidth"
-date: 2024-05-18T08:11:45.512Z
-updated: 2024-05-19T08:11:45.512Z
+date: 2024-05-19T21:35:49.052Z
+updated: 2024-05-20T21:35:49.052Z
 tags: 
   - screen-recording
   - ai video
@@ -288,4 +288,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://techidaily.com/how-to-perform-hard-reset-on-itel-p55-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Itel P55? | Dr.fone</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/updated-best-10-free-manga-sites-to-read-online/"><u>Updated Best 10 Free Manga Sites to Read Online</u></a></li>
 </ul></div>
+
 

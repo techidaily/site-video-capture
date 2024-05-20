@@ -188,3 +188,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://audio-editing.techidaily.com/updated-speech-to-text-evolution-predictions-and-innovations/"><u>Updated Speech-to-Text Evolution Predictions and Innovations</u></a></li>
 </ul></div>
 
+

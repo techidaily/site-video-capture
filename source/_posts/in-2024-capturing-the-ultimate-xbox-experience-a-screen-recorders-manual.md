@@ -637,3 +637,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://techidaily.com/hard-resetting-an-oppo-a2-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Oppo A2 Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Quieting Unwanted Sounds  OBS Audio Issue Fixed\""
-date: 2024-05-18T08:22:48.118Z
-updated: 2024-05-19T08:22:48.118Z
+date: 2024-05-19T21:36:14.460Z
+updated: 2024-05-20T21:36:14.460Z
 tags: 
   - screen-recording
   - ai video
@@ -536,4 +536,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://voice-adjusting.techidaily.com/in-2024-a-comprehensive-review-the-premier-audio-changers-for-smartphones/"><u>In 2024, A Comprehensive Review The Premier Audio Changers for Smartphones</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-reset-a-infinix-hot-40-pro-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Infinix Hot 40 Pro Phone that is Locked?</u></a></li>
 </ul></div>
+
 

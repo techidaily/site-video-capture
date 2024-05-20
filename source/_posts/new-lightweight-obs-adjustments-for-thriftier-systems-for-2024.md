@@ -1,7 +1,7 @@
 ---
 title: "[New] Lightweight OBS Adjustments for Thriftier Systems for 2024"
-date: 2024-05-18T08:12:41.540Z
-updated: 2024-05-19T08:12:41.540Z
+date: 2024-05-19T21:35:51.334Z
+updated: 2024-05-20T21:35:51.334Z
 tags: 
   - screen-recording
   - ai video
@@ -265,4 +265,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://audio-editing.techidaily.com/updated-a-journey-through-sonic-elegance-top-7-unique-sounds-for-smooth-media-transitions-for-2024/"><u>Updated A Journey Through Sonic Elegance Top 7 Unique Sounds for Smooth Media Transitions for 2024</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-nokia-g310-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Nokia G310? | Dr.fone</u></a></li>
 </ul></div>
+
 

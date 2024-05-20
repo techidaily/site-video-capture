@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 6 Minecraft Modern House Ideas"
-date: 2024-05-18T08:17:30.721Z
-updated: 2024-05-19T08:17:30.721Z
+date: 2024-05-19T21:36:01.648Z
+updated: 2024-05-20T21:36:01.648Z
 tags: 
   - screen-recording
   - ai video
@@ -439,4 +439,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-unleash-your-creativity-top-chromebook-video-editor-apps/"><u>Updated In 2024, Unleash Your Creativity Top Chromebook Video Editor Apps</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-a-complete-guide-to-oem-unlocking-on-realme-by-drfone-android/"><u>In 2024, A Complete Guide To OEM Unlocking on Realme</u></a></li>
 </ul></div>
+
 

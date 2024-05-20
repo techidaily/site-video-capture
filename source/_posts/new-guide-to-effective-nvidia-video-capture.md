@@ -1,7 +1,7 @@
 ---
 title: "[New] Guide to Effective NVIDIA Video Capture"
-date: 2024-05-18T08:17:21.173Z
-updated: 2024-05-19T08:17:21.173Z
+date: 2024-05-19T21:36:01.336Z
+updated: 2024-05-20T21:36:01.336Z
 tags: 
   - screen-recording
   - ai video
@@ -522,4 +522,5 @@ NIVIDA game recorder is available for free and there are good enough features to
 <li><a href="https://audio-editing.techidaily.com/updated-premier-economical-music-file-processor-for-macos-for-2024/"><u>Updated Premier Economical Music File Processor for macOS for 2024</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/camtasia-vs-captivate-which-is-better-for-2024/"><u>Camtasia Vs Captivate Which Is Better for 2024</u></a></li>
 </ul></div>
+
 

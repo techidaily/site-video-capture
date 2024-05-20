@@ -314,3 +314,4 @@ Follow @Max Wales
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-all-about-types-of-motion-graphics/"><u>New 2024 Approved All About Types of Motion Graphics</u></a></li>
 </ul></div>
 
+

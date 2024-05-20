@@ -545,3 +545,4 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-play-7t-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor Play 7T | Dr.fone</u></a></li>
 </ul></div>
 
+

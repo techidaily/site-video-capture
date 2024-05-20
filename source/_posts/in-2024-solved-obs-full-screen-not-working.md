@@ -1,7 +1,7 @@
 ---
 title: "In 2024, [Solved] OBS Full Screen Not Working"
-date: 2024-05-18T08:22:21.946Z
-updated: 2024-05-19T08:22:21.946Z
+date: 2024-05-19T21:36:13.273Z
+updated: 2024-05-20T21:36:13.273Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-xiaomi-redmi-a2plus-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Xiaomi Redmi A2+ to Computer for iPhone and Android? | Dr.fone</u></a></li>
 </ul></div>
+
 

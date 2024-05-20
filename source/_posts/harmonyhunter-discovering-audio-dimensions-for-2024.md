@@ -411,3 +411,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://ai-video-editing.techidaily.com/updated-step-by-step-to-crop-a-video-using-lightworks/"><u>Updated Step by Step to Crop a Video Using Lightworks</u></a></li>
 </ul></div>
 
+

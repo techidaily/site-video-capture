@@ -707,3 +707,4 @@ Follow @Richard Bennett
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-phone-touchscreen-of-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Phone Touchscreen Of Motorola Edge 40 | Dr.fone</u></a></li>
 </ul></div>
 
+

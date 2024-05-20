@@ -1,7 +1,7 @@
 ---
 title: "[New] Solutions to Stop Blank Spots in OBS Media"
-date: 2024-05-18T08:22:57.517Z
-updated: 2024-05-19T08:22:57.517Z
+date: 2024-05-19T21:36:15.048Z
+updated: 2024-05-20T21:36:15.048Z
 tags: 
   - screen-recording
   - ai video
@@ -570,4 +570,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-oppo-reno-10-proplus-5g-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Oppo Reno 10 Pro+ 5G Contacts  An Easy Method Explained.</u></a></li>
 <li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-samsung-galaxy-z-fold-5-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

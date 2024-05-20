@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Ken Burns Effect Techniques for Camtasia Users\""
-date: 2024-05-18T08:03:03.105Z
-updated: 2024-05-19T08:03:03.105Z
+date: 2024-05-19T21:35:29.492Z
+updated: 2024-05-20T21:35:29.492Z
 tags: 
   - screen-recording
   - ai video
@@ -340,4 +340,5 @@ Follow @Max Wales
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-send-and-fake-live-location-on-facebook-messenger-of-your-asus-rog-phone-8-drfone-by-drfone-virtual-android/"><u>In 2024, How to Send and Fake Live Location on Facebook Messenger Of your Asus ROG Phone 8 | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-the-5-best-laugh-inducing-voice-alteration-methods-for-enthralling-calls/"><u>Updated The 5 Best Laugh-Inducing Voice Alteration Methods for Enthralling Calls</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Restoring OBS Full Screen Display\""
-date: 2024-05-18T08:22:48.385Z
-updated: 2024-05-19T08:22:48.385Z
+date: 2024-05-19T21:36:14.468Z
+updated: 2024-05-20T21:36:14.468Z
 tags: 
   - screen-recording
   - ai video
@@ -264,4 +264,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://voice-adjusting.techidaily.com/new-in-2024-unparalleled-youtube-soundscapes-to-experience/"><u>New In 2024, Unparalleled YouTube Soundscapes to Experience</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-meizu-21-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Meizu 21</u></a></li>
 </ul></div>
+
 

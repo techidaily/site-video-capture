@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Utilizing Internal Screen Recording on Huawei's Mate 10/20 & P Models (P20, P10)"
-date: 2024-05-18T08:23:13.131Z
-updated: 2024-05-19T08:23:13.131Z
+date: 2024-05-19T21:36:15.513Z
+updated: 2024-05-20T21:36:15.513Z
 tags: 
   - screen-recording
   - ai video
@@ -411,4 +411,5 @@ Follow @Max Wales
 <li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-adobe-premiere-pro-cs6-free-download-for-mac-os-x/"><u>Updated 2024 Approved Adobe Premiere Pro CS6 Free Download for Mac OS X</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/2024-approved-exploring-chromebooks-leading-6-audio-modification-software-options-mediamakerstudio/"><u>2024 Approved Exploring Chromebooks Leading 6 Audio Modification Software Options - MediaMakerStudio</u></a></li>
 </ul></div>
+
 

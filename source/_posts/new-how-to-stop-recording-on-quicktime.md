@@ -1,7 +1,7 @@
 ---
 title: "[New] How To Stop Recording on QuickTime"
-date: 2024-05-18T08:17:39.460Z
-updated: 2024-05-19T08:17:39.460Z
+date: 2024-05-19T21:36:01.924Z
+updated: 2024-05-20T21:36:01.924Z
 tags: 
   - screen-recording
   - ai video
@@ -429,4 +429,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://ai-editing-video.techidaily.com/want-to-add-motion-effects-to-your-texts-in-your-video-learn-the-simple-steps-to-create-motion-text-effects-in-popular-video-editors/"><u>Want to Add Motion Effects to Your Texts in Your Video? Learn the Simple Steps to Create Motion Text Effects in Popular Video Editors</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-y78-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo Y78 5G Phones with/without a PC</u></a></li>
 </ul></div>
+
 

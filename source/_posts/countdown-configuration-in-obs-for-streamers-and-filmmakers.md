@@ -1,7 +1,7 @@
 ---
 title: "Countdown Configuration in OBS for Streamers and Filmmakers"
-date: 2024-05-18T08:04:20.599Z
-updated: 2024-05-19T08:04:20.599Z
+date: 2024-05-19T21:35:32.462Z
+updated: 2024-05-20T21:35:32.462Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-discover-the-secret-to-hands-free-productivity-best-mac-speech-to-text-apps/"><u>Updated In 2024, Discover the Secret to Hands-Free Productivity Best Mac Speech-to-Text Apps</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-on-apple-iphone-xsipadipod-by-drfone-ios/"><u>Best Ways to Bypass iCloud Activation Lock on Apple iPhone XS/iPad/iPod</u></a></li>
 </ul></div>
+
 

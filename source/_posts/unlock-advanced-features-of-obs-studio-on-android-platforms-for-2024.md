@@ -1,7 +1,7 @@
 ---
 title: "Unlock Advanced Features of OBS Studio on Android Platforms for 2024"
-date: 2024-05-18T08:12:13.330Z
-updated: 2024-05-19T08:12:13.330Z
+date: 2024-05-19T21:35:50.398Z
+updated: 2024-05-20T21:35:50.398Z
 tags: 
   - screen-recording
   - ai video
@@ -514,4 +514,5 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Infinix Smart 7? | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-top-5-final-cut-pro-editing-tips-you-should-know/"><u>Updated Top 5 Final Cut Pro Editing Tips You Should Know</u></a></li>
 </ul></div>
+
 

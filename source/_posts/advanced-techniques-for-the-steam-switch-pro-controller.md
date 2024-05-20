@@ -523,3 +523,4 @@ Follow @Ollie Mattison
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-spark-20c-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Spark 20C | Dr.fone</u></a></li>
 </ul></div>
 
+

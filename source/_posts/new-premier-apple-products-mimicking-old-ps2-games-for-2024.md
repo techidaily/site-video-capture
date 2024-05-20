@@ -538,3 +538,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-create-and-add-an-adjustment-layer-in-final-cut-pro/"><u>Updated How to Create and Add an Adjustment Layer in Final Cut Pro</u></a></li>
 </ul></div>
 
+

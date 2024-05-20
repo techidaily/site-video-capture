@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Make a Group Chat on Skype [For Windows and Mac]"
-date: 2024-05-18T08:11:04.549Z
-updated: 2024-05-19T08:11:04.549Z
+date: 2024-05-19T21:35:47.566Z
+updated: 2024-05-20T21:35:47.566Z
 tags: 
   - screen-recording
   - ai video
@@ -678,4 +678,5 @@ Follow @Richard Bennett
 <li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-for-apple-iphone-14-plus-lock-screen-by-drfone-ios/"><u>In 2024, Complete Guide For Apple iPhone 14 Plus Lock Screen</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-mastering-sound-integrating-music-into-kinemaster/"><u>Updated 2024 Approved Mastering Sound Integrating Music Into KineMaster</u></a></li>
 </ul></div>
+
 

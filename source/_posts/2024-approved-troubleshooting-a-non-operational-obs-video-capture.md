@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Troubleshooting a Non-Operational OBS Video Capture\""
-date: 2024-05-18T08:09:27.726Z
-updated: 2024-05-19T08:09:27.726Z
+date: 2024-05-19T21:35:43.800Z
+updated: 2024-05-20T21:35:43.800Z
 tags: 
   - screen-recording
   - ai video
@@ -298,4 +298,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-motorola-razr-40-ultra-frp-by-drfone-android/"><u>The Updated Method to Bypass Motorola Razr 40 Ultra FRP</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/never-miss-a-moment-with-free-world-cup-live-streaming/"><u>Never Miss a Moment With Free World Cup Live Streaming</u></a></li>
 </ul></div>
+
 

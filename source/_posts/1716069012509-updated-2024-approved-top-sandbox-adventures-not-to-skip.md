@@ -860,3 +860,4 @@ For macOS 10.12 or later
 <li><a href="https://voice-adjusting.techidaily.com/harmonizing-soundscapes-advanced-techniques-for-audio-normalization-in-davinci-resolve-for-2024/"><u>Harmonizing Soundscapes Advanced Techniques for Audio Normalization in DaVinci Resolve for 2024</u></a></li>
 </ul></div>
 
+

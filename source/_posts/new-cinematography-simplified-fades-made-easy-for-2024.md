@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Cinematography Simplified  Fades Made Easy for 2024\""
-date: 2024-05-18T08:08:27.686Z
-updated: 2024-05-19T08:08:27.686Z
+date: 2024-05-19T21:35:41.678Z
+updated: 2024-05-20T21:35:41.678Z
 tags: 
   - screen-recording
   - ai video
@@ -470,4 +470,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-final-cut-pro-x-compression-made-easy-a-beginners-guide/"><u>Updated In 2024, Final Cut Pro X Compression Made Easy A Beginners Guide</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/updated-in-2024-perfecting-video-viewing-experience-how-to-eliminate-ambient-noise-in-desktop-playback-and-online-videos-future-proof-methods/"><u>Updated In 2024, Perfecting Video Viewing Experience How to Eliminate Ambient Noise in Desktop Playback and Online Videos (Future-Proof Methods)</u></a></li>
 </ul></div>
+
 

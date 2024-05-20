@@ -1,7 +1,7 @@
 ---
 title: "Instant Freeze Capture Feature Guide"
-date: 2024-05-18T08:14:56.097Z
-updated: 2024-05-19T08:14:56.097Z
+date: 2024-05-19T21:35:56.051Z
+updated: 2024-05-20T21:35:56.051Z
 tags: 
   - screen-recording
   - ai video
@@ -446,4 +446,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-on-apple-iphone-11-pro-max-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently On Apple iPhone 11 Pro Max</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-on-iphone-7-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email On iPhone 7? Heres the Best Fixes</u></a></li>
 </ul></div>
+
 

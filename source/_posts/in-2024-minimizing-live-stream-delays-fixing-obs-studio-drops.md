@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Minimizing Live Stream Delays - Fixing OBS Studio Drops\""
-date: 2024-05-18T08:22:21.679Z
-updated: 2024-05-19T08:22:21.679Z
+date: 2024-05-19T21:36:13.264Z
+updated: 2024-05-20T21:36:13.264Z
 tags: 
   - screen-recording
   - ai video
@@ -573,4 +573,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Samsung Galaxy S24? | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/in-2024-in-depth-guide-to-iphone-for-excellent-quality-audio-capture/"><u>In 2024, In-Depth Guide to iPhone for Excellent Quality Audio Capture</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mi 11 Mini  Your Gateway to Professional Screen Recording\""
-date: 2024-05-18T08:13:37.460Z
-updated: 2024-05-19T08:13:37.460Z
+date: 2024-05-19T21:35:53.115Z
+updated: 2024-05-20T21:35:53.115Z
 tags: 
   - screen-recording
   - ai video
@@ -581,4 +581,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://sound-tweaking.techidaily.com/new-2024-approved-discovering-the-fury-in-canine-vocalizations/"><u>New 2024 Approved Discovering the Fury in Canine Vocalizations</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-motorola-moto-g04-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Motorola Moto G04 | Dr.fone</u></a></li>
 </ul></div>
+
 

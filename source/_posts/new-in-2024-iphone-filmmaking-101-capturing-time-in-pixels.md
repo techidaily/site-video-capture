@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, IPhone Filmmaking 101  Capturing Time in Pixels\""
-date: 2024-05-18T08:13:44.167Z
-updated: 2024-05-19T08:13:44.167Z
+date: 2024-05-19T21:35:53.324Z
+updated: 2024-05-20T21:35:53.324Z
 tags: 
   - screen-recording
   - ai video
@@ -523,4 +523,5 @@ iPhone offers various easy-to-use and creative tools and apps for producing inno
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-tecno-camon-20-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/2024-approved-top-imovie-replacements-for-windows-10-free-and-premium-options/"><u>2024 Approved Top iMovie Replacements for Windows 10 Free and Premium Options</u></a></li>
 </ul></div>
+
 

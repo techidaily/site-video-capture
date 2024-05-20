@@ -1,7 +1,7 @@
 ---
 title: "[New] Top 10 Nintendo Switch Fighting Games for 2024"
-date: 2024-05-18T08:06:30.797Z
-updated: 2024-05-19T08:06:30.797Z
+date: 2024-05-19T21:35:37.269Z
+updated: 2024-05-20T21:35:37.269Z
 tags: 
   - screen-recording
   - ai video
@@ -783,4 +783,5 @@ For macOS 10.12 or later
 <li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-nokia-130-music-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Nokia 130 Music? | Dr.fone</u></a></li>
 <li><a href="https://change-location.techidaily.com/pokemon-go-cooldown-chart-on-samsung-galaxy-s23-tactical-edition-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Samsung Galaxy S23 Tactical Edition | Dr.fone</u></a></li>
 </ul></div>
+
 

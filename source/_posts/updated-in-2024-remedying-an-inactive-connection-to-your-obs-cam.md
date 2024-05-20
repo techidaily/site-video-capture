@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Remedying an Inactive Connection to Your OBS Cam"
-date: 2024-05-18T08:11:30.446Z
-updated: 2024-05-19T08:11:30.446Z
+date: 2024-05-19T21:35:48.479Z
+updated: 2024-05-20T21:35:48.479Z
 tags: 
   - screen-recording
   - ai video
@@ -265,4 +265,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-oneplus-12-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on OnePlus 12</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/forgot-locked-iphone-7-plus-password-learn-the-best-methods-to-unlock-drfone-by-drfone-ios/"><u>Forgot Locked iPhone 7 Plus Password? Learn the Best Methods To Unlock | Dr.fone</u></a></li>
 </ul></div>
+
 

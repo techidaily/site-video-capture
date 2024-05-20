@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  A Comprehensible Guide to Screen Recording on the Mi 11\""
-date: 2024-05-18T08:11:11.054Z
-updated: 2024-05-19T08:11:11.054Z
+date: 2024-05-19T21:35:47.790Z
+updated: 2024-05-20T21:35:47.790Z
 tags: 
   - screen-recording
   - ai video
@@ -557,4 +557,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/updated-quick-answer-what-is-a-gif-file/"><u>Updated Quick Answer What Is a GIF File?</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-the-ultimate-guide-to-facebook-video-cover-size-and-resolution/"><u>Updated The Ultimate Guide to Facebook Video Cover Size and Resolution</u></a></li>
 </ul></div>
+
 

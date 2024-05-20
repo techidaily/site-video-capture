@@ -877,3 +877,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/all-things-you-need-to-know-about-wipe-datafactory-reset-for-tecno-spark-10c-drfone-by-drfone-reset-android-reset-android/"><u>All Things You Need to Know about Wipe Data/Factory Reset For Tecno Spark 10C | Dr.fone</u></a></li>
 </ul></div>
 
+

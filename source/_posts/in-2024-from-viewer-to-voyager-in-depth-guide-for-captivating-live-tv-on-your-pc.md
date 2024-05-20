@@ -453,3 +453,4 @@ Follow @Max Wales
 <li><a href="https://ai-driven-video-production.techidaily.com/blur-faces-objects-or-text-in-videos-for-free-a-simple-guide/"><u>Blur Faces, Objects, or Text in Videos for Free A Simple Guide</u></a></li>
 </ul></div>
 
+

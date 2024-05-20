@@ -397,3 +397,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://ai-video-editing.techidaily.com/updated-learn-to-merge-clips-in-davinci-resolve-with-simple-steps-for-2024/"><u>Updated Learn to Merge Clips in DaVinci Resolve with Simple Steps for 2024</u></a></li>
 </ul></div>
 
+

@@ -330,3 +330,4 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://ai-editing-video.techidaily.com/how-to-correct-lens-distortion-with-filmora/"><u>How to Correct Lens Distortion With Filmora</u></a></li>
 </ul></div>
 
+

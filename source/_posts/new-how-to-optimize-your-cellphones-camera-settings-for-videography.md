@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Optimize Your Cellphone's Camera Settings for Videography"
-date: 2024-05-18T08:03:08.560Z
-updated: 2024-05-19T08:03:08.560Z
+date: 2024-05-19T21:35:30.063Z
+updated: 2024-05-20T21:35:30.063Z
 tags: 
   - screen-recording
   - ai video
@@ -608,4 +608,5 @@ Follow @Max Wales
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-infinix-note-30-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Infinix Note 30 Devices</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/new-2024-approved-6-unexpected-ways-gif-animation-maker-that-affect-your-marketing/"><u>New 2024 Approved 6 Unexpected Ways Gif Animation Maker That Affect Your Marketing</u></a></li>
 </ul></div>
+
 

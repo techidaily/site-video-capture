@@ -1,7 +1,7 @@
 ---
 title: "Comparing Stream Quality with OBS Studio and Fraps for 2024"
-date: 2024-05-18T08:09:23.976Z
-updated: 2024-05-19T08:09:23.976Z
+date: 2024-05-19T21:35:43.649Z
+updated: 2024-05-20T21:35:43.649Z
 tags: 
   - screen-recording
   - ai video
@@ -263,4 +263,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://video-content-creator.techidaily.com/updated-in-2024-fast-video-resizing-a-step-by-step-guide/"><u>Updated In 2024, Fast Video Resizing A Step-by-Step Guide</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-transform-your-videos-into-audio-top-mobile-conversion-apps-for-2024/"><u>New Transform Your Videos Into Audio Top Mobile Conversion Apps for 2024</u></a></li>
 </ul></div>
+
 

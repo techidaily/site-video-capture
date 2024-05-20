@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Creative Constructs  Top 6 Minimalist Mini-Mansions\""
-date: 2024-05-18T08:24:39.448Z
-updated: 2024-05-19T08:24:39.448Z
+date: 2024-05-19T21:36:18.274Z
+updated: 2024-05-20T21:36:18.274Z
 tags: 
   - screen-recording
   - ai video
@@ -355,4 +355,5 @@ Follow @Shanoon Cox
 <li><a href="https://smart-video-creator.techidaily.com/new-from-script-to-screen-a-kids-guide-to-movie-making-for-2024/"><u>New From Script to Screen A Kids Guide to Movie Making for 2024</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/updated-the-aiff-converter-handbook-features-reviews-and-comparisons/"><u>Updated The AIFF Converter Handbook Features, Reviews, and Comparisons</u></a></li>
 </ul></div>
+
 

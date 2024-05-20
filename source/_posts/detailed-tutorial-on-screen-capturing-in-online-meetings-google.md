@@ -1,7 +1,7 @@
 ---
 title: "Detailed Tutorial on Screen Capturing in Online Meetings (Google)"
-date: 2024-05-18T08:14:55.553Z
-updated: 2024-05-19T08:14:55.553Z
+date: 2024-05-19T21:35:56.029Z
+updated: 2024-05-20T21:35:56.029Z
 tags: 
   - screen-recording
   - ai video
@@ -495,4 +495,5 @@ Filmora provides you with an easy and intuitive interface allowing you to record
 <li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-y36-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo Y36</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-13t-pro-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi 13T Pro to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

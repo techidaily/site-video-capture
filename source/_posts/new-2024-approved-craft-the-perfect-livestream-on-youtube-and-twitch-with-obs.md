@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Craft the Perfect Livestream on YouTube & Twitch with OBS\""
-date: 2024-05-18T08:23:16.369Z
-updated: 2024-05-19T08:23:16.369Z
+date: 2024-05-19T21:36:15.610Z
+updated: 2024-05-20T21:36:15.610Z
 tags: 
   - screen-recording
   - ai video
@@ -189,4 +189,5 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://ai-vdieo-software.techidaily.com/the-ultimate-guide-to-calculating-pixel-density/"><u>The Ultimate Guide to Calculating Pixel Density</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-the-secret-to-saving-youtube-audio-a-comprehensive-guide/"><u>New In 2024, The Secret to Saving YouTube Audio A Comprehensive Guide</u></a></li>
 </ul></div>
+
 

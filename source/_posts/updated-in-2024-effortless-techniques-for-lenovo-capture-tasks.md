@@ -506,3 +506,4 @@ The easiest method for screen capture on Lenovo is to utilize the key combinatio
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-share-on-apple-iphone-6s-plus-drfone-by-drfone-ios/"><u>How to Screen Share on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
 </ul></div>
 
+

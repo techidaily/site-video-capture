@@ -280,3 +280,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://techidaily.com/full-guide-to-hard-reset-your-xiaomi-redmi-12-5g-drfone-by-drfone-reset-android-reset-android/"><u>Full Guide to Hard Reset Your Xiaomi Redmi 12 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

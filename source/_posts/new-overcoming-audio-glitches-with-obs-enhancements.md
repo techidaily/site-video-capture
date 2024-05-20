@@ -1,7 +1,7 @@
 ---
 title: "[New] Overcoming Audio Glitches with OBS Enhancements"
-date: 2024-05-18T08:09:43.051Z
-updated: 2024-05-19T08:09:43.051Z
+date: 2024-05-19T21:35:44.385Z
+updated: 2024-05-20T21:35:44.385Z
 tags: 
   - screen-recording
   - ai video
@@ -309,4 +309,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://ai-video-tools.techidaily.com/updated-simplify-your-workflow-top-aspect-ratio-calculators-online-for-2024/"><u>Updated Simplify Your Workflow Top Aspect Ratio Calculators Online for 2024</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-4-ways-to-trace-asus-rog-phone-7-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 4 Ways to Trace Asus ROG Phone 7 Location | Dr.fone</u></a></li>
 </ul></div>
+
 

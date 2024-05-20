@@ -560,3 +560,4 @@ You can agree with me that this screen catch application has a decent portion of
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y56-5g-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y56 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

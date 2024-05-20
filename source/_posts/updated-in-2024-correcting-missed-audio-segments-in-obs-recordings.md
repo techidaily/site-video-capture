@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Correcting Missed Audio Segments in OBS Recordings"
-date: 2024-05-18T08:15:20.321Z
-updated: 2024-05-19T08:15:20.321Z
+date: 2024-05-19T21:35:56.866Z
+updated: 2024-05-20T21:35:56.866Z
 tags: 
   - screen-recording
   - ai video
@@ -583,4 +583,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://sound-tweaking.techidaily.com/in-2024-rapid-guide-to-exporting-whatsapp-audio-as-high-quality-mp3/"><u>In 2024, Rapid Guide to Exporting WhatsApp Audio as High-Quality MP3</u></a></li>
 <li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-the-best-english-voice-generator-to-convert-text-into-desired-accent/"><u>New 2024 Approved The Best English Voice Generator To Convert Text Into Desired Accent</u></a></li>
 </ul></div>
+
 

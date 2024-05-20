@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring 8 Open Source Video Collaboration Software Picks"
-date: 2024-05-18T08:12:44.757Z
-updated: 2024-05-19T08:12:44.757Z
+date: 2024-05-19T21:35:51.440Z
+updated: 2024-05-20T21:35:51.440Z
 tags: 
   - screen-recording
   - ai video
@@ -678,4 +678,5 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-editing.techidaily.com/in-this-article-we-will-show-you-how-to-rotate-videos-using-obs-for-2024/"><u>In This Article, We Will Show You How to Rotate Videos Using Obs for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-how-to-use-ispoofer-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use iSpoofer on Vivo T2x 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

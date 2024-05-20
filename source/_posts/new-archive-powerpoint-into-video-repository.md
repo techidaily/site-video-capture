@@ -582,3 +582,4 @@ Follow @Max Wales
 <li><a href="https://audio-shaping.techidaily.com/new-balancing-the-scales-normalizing-sound-volume-for-optimal-viewing-with-vlc/"><u>New Balancing the Scales Normalizing Sound Volume for Optimal Viewing with VLC</u></a></li>
 </ul></div>
 
+

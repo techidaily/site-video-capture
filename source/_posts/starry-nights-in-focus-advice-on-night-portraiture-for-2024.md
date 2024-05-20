@@ -215,3 +215,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://video-content-creator.techidaily.com/new-the-art-of-the-ken-burns-effect-tips-and-tricks-for-stunning-results-for-2024/"><u>New The Art of the Ken Burns Effect Tips and Tricks for Stunning Results for 2024</u></a></li>
 </ul></div>
 
+

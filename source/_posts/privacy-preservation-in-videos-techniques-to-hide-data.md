@@ -1,7 +1,7 @@
 ---
 title: "\"Privacy Preservation in Videos  Techniques to Hide Data\""
-date: 2024-05-18T08:15:43.852Z
-updated: 2024-05-19T08:15:43.852Z
+date: 2024-05-19T21:35:57.618Z
+updated: 2024-05-20T21:35:57.618Z
 tags: 
   - screen-recording
   - ai video
@@ -542,4 +542,5 @@ Follow @Max Wales
 <li><a href="https://sound-optimizing.techidaily.com/new-how-to-change-pitch-in-audacity-without-losing-quality/"><u>New How to Change Pitch in Audacity? Without Losing Quality</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/locating-videogame-sfx-archives-online/"><u>Locating Videogame SFX Archives Online</u></a></li>
 </ul></div>
+
 

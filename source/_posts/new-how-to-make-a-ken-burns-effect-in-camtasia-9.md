@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Make a Ken Burns Effect in Camtasia 9?"
-date: 2024-05-18T08:10:36.335Z
-updated: 2024-05-19T08:10:36.335Z
+date: 2024-05-19T21:35:46.633Z
+updated: 2024-05-20T21:35:46.633Z
 tags: 
   - screen-recording
   - ai video
@@ -335,4 +335,5 @@ Follow @Max Wales
 <li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-iphone-se-2022-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of iPhone SE (2022) Prevention & Solution</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-realme-12plus-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Realme 12+ 5G</u></a></li>
 </ul></div>
+
 

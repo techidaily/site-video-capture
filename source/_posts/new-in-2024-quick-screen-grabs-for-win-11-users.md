@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Quick Screen Grabs for Win 11 Users"
-date: 2024-05-18T08:00:31.400Z
-updated: 2024-05-19T08:00:31.400Z
+date: 2024-05-19T21:35:24.147Z
+updated: 2024-05-20T21:35:24.147Z
 tags: 
   - screen-recording
   - ai video
@@ -437,4 +437,5 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How to Share/Fake Location on WhatsApp for Apple iPhone 7 Plus | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-speed-up-video-with-canva-online-tool-for-2024/"><u>How to Speed Up Video with Canva Online Tool for 2024</u></a></li>
 </ul></div>
+
 

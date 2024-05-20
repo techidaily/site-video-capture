@@ -412,3 +412,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://techidaily.com/how-to-reset-a-tecno-pop-8-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Tecno Pop 8 Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
 
+

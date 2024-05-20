@@ -1,7 +1,7 @@
 ---
 title: "\"Cutting-Edge Video Meeting Techniques on Slack + Filmora\""
-date: 2024-05-18T08:27:00.120Z
-updated: 2024-05-19T08:27:00.120Z
+date: 2024-05-19T21:36:23.498Z
+updated: 2024-05-20T21:36:23.498Z
 tags: 
   - screen-recording
   - ai video
@@ -532,4 +532,5 @@ Follow @Shanoon Cox
 <li><a href="https://video-content-creator.techidaily.com/updated-which-video-editor-reigns-supreme-final-cut-pro-vs-lumafusion-for-2024/"><u>Updated Which Video Editor Reigns Supreme? Final Cut Pro vs LumaFusion for 2024</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/meme-magic-10-best-apps-to-create-hilarious-content-for-2024/"><u>Meme Magic 10 Best Apps to Create Hilarious Content for 2024</u></a></li>
 </ul></div>
+
 

@@ -1076,3 +1076,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/how-to-reset-a-xiaomi-redmi-13c-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Xiaomi Redmi 13C Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
 
+

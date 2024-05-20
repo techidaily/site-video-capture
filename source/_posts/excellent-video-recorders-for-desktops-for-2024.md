@@ -388,3 +388,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://ai-vdieo-software.techidaily.com/the-complete-guide-to-facebook-video-aspect-ratios-a-one-stop-resource/"><u>The Complete Guide to Facebook Video Aspect Ratios A One-Stop Resource</u></a></li>
 </ul></div>
 
+

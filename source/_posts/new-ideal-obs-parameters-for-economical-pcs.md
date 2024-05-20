@@ -1,7 +1,7 @@
 ---
 title: "[New] Ideal OBS Parameters for Economical PCs"
-date: 2024-05-18T08:12:23.735Z
-updated: 2024-05-19T08:12:23.735Z
+date: 2024-05-19T21:35:50.782Z
+updated: 2024-05-20T21:35:50.782Z
 tags: 
   - screen-recording
   - ai video
@@ -235,4 +235,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-premiere-pro-transitions-the-ultimate-list-of-top-rated-plugins/"><u>New 2024 Approved Premiere Pro Transitions The Ultimate List of Top-Rated Plugins</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-11-by-drfone-ios/"><u>How to Unlock iPhone 11?</u></a></li>
 </ul></div>
+
 

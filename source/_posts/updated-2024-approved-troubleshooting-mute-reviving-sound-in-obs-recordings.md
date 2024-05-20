@@ -579,3 +579,4 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://ai-editing-video.techidaily.com/new-in-2024-detailed-tutorial-to-crop-a-video-using-openshot/"><u>New In 2024, Detailed Tutorial to Crop a Video Using Openshot?</u></a></li>
 </ul></div>
 
+

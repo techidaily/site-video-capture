@@ -434,3 +434,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://smart-video-creator.techidaily.com/new-create-stunning-mac-slideshows-a-beginners-guide-to-ezvid/"><u>New Create Stunning Mac Slideshows A Beginners Guide to Ezvid</u></a></li>
 </ul></div>
 
+

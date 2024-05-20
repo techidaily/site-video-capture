@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS Studio for Gamers  PS4 Screenshots & Recordings Guide\""
-date: 2024-05-18T08:16:19.188Z
-updated: 2024-05-19T08:16:19.188Z
+date: 2024-05-19T21:35:58.913Z
+updated: 2024-05-20T21:35:58.913Z
 tags: 
   - screen-recording
   - ai video
@@ -376,4 +376,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-samsung-galaxy-s23-fe-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Samsung Galaxy S23 FE without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/add-a-miniature-effect-on-your-video-for-filmy-looks-to-add-this-effect-read-the-complete-guide-and-make-your-video-cinematic-by-wondershare-filmora-for-202/"><u>Add a Miniature Effect on Your Video for Filmy Looks. To Add This Effect, Read the Complete Guide and Make Your Video Cinematic by Wondershare Filmora for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] FireCapture Extensions for FF Users"
-date: 2024-05-18T08:12:05.169Z
-updated: 2024-05-19T08:12:05.169Z
+date: 2024-05-19T21:35:50.106Z
+updated: 2024-05-20T21:35:50.106Z
 tags: 
   - screen-recording
   - ai video
@@ -703,4 +703,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-15ipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 15/iPad | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/inside-splice-video-editor-a-close-up-look-at-its-features-and-functionality-for-2024/"><u>Inside Splice Video Editor A Close-Up Look at Its Features and Functionality for 2024</u></a></li>
 </ul></div>
+
 

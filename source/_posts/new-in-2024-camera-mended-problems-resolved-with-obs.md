@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Camera Mended, Problems Resolved with OBS"
-date: 2024-05-18T08:23:01.276Z
-updated: 2024-05-19T08:23:01.276Z
+date: 2024-05-19T21:36:15.158Z
+updated: 2024-05-20T21:36:15.158Z
 tags: 
   - screen-recording
   - ai video
@@ -300,4 +300,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-tecno-spark-10-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Tecno Spark 10 Pro FRP</u></a></li>
 <li><a href="https://iphone-location.techidaily.com/in-2024-how-to-fix-the-apple-iphone-xr-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fix the Apple iPhone XR GPS not Working Issue | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Game Capture Software Analysis  OBS vs ShadowPlay\""
-date: 2024-05-18T08:12:05.705Z
-updated: 2024-05-19T08:12:05.705Z
+date: 2024-05-19T21:35:50.124Z
+updated: 2024-05-20T21:35:50.124Z
 tags: 
   - screen-recording
   - ai video
@@ -238,4 +238,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://screen-mirror.techidaily.com/the-top-10-apple-iphone-8-emualtors-for-windows-mac-and-android-drfone-by-drfone-ios/"><u>The Top 10 Apple iPhone 8 Emualtors for Windows, Mac and Android | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/a-list-of-trustworthy-websites-for-procuring-creative-outro-harmonies-without-copyright-issues/"><u>A List of Trustworthy Websites for Procuring Creative Outro Harmonies Without Copyright Issues</u></a></li>
 </ul></div>
+
 

@@ -718,3 +718,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-infinix-hot-40-pro-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Infinix Hot 40 Pro to Laptop Without USB | Dr.fone</u></a></li>
 </ul></div>
 
+

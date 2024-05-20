@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, LibertyCam Studio's Advanced Video Capture Capabilities"
-date: 2024-05-18T08:09:49.787Z
-updated: 2024-05-19T08:09:49.787Z
+date: 2024-05-19T21:35:45.015Z
+updated: 2024-05-20T21:35:45.015Z
 tags: 
   - screen-recording
   - ai video
@@ -481,4 +481,5 @@ Nowadays, movies are packed along with essential information. This particular in
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-a-guide-to-unlock-descript-text-to-speech-features-in-detail/"><u>New In 2024, A Guide to Unlock Descript Text-to-Speech Features in Detail</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-change-video-playback-rate-in-camtasia-a-step-by-step-guide/"><u>Updated Change Video Playback Rate in Camtasia A Step-by-Step Guide</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Audacity on Mac  A Beginner's Guide to Recording Audio\""
-date: 2024-05-18T08:17:23.901Z
-updated: 2024-05-19T08:17:23.901Z
+date: 2024-05-19T21:36:01.422Z
+updated: 2024-05-20T21:36:01.422Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-realme-c51-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Realme C51 Phone Password Without Factory Reset?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone 6? | Dr.fone</u></a></li>
 </ul></div>
+
 

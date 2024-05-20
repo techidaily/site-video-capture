@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Mastering NVIDIA Screenshot Capture"
-date: 2024-05-18T08:25:04.574Z
-updated: 2024-05-19T08:25:04.574Z
+date: 2024-05-19T21:36:19.186Z
+updated: 2024-05-20T21:36:19.186Z
 tags: 
   - screen-recording
   - ai video
@@ -485,4 +485,5 @@ NIVIDA game recorder is available for free and there are good enough features to
 <li><a href="https://smart-video-creator.techidaily.com/filmora-13-download-free-the-ultimate-video-editing-software-2024/"><u>Filmora 13 Download Free The Ultimate Video Editing Software 2024</u></a></li>
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-samsung-galaxy-s23-fe-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Samsung Galaxy S23 FE? | Dr.fone</u></a></li>
 </ul></div>
+
 

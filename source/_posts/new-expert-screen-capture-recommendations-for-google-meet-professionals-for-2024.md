@@ -1470,3 +1470,4 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-creator.techidaily.com/new-say-goodbye-to-adobe-10-premiere-elements-alternatives-for-video-creators/"><u>New Say Goodbye to Adobe 10 Premiere Elements Alternatives for Video Creators</u></a></li>
 </ul></div>
 
+

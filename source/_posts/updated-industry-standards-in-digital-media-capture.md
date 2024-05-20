@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Industry Standards in Digital Media Capture"
-date: 2024-05-18T08:17:27.172Z
-updated: 2024-05-19T08:17:27.172Z
+date: 2024-05-19T21:36:01.541Z
+updated: 2024-05-20T21:36:01.541Z
 tags: 
   - screen-recording
   - ai video
@@ -813,4 +813,5 @@ Follow @Max Wales
 <li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-top-5-free-online-tone-tools-for-easy-use/"><u>New 2024 Approved Top 5 Free Online Tone Tools for Easy Use</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-mastering-audio-files-with-lame-in-audacity-a-detailed-walkthrough-for-2024/"><u>New Mastering Audio Files with Lame in Audacity – A Detailed Walkthrough for 2024</u></a></li>
 </ul></div>
+
 

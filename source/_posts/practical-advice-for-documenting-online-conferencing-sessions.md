@@ -1,7 +1,7 @@
 ---
 title: "Practical Advice for Documenting Online Conferencing Sessions"
-date: 2024-05-18T08:01:19.278Z
-updated: 2024-05-19T08:01:19.278Z
+date: 2024-05-19T21:35:25.818Z
+updated: 2024-05-20T21:35:25.818Z
 tags: 
   - screen-recording
   - ai video
@@ -523,4 +523,5 @@ When more activities, such as education, live entertainment, and conferencing, o
 <li><a href="https://ai-video-tools.techidaily.com/new-top-10-best-mobile-video-editors-for-iphone-and-android-for-2024/"><u>New Top 10 Best Mobile Video Editors for iPhone and Android for 2024</u></a></li>
 <li><a href="https://howto.techidaily.com/what-to-do-when-vivo-x-fold-2-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo X Fold 2 Has Black Screen of Death? | Dr.fone</u></a></li>
 </ul></div>
+
 

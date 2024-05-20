@@ -563,3 +563,4 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://review-topics.techidaily.com/reinstall-your-drivers-with-device-manager-in-windows-11-by-drivereasy-guide/"><u>Reinstall your drivers with Device Manager in Windows 11</u></a></li>
 </ul></div>
 
+

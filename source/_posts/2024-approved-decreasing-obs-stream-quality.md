@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Decreasing OBS Stream Quality\""
-date: 2024-05-18T08:26:49.930Z
-updated: 2024-05-19T08:26:49.930Z
+date: 2024-05-19T21:36:23.148Z
+updated: 2024-05-20T21:36:23.148Z
 tags: 
   - screen-recording
   - ai video
@@ -264,4 +264,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://animation-videos.techidaily.com/updated-best-canva-10-animated-templates-for-2024/"><u>Updated Best Canva 10 Animated Templates for 2024</u></a></li>
 <li><a href="https://techidaily.com/xiaomi-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Xiaomi won’t play AVCHD .mts files</u></a></li>
 </ul></div>
+
 

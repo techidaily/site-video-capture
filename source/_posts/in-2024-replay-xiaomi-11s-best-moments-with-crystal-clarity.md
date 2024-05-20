@@ -563,3 +563,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://howto.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Motorola Moto G24 | Dr.fone</u></a></li>
 </ul></div>
 
+

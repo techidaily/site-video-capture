@@ -802,3 +802,4 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://android-unlock.techidaily.com/how-to-unlock-samsung-galaxy-a05s-phone-pattern-lock-without-factory-reset-by-drfone-android/"><u>How to Unlock Samsung Galaxy A05s Phone Pattern Lock without Factory Reset</u></a></li>
 </ul></div>
 
+

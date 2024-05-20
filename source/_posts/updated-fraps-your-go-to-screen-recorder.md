@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Fraps  Your Go-To Screen Recorder?\""
-date: 2024-05-18T08:15:26.843Z
-updated: 2024-05-19T08:15:26.843Z
+date: 2024-05-19T21:35:57.077Z
+updated: 2024-05-20T21:35:57.077Z
 tags: 
   - screen-recording
   - ai video
@@ -347,4 +347,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-6-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 6 Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-realme-11-5g-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Realme 11 5G Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

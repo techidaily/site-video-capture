@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Overcoming Quietness  Fixes for Silent OBS Streams\""
-date: 2024-05-18T08:03:45.486Z
-updated: 2024-05-19T08:03:45.486Z
+date: 2024-05-19T21:35:31.258Z
+updated: 2024-05-20T21:35:31.258Z
 tags: 
   - screen-recording
   - ai video
@@ -543,4 +543,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://sound-optimizing.techidaily.com/updated-the-pathway-to-selecting-an-elite-sonic-architect-for-film-and-media-projects/"><u>Updated The Pathway to Selecting an Elite Sonic Architect for Film and Media Projects</u></a></li>
 <li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-realme-12-proplus-5g-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Realme 12 Pro+ 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

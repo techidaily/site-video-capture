@@ -1,7 +1,7 @@
 ---
 title: "[New] Solving Grey Voids in Gaming Capture Software"
-date: 2024-05-18T08:21:23.714Z
-updated: 2024-05-19T08:21:23.714Z
+date: 2024-05-19T21:36:11.314Z
+updated: 2024-05-20T21:36:11.314Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://bypass-frp.techidaily.com/how-to-bypass-samsung-galaxy-a15-4g-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Samsung Galaxy A15 4G FRP In 3 Different Ways</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-best-powerdirector-replacement-apps-for-android-and-ios-users/"><u>Updated 2024 Approved Best PowerDirector Replacement Apps for Android and iOS Users</u></a></li>
 </ul></div>
+
 
