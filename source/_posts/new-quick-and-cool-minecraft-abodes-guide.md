@@ -1,7 +1,7 @@
 ---
 title: "[New] Quick and Cool Minecraft Abodes Guide"
-date: 2024-05-19T21:36:06.028Z
-updated: 2024-05-20T21:36:06.028Z
+date: 2024-06-09T06:50:35.604Z
+updated: 2024-06-10T06:50:35.604Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Quick and Cool Minecraft Abodes Guide"
 excerpt: "This Article Describes [New] Quick and Cool Minecraft Abodes Guide"
 keywords: "\"Quick Minecraft Homes,Build Fast in MC,Cool Mini Habitats,Speed Up Home-Building,Easy MC Shelter Guide,Favorite MC Abodes,Rapid & Chill Dwellings\""
-thumbnail: https://www.lifewire.com/thmb/x5hFLtVYVUkR-_nqhbxS_f11j5E=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/netgear-default-password-list-2619154-b581fdcf136848d29e944638cd2ad444.png
+thumbnail: https://thmb.techidaily.com/3b3d53f3a3456319783aa99ca770516fad2e58dbe2bd45f2ec6f3eb305fb3d58.png
 ---
 
 ## Quick and Cool Minecraft Abodes Guide

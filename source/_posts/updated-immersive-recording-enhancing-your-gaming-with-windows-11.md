@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Immersive Recording  Enhancing Your Gaming with Windows 11\""
-date: 2024-05-19T21:35:57.191Z
-updated: 2024-05-20T21:35:57.191Z
+date: 2024-06-09T06:50:32.359Z
+updated: 2024-06-10T06:50:32.359Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Immersive Recording: Enhancing Your Gaming with Windows 11\""
 excerpt: "\"This Article Describes [Updated] Immersive Recording: Enhancing Your Gaming with Windows 11\""
 keywords: "WinGamingRecording,W11GameEnhance,ImmersiveWinXR,XRGamingWindows,EnhancedW11Play,GamingImmersion,WindowsXRBoost"
-thumbnail: https://www.lifewire.com/thmb/Wnjr5d8PWtLhZKZOlT7PSsWhqZ8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/YoungAsianmanusinglaptopandreadingnewspaperonplane-59960904685fbe00103478bd.jpg
+thumbnail: https://thmb.techidaily.com/b024a84a41e25a10e99a735d71f0138708aa747c63be7c3be4720f86eba5080f.jpg
 ---
 
 ## Immersive Recording: Enhancing Your Gaming with Windows 11

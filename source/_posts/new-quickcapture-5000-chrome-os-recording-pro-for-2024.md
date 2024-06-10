@@ -1,7 +1,7 @@
 ---
 title: "\"[New] QuickCapture 5000  Chrome OS Recording Pro for 2024\""
-date: 2024-05-18T08:27:27.931Z
-updated: 2024-05-19T08:27:27.931Z
+date: 2024-06-09T06:50:46.856Z
+updated: 2024-06-10T06:50:46.856Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] QuickCapture 5000: Chrome OS Recording Pro for 2024\""
 excerpt: "\"This Article Describes [New] QuickCapture 5000: Chrome OS Recording Pro for 2024\""
 keywords: "QuickCapture X5000,ChromeOS Recorder,Chrome OS Capture,FastCapture 5K,Chrome OS Recording,UltraQuick 5000,ChromeOS ProRec"
-thumbnail: https://www.lifewire.com/thmb/KrjxcoVkV9vT3cQ3C-URm7mlpcM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-917461864-7141ebd3ec944ce6a431b8d485cc9cdb.jpg
+thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed46c02973b8fefdc10e6507c.jpg
 ---
 
 ## QuickCapture 5000: Chrome OS Recording Pro

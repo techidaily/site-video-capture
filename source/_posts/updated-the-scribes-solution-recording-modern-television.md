@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Scribe's Solution  Recording Modern Television\""
-date: 2024-05-19T21:35:38.632Z
-updated: 2024-05-20T21:35:38.632Z
+date: 2024-06-09T06:50:41.762Z
+updated: 2024-06-10T06:50:41.762Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] The Scribe's Solution: Recording Modern Television\""
 excerpt: "\"This Article Describes [Updated] The Scribe's Solution: Recording Modern Television\""
 keywords: "TV Show Scripting,Screenplay Recording,Digital Video Archive,Media Transcription,Broadcast Scripting,Content Capture TV,Live TV Scripting"
-thumbnail: https://www.lifewire.com/thmb/ky9dx6TkOY6aQ-Ch6TfW7sMDBu8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-free-movies-on-youtube-5114491-12-811d37329347405eab1a368e3018dc54.jpg
+thumbnail: https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg
 ---
 
 ## The Scribe's Solution: Recording Modern Television

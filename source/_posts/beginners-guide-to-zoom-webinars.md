@@ -1,7 +1,7 @@
 ---
 title: "Beginner’s Guide to Zoom Webinars"
-date: 2024-05-18T08:41:46.646Z
-updated: 2024-05-19T08:41:46.646Z
+date: 2024-06-09T06:50:35.118Z
+updated: 2024-06-10T06:50:35.118Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Beginner’s Guide to Zoom Webinars"
 excerpt: "This Article Describes Beginner’s Guide to Zoom Webinars"
 keywords: "Zoom Webinar Basics,Start with Zoom Meetings,First Steps in Zoom Webinar,Intro to Virtual Conferences,Learn Hosting Webinars,Webinar for Beginners Guide,Getting Started with Zoom Sessions"
-thumbnail: https://www.lifewire.com/thmb/17eYx3JlNgYWrNsT2X2f6cCUjf0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edit-tweet-after-publish-3476767-34af9aa3b62b4bf4b11891460076916b.png
+thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea886bdb64936441ab4225274.png
 ---
 
 ## Beginner’s Guide to Zoom Webinars

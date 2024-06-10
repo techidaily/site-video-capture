@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  History in Action  Top 7 Engaging Civilization Wars\""
-date: 2024-05-18T09:03:38.053Z
-updated: 2024-05-19T09:03:38.053Z
+date: 2024-06-09T06:50:39.329Z
+updated: 2024-06-10T06:50:39.329Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: History in Action: Top 7 Engaging Civilization Wars\""
 excerpt: "\"This Article Describes 2024 Approved: History in Action: Top 7 Engaging Civilization Wars\""
 keywords: "War History Engagement,Civil War Excitement,Historical Battles List,War Strategies Past,Ancient Conflict Study,Engaging War Chronicle,Battle Tactics Review"
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## History in Action: Top 7 Engaging Civilization Wars

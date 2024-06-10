@@ -1,7 +1,7 @@
 ---
 title: "\"Battle for Bushido  Next-Level Titles Echoing Tsushi's Spirit for 2024\""
-date: 2024-05-19T21:36:08.617Z
-updated: 2024-05-20T21:36:08.617Z
+date: 2024-06-09T06:50:49.210Z
+updated: 2024-06-10T06:50:49.210Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Battle for Bushido: Next-Level Titles Echoing Tsushi's Spirit for 2024\""
 excerpt: "\"This Article Describes Battle for Bushido: Next-Level Titles Echoing Tsushi's Spirit for 2024\""
 keywords: "\"Bushido Battle Tactics,Echoes of Samurai Spirit,Bushido: Gameplay Innovations,Next-Gen Bushido Titles,Samurai Valor in Gaming,Tsushi's Warfare Legacy,Bushido Adventure Quests\""
-thumbnail: https://www.lifewire.com/thmb/dXcXyOjh5f14j9Nzv8d0qtr4jHE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-850120538-4d2af54c23a641c8a5f2e00ef7a9aa37.jpg
+thumbnail: https://thmb.techidaily.com/805432a26a63c24a3ad7f94c306f1a1291a2364beb1c1710fc99d1f9d71ae26e.jpg
 ---
 
 ## Battle for Bushido: Next-Level Titles Echoing Tsushi's Spirit

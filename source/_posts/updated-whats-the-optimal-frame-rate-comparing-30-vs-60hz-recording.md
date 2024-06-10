@@ -1,7 +1,7 @@
 ---
 title: "[Updated] What's the Optimal Frame Rate? Comparing 30 Vs. 60Hz Recording"
-date: 2024-05-18T08:49:10.068Z
-updated: 2024-05-19T08:49:10.068Z
+date: 2024-06-09T06:50:47.413Z
+updated: 2024-06-10T06:50:47.413Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] What's the Optimal Frame Rate? Comparing 30 Vs. 60Hz Recording"
 excerpt: "This Article Describes [Updated] What's the Optimal Frame Rate? Comparing 30 Vs. 60Hz Recording"
 keywords: "Gaming Record With Fraps,Fraps Gaming Capture,Essential Fraps Tips,Mastering Game Recording,Fraps Performance Guide,Quick Game Footage,Ultimate Fraps Techniques"
-thumbnail: https://www.lifewire.com/thmb/jU4B8oA_UfiJeCU8cLXdnDK6sCU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-a-wireless-charger-5191283-cb27ceee3fea4547b5720b4934713a93.jpg
+thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7fed1fa3496121c2d71b4b3d4.jpg
 ---
 
 ## What's the Optimal Frame Rate? Comparing 30 Vs. 60Hz Recording

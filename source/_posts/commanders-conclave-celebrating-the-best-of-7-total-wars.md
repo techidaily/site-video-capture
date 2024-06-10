@@ -1,7 +1,7 @@
 ---
 title: "\"Commanders' Conclave  Celebrating the Best of 7 Total Wars\""
-date: 2024-05-18T08:50:26.048Z
-updated: 2024-05-19T08:50:26.048Z
+date: 2024-06-09T06:50:45.247Z
+updated: 2024-06-10T06:50:45.247Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Commanders' Conclave: Celebrating the Best of 7 Total Wars\""
 excerpt: "\"This Article Describes Commanders' Conclave: Celebrating the Best of 7 Total Wars\""
 keywords: "TotalWar Command,WarConclave Top,CommandersBest,Wargame Summit,MilitaryCommanders,StrategicConclave7,TopTotalWars"
-thumbnail: https://www.lifewire.com/thmb/jU4B8oA_UfiJeCU8cLXdnDK6sCU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-choose-a-wireless-charger-5191283-cb27ceee3fea4547b5720b4934713a93.jpg
+thumbnail: https://thmb.techidaily.com/ac6fcc85e0fde61250c72c7455cdeba283035fd7fed1fa3496121c2d71b4b3d4.jpg
 ---
 
 ## Commanders' Conclave: Celebrating the Best of 7 Total Wars

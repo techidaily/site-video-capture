@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Art of Video Editing  Employing Strikethrough for Clarity\""
-date: 2024-05-18T08:52:37.099Z
-updated: 2024-05-19T08:52:37.099Z
+date: 2024-06-09T06:50:48.651Z
+updated: 2024-06-10T06:50:48.651Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: The Art of Video Editing: Employing Strikethrough for Clarity\""
 excerpt: "\"This Article Describes [New] 2024 Approved: The Art of Video Editing: Employing Strikethrough for Clarity\""
 keywords: "Video Editing Basics,Clarity in Videos,Strikethrough Use,Visual Editing Techniques,Clearer Editing Methods,Enhancing Video Quality,Effective Video Edits"
-thumbnail: https://www.lifewire.com/thmb/TYGiT5X9QiOC8P7-lx0tWOT-IQI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/airpodbatterylevelonandroid-15c1db7e9fac43248d130a42540c12a6.jpg
+thumbnail: https://thmb.techidaily.com/98061f90f0702266772c41039bf7505ea26afb88709675b4845f86d9c07123c1.jpg
 ---
 
 ## The Art of Video Editing: Employing Strikethrough for Clarity

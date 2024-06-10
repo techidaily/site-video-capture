@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Simplify Your Mac's Sound Recording Journey with Audacity"
-date: 2024-05-19T21:36:05.075Z
-updated: 2024-05-20T21:36:05.075Z
+date: 2024-06-09T06:50:48.142Z
+updated: 2024-06-10T06:50:48.142Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Simplify Your Mac's Sound Recording Journey with Audacity"
 excerpt: "This Article Describes [Updated] Simplify Your Mac's Sound Recording Journey with Audacity"
 keywords: "Simple Mac Sound Editing,Audacity Mac Usage,Easy Mac Recordings,Basic Mac Audio Tools,Simplified Mac Recording,Mac Sound Capture Ease,Quick Mac Audio Fixes"
-thumbnail: https://www.lifewire.com/thmb/eYcaBBIZ1vACwviFbibN_RqgtSY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-measuring-tv-size-102761115-getty-5bf8513246e0fb008321de5f.jpg
+thumbnail: https://thmb.techidaily.com/5b0ce9c020094ad31bdc87530c31e032109184ed98794f1ba27d0b681ad3c785.jpg
 ---
 
 ## Simplify Your Mac's Sound Recording Journey with Audacity

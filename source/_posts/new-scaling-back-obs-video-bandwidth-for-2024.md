@@ -1,7 +1,7 @@
 ---
 title: "[New] Scaling Back OBS Video Bandwidth for 2024"
-date: 2024-05-18T08:30:49.279Z
-updated: 2024-05-19T08:30:49.279Z
+date: 2024-06-09T06:50:33.557Z
+updated: 2024-06-10T06:50:33.557Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Scaling Back OBS Video Bandwidth for 2024"
 excerpt: "This Article Describes [New] Scaling Back OBS Video Bandwidth for 2024"
 keywords: "Reduce OBS Bandwidth,OBS Lower Limits,Manage OBS Streams,Optimize OBS Video,Control OBS Data Use,Efficient OBS BW Allocation,Minimize OBS Bandwidth"
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## Scaling Back OBS Video Bandwidth

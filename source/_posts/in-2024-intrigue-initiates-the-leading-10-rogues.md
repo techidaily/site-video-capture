@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Intrigue Initiates  The Leading 10 Rogues\""
-date: 2024-05-19T21:36:21.322Z
-updated: 2024-05-20T21:36:21.322Z
+date: 2024-06-09T06:50:43.160Z
+updated: 2024-06-10T06:50:43.160Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Intrigue Initiates: The Leading 10 Rogues\""
 excerpt: "\"This Article Describes In 2024, Intrigue Initiates: The Leading 10 Rogues\""
 keywords: "Rogue Intrigues Top,Top Ten Rogues In,Intriguing Rogues List,Top Rogue Characters,Leading Rogue Tactics,Initiating Rogue Plans,10 Most Notorious Rogues"
-thumbnail: https://www.lifewire.com/thmb/P9BLOm818Wmv2RgfhK_jtXxf4Rk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/178665671_HighRes-56a532a83df78cf77286de1b.jpg
+thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7745911720b5a34076945390.jpg
 ---
 
 ## Intrigue Initiates: The Leading 10 Rogues

@@ -1,7 +1,7 @@
 ---
 title: "Immediate Screenshot on a MAC for 2024"
-date: 2024-05-19T21:36:23.585Z
-updated: 2024-05-20T21:36:23.585Z
+date: 2024-06-09T06:50:41.415Z
+updated: 2024-06-10T06:50:41.415Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Immediate Screenshot on a MAC for 2024"
 excerpt: "This Article Describes Immediate Screenshot on a MAC for 2024"
 keywords: "\"Mac ScreenShot Quickly,On-the-Spot MAC Screenshot,MAC Immediate Capture,MAC Take Snapshot Instantly,Rapid Screenshot MAC,Real-Time MAC Image,MAC Snapshot Instantly\""
-thumbnail: https://www.lifewire.com/thmb/3tobj7wbVapRfa4KsiobKg3Nu40=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-184415451-9f59b82b64ac421cad0f28540a515b5f.jpg
+thumbnail: https://thmb.techidaily.com/ea90287aad1128dcf73001caefa47ec3f1c16bb10f0ed6607a3b7c4f98575dff.jpg
 ---
 
 ## Immediate Screenshot on a MAC

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Roguelikes' Roots & Their Rebirth as Roguiles\""
-date: 2024-05-18T09:02:21.786Z
-updated: 2024-05-19T09:02:21.786Z
+date: 2024-06-09T06:50:46.481Z
+updated: 2024-06-10T06:50:46.481Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Roguelikes' Roots & Their Rebirth as Roguiles\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Roguelikes' Roots & Their Rebirth as Roguiles\""
 keywords: "Roguelike Origins,Rogue Revival,Roguelike Rise,Old Roguescore,Roguelike Renewal,Roguelites' Roots,Roguelites Rebirth"
-thumbnail: https://www.lifewire.com/thmb/17eYx3JlNgYWrNsT2X2f6cCUjf0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edit-tweet-after-publish-3476767-34af9aa3b62b4bf4b11891460076916b.png
+thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea886bdb64936441ab4225274.png
 ---
 
 ## Roguelikes' Roots & Their Rebirth as Roguiles

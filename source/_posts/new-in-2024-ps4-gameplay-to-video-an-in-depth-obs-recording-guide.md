@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, PS4 Gameplay to Video - An In-Depth OBS Recording Guide\""
-date: 2024-05-18T08:44:57.582Z
-updated: 2024-05-19T08:44:57.582Z
+date: 2024-06-09T06:50:32.283Z
+updated: 2024-06-10T06:50:32.283Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, PS4 Gameplay to Video - An In-Depth OBS Recording Guide\""
 excerpt: "\"This Article Describes [New] In 2024, PS4 Gameplay to Video - An In-Depth OBS Recording Guide\""
 keywords: "\"PS4 Gaming Vids,OBS Capture Guide,Console Game Record,PlayStation Gaming Tips,Video Editing PS4 Games,In-Depth Game Recording,Live Stream PS4 Techniques\""
-thumbnail: https://www.lifewire.com/thmb/s_49EdazIwlAKelLWFU8LSaOlMk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg
 ---
 
 ## PS4 Gameplay to Video - An In-Depth OBS Recording Guide

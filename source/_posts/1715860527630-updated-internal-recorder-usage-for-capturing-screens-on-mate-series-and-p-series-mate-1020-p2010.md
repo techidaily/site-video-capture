@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10)."
-date: 2024-05-18T09:02:41.137Z
-updated: 2024-05-19T09:02:41.137Z
+date: 2024-06-09T06:50:37.732Z
+updated: 2024-06-10T06:50:37.732Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10)."
 excerpt: "This Article Describes [Updated] Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10)."
 keywords: "Mate Series ScreenCapture,P Series InternalRecorder,Mate10P20ScreenCapture,Mate20P10ScreenshotTool,SamsungPSeriesRecording,Mate10/20InsideView,PSeriesInternalDisplayCapture"
-thumbnail: https://www.lifewire.com/thmb/TUGFYGtB5bZInUlxzvTab3CVXdM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungvoiceassistant-1c59910bc4614b2a8531fc5b7a754e7d.jpg
+thumbnail: https://thmb.techidaily.com/aa75ccceb27df582eb4900ae099d99b1731677ace1a8dcb38cd4f8698fb9bdda.jpg
 ---
 
 ## Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10)

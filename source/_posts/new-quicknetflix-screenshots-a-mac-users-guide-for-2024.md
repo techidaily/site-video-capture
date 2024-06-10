@@ -1,7 +1,7 @@
 ---
 title: "\"[New] QuickNetflix Screenshots  A Mac User's Guide for 2024\""
-date: 2024-05-18T08:49:52.241Z
-updated: 2024-05-19T08:49:52.241Z
+date: 2024-06-09T06:50:38.059Z
+updated: 2024-06-10T06:50:38.059Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] QuickNetflix Screenshots: A Mac User's Guide for 2024\""
 excerpt: "\"This Article Describes [New] QuickNetflix Screenshots: A Mac User's Guide for 2024\""
 keywords: "Netflix Screencasts MAc,Mac QuickViewNetflix,Mac StreamingScreens,Netflix MACGuide,QuickMacScreenshots,ViewNetfliXMACHelp,MacNetflixScreenTips"
-thumbnail: https://www.lifewire.com/thmb/Z7QL7-14ToGxatBbyXkMA5egnao=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-wh-1000xm2-wireless-noise-cancelling-headphones-59c91370c412440010f51191.PNG
+thumbnail: https://thmb.techidaily.com/c45afa71b37443a1f59fe90234d68b3b0e50e4c51b39e47e7a2ccf645d397043.PNG
 ---
 
 ## QuickNetflix Screenshots: A Mac User's Guide

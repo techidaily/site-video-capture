@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Live Broadcast Battlefield  OBS Versus ShadowPlay for 2024\""
-date: 2024-05-18T08:37:03.845Z
-updated: 2024-05-19T08:37:03.845Z
+date: 2024-06-09T06:50:35.661Z
+updated: 2024-06-10T06:50:35.661Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Live Broadcast Battlefield: OBS Versus ShadowPlay for 2024\""
 excerpt: "\"This Article Describes [Updated] Live Broadcast Battlefield: OBS Versus ShadowPlay for 2024\""
 keywords: "OBS Vs. Shadow,Live Stream Combat,OBS Showdown,Shadow Play Race,Broadcast Duel,Streaming War,Battlefield Broadcast"
-thumbnail: https://www.lifewire.com/thmb/UchI0OfcFuiZjMJhTw31h6uHSHQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Race-982fb219114a48fb96b9c5a2c6f93847.jpg
+thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce093f59dcdf2b6479e3403f82d.jpg
 ---
 
 ## Live Broadcast Battlefield: OBS Versus ShadowPlay

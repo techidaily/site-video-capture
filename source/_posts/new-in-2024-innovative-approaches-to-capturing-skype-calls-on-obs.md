@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Innovative Approaches to Capturing Skype Calls on OBS"
-date: 2024-05-19T21:36:15.206Z
-updated: 2024-05-20T21:36:15.206Z
+date: 2024-06-09T06:50:31.846Z
+updated: 2024-06-10T06:50:31.846Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Innovative Approaches to Capturing Skype Calls on OBS"
 excerpt: "This Article Describes [New] In 2024, Innovative Approaches to Capturing Skype Calls on OBS"
 keywords: "Skype Call Recording,OBS CAPTURE,OBS Skype Integration,Live Stream Recording,Skype Screen Capture,OBS Call Recordings,Remote Calls Capture"
-thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/linksys-default-password-list-2619153-5fccecc7c0b04133b2202a1fa9e8d37a.png
+thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a3a5a4a6ed566b778061c9ff.png
 ---
 
 ## Innovative Approaches to Capturing Skype Calls on OBS

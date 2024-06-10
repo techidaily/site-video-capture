@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Stream on YouTube & Twitch with OBS\""
-date: 2024-05-18T08:30:00.833Z
-updated: 2024-05-19T08:30:00.833Z
+date: 2024-06-09T06:50:34.202Z
+updated: 2024-06-10T06:50:34.202Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: How to Stream on YouTube & Twitch with OBS\""
 excerpt: "\"This Article Describes 2024 Approved: How to Stream on YouTube & Twitch with OBS\""
 keywords: "\"YouTube Streaming Guide,Twitch Live Broadcast,OBS Studio Streaming,Online Video Platforms,Livestream Techniques,Digital Content Creation,Cross-Platform Broadcasting\""
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## How to Stream on YouTube & Twitch with OBS

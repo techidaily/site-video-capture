@@ -1,7 +1,7 @@
 ---
 title: "In 2024, 15 Exceptional Homes From the Virtual World of Minecraft"
-date: 2024-05-18T08:37:07.850Z
-updated: 2024-05-19T08:37:07.850Z
+date: 2024-06-09T06:50:39.795Z
+updated: 2024-06-10T06:50:39.795Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, 15 Exceptional Homes From the Virtual World of Minecraft"
 excerpt: "This Article Describes In 2024, 15 Exceptional Homes From the Virtual World of Minecraft"
 keywords: "Minecraft Houses,Best Mojang Designs,Unique Home Projects,Creative Building Blocks,Minecraft Architectural Showcase,Virtual Property Tour,Exceptional Buildings in Gameplay"
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## 15 Exceptional Homes From the Virtual World of Minecraft

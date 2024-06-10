@@ -1,7 +1,7 @@
 ---
 title: "\"Obs Chronology Control  Building a Personalized Countdown for 2024\""
-date: 2024-05-18T08:39:32.222Z
-updated: 2024-05-19T08:39:32.222Z
+date: 2024-06-09T06:50:39.571Z
+updated: 2024-06-10T06:50:39.571Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Obs Chronology Control: Building a Personalized Countdown for 2024\""
 excerpt: "\"This Article Describes Obs Chronology Control: Building a Personalized Countdown for 2024\""
 keywords: "\"On-The-Go Speech Tools,Personalized Speaking Aids,Real-Time Speech Enhancement,Portable Speech Modifiers,Mobile Speaking Upgrade,Dynamic Speech Customization,Easy Speech Adaptation Devices\""
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## Obs Chronology Control: Building a Personalized Countdown

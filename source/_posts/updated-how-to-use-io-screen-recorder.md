@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Use IO Screen Recorder"
-date: 2024-05-19T21:36:01.372Z
-updated: 2024-05-20T21:36:01.372Z
+date: 2024-06-09T06:50:34.879Z
+updated: 2024-06-10T06:50:34.880Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] How to Use IO Screen Recorder"
 excerpt: "This Article Describes [Updated] How to Use IO Screen Recorder"
 keywords: "\"IO Screen Capture,Recording IO Monitor,Save IO Display,IO Graphics Recorder,IO Video Taping,IO Screen Capture Tool,Real-Time IO Record\""
-thumbnail: https://www.lifewire.com/thmb/td12YpTj-yP7iyxYOnjHj9dHoA4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/streamfreesportsonline-5b1994178023b900364a81e5.jpg
+thumbnail: https://thmb.techidaily.com/0cd373a6b0eece48a6e2d5d0248da5d1df8fff3f71196cdaae4af6176a3b33bf.jpg
 ---
 
 ## How to Use IO Screen Recorder

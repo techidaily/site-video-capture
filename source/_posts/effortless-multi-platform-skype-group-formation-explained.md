@@ -1,7 +1,7 @@
 ---
 title: "\"Effortless Multi-Platform Skype Group Formation Explained\""
-date: 2024-05-18T08:36:40.976Z
-updated: 2024-05-19T08:36:40.976Z
+date: 2024-06-09T06:50:39.296Z
+updated: 2024-06-10T06:50:39.296Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Effortless Multi-Platform Skype Group Formation Explained\""
 excerpt: "\"This Article Describes Effortless Multi-Platform Skype Group Formation Explained\""
 keywords: "\"Easy Skype Groups,Cross-Platform Skype Teams,Simple Skype Joining,Instant Skype Bands,Effortless Skype Units,Quick Skype Clusters,Simplified Multi-Skype Cohorts\""
-thumbnail: https://www.lifewire.com/thmb/6e-dHhpfl-OgzUpZXzufYG-qf-Y=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/movie-night-at-home-with-popcorn_t20_yv3PA9-5c815f7fc9e77c0001fd5b49.jpg
+thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e55514d7bc0ce5bafaca00aee.jpg
 ---
 
 ## Effortless Multi-Platform Skype Group Formation Explained

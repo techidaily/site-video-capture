@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Craft Your Countdown  Adding Time Management to OBS Sessions\""
-date: 2024-05-19T21:35:56.692Z
-updated: 2024-05-20T21:35:56.692Z
+date: 2024-06-09T06:50:47.484Z
+updated: 2024-06-10T06:50:47.484Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Craft Your Countdown: Adding Time Management to OBS Sessions\""
 excerpt: "\"This Article Describes [New] Craft Your Countdown: Adding Time Management to OBS Sessions\""
 keywords: "Minecraft Session Recording,Save Minecraft Saves,Pro MiningTips Guide,Minecraft Tutorial Almanac,Expert Minecraft Saving,Gaming Session Archive,Minecraft Strategy Guide"
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## Craft Your Countdown: Adding Time Management to OBS Sessions

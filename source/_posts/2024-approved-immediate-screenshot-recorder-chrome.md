@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Immediate Screenshot Recorder (Chrome)\""
-date: 2024-05-19T21:35:27.434Z
-updated: 2024-05-20T21:35:27.435Z
+date: 2024-06-09T06:50:35.289Z
+updated: 2024-06-10T06:50:35.289Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Immediate Screenshot Recorder (Chrome)\""
 excerpt: "\"This Article Describes 2024 Approved: Immediate Screenshot Recorder (Chrome)\""
 keywords: "\"Chrome Screenshot Tool,Live Screen Capture Chrome,Instant Chromecast,Real-Time Web Snapper,Chrome Screen Grab,Quick Browser Recorder,On-the-Spot Chrome Record\""
-thumbnail: https://www.lifewire.com/thmb/J824Ra8KQFbLaWC_ATGxX22EzOA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/trends_MontyRakusen_Getty-5a4aa079482c5200362b0987.jpg
+thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373d5c47d7a53f258bef450907.jpg
 ---
 
 ## Immediate Screenshot Recorder (Chrome)

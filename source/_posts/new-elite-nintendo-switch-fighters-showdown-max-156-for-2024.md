@@ -1,7 +1,7 @@
 ---
 title: "[New] Elite Nintendo Switch Fighters Showdown (Max 156) for 2024"
-date: 2024-05-18T08:46:57.301Z
-updated: 2024-05-19T08:46:57.301Z
+date: 2024-06-09T06:50:47.217Z
+updated: 2024-06-10T06:50:47.217Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Elite Nintendo Switch Fighters Showdown (Max 156) for 2024"
 excerpt: "This Article Describes [New] Elite Nintendo Switch Fighters Showdown (Max 156) for 2024"
 keywords: "\"Nintendo Switch Fighters,Elite Fighting Switch,Maxed-Out Fighter Games,Switch Gaming Warriors,Ultimate Game Showdown,Top Elite Switch Titles,Limited Edition Battlers\""
-thumbnail: https://www.lifewire.com/thmb/v4AbqnTlju8lMmkS1DJOcvntGsY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-839864362-59c51d1daf5d3a0010919ae9.jpg
+thumbnail: https://thmb.techidaily.com/ed1580a633035850affefcaff2905a61682a6fee4ff28b2032ed8b7104437026.jpg
 ---
 
 ## Elite Nintendo Switch Fighters Showdown (Max 156)

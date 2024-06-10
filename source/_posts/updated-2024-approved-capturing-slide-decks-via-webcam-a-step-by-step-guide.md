@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Capturing Slide Decks via Webcam  A Step-by-Step Guide\""
-date: 2024-05-18T08:46:23.502Z
-updated: 2024-05-19T08:46:23.502Z
+date: 2024-06-09T06:50:43.299Z
+updated: 2024-06-10T06:50:43.299Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Capturing Slide Decks via Webcam: A Step-by-Step Guide\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Capturing Slide Decks via Webcam: A Step-by-Step Guide\""
 keywords: "Webcam Slide Show,Capture Slides Online,Webcam Presentation,Video Slideshow Guide,Webcam Deck Capture,Online Slidecasting,Create Slideshows WebCam"
-thumbnail: https://www.lifewire.com/thmb/LSRhv9V0PxzBAHOqiakqf0M89LI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1302402871-ea3debd2e3c64ec5a78a99e580b6a8d1.jpg
+thumbnail: https://thmb.techidaily.com/930df60c591e2a9cac7ea1bfd12cb488be55e4b8a96b142f6b85654b12ef9f8e.jpg
 ---
 
 ## Capturing Slide Decks via Webcam: A Step-by-Step Guide

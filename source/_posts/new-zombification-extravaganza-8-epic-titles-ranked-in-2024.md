@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Zombification Extravaganza - 8 Epic Titles Ranked, In 2024\""
-date: 2024-05-19T21:36:17.163Z
-updated: 2024-05-20T21:36:17.163Z
+date: 2024-06-09T06:50:40.347Z
+updated: 2024-06-10T06:50:40.347Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Zombification Extravaganza - 8 Epic Titles Ranked, In 2024\""
 excerpt: "\"This Article Describes [New] Zombification Extravaganza - 8 Epic Titles Ranked, In 2024\""
 keywords: "Zombie Film Titles,Top Zombie Movie Names,Best Zombie Films,Iconic Zombies,Zombie Epics Ranking,Classic Zombie Titles,Zombie Thriller Hits"
-thumbnail: https://www.lifewire.com/thmb/4MzQVD7hvg3LqrJguvtCUGY_xnA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-990620130-ec2a7076e3f043bfa4f540b72d2034c6.jpg
+thumbnail: https://thmb.techidaily.com/122b9bb2737079496d6a2d69ef766a3b3b8a091bd4f5906c27990e96a64caabf.jpg
 ---
 
 ## Zombification Extravaganza - 8 Epic Titles Ranked

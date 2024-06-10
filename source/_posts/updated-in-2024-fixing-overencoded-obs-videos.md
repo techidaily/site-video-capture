@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Fixing Overencoded OBS Videos"
-date: 2024-05-19T21:35:42.835Z
-updated: 2024-05-20T21:35:42.835Z
+date: 2024-06-09T06:50:37.461Z
+updated: 2024-06-10T06:50:37.461Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Fixing Overencoded OBS Videos"
 excerpt: "This Article Describes [Updated] In 2024, Fixing Overencoded OBS Videos"
 keywords: "OBS Video Optimization,Encoding OBS Fix,Improve OBS Playback,Correct Overcoding OBS,Enhance OBS Video Quality,Reduce OBS Bitrate,Streamline OBS Output"
-thumbnail: https://www.lifewire.com/thmb/zWxNYaUUEWKWwcCxwdQ9gx8_XCw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-safely-use-airport-charging-stations-4690583-01-6085c56e46b34f84b5f5d2d976e20677.jpg
+thumbnail: https://thmb.techidaily.com/3fbb28fdd30ab5cd77a4baca2551c9d92b27e18215ac7c02404eb389cacb68b2.jpg
 ---
 
 ## Fixing Overencoded OBS Videos

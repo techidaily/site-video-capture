@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Simplified OBS Settings for Economical Systems"
-date: 2024-05-18T09:00:02.162Z
-updated: 2024-05-19T09:00:02.162Z
+date: 2024-06-09T06:50:47.332Z
+updated: 2024-06-10T06:50:47.332Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] In 2024, Simplified OBS Settings for Economical Systems"
 excerpt: "This Article Describes [New] In 2024, Simplified OBS Settings for Economical Systems"
 keywords: "\"Simplified OBS,Economical Systems,OBS Settings Guide,Economical OBS Config,Simple OBS Tutorial,Cost-Efficient OBS,Optimize OBS Efficiency\""
-thumbnail: https://www.lifewire.com/thmb/-m_9JJb4F4y8I0dYVcJrZSeVFcs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Unlockedphone_mikkelwilliam_Getty_Eplus-bd0f806b392b4069ab6618d3b520f5b7.jpg
+thumbnail: https://thmb.techidaily.com/7ac9924553405319fc34adce73b50933080c4e0b7ab947e877cf6636c606146d.jpg
 ---
 
 ## Simplified OBS Settings for Economical Systems

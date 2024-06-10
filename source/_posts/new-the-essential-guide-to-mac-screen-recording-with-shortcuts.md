@@ -1,7 +1,7 @@
 ---
 title: "[New] The Essential Guide to Mac Screen Recording with Shortcuts"
-date: 2024-05-19T21:35:33.115Z
-updated: 2024-05-20T21:35:33.115Z
+date: 2024-06-09T06:50:48.935Z
+updated: 2024-06-10T06:50:48.935Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] The Essential Guide to Mac Screen Recording with Shortcuts"
 excerpt: "This Article Describes [New] The Essential Guide to Mac Screen Recording with Shortcuts"
 keywords: "\"Quick Mac Screencasting,Shortcut-Based Screen Capture,Essential Screen Record Mac,Efficient Mac Recording Tips,Guide to Mac Screen Capture,Master Mac Screenshot Shortcuts,Basics of Screen Save on Mac\""
-thumbnail: https://www.lifewire.com/thmb/NgJyQBGFmsrhkEXhA5pREWNGnoI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/photo-editor-working-on-computer-at-desk-in-office-946928370-5b85791746e0fb0025b40d84.jpg
+thumbnail: https://thmb.techidaily.com/845fcd5e3eadfdeed515b58ea51b6008ffc3adda0043bb6ffedd07e36277b4e8.jpg
 ---
 
 ## The Essential Guide to Mac Screen Recording with Shortcuts
