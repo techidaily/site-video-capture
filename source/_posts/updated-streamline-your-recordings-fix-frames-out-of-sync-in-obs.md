@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Streamline Your Recordings  Fix Frames Out of Sync in OBS\""
-date: 2024-05-19T21:36:00.508Z
-updated: 2024-05-20T21:36:00.508Z
+date: 2024-06-18T10:57:42.098Z
+updated: 2024-06-19T10:57:42.098Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Streamline Your Recordings: Fix Frames Out of Sync in OBS\""
 excerpt: "\"This Article Describes [Updated] Streamline Your Recordings: Fix Frames Out of Sync in OBS\""
 keywords: "\"OBS Sync Fix,Frame Alignment,Audio-Video Sync,Sync Recordings,OBS Audio Issue,OBS Video Outta Sync,Enhance OBS Stream\""
-thumbnail: https://www.lifewire.com/thmb/sx5hd7He1vcpR0KajATX8cwq3zM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Twitter-and-X-4c4103f6bc3c42e0b7197b60a50317ca.jpg
+thumbnail: https://thmb.techidaily.com/1b366750108562524d82d4ae59a489c50fa84a81f8bcbe092ec793162bb9610d.jpg
 ---
 
 ## Streamline Your Recordings: Fix Frames Out of Sync in OBS

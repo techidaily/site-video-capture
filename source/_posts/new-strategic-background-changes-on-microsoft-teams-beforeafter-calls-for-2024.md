@@ -1,7 +1,7 @@
 ---
 title: "[New] Strategic Background Changes on Microsoft Teams Before/After Calls for 2024"
-date: 2024-05-18T08:37:19.451Z
-updated: 2024-05-19T08:37:19.451Z
+date: 2024-06-18T10:57:42.380Z
+updated: 2024-06-19T10:57:42.380Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Strategic Background Changes on Microsoft Teams Before/After Calls for 2024"
 excerpt: "This Article Describes [New] Strategic Background Changes on Microsoft Teams Before/After Calls for 2024"
 keywords: "MS Teams Call Strategy,Tech Teams Adaptation,Business Meeting Shifts,Collaboration Platform Updates,Pre/Post Calls Management,Microsoft Teams Modification,Team Communication Evolution"
-thumbnail: https://www.lifewire.com/thmb/XFPs7ukKGYkDLjHUDiAKej05X4I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Cleaningrobotonlaptop_HuberandStarke_GettyImages-1448733073_EVANCROP-8ed67f08b9c4430db8e47c51fde78feb.jpg
+thumbnail: https://thmb.techidaily.com/09fee241173a4d75afd314bc2889ac10d1158fd98dc41bc3885e34ece3467540.jpg
 ---
 
 ## Strategic Background Changes on Microsoft Teams Before/After Calls
@@ -92,7 +92,7 @@ While in an ongoing meeting session, click the **More actions** icon from the to
 
 From the images available in the **Background settings** pane on the right, click to select the one that you want to use as a new background, and click **Apply** from the bottom to save the changes.
 
-![change background on Teams ](https://images.wondershare.com/filmora/article-images/change-backgrounds-in-teams.jpg)
+![change background on Teams](https://images.wondershare.com/filmora/article-images/change-backgrounds-in-teams.jpg)
 
 ## Part 3: How to Upload a Custom Background in Microsoft Teams?
 
@@ -106,13 +106,13 @@ Start Microsoft Teams on your computer, use the method explained earlier to turn
 
 Click **Add new** from the top of the **Background settings** pane, and pick your preferred photo from your computer to upload to Teams and use it as a custom background. Next, click **Join now** from the bottom of the preview screen join or start a new meeting.
 
-![add new background on Teams ](https://images.wondershare.com/filmora/article-images/add-new-background-in-teams.jpg)
+![add new background on Teams](https://images.wondershare.com/filmora/article-images/add-new-background-in-teams.jpg)
 
 **Step 3: Remove an Uploaded Background**
 
 Click to select any other background from the **Background settings** pane, locate the custom image that you uploaded, click the **More** icon from the top-right of the tile, and click **Remove** to get rid of the custom background.
 
-![add new custom background on Teams ](https://images.wondershare.com/filmora/article-images/change-custom-background-in-teams.jpg)
+![add new custom background on Teams](https://images.wondershare.com/filmora/article-images/change-custom-background-in-teams.jpg)
 
 ## Part 4: How to Change Your Background Before/After a Meeting Starts on Mobile Devices?
 
@@ -122,17 +122,17 @@ Even the mobile versions of Microsoft Teams let you change the background. Howev
 
 Launch Microsoft Teams on your cellphone (iPhone X is used here for illustration). Ensure that the **Chat** option is selected from the bottom of the main screen, tap the **Instant meeting** (**Camcorder**) icon from the top-right corner of the window, and tap **Start meeting** from the lower area of the **Instant meeting** box that pops up.
 
-![start video call on Teams ](https://images.wondershare.com/filmora/article-images/start-video-call-teams-iphone.jpg)
+![start video call on Teams](https://images.wondershare.com/filmora/article-images/start-video-call-teams-iphone.jpg)
 
 **Step 2: Get to the Select background Screen**
 
 Once the meeting starts, tap the **More actions** icon from the bottom of the screen, and tap **Background effects** when the options box pops up.
 
-![Teams background effects on iPhone ](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
+![Teams background effects on iPhone](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
 
 **Step 3: Change the Background**
 
-![change background  on Teams mobile ](https://images.wondershare.com/filmora/article-images/teams-video-call-change-background-mobile.jpg)
+![change background  on Teams mobile](https://images.wondershare.com/filmora/article-images/teams-video-call-change-background-mobile.jpg)
 
 On the **Select background** screen, tap to select an image to use it as the background. Alternatively, you can also tap the **+** tile to upload and use a custom image. After selecting a background, tap **Done** from the top-right corner of the screen to save the changes.
 
@@ -256,7 +256,7 @@ While in an ongoing meeting session, click the **More actions** icon from the to
 
 From the images available in the **Background settings** pane on the right, click to select the one that you want to use as a new background, and click **Apply** from the bottom to save the changes.
 
-![change background on Teams ](https://images.wondershare.com/filmora/article-images/change-backgrounds-in-teams.jpg)
+![change background on Teams](https://images.wondershare.com/filmora/article-images/change-backgrounds-in-teams.jpg)
 
 ## Part 3: How to Upload a Custom Background in Microsoft Teams?
 
@@ -270,13 +270,13 @@ Start Microsoft Teams on your computer, use the method explained earlier to turn
 
 Click **Add new** from the top of the **Background settings** pane, and pick your preferred photo from your computer to upload to Teams and use it as a custom background. Next, click **Join now** from the bottom of the preview screen join or start a new meeting.
 
-![add new background on Teams ](https://images.wondershare.com/filmora/article-images/add-new-background-in-teams.jpg)
+![add new background on Teams](https://images.wondershare.com/filmora/article-images/add-new-background-in-teams.jpg)
 
 **Step 3: Remove an Uploaded Background**
 
 Click to select any other background from the **Background settings** pane, locate the custom image that you uploaded, click the **More** icon from the top-right of the tile, and click **Remove** to get rid of the custom background.
 
-![add new custom background on Teams ](https://images.wondershare.com/filmora/article-images/change-custom-background-in-teams.jpg)
+![add new custom background on Teams](https://images.wondershare.com/filmora/article-images/change-custom-background-in-teams.jpg)
 
 ## Part 4: How to Change Your Background Before/After a Meeting Starts on Mobile Devices?
 
@@ -286,17 +286,17 @@ Even the mobile versions of Microsoft Teams let you change the background. Howev
 
 Launch Microsoft Teams on your cellphone (iPhone X is used here for illustration). Ensure that the **Chat** option is selected from the bottom of the main screen, tap the **Instant meeting** (**Camcorder**) icon from the top-right corner of the window, and tap **Start meeting** from the lower area of the **Instant meeting** box that pops up.
 
-![start video call on Teams ](https://images.wondershare.com/filmora/article-images/start-video-call-teams-iphone.jpg)
+![start video call on Teams](https://images.wondershare.com/filmora/article-images/start-video-call-teams-iphone.jpg)
 
 **Step 2: Get to the Select background Screen**
 
 Once the meeting starts, tap the **More actions** icon from the bottom of the screen, and tap **Background effects** when the options box pops up.
 
-![Teams background effects on iPhone ](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
+![Teams background effects on iPhone](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
 
 **Step 3: Change the Background**
 
-![change background  on Teams mobile ](https://images.wondershare.com/filmora/article-images/teams-video-call-change-background-mobile.jpg)
+![change background  on Teams mobile](https://images.wondershare.com/filmora/article-images/teams-video-call-change-background-mobile.jpg)
 
 On the **Select background** screen, tap to select an image to use it as the background. Alternatively, you can also tap the **+** tile to upload and use a custom image. After selecting a background, tap **Done** from the top-right corner of the screen to save the changes.
 
@@ -420,7 +420,7 @@ While in an ongoing meeting session, click the **More actions** icon from the to
 
 From the images available in the **Background settings** pane on the right, click to select the one that you want to use as a new background, and click **Apply** from the bottom to save the changes.
 
-![change background on Teams ](https://images.wondershare.com/filmora/article-images/change-backgrounds-in-teams.jpg)
+![change background on Teams](https://images.wondershare.com/filmora/article-images/change-backgrounds-in-teams.jpg)
 
 ## Part 3: How to Upload a Custom Background in Microsoft Teams?
 
@@ -434,13 +434,13 @@ Start Microsoft Teams on your computer, use the method explained earlier to turn
 
 Click **Add new** from the top of the **Background settings** pane, and pick your preferred photo from your computer to upload to Teams and use it as a custom background. Next, click **Join now** from the bottom of the preview screen join or start a new meeting.
 
-![add new background on Teams ](https://images.wondershare.com/filmora/article-images/add-new-background-in-teams.jpg)
+![add new background on Teams](https://images.wondershare.com/filmora/article-images/add-new-background-in-teams.jpg)
 
 **Step 3: Remove an Uploaded Background**
 
 Click to select any other background from the **Background settings** pane, locate the custom image that you uploaded, click the **More** icon from the top-right of the tile, and click **Remove** to get rid of the custom background.
 
-![add new custom background on Teams ](https://images.wondershare.com/filmora/article-images/change-custom-background-in-teams.jpg)
+![add new custom background on Teams](https://images.wondershare.com/filmora/article-images/change-custom-background-in-teams.jpg)
 
 ## Part 4: How to Change Your Background Before/After a Meeting Starts on Mobile Devices?
 
@@ -450,17 +450,17 @@ Even the mobile versions of Microsoft Teams let you change the background. Howev
 
 Launch Microsoft Teams on your cellphone (iPhone X is used here for illustration). Ensure that the **Chat** option is selected from the bottom of the main screen, tap the **Instant meeting** (**Camcorder**) icon from the top-right corner of the window, and tap **Start meeting** from the lower area of the **Instant meeting** box that pops up.
 
-![start video call on Teams ](https://images.wondershare.com/filmora/article-images/start-video-call-teams-iphone.jpg)
+![start video call on Teams](https://images.wondershare.com/filmora/article-images/start-video-call-teams-iphone.jpg)
 
 **Step 2: Get to the Select background Screen**
 
 Once the meeting starts, tap the **More actions** icon from the bottom of the screen, and tap **Background effects** when the options box pops up.
 
-![Teams background effects on iPhone ](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
+![Teams background effects on iPhone](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
 
 **Step 3: Change the Background**
 
-![change background  on Teams mobile ](https://images.wondershare.com/filmora/article-images/teams-video-call-change-background-mobile.jpg)
+![change background  on Teams mobile](https://images.wondershare.com/filmora/article-images/teams-video-call-change-background-mobile.jpg)
 
 On the **Select background** screen, tap to select an image to use it as the background. Alternatively, you can also tap the **+** tile to upload and use a custom image. After selecting a background, tap **Done** from the top-right corner of the screen to save the changes.
 
@@ -584,7 +584,7 @@ While in an ongoing meeting session, click the **More actions** icon from the to
 
 From the images available in the **Background settings** pane on the right, click to select the one that you want to use as a new background, and click **Apply** from the bottom to save the changes.
 
-![change background on Teams ](https://images.wondershare.com/filmora/article-images/change-backgrounds-in-teams.jpg)
+![change background on Teams](https://images.wondershare.com/filmora/article-images/change-backgrounds-in-teams.jpg)
 
 ## Part 3: How to Upload a Custom Background in Microsoft Teams?
 
@@ -598,13 +598,13 @@ Start Microsoft Teams on your computer, use the method explained earlier to turn
 
 Click **Add new** from the top of the **Background settings** pane, and pick your preferred photo from your computer to upload to Teams and use it as a custom background. Next, click **Join now** from the bottom of the preview screen join or start a new meeting.
 
-![add new background on Teams ](https://images.wondershare.com/filmora/article-images/add-new-background-in-teams.jpg)
+![add new background on Teams](https://images.wondershare.com/filmora/article-images/add-new-background-in-teams.jpg)
 
 **Step 3: Remove an Uploaded Background**
 
 Click to select any other background from the **Background settings** pane, locate the custom image that you uploaded, click the **More** icon from the top-right of the tile, and click **Remove** to get rid of the custom background.
 
-![add new custom background on Teams ](https://images.wondershare.com/filmora/article-images/change-custom-background-in-teams.jpg)
+![add new custom background on Teams](https://images.wondershare.com/filmora/article-images/change-custom-background-in-teams.jpg)
 
 ## Part 4: How to Change Your Background Before/After a Meeting Starts on Mobile Devices?
 
@@ -614,17 +614,17 @@ Even the mobile versions of Microsoft Teams let you change the background. Howev
 
 Launch Microsoft Teams on your cellphone (iPhone X is used here for illustration). Ensure that the **Chat** option is selected from the bottom of the main screen, tap the **Instant meeting** (**Camcorder**) icon from the top-right corner of the window, and tap **Start meeting** from the lower area of the **Instant meeting** box that pops up.
 
-![start video call on Teams ](https://images.wondershare.com/filmora/article-images/start-video-call-teams-iphone.jpg)
+![start video call on Teams](https://images.wondershare.com/filmora/article-images/start-video-call-teams-iphone.jpg)
 
 **Step 2: Get to the Select background Screen**
 
 Once the meeting starts, tap the **More actions** icon from the bottom of the screen, and tap **Background effects** when the options box pops up.
 
-![Teams background effects on iPhone ](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
+![Teams background effects on iPhone](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
 
 **Step 3: Change the Background**
 
-![change background  on Teams mobile ](https://images.wondershare.com/filmora/article-images/teams-video-call-change-background-mobile.jpg)
+![change background  on Teams mobile](https://images.wondershare.com/filmora/article-images/teams-video-call-change-background-mobile.jpg)
 
 On the **Select background** screen, tap to select an image to use it as the background. Alternatively, you can also tap the **+** tile to upload and use a custom image. After selecting a background, tap **Done** from the top-right corner of the screen to save the changes.
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quieting Unwanted Sounds  OBS Audio Issue Fixed for 2024\""
-date: 2024-05-19T21:35:41.821Z
-updated: 2024-05-20T21:35:41.821Z
+date: 2024-06-18T10:57:41.376Z
+updated: 2024-06-19T10:57:41.376Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Quieting Unwanted Sounds: OBS Audio Issue Fixed for 2024\""
 excerpt: "\"This Article Describes [New] Quieting Unwanted Sounds: OBS Audio Issue Fixed for 2024\""
 keywords: "Sound Recording Leaders 2023,Top Audio Equipment 2023,Premium Recorders 2023 Ranking,Excellent Sound Devices List 2023,Best Audio Gear 2023 Guide,Superior Recording Tech 2023,Elite Sound Equipment Chart 2023"
-thumbnail: https://www.lifewire.com/thmb/Kum5AgirtoV-H5HQXO5DDyzMKvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-bluesky-social-fea29392009e4482b7fd8c5c526f69ab.jpg
+thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc156666a853f82f3e47dee0b.jpg
 ---
 
 ## Quieting Unwanted Sounds: OBS Audio Issue Fixed

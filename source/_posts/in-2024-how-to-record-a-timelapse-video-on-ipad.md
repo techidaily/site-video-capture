@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Record a Timelapse Video on iPad"
-date: 2024-05-19T21:35:55.031Z
-updated: 2024-05-20T21:35:55.031Z
+date: 2024-06-18T10:57:42.282Z
+updated: 2024-06-19T10:57:42.282Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, How to Record a Timelapse Video on iPad"
 excerpt: "This Article Describes In 2024, How to Record a Timelapse Video on iPad"
 keywords: "\"Captivate Video Guide,Adobe Captivate Record,Video Captivate Tutorial,Presentation Recording,Adobe Captive Step-by-Step,Quick Captivate Video Guide,Captivate Presentation Capture\""
-thumbnail: https://www.lifewire.com/thmb/iQjRSYdl3d8RlM-9oprGSEgt6gU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-667603173-fac0b8f4b1d9453c866d332dc73821f8.jpg
+thumbnail: https://thmb.techidaily.com/f47c079fa1fce90a8221b9c2c003a393b4231e2fbb42dbd4e99eb8971ba63ab6.jpg
 ---
 
 ## How to Record a Timelapse Video on iPad

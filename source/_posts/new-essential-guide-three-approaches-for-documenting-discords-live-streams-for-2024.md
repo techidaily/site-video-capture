@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Essential Guide  Three Approaches for Documenting Discord's Live Streams for 2024\""
-date: 2024-05-18T08:32:59.543Z
-updated: 2024-05-19T08:32:59.543Z
+date: 2024-06-18T10:57:43.559Z
+updated: 2024-06-19T10:57:43.559Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Essential Guide: Three Approaches for Documenting Discord's Live Streams for 2024\""
 excerpt: "\"This Article Describes [New] Essential Guide: Three Approaches for Documenting Discord's Live Streams for 2024\""
 keywords: "Doc Disco Live Streams,Streaming Discord Tips,Discord Live Logging,Stream Capture Guide,Live Stream Documentation,Discord Stream Essentials,Easy Stream Notes"
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## Essential Guide: Three Approaches for Documenting Discord's Live Streams

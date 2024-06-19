@@ -1,7 +1,7 @@
 ---
 title: "\"Samurai's Modern Journey  10 Games Similar to Ghost of Tsushima\""
-date: 2024-05-19T21:35:52.476Z
-updated: 2024-05-20T21:35:52.476Z
+date: 2024-06-18T10:57:41.837Z
+updated: 2024-06-19T10:57:41.837Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Samurai's Modern Journey: 10 Games Similar to Ghost of Tsushima\""
 excerpt: "\"This Article Describes Samurai's Modern Journey: 10 Games Similar to Ghost of Tsushima\""
 keywords: "\"Samurai Gaming,Ghost-Inspired RPG,Tsushi Adventures,Journey Through History,Warrior Quest Games,Samurai Epic Battles,Anime Gameplay Experience\""
-thumbnail: https://www.lifewire.com/thmb/iVAserBnC6bUM-CQ2W6IX-_Wms0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-taylor-swift-movies-in-order-a8e26851d3d94bf183a144766801c16c.jpg
+thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde0166f66e5a57d5c818d2809aa.jpg
 ---
 
 ## Samurai's Modern Journey: 10 Games Similar to Ghost of Tsushima

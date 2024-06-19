@@ -1,7 +1,7 @@
 ---
 title: "[New] Speedy Recorder Device with Guided Soundtrack"
-date: 2024-05-18T08:43:22.761Z
-updated: 2024-05-19T08:43:22.761Z
+date: 2024-06-18T10:57:38.918Z
+updated: 2024-06-19T10:57:38.918Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Speedy Recorder Device with Guided Soundtrack"
 excerpt: "This Article Describes [New] Speedy Recorder Device with Guided Soundtrack"
 keywords: "\"Quick Record Gear,Fast Audio Maker,Speedy Sound Capture,Rapid Recording Tool,Swift Sound Device,High-Speed Tape Machine,Guided Tracking Gadget\""
-thumbnail: https://www.lifewire.com/thmb/sc_11h-4MIwIvQmqfGAXxwLWyt8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/istabletworthit-a75b20684e5241b8a64efc0733092fcd.jpg
+thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2b309e9331565432f2ce8641.jpg
 ---
 
 ## Speedy Recorder Device with Guided Soundtrack

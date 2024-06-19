@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Creative MC Survival Habitat Concepts"
-date: 2024-05-18T08:30:11.742Z
-updated: 2024-05-19T08:30:11.742Z
+date: 2024-06-18T10:57:37.875Z
+updated: 2024-06-19T10:57:37.875Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Creative MC Survival Habitat Concepts"
 excerpt: "This Article Describes [Updated] Creative MC Survival Habitat Concepts"
 keywords: "MC Survival Designs,Creative Habitat Plans,Innovative MC Habitats,Survival MC Space Ideas,Habitat Concepts for MCs,MC Environment Solutions,Inventive MC Living Spaces"
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## Creative MC Survival Habitat Concepts

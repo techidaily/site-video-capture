@@ -1,7 +1,7 @@
 ---
 title: "\"Full-Apps Deep Dive with AZ Video Logger Pro for 2024\""
-date: 2024-05-18T08:30:22.661Z
-updated: 2024-05-19T08:30:22.661Z
+date: 2024-06-18T10:57:45.208Z
+updated: 2024-06-19T10:57:45.208Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Full-Apps Deep Dive with AZ Video Logger Pro for 2024\""
 excerpt: "\"This Article Describes Full-Apps Deep Dive with AZ Video Logger Pro for 2024\""
 keywords: "Stardew Island Guide,Dive Into Stardew,Exploring Ginger Isle,Stardew Hearts Journey,Guide to Stardew Island,Venture Ginger Isle,Navigate Stardew's Heart"
-thumbnail: https://www.lifewire.com/thmb/85rwStNr21lvFIjCfmY8ErdogYI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/wimbledonlivestream-c22d5eefbf8f40e9b25ba4cab1734ece.jpg
+thumbnail: https://thmb.techidaily.com/e1c4df4174fbb7e774640c12444893c833b651d1c12bd8c02f2b01f747786c25.jpg
 ---
 
 ## Full-Apps Deep Dive with AZ Video Logger Pro

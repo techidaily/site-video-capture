@@ -1,7 +1,7 @@
 ---
 title: "\"Top 10 Screen-Free Android Apps for Leisurely Gaming\""
-date: 2024-05-18T08:27:17.473Z
-updated: 2024-05-19T08:27:17.473Z
+date: 2024-06-18T10:57:38.170Z
+updated: 2024-06-19T10:57:38.170Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Top 10 Screen-Free Android Apps for Leisurely Gaming\""
 excerpt: "\"This Article Describes Top 10 Screen-Free Android Apps for Leisurely Gaming\""
 keywords: "\"Screen-Free Gaming Apps,Leisure Gaming without Screens,Non-Screen Android Games,Free Gaming Apps (No Screen),Screenless Android Entertainment,Gaming on Android Sans Display,Off-Display Android Games\""
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## Top 10 Screen-Free Android Apps for Leisurely Gaming

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Basic Scan-Capture Program - Windows 10\""
-date: 2024-05-19T21:35:23.842Z
-updated: 2024-05-20T21:35:23.842Z
+date: 2024-06-18T10:57:48.083Z
+updated: 2024-06-19T10:57:48.083Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Basic Scan-Capture Program - Windows 10\""
 excerpt: "\"This Article Describes 2024 Approved: Basic Scan-Capture Program - Windows 10\""
 keywords: "Win10 Capture Software,Basic Scanning App,Windows Scan Tool,Simple Capture Utility,Quick Image Grabber,Easy Scan Program,W10 Image Capturer"
-thumbnail: https://www.lifewire.com/thmb/kq2_pYjL3lBcvd_iWUGjf8TYdhc=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sony-PS5-PlayStation-5-Gaming-Console-7-1434c073922c4bf59bca47a33013a6dd.jpg
+thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d937373bba78e772659986e3.jpg
 ---
 
 ## Basic Scan-Capture Program - Windows 10
