@@ -1,7 +1,7 @@
 ---
 title: "[New] Mastering Live Game Replays with Fraps"
-date: 2024-05-18T08:33:33.374Z
-updated: 2024-05-19T08:33:33.374Z
+date: 2024-06-26T00:58:48.503Z
+updated: 2024-06-27T00:58:48.503Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Mastering Live Game Replays with Fraps"
 excerpt: "This Article Describes [New] Mastering Live Game Replays with Fraps"
 keywords: "\"Live Game Capture,Fraps Replay Mastery,High-Speed Gaming Capture,Real-Time Game Playback,Video Recording in Games,Gameplay Replay Software,Pro Gamers' Toolkit\""
-thumbnail: https://www.lifewire.com/thmb/Kum5AgirtoV-H5HQXO5DDyzMKvY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/what-is-bluesky-social-fea29392009e4482b7fd8c5c526f69ab.jpg
+thumbnail: https://thmb.techidaily.com/8131b30173d2b241efc12bf25f704d9229322eedc156666a853f82f3e47dee0b.jpg
 ---
 
 ## Mastering Live Game Replays with Fraps

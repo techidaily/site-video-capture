@@ -1,7 +1,7 @@
 ---
 title: "\"[New] From Gameplay to Video  Full Guide on PS4 with OBS\""
-date: 2024-05-19T21:35:36.847Z
-updated: 2024-05-20T21:35:36.847Z
+date: 2024-06-26T00:58:42.062Z
+updated: 2024-06-27T00:58:42.062Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] From Gameplay to Video: Full Guide on PS4 with OBS\""
 excerpt: "\"This Article Describes [New] From Gameplay to Video: Full Guide on PS4 with OBS\""
 keywords: "PS4 Gaming Tips,PS4 OBS Basics,Creating PS4 Videos,OBS for Gamers,PS4 Game Capture Guide,Video Editing PS4 Games,PS4 Streams with OBS"
-thumbnail: https://www.lifewire.com/thmb/EAqZr-HjkZo5i0jwoEEUqZxRCpc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1437209125-b47ae60035f248e2b01b781f50f919c1.jpg
+thumbnail: https://thmb.techidaily.com/6190a0016cd0db6cebefe5acaadd207d01333c2584c8d35c887e62fae8bb62c7.jpg
 ---
 
 ## From Gameplay to Video: Full Guide on PS4 with OBS

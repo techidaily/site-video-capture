@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Scripter's Toolbox\""
-date: 2024-05-18T08:55:55.326Z
-updated: 2024-05-19T08:55:55.326Z
+date: 2024-06-26T00:58:45.652Z
+updated: 2024-06-27T00:58:45.652Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Scripter's Toolbox\""
 excerpt: "\"This Article Describes 2024 Approved: Scripter's Toolbox\""
 keywords: "Script Writing Tools,Scripter's Guidebook,Writer's Software Suite,Script Creation Kit,Novelty Writing Aid,Screenplay Assistant,Dialogue Development Tool"
-thumbnail: https://www.lifewire.com/thmb/cg-pvlQ-M_jrTyGYcdlhXW_MCvc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/inside-impero-cinema--central-region--asmara--eritrea----1174900385-f49e10d112a6451c89a8310bdb0ecc4e.jpg
+thumbnail: https://thmb.techidaily.com/035705869a176d12c457c62dcd5ac8433382a242da2e6ee8d5c9aeccc24af52d.jpg
 ---
 
 ## Scripter's Toolbox

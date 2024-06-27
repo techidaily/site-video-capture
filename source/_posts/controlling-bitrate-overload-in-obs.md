@@ -1,7 +1,7 @@
 ---
 title: "Controlling Bitrate Overload in OBS"
-date: 2024-05-18T08:38:22.560Z
-updated: 2024-05-19T08:38:22.560Z
+date: 2024-06-26T00:58:41.033Z
+updated: 2024-06-27T00:58:41.033Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Controlling Bitrate Overload in OBS"
 excerpt: "This Article Describes Controlling Bitrate Overload in OBS"
 keywords: "Bitrate Management OBS,OBS Bandwidth Control,OBS Sync Rate Optimization,Limiting OBS Stream Quality,Balancing OBS Data Load,Preventing OBS Overload,Regulating OBS Transmission"
-thumbnail: https://www.lifewire.com/thmb/o9Q9WuSk80JXjgUWGQkyTXmmm-M=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1088144728-3a9f1bd54e994bfaa4cabea82414202e.jpg
+thumbnail: https://thmb.techidaily.com/987190b727e8b33f96f25d8586b03d48b4e37202540f48c021987012cc7b2e2e.jpg
 ---
 
 ## Controlling Bitrate Overload in OBS

@@ -1,7 +1,7 @@
 ---
 title: "Microsoft Screen Recorder"
-date: 2024-05-19T21:35:33.318Z
-updated: 2024-05-20T21:35:33.318Z
+date: 2024-06-26T00:58:45.019Z
+updated: 2024-06-27T00:58:45.019Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Microsoft Screen Recorder"
 excerpt: "This Article Describes Microsoft Screen Recorder"
 keywords: "Microsoft ScreenCapture,Windows Recording Tool,PC Screen Video Record,Xbox Game Screenshot,Surface Pro Capture Feature,Azure Cloud Screen Save,Visual Studio Code Screen Demo"
-thumbnail: https://www.lifewire.com/thmb/emyPhVf3B4VLTCj8T835W3AqyOU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-93420821-0ce0b19097fb47d78dec8dbc039c1260.jpg
+thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f4062f523abbe17fcfc5ae5fc7.jpg
 ---
 
 ## Microsoft Screen Recorder

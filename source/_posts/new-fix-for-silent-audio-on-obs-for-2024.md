@@ -1,7 +1,7 @@
 ---
 title: "[New] Fix for Silent Audio on OBS for 2024"
-date: 2024-05-18T08:43:00.675Z
-updated: 2024-05-19T08:43:00.675Z
+date: 2024-06-26T00:58:50.306Z
+updated: 2024-06-27T00:58:50.306Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Fix for Silent Audio on OBS for 2024"
 excerpt: "This Article Describes [New] Fix for Silent Audio on OBS for 2024"
 keywords: "Film Record PC Efficiently,Mobile Filming Techniques,Video Quality Control,Pro PC Film Settings,Mobile Movie Tips,Low Light Recording PC,Optimized Mobile Filming"
-thumbnail: https://www.lifewire.com/thmb/UgZFn1LjdiPD7yj2MRRWCGpAQWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/d-link-default-password-list-2619152-d6281a924f45426f879c8707220ce92d.png
+thumbnail: https://thmb.techidaily.com/8383b1955265d208bd65863f99fa93e0506dbf01fc1cf31d37490fb679a3c33d.png
 ---
 
 ## Fix for Silent Audio on OBS
@@ -47,9 +47,7 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 * Click Windows start menu
 * On the search bar, search OBS
-* Right Click on OBS Studio and click Run as administrator
-
-![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
+* Right Click on OBS Studio and click Run as administrator ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 ### **3\. Unmute OBS**
 
@@ -161,9 +159,7 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 * Click Windows start menu
 * On the search bar, search OBS
-* Right Click on OBS Studio and click Run as administrator
-
-![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
+* Right Click on OBS Studio and click Run as administrator ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 ### **3\. Unmute OBS**
 
@@ -275,9 +271,7 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 * Click Windows start menu
 * On the search bar, search OBS
-* Right Click on OBS Studio and click Run as administrator
-
-![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
+* Right Click on OBS Studio and click Run as administrator ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 ### **3\. Unmute OBS**
 
@@ -389,9 +383,7 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 
 * Click Windows start menu
 * On the search bar, search OBS
-* Right Click on OBS Studio and click Run as administrator
-
-![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
+* Right Click on OBS Studio and click Run as administrator ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 ### **3\. Unmute OBS**
 

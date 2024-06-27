@@ -1,7 +1,7 @@
 ---
 title: "\"Essential Tech for Instant Time-Lapse Videos\""
-date: 2024-05-18T09:00:55.356Z
-updated: 2024-05-19T09:00:55.356Z
+date: 2024-06-26T00:58:51.262Z
+updated: 2024-06-27T00:58:51.262Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Essential Tech for Instant Time-Lapse Videos\""
 excerpt: "\"This Article Describes Essential Tech for Instant Time-Lapse Videos\""
 keywords: "\"Video Capture Basics,Engaging Video Recording,Capture Techniques Tips,Effective Video Recording,Step-by-Step Video Guide,Captivating Video Steps,Essential Video Recording Skills\""
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## Essential Tech for Instant Time-Lapse Videos

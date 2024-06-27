@@ -1,7 +1,7 @@
 ---
 title: "\"Exploring Roleplaying's Boundaries  Rogues & Roguities for 2024\""
-date: 2024-05-18T08:48:45.679Z
-updated: 2024-05-19T08:48:45.679Z
+date: 2024-06-26T00:58:46.130Z
+updated: 2024-06-27T00:58:46.130Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "\"This Article Describes Exploring Roleplaying's Boundaries: Rogues & Roguities for 2024\""
 excerpt: "\"This Article Describes Exploring Roleplaying's Boundaries: Rogues & Roguities for 2024\""
 keywords: "RPG Boundaries,Rogue Characters,Roleplay Limits,Roguity Stories,Game Character Ethics,Narrative RPGs,Fantasy Roleplay"
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Exploring Roleplaying's Boundaries: Rogues & Roguities
 
-# Roguelike vs. Roguelite: Debates and History Explained With Game Examples
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+# Roguelike vs. Roguelite: Debates and History Explained With Game Examples ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
 

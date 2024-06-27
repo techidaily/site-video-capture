@@ -1,7 +1,7 @@
 ---
 title: "[New] Chronicles of Puzzles Vs. Endless Adventure"
-date: 2024-05-18T08:39:15.227Z
-updated: 2024-05-19T08:39:15.227Z
+date: 2024-06-26T00:58:43.166Z
+updated: 2024-06-27T00:58:43.166Z
 tags: 
   - screen-recording
   - ai video
@@ -12,14 +12,12 @@ categories:
 description: "This Article Describes [New] Chronicles of Puzzles Vs. Endless Adventure"
 excerpt: "This Article Describes [New] Chronicles of Puzzles Vs. Endless Adventure"
 keywords: "\"Puzzle Chronicles Epic,Epic Adventure Journey,Puzzles Vs. Adventures,Vs. Endless Quests,Timeless Puzzle Games,Ultimate Game Series,Puzzle-Endless Saga\""
-thumbnail: https://www.lifewire.com/thmb/eyPEW_zh-5Xw0J7hoJ-kChdCQ1M=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_how-to-transfer-data-from-ps4-to-ps5-3392eb400af3482fabad65cabb2a1a91.jpg
+thumbnail: https://thmb.techidaily.com/4413b601ad195439beff9581253d1c8f619535fc721b43b4dca709d022c56e41.jpg
 ---
 
 ## Chronicles of Puzzles Vs. Endless Adventure
 
-# Roguelike vs. Roguelite: Debates and History Explained With Game Examples
-
-![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+# Roguelike vs. Roguelite: Debates and History Explained With Game Examples ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
 ##### Ollie Mattison
 

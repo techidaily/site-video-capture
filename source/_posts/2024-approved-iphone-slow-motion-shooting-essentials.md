@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  IPhone Slow Motion Shooting Essentials\""
-date: 2024-05-19T21:35:43.256Z
-updated: 2024-05-20T21:35:43.256Z
+date: 2024-06-26T00:58:45.769Z
+updated: 2024-06-27T00:58:45.769Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: IPhone Slow Motion Shooting Essentials\""
 excerpt: "\"This Article Describes 2024 Approved: IPhone Slow Motion Shooting Essentials\""
 keywords: "\"Sims Gaming Trailer,LACaptures Sims Play,Sims 4 VFX Essence,Live-Action Sims Replay,Capturing Sims Gameplay,Sims VR Experience,Streaming Sims Adventure\""
-thumbnail: https://www.lifewire.com/thmb/NVfSH4Rjse-W0WAejPd1W9V_3ag=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1253176532-e5ce8e507433489f87c8b37818c13a01.jpg
+thumbnail: https://thmb.techidaily.com/bf32c159170edbc355c721b22ee8ee6c67dda36feed408fdb0ec7f3ca8b4ddc2.jpg
 ---
 
 ## IPhone Slow Motion Shooting Essentials
