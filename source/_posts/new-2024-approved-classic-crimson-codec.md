@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Classic Crimson Codec\""
-date: 2024-05-18T08:47:50.686Z
-updated: 2024-05-19T08:47:50.686Z
+date: 2024-07-04T00:41:29.637Z
+updated: 2024-07-05T00:41:29.637Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: Classic Crimson Codec\""
 excerpt: "\"This Article Describes [New] 2024 Approved: Classic Crimson Codec\""
 keywords: "\"Red Classic Codec,Crimson Codec Classics,Vintage Crimson Decoder,Old-Timey Crimson HQ,Historic Crimson Encoding,Timeless Crimson Filter,Iconic Crimson Compression\""
-thumbnail: https://www.lifewire.com/thmb/TKoUz7zi8lw5cyOA93bOwDLfNYs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/the_room-56cc7f225f9b5879cc590941.png
+thumbnail: https://thmb.techidaily.com/468b7a50fb837089e10cec38dd44fa01aaab4078b704b313fd2f69558ac117bb.png
 ---
 
 ## Classic Crimson Codec

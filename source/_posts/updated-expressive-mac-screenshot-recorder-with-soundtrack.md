@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Expressive Mac Screenshot Recorder with Soundtrack"
-date: 2024-05-19T21:36:13.109Z
-updated: 2024-05-20T21:36:13.109Z
+date: 2024-07-04T00:41:27.017Z
+updated: 2024-07-05T00:41:27.017Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Expressive Mac Screenshot Recorder with Soundtrack"
 excerpt: "This Article Describes [Updated] Expressive Mac Screenshot Recorder with Soundtrack"
 keywords: "Mac Screenshot Record,Screen Capture Mac App,Audio Mac Screenshot,Mac Screenshot Studio,Expressive Screen Recorder,Creative Snap Maker (Mac),Soundtracked Screenshot Pro"
-thumbnail: https://www.lifewire.com/thmb/WSLZcqxwmXkq850tQOgpRjODDjE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/football-referee-signaling-touchdown-in-stadium-599944339-5a84cb9e875db900367df025.jpg
+thumbnail: https://thmb.techidaily.com/c72cccdf9cacc0fda207b45b24ab86cf2fde475b85a4b94012ab008856dbcd1d.jpg
 ---
 
 ## Expressive Mac Screenshot Recorder with Soundtrack

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Games in Plain Sight  Choose Between OBS and ShadowPlay\""
-date: 2024-05-18T08:30:25.342Z
-updated: 2024-05-19T08:30:25.342Z
+date: 2024-07-04T00:41:24.307Z
+updated: 2024-07-05T00:41:24.307Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Capturing Games in Plain Sight: Choose Between OBS and ShadowPlay\""
 excerpt: "\"This Article Describes [Updated] Capturing Games in Plain Sight: Choose Between OBS and ShadowPlay\""
 keywords: "\"Capture Game Streaming,OBS vs ShadowPlay,Live Video Recording,Gaming Screen Record,Direct Play Broadcasts,Real-Time Media Capturing,Secure Gaming Streams\""
-thumbnail: https://www.lifewire.com/thmb/0FZf3k28kLauMvGO0aGhDI7aaYY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sb10069770n-003-56a104403df78cafdaa7dd48-ba41d70c51114343aaa38409d9cdfc3f.jpg
+thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad25662873342662329d5363509351a52f0.jpg
 ---
 
 ## Capturing Games in Plain Sight: Choose Between OBS and ShadowPlay
@@ -27,7 +27,7 @@ OBS and ShadowPlay are both completely free to use for recording your gameplay a
 
 ShadowPlay comes from Nvidia which is the largest manufacturer for GPU. That is why gamers who prefer Nvidia GPU, they have a special preference for ShadowPlay. Here are the key features of OBS and ShadowPlay you should be aware of.
 
-### [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
+### OBS Studio
 
 ![obs studio](https://images.wondershare.com/filmora/article-images/record-sims4-obs.jpg)
 

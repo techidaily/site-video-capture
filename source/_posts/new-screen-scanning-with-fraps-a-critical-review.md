@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Screen Scanning with Fraps  A Critical Review\""
-date: 2024-05-19T21:36:16.836Z
-updated: 2024-05-20T21:36:16.836Z
+date: 2024-07-04T00:41:30.006Z
+updated: 2024-07-05T00:41:30.006Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Screen Scanning with Fraps: A Critical Review\""
 excerpt: "\"This Article Describes [New] Screen Scanning with Fraps: A Critical Review\""
 keywords: "Fraps Screen Review,Screen Capture Critique,Screen Scan Analysis,Video Scanner Evaluation,Capture Tech Critique,Frame Rate Scrutiny,Scanning Software Assessment"
-thumbnail: https://www.lifewire.com/thmb/kaKmEcJ4wgeshIkJ4JE3bp3u-NU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1369568023-c596ac8d6b5a4f3682bda2fa0feb12bd.jpg
+thumbnail: https://thmb.techidaily.com/bdaef56e02cc4aa00f3e70ad3df4b912e80b691b8ee44c6197adf88943656c52.jpg
 ---
 
 ## Screen Scanning with Fraps: A Critical Review

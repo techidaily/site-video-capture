@@ -1,7 +1,7 @@
 ---
 title: "Dynamic Presenter's Discourse Analysis 8Th Ver"
-date: 2024-05-19T21:37:38.131Z
-updated: 2024-05-20T21:37:38.131Z
+date: 2024-07-04T00:41:33.456Z
+updated: 2024-07-05T00:41:33.456Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Dynamic Presenter's Discourse Analysis 8Th Ver"
 excerpt: "This Article Describes Dynamic Presenter's Discourse Analysis 8Th Ver"
 keywords: "Dynamic Speaking Analysis,Presentation Discourse Study,Eighth Ver Discourse Review,Discourse in Public Speaking,Verbal Communication Dynamics,Analyzing Speech Patterns,Dialogue and Delivery Analysis"
-thumbnail: https://www.lifewire.com/thmb/zcmLCaAS2rquyOBmPOs0BcLkssY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5-things-to-consider-before-buying-a-graphics-card-5225912-e71513f30b90445e8c0702a87db6fcdc.jpg
+thumbnail: https://thmb.techidaily.com/7270266df833210c4618ef395558e4a1dd14a566be785a358865debf94836fef.jpg
 ---
 
 ## Dynamic Presenter's Discourse Analysis 8Th Ver

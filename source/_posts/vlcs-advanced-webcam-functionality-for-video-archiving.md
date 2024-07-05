@@ -1,7 +1,7 @@
 ---
 title: "VLC's Advanced Webcam Functionality for Video Archiving"
-date: 2024-05-18T08:39:29.526Z
-updated: 2024-05-19T08:39:29.526Z
+date: 2024-07-04T00:41:28.494Z
+updated: 2024-07-05T00:41:28.494Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes VLC's Advanced Webcam Functionality for Video Archiving"
 excerpt: "This Article Describes VLC's Advanced Webcam Functionality for Video Archiving"
 keywords: "VLC Webcam Archive,VLC Cam Vid Save,Webcam VLC Record,Advanced VLC Recorder,VLC Cam Streaming,Video Archiving VLC,Enhanced VLC WebCam"
-thumbnail: https://www.lifewire.com/thmb/Ngm9bpatigonc3AlRSUUdm9EIUQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/001_the-best-teen-movies-on-netflix-october-2023-5104880-3c4ee21786b64df693bfeebd65701d8e.jpg
+thumbnail: https://thmb.techidaily.com/06629510e11e9d29470adf181e231bb23d34ab4b20d9291b76fb465837bc25f3.jpg
 ---
 
 ## VLC's Advanced Webcam Functionality for Video Archiving

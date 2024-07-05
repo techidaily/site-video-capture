@@ -1,7 +1,7 @@
 ---
 title: "Countdown Configuration in OBS for Streamers and Filmmakers"
-date: 2024-05-19T21:35:32.462Z
-updated: 2024-05-20T21:35:32.462Z
+date: 2024-07-04T00:41:27.293Z
+updated: 2024-07-05T00:41:27.293Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Countdown Configuration in OBS for Streamers and Filmmakers"
 excerpt: "This Article Describes Countdown Configuration in OBS for Streamers and Filmmakers"
 keywords: "\"StreamLabs OBS Basics,OBS in Streamlabs,StreamLabs Broadcast Tools,StreamOBS Features Guide,Understanding StreamLabs OBS,OBS Capabilities StreamLabs,Streaming Features: Streamlabs OBS\""
-thumbnail: https://www.lifewire.com/thmb/0LHpu91V9jV229cdma0w0BAh3EI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-logo-steering-wheel-25522ee2c5664139948ebfd1cb1df653.jpg
+thumbnail: https://thmb.techidaily.com/74113c2d83645a48c9d2ad195371cc6a07bee43db8bd23e967a3613c122b6663.jpg
 ---
 
 ## Countdown Configuration in OBS for Streamers and Filmmakers

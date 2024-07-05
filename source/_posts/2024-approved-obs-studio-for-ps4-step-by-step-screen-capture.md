@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Obs Studio for PS4  Step-by-Step Screen Capture\""
-date: 2024-05-18T09:03:56.459Z
-updated: 2024-05-19T09:03:56.459Z
+date: 2024-07-04T00:41:27.950Z
+updated: 2024-07-05T00:41:27.950Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Obs Studio for PS4: Step-by-Step Screen Capture\""
 excerpt: "\"This Article Describes 2024 Approved: Obs Studio for PS4: Step-by-Step Screen Capture\""
 keywords: "\"PS4 Screen Capture Obs,PS4 Obs Studio Guide,Live Streaming PS4,Obs Studio Recording,PS4 Video Tutorials,Step-by-Step PS4 Screenshots,PS4 Gameplay Capture\""
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## Obs Studio for PS4: Step-by-Step Screen Capture

@@ -1,7 +1,7 @@
 ---
 title: "10 Best MOBA Games For Android"
-date: 2024-05-18T09:02:35.300Z
-updated: 2024-05-19T09:02:35.300Z
+date: 2024-07-04T00:41:30.239Z
+updated: 2024-07-05T00:41:30.239Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes 10 Best MOBA Games For Android"
 excerpt: "This Article Describes 10 Best MOBA Games For Android"
 keywords: "Best MOBAs Android,Top MOBAs Android,Premium MOBAs Android,Highest Rated MOBAs Android,Leading MOBAs Android,Elite MOBAs Android,Popular MOBAs Android"
-thumbnail: https://www.lifewire.com/thmb/tog6m8Yd2L1pQ_0Pktyl-fbgcRs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/camera-56e0976d3df78c5ba0566b37.jpg
+thumbnail: https://thmb.techidaily.com/d3a69700e0cb55adae67e72e210fb2f2a9d54f1a94f5e0b261b4ccf5f3207b46.jpg
 ---
 
 ## 10 Best MOBA Games For Android

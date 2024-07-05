@@ -1,7 +1,7 @@
 ---
 title: "[Updated] BlitzBurst FreezeFrame Video for 2024"
-date: 2024-05-18T08:58:52.819Z
-updated: 2024-05-19T08:58:52.819Z
+date: 2024-07-04T00:41:28.523Z
+updated: 2024-07-05T00:41:28.523Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] BlitzBurst FreezeFrame Video for 2024"
 excerpt: "This Article Describes [Updated] BlitzBurst FreezeFrame Video for 2024"
 keywords: "\"OBS Live Streaming,Direct Insta Video,OBS Instagram Feed,Live Direct Broadcast,Real-Time OBS Instagram,OBS Direct Streaming,Instagram Live via OBS\""
-thumbnail: https://www.lifewire.com/thmb/yeBMpxlKjRXXKI0Ay67NUTI2xl0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/hexadecimal-code-security-key-krzysztof-zmij-e-plus-getty-images-57c76b825f9b5829f4bd185e.jpg
+thumbnail: https://thmb.techidaily.com/356d504c4e521db72b45b5ec62fa587016c69e83da4a3303db46e26dc1ec6ec7.jpg
 ---
 
 ## BlitzBurst FreezeFrame Video

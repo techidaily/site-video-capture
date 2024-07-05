@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tech Tutorial  Capturing and Saving Live TV\""
-date: 2024-05-18T09:00:27.977Z
-updated: 2024-05-19T09:00:27.977Z
+date: 2024-07-04T00:41:28.052Z
+updated: 2024-07-05T00:41:28.052Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Tech Tutorial: Capturing and Saving Live TV\""
 excerpt: "\"This Article Describes [New] Tech Tutorial: Capturing and Saving Live TV\""
 keywords: "Webcam Film Guide,Logitech Cam Tutorial,Capture Pro Videos,Filming Webcams Easy,Webcam Cinematography,Logitech Video Techniques,Quick Webcam Shooting"
-thumbnail: https://www.lifewire.com/thmb/DAL-N3_Lno5FbRim9sd78EkulLA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/jens-kreuter-85328-c5ada5fb87224444a49aaa4ad1e16897.jpg
+thumbnail: https://thmb.techidaily.com/b77f4a1b111b54e2805878ed9aa3d1afc9409a9f5cc36ff257194dcf6821d1ac.jpg
 ---
 
 ## Tech Tutorial: Capturing and Saving Live TV

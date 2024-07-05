@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, From Roots to Refined  Rogue's Journey Through Genres\""
-date: 2024-05-18T08:36:49.862Z
-updated: 2024-05-19T08:36:49.862Z
+date: 2024-07-04T00:41:30.650Z
+updated: 2024-07-05T00:41:30.650Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, From Roots to Refined: Rogue's Journey Through Genres\""
 excerpt: "\"This Article Describes [New] In 2024, From Roots to Refined: Rogue's Journey Through Genres\""
 keywords: "Rogues Genre Journey,From Root to Fine,Refined Genre Path,Roots to Polished,Rogue's Genre Shift,Creative Genres Explore,Finesse Through Styles"
-thumbnail: https://www.lifewire.com/thmb/XJmgdRFoTR4wOTi2HR5hRG_j3aA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ArtificalIntelligenceChatbotConcept-c0e491e36fae46ef84b670334af5095f.jpg
+thumbnail: https://thmb.techidaily.com/64bcba811dca59ee452fde50283dc6af9516c46b5a87dc01f6fa89f4e4093f9a.jpg
 ---
 
 ## From Roots to Refined: Rogue's Journey Through Genres
