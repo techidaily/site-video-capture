@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, The Ultimate Guide to Single-Platform Gaming in Apex Legends\""
-date: 2024-05-18T08:51:05.284Z
-updated: 2024-05-19T08:51:05.284Z
+date: 2024-07-20T04:15:13.848Z
+updated: 2024-07-21T04:15:13.848Z
 tags: 
   - screen-recording
   - ai video
@@ -12,19 +12,26 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, The Ultimate Guide to Single-Platform Gaming in Apex Legends\""
 excerpt: "\"This Article Describes [Updated] In 2024, The Ultimate Guide to Single-Platform Gaming in Apex Legends\""
 keywords: "Apex Legends Gaming Guide,Single Platform Play,Apex Legends Solo,Multiplatform Comparison,Gaming Platforms Analysis,Solo vs Multiplayer,Apex Legends Tips"
-thumbnail: https://www.lifewire.com/thmb/tlifSCFQmwjazjTNLenwCtxlliI=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/removerokuchannel-c354faa0f712495384a4d5888017e30c.png
+thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a663f40c627d05eef8a39852a.png
 ---
 
 ## The Ultimate Guide to Single-Platform Gaming in Apex Legends
 
 # Apex Legends Crossplay: How to Turn it Off & Platform Choosing Guide
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
+ PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/apex-poster.png)
 
 From the past few months, a few questions are asked: Can we crossplay in Apex Legends? How to disable crossplay? How about cross-progression? Further, which platform is the best to play on? What's the difference between Steam and Origin?
@@ -116,6 +123,9 @@ PC Requirements For Apex Legends:
 
 **Nintendo Switch**
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  ![](https://images.wondershare.com/filmora/article-images/Apex-switch.png)
 
 On March 9, 2021, EA released a version of this game for Nintendo switch. Currently, it is playable on the switch, and you can only match up with switch players, but soon it will be available to play with cross-platform support. It is a big achievement for EA to make this game playable on a small screen.
@@ -134,6 +144,14 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -162,6 +180,9 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
+<!-- affiliate ads begin -->
+<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -172,6 +193,9 @@ There is a ring around the battleground that shrinks after fixed short intervals
 
 One thing that you must keep in mind while playing this game is that killing an opponent is a bit longer than other FPS (First Person Shooting) games. To kill an opponent, you may need to rely on several headshots, your legends' unique ability, and the support of your teammates.
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
@@ -188,8 +212,14 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
 #### **Does it have cross-progression?**
@@ -214,10 +244,18 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Sony PlayStation 4**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-ps4.png)You can also play Apex Legends on Sony PlayStation 4\. Although you can play it on the standard PS4, if you want to get the best gaming experience, then you should play it on PS4 Pro. On PS4, you need to have a PlayStation Plus subscription if you want to play online multiplayer games, but in the case of Apex Legends, you do not need it.
 
 **Sony PlayStation 5**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
+DEX 3 meets the demands of today’s versatile DJ, without compromise! 
+DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<!-- affiliate ads end -->
 ![ps5-poster](https://images.wondershare.com/filmora/article-images/ps5-poster.png)
 
 Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is already playable on it. PS5 offers improved performance and better graphics as compared to its previous versions. If you were previously playing on PS4 and just switched to PS5, you can also retain all your progress and skins on PS5 also. You can use the same EA account and start enjoying Apex Legends on 1440p screen resolution.
@@ -257,6 +295,9 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -292,3 +333,44 @@ Follow @Richard Bennett
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-androids-mobas-unveiling-the-top-ten-for-2024/"><u>[New] Android's MOBAs  Unveiling the Top Ten for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-auditory-data-extraction-and-analysis-for-2024/"><u>[New] Auditory Data Extraction & Analysis for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-best-practices-to-avoid-sound-in-video-capture-for-2024/"><u>[New] Best Practices to Avoid Sound in Video Capture for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-efficiently-allocating-more-memory-to-minecraft-for-2024/"><u>[New] Efficiently Allocating More Memory to Minecraft for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-5-top-rated-hd-webcam-conferencing-recorder-tools/"><u>[New] In 2024, 5 Top-Rated HD Webcam Conferencing Recorder Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-capturing-your-world-maccam-techniques-unveiled/"><u>[New] In 2024, Capturing Your World  MacCam Techniques Unveiled</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-mastering-the-lens-focus-techniques-for-storify-success-for-2024/"><u>[New] Mastering the Lens  Focus Techniques for Storify Success for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-vdx-quickcapture-evaluation-guide-comprehensive-review/"><u>[New] VDX QuickCapture Evaluation Guide  Comprehensive Review</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-audiophiles-guide-to-choosing-best-live-streamers/"><u>[Updated] 2024 Approved  Audiophiles' Guide to Choosing Best Live Streamers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-free-your-cameras-potential-best-screens-recording-apps-reviewed/"><u>[Updated] 2024 Approved  Free Your Camera's Potential  Best Screens Recording Apps Reviewed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-essential-ipad-recording-tools-3-edition-for-2024/"><u>[Updated] Essential iPad Recording Tools  #3 Edition for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expert-strategies-for-efficient-io-screen-recording-for-2024/"><u>[Updated] Expert Strategies for Efficient IO Screen Recording for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-from-novice-to-geometric-master-crafting-perfect-circular-and-spherical-objects-for-2024/"><u>[Updated] From Novice to Geometric Master  Crafting Perfect Circular & Spherical Objects for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-from-virtual-worlds-to-vaults-top-6-strategies-for-minecraft-archives-for-2024/"><u>[Updated] From Virtual Worlds to Vaults  Top 6 Strategies for Minecraft Archives for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-gamer-friendly-video-capture-apps-for-2024/"><u>[Updated] Gamer-Friendly Video Capture Apps for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-easy-techniques-perfect-your-idevice-screen-shots/"><u>[Updated] In 2024, Easy Techniques  Perfect Your iDevice Screen Shots</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-eight-free-android-recorders-top-selection-list/"><u>[Updated] In 2024, Eight Free Android Recorders – Top Selection List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-farm-like-royalty-unveiling-the-best-7-stardew-upgrades/"><u>[Updated] In 2024, Farm Like Royalty - Unveiling the Best 7 Stardew Upgrades</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-tips-for-overcoming-obs-screen-blackout/"><u>[Updated] Tips for Overcoming OBS Screen Blackout</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-want-to-send-snaps-from-camera-roll-see-how-it-is-done/"><u>[Updated] Want to Send Snaps From Camera Roll? See How It Is Done</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fpv-fantasy-a-closer-look-at-the-hubsan-h501x4/"><u>2024 Approved  FPV Fantasy  A Closer Look at the Hubsan H501X4</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-maximizing-your-video-content-on-zoom-for-fb-live/"><u>2024 Approved  Maximizing Your Video Content on ZOOM for FB Live</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-ultimate-guide-obs-streams-to-facebook-success/"><u>2024 Approved  The Ultimate Guide  OBS Streams to Facebook Success</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-blueprints-livestream-and-log-sports-matches-effectively/"><u>2024 Approved  Ultimate Blueprints  Livestream & Log Sports Matches Effectively</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/essential-e-commerce-hubs-for-tailored-box-creation/"><u>Essential E-Commerce Hubs for Tailored Box Creation</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-xiaomi-redmi-13c-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Xiaomi Redmi 13C in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/how-to-use-twitter-archive-in-2024/"><u>How to Use Twitter Archive, In 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Tecno Spark 10 Pro? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/in-2024-looking-for-the-best-quiz-making-tools-read-our-full-review-to-find-out-the-10-best-video-quiz-makers-available/"><u>In 2024, Looking for the Best Quiz-Making Tools? Read Our Full Review to Find Out the 10 Best Video Quiz Makers Available</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-the-ethical-editors-handbook-on-sensitive-content/"><u>In 2024, The Ethical Editor's Handbook on Sensitive Content</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/in-2024-the-ultimate-guide-10-best-webm-to-mp4-converter-software/"><u>In 2024, The Ultimate Guide 10 Best WebM to MP4 Converter Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-the-xbox-recorders-handbook-for-gamers/"><u>In 2024, The Xbox Recorder’s Handbook for Gamers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/master-your-search-securing-cool-images-at-pexels-for-2024/"><u>Master Your Search  Securing Cool Images at Pexels for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/navigating-free-floating-vr-without-nausea-for-2024/"><u>Navigating Free-Floating VR without Nausea for 2024</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/updated-talking-photo/"><u>Updated Talking Photo</u></a></li>
+<li><a href="https://video-capture.techidaily.com/windows-10-gamers-guide-to-effective-video-capture-for-2024/"><u>Windows 10 Gamers' Guide to Effective Video Capture for 2024</u></a></li>
+</ul></div>

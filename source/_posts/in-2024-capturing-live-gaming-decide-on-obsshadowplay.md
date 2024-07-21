@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Capturing Live Gaming - Decide on OBS/ShadowPlay\""
-date: 2024-05-19T21:35:33.988Z
-updated: 2024-05-20T21:35:33.988Z
+date: 2024-07-20T00:50:10.786Z
+updated: 2024-07-21T00:50:10.786Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Capturing Live Gaming - Decide on OBS/ShadowPlay\""
 excerpt: "\"This Article Describes In 2024, Capturing Live Gaming - Decide on OBS/ShadowPlay\""
 keywords: "Gaming Streaming Basics,OBS for Gamers,ShadowPlay Explained,Live Game Capture,Broadcast Tools Compared,Virtual Reality Gaming,Efficient Gaming Stream"
-thumbnail: https://www.lifewire.com/thmb/x0mFXdBc-1Q_2JlWzJG0rvyCFFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dormroomentfeatured-5b5e9dd3c9e77c004f28632e.jpg
+thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401ca2b8aa427adfd091e8a1d2a.jpg
 ---
 
 ## Capturing Live Gaming - Decide on OBS/ShadowPlay
@@ -27,6 +27,9 @@ OBS and ShadowPlay are both completely free to use for recording your gameplay a
 
 ShadowPlay comes from Nvidia which is the largest manufacturer for GPU. That is why gamers who prefer Nvidia GPU, they have a special preference for ShadowPlay. Here are the key features of OBS and ShadowPlay you should be aware of.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![obs studio](https://images.wondershare.com/filmora/article-images/record-sims4-obs.jpg)
@@ -43,6 +46,9 @@ ShadowPlay comes from Nvidia which is the largest manufacturer for GPU. That is 
 
 Most importantly, you can live stream your gameplay on almost any online video streaming platform.
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ### Nvidia ShadowPlay
 
 ![shadowplay](https://images.wondershare.com/filmora/article-images/shadowplay-record.jpg)
@@ -103,6 +109,9 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora. Open Filmora and click on PC Screen option to record your gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Select the recording screen size which is likely to be full screen for gaming. You can select the microphone if you want to record your voice for live commentary. Besides, turn on Record the Camera Stream option if you want your face video to be present as an overlay.
@@ -111,6 +120,9 @@ Step 3: To start recording, click on Record button. You will get a few buffer se
 
 You can press F9 key to stop recording. You can edit the recorded gameplay and export in any desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you want to record high-end games, ShadowPlay is ideal as it does not affect game performance as well as does not reduce frame rate. For not so high-end games, OBS does the job perfectly. OBS is particularly useful when you want to live stream as well as record your gameplay. If you are looking for a premium software and a better alternative, Wondershare Filmora is the perfect choice.
@@ -121,6 +133,9 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora. Open Filmora and click on PC Screen option to record your gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Select the recording screen size which is likely to be full screen for gaming. You can select the microphone if you want to record your voice for live commentary. Besides, turn on Record the Camera Stream option if you want your face video to be present as an overlay.
@@ -129,6 +144,9 @@ Step 3: To start recording, click on Record button. You will get a few buffer se
 
 You can press F9 key to stop recording. You can edit the recorded gameplay and export in any desired file format.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 If you want to record high-end games, ShadowPlay is ideal as it does not affect game performance as well as does not reduce frame rate. For not so high-end games, OBS does the job perfectly. OBS is particularly useful when you want to live stream as well as record your gameplay. If you are looking for a premium software and a better alternative, Wondershare Filmora is the perfect choice.
@@ -139,6 +157,10 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora. Open Filmora and click on PC Screen option to record your gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ![filmora screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
 
 Step 2: Select the recording screen size which is likely to be full screen for gaming. You can select the microphone if you want to record your voice for live commentary. Besides, turn on Record the Camera Stream option if you want your face video to be present as an overlay.
@@ -194,3 +216,69 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-win-and-mac-accessible-screen-capture-utilities/"><u>[New] 2024 Approved  Win & Mac  Accessible Screen Capture Utilities</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-5-essential-strategies-for-successful-twitch-livestreaming-for-2024/"><u>[New] 5 Essential Strategies for Successful Twitch Livestreaming for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-audience-enhancement-with-audition-fades/"><u>[New] Audience Enhancement with Audition Fades</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-chill-bites-analysis-in-depth-review-of-ice-cream-recorder-for-2024/"><u>[New] Chill Bites Analysis  In-Depth Review of Ice Cream Recorder for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-achieving-excellence-in-game-recording-techniques-windows-11-style/"><u>[New] In 2024, Achieving Excellence in Game Recording Techniques, Windows 11 Style</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unveiling-google-meets-screen-alteration-techniques/"><u>[New] In 2024, Unveiling Google Meet's Screen Alteration Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-simple-tips-for-capturing-google-voice-conversations/"><u>[New] Simple Tips for Capturing Google Voice Conversations</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-three-paths-to-archiving-every-engaging-second-of-your-disco-streaming-experience/"><u>[New] Three Paths to Archiving Every Engaging Second of Your Disco Streaming Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-10-screenshot-and-recording-apps-for-macos/"><u>[New] Top 10 Screenshot & Recording Apps for MacOS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-top-family-vehicle-entertainment-adventures-for-2024/"><u>[New] Top Family Vehicle Entertainment Adventures for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-tricks-for-smooth-animation-with-movie-maker/"><u>[New] Tricks for Smooth Animation with Movie Maker</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-webcam-safety-the-best-cam-cover-picks/"><u>[New] Webcam Safety  The Best Cam Cover Picks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-champion-phonographs-for-seminar-sessions/"><u>[Updated] 2024 Approved  Champion Phonographs for Seminar Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-master-your-screen-time-top-10-in-depth-guide-to-excellent-offline-ios-gaming/"><u>[Updated] 2024 Approved  Master Your Screen Time - Top 10 In-Depth Guide to Excellent Offline iOS Gaming</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-streamlining-audio-addition-in-creative-cloud-suite/"><u>[Updated] 2024 Approved  Streamlining Audio Addition in Creative Cloud Suite</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-vsg-hd-screen-snapper-reports-extensive-breakdown/"><u>[Updated] 2024 Approved  VSG HD Screen Snapper Reports  Extensive Breakdown</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-6-unparalleled-mac-apps-for-video-grabbing/"><u>[Updated] 6 Unparalleled Mac Apps for Video Grabbing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-building-business-via-beauty-vlogs-for-2024/"><u>[Updated] Building Business via Beauty Vlogs for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-digital-dominion-rise-as-a-youtube-guru-for-2024/"><u>[Updated] Digital Dominion  Rise as a YouTube Guru for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-frost-your-view-freezing-desktop-on-pcs/"><u>[Updated] Frost Your View  Freezing Desktop on PCs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-improve-conference-efficiency-webcam-assisted-powerpoint/"><u>[Updated] Improve Conference Efficiency  Webcam-Assisted PowerPoint</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-accessing-your-subscriber-details-directly/"><u>[Updated] In 2024, Accessing Your Subscriber Details Directly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-review-top-10-screenshot-and-recorder-software-for-mac/"><u>[Updated] In 2024, The Ultimate Review  Top 10 Screenshot & Recorder Software for Mac</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-10-video-calls-software-compared-side-by-side/"><u>[Updated] In 2024, Top 10 Video Calls Software Compared Side by Side</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-unveiling-the-essence-of-streaming-with-recordcast/"><u>[Updated] In 2024, Unveiling the Essence of Streaming with RecordCast</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-premium-fullscreen-screen-recording-tools/"><u>[Updated] Premium Fullscreen Screen Recording Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-5-ios-apps-for-seamless-psp-gaming-experience/"><u>[Updated] Top 5 iOS Apps For Seamless PSP Gaming Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unveiling-the-futures-finest-business-strategy-titles-mobilepc/"><u>[Updated] Unveiling the Future's Finest Business Strategy Titles (Mobile/PC)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-win10s-elite-screen-capture-selection-for-2024/"><u>[Updated] Win10's Elite Screen Capture Selection for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-advanced-vision-systems-with-green-promise/"><u>2024 Approved  Advanced Vision Systems with Green Promise</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-crafting-professional-focus-mastering-teamblend-background-artistry/"><u>2024 Approved  Crafting Professional Focus  Mastering Teamblend Background Artistry</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-easy-in-getting-vrecorder-on-your-pc/"><u>2024 Approved  Easy In  Getting VRecorder on Your PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-evaluating-the-functionality-of-vidma-screen-replayer/"><u>2024 Approved  Evaluating the Functionality of Vidma Screen Replayer</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-game-masters-top-ten-female-gaming-influencers/"><u>2024 Approved  Game Masters  Top Ten Female Gaming Influencers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-highfidelity-hd-webcamcapture/"><u>2024 Approved  HighFidelity HD WebCamCapture</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ideal-ubuntu-video-capture-software-roundup/"><u>2024 Approved  Ideal Ubuntu Video Capture Software Roundup</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-innovative-ways-to-record-youtube-videos/"><u>2024 Approved  Innovative Ways to Record YouTube Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-leading-8-affordable-open-source-platforms-for-enterprise-calls/"><u>2024 Approved  Leading 8 Affordable Open-Source Platforms for Enterprise Calls</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-onscreen-recordage-navigator/"><u>2024 Approved  Onscreen Recordage Navigator</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-honor-magic-5-pro-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Honor Magic 5 Pro FRP</u></a></li>
+<li><a href="https://video-capture.techidaily.com/aural-adventures-tech-updates/"><u>Aural Adventures  Tech Updates</u></a></li>
+<li><a href="https://windows11.techidaily.com/bypassing-os-admin-error-run-blocked-apps/"><u>Bypassing OS Admin Error: Run Blocked Apps</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-honor-magic-6-pro-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Honor Magic 6 Pro? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-motorola-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Motorola</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-2023s-best-rated-ps3-virtual-players-for-pc/"><u>In 2024, 2023'S Best-Rated PS3 Virtual Players for PC</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-android-unlock-code-sim-unlock-your-realme-c67-4g-phone-and-remove-locked-screen-by-drfone-android/"><u>In 2024, Android Unlock Code Sim Unlock Your Realme C67 4G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-do-vivo-y78plus-screen-sharing-drfone-by-drfone-android/"><u>In 2024, How To Do Vivo Y78+ Screen Sharing | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-apple-iphone-12-pro-online-without-jailbreak-by-drfone-ios/"><u>In 2024, How to Unlock SIM Card on Apple iPhone 12 Pro online without jailbreak</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-online-streaming-capture-a-comprehensive-guide/"><u>In 2024, Online Streaming Capture  A Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-professional-streaming-made-simple-in-obs-studio-android-edition/"><u>In 2024, Professional Streaming Made Simple in OBS Studio, Android Edition</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-sky-high-speeds-key-moments-in-the-short-tracks-olympics/"><u>In 2024, Sky-High Speeds  Key Moments in the Short Tracks, Olympics</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-nokia-c12-plus-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Nokia C12 Plus for Parents | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-vivo-v29e-without-him-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Two Ways to Track My Boyfriends Vivo V29e without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-universal-unlock-pattern-for-poco-x6-by-drfone-android/"><u>In 2024, Universal Unlock Pattern for Poco X6</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-learn-how-to-add-captivating-titles-in-final-cut-pro-x/"><u>New In 2024, Learn How to Add Captivating Titles in Final Cut Pro X</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/overcoming-green-tint-in-youtubes-on-mac-a-guide/"><u>Overcoming Green Tint in YouTubes on Mac  A Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pinnacle-7-action-shooter-games/"><u>Pinnacle 7 Action Shooter Games</u></a></li>
+<li><a href="https://video-capture.techidaily.com/simple-guides-for-recording-vimeo-content-for-2024/"><u>Simple Guides for Recording Vimeo Content for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/unleashing-iphone-potential-for-high-end-gaming/"><u>Unleashing iPhone Potential for High-End Gaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unlock-your-viewing-pleasure-with-budget-friendly-recording-tools-for-2024/"><u>Unlock Your Viewing Pleasure with Budget-Friendly Recording Tools for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-top-5-free-wmv-video-merging-solutions-for-2024/"><u>Updated Top 5 Free WMV Video Merging Solutions for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/vdsc-vidmaster-tale-a-comprehensive-evaluation-for-2024/"><u>VDSC VidMaster Tale  A Comprehensive Evaluation for 2024</u></a></li>
+</ul></div>

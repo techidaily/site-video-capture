@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  OBS Techniques for Clear Skype Screen Recording\""
-date: 2024-05-18T08:38:50.224Z
-updated: 2024-05-19T08:38:50.224Z
+date: 2024-07-20T03:17:16.221Z
+updated: 2024-07-21T03:17:16.221Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: OBS Techniques for Clear Skype Screen Recording\""
 excerpt: "\"This Article Describes 2024 Approved: OBS Techniques for Clear Skype Screen Recording\""
 keywords: "Skype Screen Capture,OBS Skype Recording,Clear Skype Screen,Skype Video Record,Obs Techniques Video,Skype Screen Share,Crystal Skype Streaming"
-thumbnail: https://www.lifewire.com/thmb/he26hNDyU2vpo9vDwma05qKk-R8=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/espnplus-6d79c347f2df42d7a38cdb0ba9a2472b.jpg
+thumbnail: https://thmb.techidaily.com/1296bc6cf3d8ba602cee83fbaf9d9aae0f41d750526e3d62954932be609de318.jpg
 ---
 
 ## OBS Techniques for Clear Skype Screen Recording
@@ -31,10 +31,16 @@ Now to setup the environment for screen recording we have to follow the followin
 
 Initially, you’ll be required to have skype installed on your desktop along with the up-to-date version of OBS software. After installing skype you first have to make a secondary/backup account on skype. After that you require a secondary camera as well to record yourself because your webcam can be in demand elsewhere, so you would not be able to record yourself or even the guests wouldn’t be able to see you. And then turn on the given command in skype i-e: skype>settings>calling>advanced>’allow NDI usage’ as shown in the picture. This command allows OBS to access skype videos.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![skype calling settings advanced calling](https://images.wondershare.com/filmora/article-images/skype-calling-settings-advanced-calling.jpg)
 
 After this you have to open the OBS program and set it up for skype calls, firs thing is to create a new scene, then you're going to hit the plus button and select the capture device. Now you can see yourself on camera and screen can easily be cropped, while holding ‘Alt’, on OBS so fix it according to your liking. Then press ‘lock’ using the NDI plug-in.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs program set up for skype](https://images.wondershare.com/filmora/article-images/obs-program-set-up-for-skype.jpg)
 
 ![obs vlc videos source](https://images.wondershare.com/filmora/article-images/obs-vlc-videos-source.jpg)
@@ -49,6 +55,9 @@ And after addition of plug in you would want to click on ‘+’ again and selec
 
 And clicking on it will open a new window where you have to select the guest feed, which will be possible once the call has begun. The call connected will appear on the NDI plugin window.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![obs new window select the guest feed](https://images.wondershare.com/filmora/article-images/obs-new-window-select-the-guest-feed.jpg)
 
 As you receive the call from the reciever you will see the incoming feed of him as shown in the figure.
@@ -57,6 +66,9 @@ As you receive the call from the reciever you will see the incoming feed of him 
 
 So you can just resize it similarly as you did yours earlier and pressing the lock icon will stop you from mistakenly modify or change the video screen settings. Now to record the video you have to click on record button and your desktop starts recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<!-- affiliate ads end -->
 ![obs resize it similarly](https://images.wondershare.com/filmora/article-images/obs-resize-it-similarly.jpg)
 
 ## Part 2: OBS Alternative to Record Skype
@@ -78,6 +90,9 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
@@ -137,10 +152,16 @@ For macOS 10.12 or later
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 * After the configuration, you can click on the big red button to start the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ## FAQs Regarding Skype Recording
 
 **How do I add Skype video on OBS?**
@@ -188,6 +209,9 @@ For macOS 10.12 or later
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 * After the configuration, you can click on the big red button to start the recording.
@@ -231,6 +255,14 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
+	Home Use license is dedicated for personal, non-commercial use only. 
+	If Action! is used for commercial gain or to further any commercial purpose, 
+	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
+ 
+	company, user or members of the same household. Action! - screen and game recorder</a>
+<!-- affiliate ads end -->
 ![filmra record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 * This window gives you options regarding screen size, resolution and devices which will record your audio and videos.
@@ -239,10 +271,16 @@ For macOS 10.12 or later
 
 * This window is to configure all the audio and video devices. So you can get audio from any device and similarly video devices can also be configured.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![filmora configure all the audio devices](https://images.wondershare.com/filmora/guide/recording-05.png)
 
 * After the configuration, you can click on the big red button to start the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs Regarding Skype Recording
 
 **How do I add Skype video on OBS?**
@@ -299,3 +337,38 @@ So form the above discussion it can be concluded that OBS for screen recording c
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-rapid-snapshot-sound-infused-display/"><u>[New] 2024 Approved  Rapid Snapshot  Sound-Infused Display</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-taking-command-of-zoom-breakout-sessions/"><u>[New] 2024 Approved  Taking Command of Zoom Breakout Sessions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-excellent-record-maker-chromebook-edition/"><u>[New] Excellent Record Maker  Chromebook Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-pcmacs-leading-game-recording-apps-ranked-15plus/"><u>[New] In 2024, PC/Mac's Leading Game Recording Apps Ranked #15+</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-premium-screen-capture-gear-flawless-performance/"><u>[New] In 2024, Premium Screen Capture Gear - Flawless Performance</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/aster-the-skill-of-trimming-youtube-videos-for-perfect-bites/"><u>[New] Master the Skill of Trimming YouTube Videos for Perfect Bites</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-neat-screen-capture-utility-win10-for-2024/"><u>[New] Neat Screen Capture Utility, Win10 for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-thors-odyssey-the-last-stand-for-2024/"><u>[New] Thor’s Odyssey  The Last Stand for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-10-best-no-cost-videocalling-tools-with-shared-display-for-2024/"><u>[Updated] 10 Best No-Cost Videocalling Tools with Shared Display for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-optimize-your-virtual-space-with-zoom-setup/"><u>[Updated] 2024 Approved  Optimize Your Virtual Space with Zoom Setup</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quick-guide-to-saving-switch-gameplay-videos/"><u>[Updated] 2024 Approved  Quick Guide to Saving Switch Gameplay Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-take-full-page-screen-images/"><u>[Updated] 2024 Approved  Take Full-Page Screen Images</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-your-go-to-tools-for-screen-recording/"><u>[Updated] 2024 Approved  Your Go-To Tools for Screen Recording</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-comprehensive-guide-to-interoperable-playlists/"><u>[Updated] A Comprehensive Guide to Interoperable Playlists</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-enlightened-techniques-to-preserve-your-iptv-streams/"><u>[Updated] Enlightened Techniques to Preserve Your IPTV Streams</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-enrich-tech-life-free-screen-recording-for-pcmacos/"><u>[Updated] Enrich Tech Life  Free Screen Recording for PC/macOS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-screen-savvy-secure-your-captures-chromebooks-top-4-techniques/"><u>[Updated] In 2024, Screen Savvy  Secure Your Captures - Chromebook's Top 4 Techniques</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-skype-the-top-10-audio-capture-tools-for-2024/"><u>[Updated] Skype  The Top 10 Audio Capture Tools for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-streamlined-list-6-efficient-mac-screen-recording-solutions-for-2024/"><u>[Updated] Streamlined List  6 Efficient Mac Screen Recording Solutions for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-secrets-for-superior-asmr-viewing/"><u>[Updated] Unlocking Secrets for Superior ASMR Viewing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/apex-stream-recorders-compendium/"><u>Apex Stream Recorders Compendium</u></a></li>
+<li><a href="https://video-capture.techidaily.com/brisksnatch-slowframe-capture/"><u>BriskSnatch SlowFrame Capture</u></a></li>
+<li><a href="https://video-capture.techidaily.com/groundbreaking-action-adventure-masterpieces-top-10-for-2024/"><u>Groundbreaking Action-Adventure Masterpieces (Top 10) for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-do-i-sign-a-excel-2019-files-document-electronically-by-ldigisigner-sign-a-excel-sign-a-excel/"><u>How do i sign a Excel 2019 files document electronically</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-vivo-t2x-5g-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Vivo T2x 5G Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-full-facebook-call-archive-feature-guide/"><u>In 2024, Full-Facebook Call Archive Feature Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-how-to-record-steam-gameplay/"><u>In 2024, How to Record Steam Gameplay</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-key-strategies-for-gaining-facebooks-top-marker/"><u>In 2024, Key Strategies for Gaining Facebook's Top Marker</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-10-guidelines-for-breaking-through-cover-art/"><u>In 2024, Top 10 Guidelines for Breaking Through Cover Art</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/navigating-updated-youtube-money-strategies/"><u>Navigating Updated YouTube Money Strategies</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-15-most-effective-live-sports-streaming-methods/"><u>The 15 Most Effective Live Sports Streaming Methods</u></a></li>
+</ul></div>

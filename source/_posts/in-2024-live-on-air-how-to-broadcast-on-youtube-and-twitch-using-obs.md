@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Live on Air  How to Broadcast on YouTube & Twitch Using OBS\""
-date: 2024-05-19T21:35:47.687Z
-updated: 2024-05-20T21:35:47.687Z
+date: 2024-07-20T01:15:54.476Z
+updated: 2024-07-21T01:15:54.476Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Live on Air: How to Broadcast on YouTube & Twitch Using OBS\""
 excerpt: "\"This Article Describes In 2024, Live on Air: How to Broadcast on YouTube & Twitch Using OBS\""
 keywords: "\"Live Streaming Basics,YouTube Broadcasting Tips,OBS for Streamers,Twitch Hosting Guide,OBS Live Streaming Techniques,Real-Time Video Broadcasting,Channel Launch on YouTube\""
-thumbnail: https://www.lifewire.com/thmb/reiA5q9g7RC-d0IhGypCqLpbhbY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-turn-on-microphone-on-an-android-phone-5184530-372d01459baa44978ef72242d007992a.jpg
+thumbnail: https://thmb.techidaily.com/3c9a0c6a221fee25e096fdddf37ef07f9a19a2323a0faabfa25ea26bfdcf4c13.jpg
 ---
 
 ## Live on Air: How to Broadcast on YouTube & Twitch Using OBS
@@ -27,6 +27,9 @@ Well, it all boils down to choosing. But if you want to know the streaming netwo
 
 If you want to obtain the very greatest quality broadcast, you're searching for some fantastic software. In the case of Windows, one of the most common solutions is Open Broadcaster Software (OBS) (OBS). Many people are first drawn to OBS since it's free to use owing to being open source. Luckily, it's also a feature-rich piece of software that can handle practically anything you throw at it. If you're new to OBS or to streaming in general, it might be a bit frightening at first.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1\. Getting a Stream Key from Twitch
 
 Before you stream anything anyplace, you need to provide OBS with the credentials to broadcast on your channel. Exactly how you do this on the large number of services OBS supports may differ, but I'm covering Twitch for this instruction.
@@ -35,12 +38,27 @@ In all circumstances, you need to either produce a stream key in your account se
 
 ![twitch](https://images.wondershare.com/filmora/article-images/twitch.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ### Step 2\. Installing and Setting OBS
 
 OBS Studio is available for all main operating systems such as Windows, Mac OS, and, Linux. You may get the utility by clicking here. Run and install the software to get started. When you launch the program for the first time, OBS Studio performs an Auto-Configuration Wizard. It provides you the choice of selecting between ‘Optimize for streaming’ and ‘Optimize for recording’. Click on the ‘Optimize for streaming’ if you wish to live broadcast your game. The wizard will next examine your system’s performance. It examines and helps adjust your system resolution, bitrate, encoder, and internet connection.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
 ![installing and setting obs](https://images.wondershare.com/filmora/article-images/installing-and-setting-obs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3\. Configuring OBS Studio for Streaming to Twitch
 
 Now that you're set up to the stream, the first step is to select your resolution, frame rate, and bitrate. The greater each of them, the more bandwidth and horsepower you'll require from your PC. If you've got a high-speed internet connection and a strong PC, then you can probably stream at 1080p60 at a high bitrate. But you also need to balance this with offering a stream that's not going to buffer like wild for your viewers who could be on poorer connections. Remember, if you're not a partner on Twitch, you won't have transcoding, thus the experience might be awful for viewers with sluggish connections.
@@ -53,12 +71,21 @@ Once you’re done setting up OBS, you can dig into the advanced capabilities su
 
 A scene may be simply added in OBS by clicking on the addition symbol indicated in the picture below. Once you have chosen this, you will simply be prompted to pick a name for the scene. All of your overlays, sources, and basic on-screen items will need to be introduced through a specified scene. Once you have created your scene and titled it, make sure it is chosen and proceed to the box on the right side of the picture below to click the plus symbol. This brings up the many sources you may pick from for your freshly constructed scenario. The good thing is, once you have inserted a source in one scene, you can simply use it again in another.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![adding scene and sources](https://images.wondershare.com/filmora/article-images/adding-scene-and-sources.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 5\. Adding a Twitch Chat
 
 Adding your twitch chat to your broadcasts may help make your viewers feel more included by enabling them to see their message live on the screen. You may add your Twitch chat box to your live broadcast in OBS by utilizing the browser source. The best practice when employing a chat box is to make sure to have your visuals, displays, and overlays set up to accommodate it. Get the widget URL from your favorite provider and copy it to your clipboard. This is what you will be adding to your OBS sources to add the chat to your overlay. If you’re using Twitch, this will be provided to you once you pick your basic settings for your chat style and layout. In the “Sources” section of OBS, go to the “+” in the bottom left corner, and pick, “Browser” to create a new browser source window.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![twitch chat](https://images.wondershare.com/filmora/article-images/twitch-chat.jpg)
 
 ## Part 3: Stream to YouTube with OBS
@@ -75,6 +102,9 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 
 ****Step 3:** Once authenticated, it’s time to travel to YouTube Studio. Choose the Camera icon on the upper right-hand side of the main YouTube page and then select Go Live.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ![go live](https://images.wondershare.com/filmora/article-images/go-live.jpg)
 
 ****Step 4:** Now click Schedule Stream, and check to make sure that all the parameters are accurate and that the video is correctly labeled and described. When ready, choose Create Stream.
@@ -99,6 +129,9 @@ You may get it by browsing OBS Studio’s official website. If you’re using Wi
 
 With all of the aforementioned settings in place and your YouTube channel ready to accept your broadcast, there’s only one thing to do: Start live streaming! If you want to start right now, click the Start Streaming button situated in the bottom right corner. Now it’s time to start streaming. To begin, click the Go Live icon in the upper left corner of your YouTube dashboard. Once the OBS makes the connection to YouTube, the broadcast will be available in the preview window.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start streaming](https://images.wondershare.com/filmora/article-images/start-streaming.jpg)
 
 ## Part 5: Conclusion
@@ -130,3 +163,42 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-best-zoom-tools-for-clear-session-capture/"><u>[New] 2024 Approved  Best Zoom Tools for Clear Session Capture</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ending-quicktime-capture-immediate-steps/"><u>[New] 2024 Approved  Ending QuickTime Capture  Immediate Steps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-from-instant-sharing-to-long-term-storage-snapshots-journey/"><u>[New] 2024 Approved  From Instant Sharing to Long-Term Storage  Snapshots' Journey</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-apex-series-select-7-top-fps-games-for-2024/"><u>[New] Apex Series  Select 7 Top FPS Games for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-from-unknown-to-iconic-the-journey-of-viral-instagram-films-for-2024/"><u>[New] From Unknown to Iconic  The Journey of Viral Instagram Films for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-continuous-media-gatherers/"><u>[New] In 2024, Continuous Media Gatherers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-covert-capture-strategies-for-shrouding-personal-info/"><u>[New] In 2024, Covert Capture  Strategies for Shrouding Personal Info</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-framefraction-analysis/"><u>[New] In 2024, FrameFraction Analysis</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-how-to-leverage-ez-grabber-for-peak-performance/"><u>[New] In 2024, How to Leverage EZ Grabber for Peak Performance</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-preferred-options-superior-mac-video-capture-apps/"><u>[New] Preferred Options  Superior Mac Video Capture Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-updating-your-meet-name-easy-steps-for-pc-and-mobile/"><u>[New] Updating Your Meet Name  Easy Steps for PC & Mobile</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-affordable-devices-customized-obs-tweaks/"><u>[Updated] 2024 Approved  Affordable Devices  Customized OBS Tweaks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-a-comprehensive-guide-to-smoothly-flip-movies-in-vlc-for-2024/"><u>[Updated] A Comprehensive Guide to Smoothly Flip Movies in VLC for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-effortless-voice-memo-creation-on-apple-devices-for-2024/"><u>[Updated] Effortless Voice Memo Creation on Apple Devices for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-how-to-make-a-mark-as-an-hdr-photography-pro-with-lightroom/"><u>[Updated] How to Make a Mark as an HDR Photography Pro with Lightroom</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-fast-tracking-your-vimeo-watch-time/"><u>[Updated] In 2024, Fast-Tracking Your Vimeo Watch Time</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-streamline-your-workflow-with-these-5-obs-editing-hacks/"><u>[Updated] Streamline Your Workflow with These 5 OBS Editing Hacks</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-fundamentals-of-hosting-zoom-meetings-for-2024/"><u>[Updated] The Fundamentals of Hosting Zoom Meetings for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-visionary-software-solutions-for-virtual-meetings/"><u>[Updated] Visionary Software Solutions for Virtual Meetings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-premier-game-recorder-picks-excluding-the-mainstream-one/"><u>2024 Approved  Premier Game Recorder Picks Excluding the Mainstream One</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-step-by-step-shortcut-for-easy-mac-screen-recording/"><u>2024 Approved  Step-by-Step Shortcut for Easy Mac Screen Recording</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-definitive-2023-bandicam-handbook-for-gamers/"><u>2024 Approved  The Definitive 2023 Bandicam Handbook for Gamers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-the-future-of-presentations-capturing-via-webcam/"><u>2024 Approved  The Future of Presentations  Capturing via Webcam</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-unlocked-iphone-13-pro-by-drfone-ios/"><u>In 2024, Everything You Need To Know About Unlocked iPhone 13 Pro</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-precision-in-screenshotting-top-methods-for-flawless-results/"><u>In 2024, Precision in Screenshotting  Top Methods for Flawless Results</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-simplified-game-video-capture-via-nvidia/"><u>In 2024, Simplified Game Video Capture via NVIDIA</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Honor Magic 5 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-2024-approved-pick-from-the-best-top-10-imovie-alternatives-on-android/"><u>New 2024 Approved Pick From the Best Top 10 iMovie Alternatives on Android</u></a></li>
+<li><a href="https://video-capture.techidaily.com/premier-10-battle-royale-challenges-for-2024/"><u>Premier 10 Battle Royale Challenges for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/professional-smoothness-blurring-the-video-backdrop-for-2024/"><u>Professional Smoothness  Blurring the Video Backdrop for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-2-video-editing-apps-compared-filmora-and-democracy-creator-for-2024/"><u>Top 2 Video Editing Apps Compared  Filmora & Democracy Creator for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/understanding-the-importance-of-professional-images-as-thumbnails-for-2024/"><u>Understanding the Importance of Professional Images as Thumbnails for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unparalleled-sound-quality-microphone-guide/"><u>Unparalleled Sound Quality  Microphone Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/view-all-sharing-media-in-messenger-conversations/"><u>View All Sharing  Media in Messenger Conversations</u></a></li>
+</ul></div>

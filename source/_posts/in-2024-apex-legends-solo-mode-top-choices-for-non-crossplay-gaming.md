@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Apex Legends Solo Mode  Top Choices for Non-Crossplay Gaming\""
-date: 2024-06-09T06:51:48.664Z
-updated: 2024-06-10T06:51:48.664Z
+date: 2024-07-20T05:23:21.225Z
+updated: 2024-07-21T05:23:21.225Z
 tags: 
   - screen-recording
   - ai video
@@ -65,8 +65,14 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
 #### **Does it have cross-progression?**
@@ -87,6 +93,10 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Xbox Series X and S**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-seriesx.jpg)Xbox series S and X are the latest generations of Xbox. They rival their competitor PS5 and offer competitive performance when you compare these consoles with a PS5\. They do offer better gaming performance and better graphics. But, the question is, Can you play Apex on the latest generations of Xbox? The answer is yes. You will get better performance in terms of graphics and FPS but currently, the game isn't fully optimized for the latest generations. In the coming days it is expected that the game will be optimized for the latest consoles and you can enjoy the game to the fullest. Currently, you can enjoy 1440p gaming on these consoles and can get up to 120fps.
 
 **Sony PlayStation 4**
@@ -95,6 +105,9 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Sony PlayStation 5**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![ps5-poster](https://images.wondershare.com/filmora/article-images/ps5-poster.png)
 
 Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is already playable on it. PS5 offers improved performance and better graphics as compared to its previous versions. If you were previously playing on PS4 and just switched to PS5, you can also retain all your progress and skins on PS5 also. You can use the same EA account and start enjoying Apex Legends on 1440p screen resolution.
@@ -134,8 +147,23 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -152,3 +180,55 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-essential-guide-recording-google-meets-securely/"><u>[New] 2024 Approved  Essential Guide  Recording Google Meets Securely</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-2024-approved-the-30-best-bots-for-a-lively-discord-server/"><u>[New] 2024 Approved  The 30 Best Bots for a Lively Discord Server</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-a-gamers-treasure-chest-top-5-ways-to-record-vr-games-professionally-for-2024/"><u>[New] A Gamer's Treasure Chest  Top 5 Ways to Record VR Games Professionally for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-amazing-builds-the-best-of-block-city-homes/"><u>[New] Amazing Builds  The Best of Block City Homes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-choosing-prime-audio-editors-for-youtube-creators/"><u>[New] Choosing Prime Audio Editors for YouTube Creators</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-earning-through-online-beauty-networks/"><u>[New] Earning Through Online Beauty Networks</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-entry-level-landing-low-cost-profitable-youtube-platforms-for-2024/"><u>[New] Entry Level Landing  Low-Cost, Profitable YouTube Platforms for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-adopt-a-universal-strategy-how-to-record-your-favorite-youtube-lives-on-any-device/"><u>[New] In 2024, Adopt a Universal Strategy  How To Record Your Favorite YouTube Lives on Any Device</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-cam-repaired-obs-recovery-successful/"><u>[New] In 2024, Cam Repaired  OBS Recovery Successful</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-whats-not-advertised-ten-facts-about-instagram-reels/"><u>[New] In 2024, What's Not Advertised  Ten Facts About Instagram Reels</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-perfecting-obs-streams-for-direct-facebook-engagement/"><u>[New] Perfecting OBS Streams for Direct Facebook Engagement</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-x-spectrum-visual-recorder-pc/"><u>[New] X-Spectrum Visual Recorder, PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-10-steps-to-perfectly-plated-food-vids/"><u>[Updated] 10 Steps to Perfectly Plated Food Vids</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-break-through-the-crowd-your-guide-to-choosing-free-intro-masters/"><u>[Updated] In 2024, Break Through the Crowd - Your Guide to Choosing Free Intro Masters</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-concurrent-audio-and-video-tracking/"><u>[Updated] In 2024, Concurrent Audio and Video Tracking</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-mastering-discord-stickers-your-ultimate-resource/"><u>[Updated] Mastering Discord Stickers  Your Ultimate Resource</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-complete-package-of-top-zoom-capturing-gear/"><u>[Updated] The Complete Package of Top Zoom Capturing Gear</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-evolved-windows-editor-programs-for-films/"><u>2024 Approved  Evolved Windows Editor Programs for Films</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-fast-guide-transforming-images-into-youtube-desktop-thumbnails/"><u>2024 Approved  Fast Guide  Transforming Images Into YouTube Desktop Thumbnails</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-masterclass-emulation-best-ps3-clones-on-your-computer/"><u>2024 Approved  Masterclass Emulation  Best PS3 Clones on Your Computer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-perfecting-pics-on-pc-our-top-5-snipping-apps-unveiled/"><u>2024 Approved  Perfecting Pics on PC  Our Top 5 Snipping Apps Unveiled</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-quickscreen-log-review-and-alternative-apps/"><u>2024 Approved  QuickScreen Log Review and Alternative Apps</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-snapchats-star-highlight-utilization-guide/"><u>2024 Approved  Snapchat's Star Highlight  Utilization Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-streamlined-approach-record-movies-everywhere-you-go/"><u>2024 Approved  Streamlined Approach  Record Movies Everywhere You Go</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-ultimate-listing-best-no-ad-android-recording-apps/"><u>2024 Approved  Ultimate Listing  Best No-Ad Android Recording Apps</u></a></li>
+<li><a href="https://windows11.techidaily.com/5-essential-tweaks-for-your-windows-11-search-settings/"><u>5 Essential Tweaks for Your Windows 11 Search Settings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-nubia-z50s-pro-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Nubia Z50S Pro</u></a></li>
+<li><a href="https://video-capture.techidaily.com/covert-capture-strategies-for-shrouding-personal-info-for-2024/"><u>Covert Capture  Strategies for Shrouding Personal Info for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/discover-the-top-free-tools-for-youtube-image-downloads/"><u>Discover the Top Free Tools for YouTube Image Downloads</u></a></li>
+<li><a href="https://video-capture.techidaily.com/dynamic-oratory-study-insights-part-8-for-2024/"><u>Dynamic Oratory Study Insights, Part 8 for 2024</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/finding-windows-11-support-for-mp620-printer/"><u>Finding Windows 11 Support for MP620 Printer</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-infinix-smart-8-pro-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Infinix Smart 8 Pro? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-xiaomi-mix-fold-3-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Xiaomi Mix Fold 3 by Name | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-alternatives-to-xboxs-game-bar-for-gamers/"><u>In 2024, Alternatives to Xbox’s Game Bar for Gamers</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-audio-interface-innovations-for-optimal-podcasting/"><u>In 2024, Audio Interface Innovations for Optimal Podcasting</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-capturewin10-top-tier-recorder/"><u>In 2024, CaptureWin10  Top-Tier Recorder</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-clear-recording-software-for-windows-10-users/"><u>In 2024, Clear Recording Software for Windows 10 Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-documenting-xbox-gaming-tips-and-tricks/"><u>In 2024, Documenting Xbox Gaming  Tips & Tricks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-how-to-amplify-your-online-presence-with-google-meets-aesthetic-tools/"><u>In 2024, How to Amplify Your Online Presence with Google Meet's Aesthetic Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-streamline-your-teamwork-zooming-through-screenshares/"><u>In 2024, Streamline Your Teamwork  Zooming Through Screenshares</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-top-2-video-editing-apps-compared-filmora-and-democracy-creator/"><u>In 2024, Top 2 Video Editing Apps Compared  Filmora & Democracy Creator</u></a></li>
+<li><a href="https://video-capture.techidaily.com/modify-mac-screen-shot-storage-path/"><u>Modify Mac Screen Shot Storage Path</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/reviving-your-non-printing-brother-printer-in-win1011/"><u>Reviving Your Non-Printing Brother Printer in Win10/11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/snapshotgenius-comprehensive-windowsmac-photo-software-for-2024/"><u>SnapshotGenius  Comprehensive Windows/Mac Photo Software for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/step-up-your-storytelling-effortless-text-addition-for-video-clips-with-photos/"><u>Step Up Your Storytelling  Effortless Text Addition for Video Clips with Photos</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-to-clear-out-your-youtube-watch-later-collection/"><u>Steps to Clear Out Your YouTube Watch Later Collection</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-phone-and-camera-mounts-precision-focus-tracking/"><u>Ultimate Phone & Camera Mounts  Precision Focus Tracking</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unwind-the-mind-the-ultimate-chill-list/"><u>Unwind the Mind  The Ultimate Chill List</u></a></li>
+</ul></div>

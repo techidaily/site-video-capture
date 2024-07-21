@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Ultimate Quick Reference for iPhone Memo-Making for 2024\""
-date: 2024-05-18T08:31:20.587Z
-updated: 2024-05-19T08:31:20.587Z
+date: 2024-07-20T02:43:15.750Z
+updated: 2024-07-21T02:43:15.750Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] The Ultimate Quick Reference for iPhone Memo-Making for 2024\""
 excerpt: "\"This Article Describes [Updated] The Ultimate Quick Reference for iPhone Memo-Making for 2024\""
 keywords: "IPhone Memo Guide,Quick iOS Notes Tips,Best iPhone Memos Shortcuts,Easy iPhone Note Making,Ultimate iOS Memo Reference,FastiPhone Memo Creation,Essential iPhone Memo Tools"
-thumbnail: https://www.lifewire.com/thmb/eS1YD0LsEQhVuAP3cxZA8t-_eDU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iPad-Pro_creative-sketch_10302018-5be0773ac9e77c0051d5d51c.jpg
+thumbnail: https://thmb.techidaily.com/a74c765fb6818efdc56bfc7805aa17daf214ba70cf5906bbca11c158a428c514.jpg
 ---
 
 ## The Ultimate Quick Reference for iPhone Memo-Making
@@ -33,6 +33,9 @@ Record screen and webcam as well
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<!-- affiliate ads end -->
 ## 1\. How To Record with Voice Memo iPhone
 
 First, try to get the best position for your iPhone for quality results. Don't hold the phone in your hand. It will be better to make it stand firmly so that there is no unwanted noise caused due to movements. Place the microphone at the source of the recording. Here are the steps you have to follow to record voice memos, lectures, interviews, voice notes, songs and likewise with Voice Memo app iPhone.
@@ -45,6 +48,9 @@ Step 3: Start speaking and the recording is going on in the background. You can 
 
 Step 4: Tap anywhere on the recording pane to see the Pause button in case you want to pause now and resume later.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![voice memo tap to record](https://images.wondershare.com/filmora/article-images/voice-memos.jpg)
 
 Step 6: The app also allows you to go forward or backward by 15 seconds by tapping the Rewind or Forward buttons.
@@ -75,6 +81,9 @@ Step 6: By using your finger, you can easily drag the trim sliders from any end 
 
 Step 7: Now, you have to tap on Delete option to remove the section between the trim sliders.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![remove section](https://images.wondershare.com/filmora/article-images/remove-section.jpg)
 
 Step 8: Finally, you will have to tap on Save followed by Done.
@@ -131,6 +140,9 @@ There is no limit of recording time when it comes to recording a voice memo or n
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ## 1\. How To Record with Voice Memo iPhone
 
 First, try to get the best position for your iPhone for quality results. Don't hold the phone in your hand. It will be better to make it stand firmly so that there is no unwanted noise caused due to movements. Place the microphone at the source of the recording. Here are the steps you have to follow to record voice memos, lectures, interviews, voice notes, songs and likewise with Voice Memo app iPhone.
@@ -143,6 +155,9 @@ Step 3: Start speaking and the recording is going on in the background. You can 
 
 Step 4: Tap anywhere on the recording pane to see the Pause button in case you want to pause now and resume later.
 
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![voice memo tap to record](https://images.wondershare.com/filmora/article-images/voice-memos.jpg)
 
 Step 6: The app also allows you to go forward or backward by 15 seconds by tapping the Rewind or Forward buttons.
@@ -151,6 +166,9 @@ Step 7: Once you are done recording, you will have to tap Done button. When ther
 
 Note: To listen to a voice memo, you need to launch Voice Memos app. You will see all the recordings and select the preferred voice memo by tapping on it. Then you will have to tap on the Play button to start listening.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ![tap on the play button](https://images.wondershare.com/filmora/article-images/tap-on-the-play-button.jpg)
 
 ****How To Trim and Edit A Voice Memo?**
@@ -187,6 +205,9 @@ Step 2: Select the recording that you want to delete on the home screen of the a
 
 Step 3: Tap on Trash icon to delete the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![delete the recording](https://images.wondershare.com/filmora/article-images/delete-the-recording.jpg)
 
 The deleted recording will be in the Deleted folder for 30 days after deletion. Thereafter, it will disappear permanently. If you want, you can access the deleted audio file back by going to the Recently Deleted option. Tap on the recording that you want to restore and tap on Restore icon.
@@ -199,6 +220,9 @@ Step 2: You will now have to select the voice memo that you are looking to share
 
 Step 3: Tap on the three-dot More button.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ![again](https://images.wondershare.com/filmora/article-images/again.jpg)
 
 Step 4: Finally, tap on Share option.
@@ -241,6 +265,9 @@ Step 3: Start speaking and the recording is going on in the background. You can 
 
 Step 4: Tap anywhere on the recording pane to see the Pause button in case you want to pause now and resume later.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ![voice memo tap to record](https://images.wondershare.com/filmora/article-images/voice-memos.jpg)
 
 Step 6: The app also allows you to go forward or backward by 15 seconds by tapping the Rewind or Forward buttons.
@@ -249,6 +276,9 @@ Step 7: Once you are done recording, you will have to tap Done button. When ther
 
 Note: To listen to a voice memo, you need to launch Voice Memos app. You will see all the recordings and select the preferred voice memo by tapping on it. Then you will have to tap on the Play button to start listening.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ![tap on the play button](https://images.wondershare.com/filmora/article-images/tap-on-the-play-button.jpg)
 
 ****How To Trim and Edit A Voice Memo?**
@@ -285,6 +315,9 @@ Step 2: Select the recording that you want to delete on the home screen of the a
 
 Step 3: Tap on Trash icon to delete the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![delete the recording](https://images.wondershare.com/filmora/article-images/delete-the-recording.jpg)
 
 The deleted recording will be in the Deleted folder for 30 days after deletion. Thereafter, it will disappear permanently. If you want, you can access the deleted audio file back by going to the Recently Deleted option. Tap on the recording that you want to restore and tap on Restore icon.
@@ -297,6 +330,9 @@ Step 2: You will now have to select the voice memo that you are looking to share
 
 Step 3: Tap on the three-dot More button.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ![again](https://images.wondershare.com/filmora/article-images/again.jpg)
 
 Step 4: Finally, tap on Share option.
@@ -305,6 +341,9 @@ Step 5: The app will now allow you to choose the app where you want to share the
 
 ![share](https://images.wondershare.com/filmora/article-images/share.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## FAQs About Voice Memos app -
 
 Where is the voice memo app on iPhone 7?
@@ -327,6 +366,9 @@ There is no limit of recording time when it comes to recording a voice memo or n
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ## 1\. How To Record with Voice Memo iPhone
 
 First, try to get the best position for your iPhone for quality results. Don't hold the phone in your hand. It will be better to make it stand firmly so that there is no unwanted noise caused due to movements. Place the microphone at the source of the recording. Here are the steps you have to follow to record voice memos, lectures, interviews, voice notes, songs and likewise with Voice Memo app iPhone.
@@ -383,6 +425,9 @@ Step 2: Select the recording that you want to delete on the home screen of the a
 
 Step 3: Tap on Trash icon to delete the recording.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
 ![delete the recording](https://images.wondershare.com/filmora/article-images/delete-the-recording.jpg)
 
 The deleted recording will be in the Deleted folder for 30 days after deletion. Thereafter, it will disappear permanently. If you want, you can access the deleted audio file back by going to the Recently Deleted option. Tap on the recording that you want to restore and tap on Restore icon.
@@ -448,3 +493,45 @@ There is no limit of recording time when it comes to recording a voice memo or n
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-anonymous-surveillance-methods-hiding-private-data-effectively/"><u>[New] Anonymous Surveillance Methods  Hiding Private Data Effectively</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-dive-deep-into-detail-advanced-zooming-tips-for-videoleap/"><u>[New] Dive Deep Into Detail  Advanced Zooming Tips for VideoLeap</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-elevate-conference-engagement-with-zoom/"><u>[New] Elevate Conference Engagement with Zoom</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-excellent-quality-hd-video-preservers/"><u>[New] Excellent Quality HD Video Preservers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-your-ultimate-guide-to-unmissable-gaming-worlds/"><u>[New] In 2024, Your Ultimate Guide to Unmissable Gaming Worlds</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-in-2024-the-viral-power-couple-tiktok-and-twitter-trends/"><u>[Updated] In 2024, The Viral Power Couple  TikTok & Twitter Trends</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-visionary-designs-for-future-mojave-dwellings-for-2024/"><u>[Updated] Visionary Designs for Future Mojave Dwellings for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-a-comprehensible-approach-to-adding-dates-on-youtube-videos/"><u>2024 Approved  A Comprehensible Approach to Adding Dates on YouTube Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-all-in-one-screen-capture-az-insights-and-alternatives/"><u>2024 Approved  All-in-One Screen Capture - AZ Insights & Alternatives</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-elevate-your-communication-master-skype-calls-recording/"><u>2024 Approved  Elevate Your Communication  Master Skype Calls Recording</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-explore-the-best-ios-options-to-simulate-your-favorite-psp-classics/"><u>2024 Approved  Explore the Best iOS Options to Simulate Your Favorite PSP Classics</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-imagesegment-scrutiny-review/"><u>2024 Approved  ImageSegment Scrutiny Review</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/2024-approved-mp3-to-mp4-the-dos-and-donts-of-audio-video-conversion/"><u>2024 Approved MP3 to MP4 The Dos and Donts of Audio-Video Conversion</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-oppo-a1-5g-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Oppo A1 5G by Name | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/adv-screen-recorder-review-for-2024/"><u>ADV Screen Recorder Review for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/advanced-live-broadcast-setup-from-obs-to-fb-enthusiasts-for-2024/"><u>Advanced Live Broadcast Setup  From OBS to FB Enthusiasts for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ahead-of-the-curve-best-hydro-games-compiled-for-2024/"><u>Ahead of the Curve  Best Hydro Games Compiled for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capture-your-gaming-adventures-with-steam/"><u>Capture Your Gaming Adventures with Steam</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/re-youtubes-subtitles-on-no-cost-platforms/"><u>Capture YouTube's Subtitles on No-Cost Platforms</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/capturing-life-in-new-ways-hero-4-and-hero-5/"><u>Capturing Life in New Ways  Hero 4 & Hero 5</u></a></li>
+<li><a href="https://video-capture.techidaily.com/choosing-the-right-screen-recorder-outside-of-xbox-for-2024/"><u>Choosing the Right Screen Recorder, Outside of Xbox for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/clear-visuals-ahead-mastering-your-logitech-webcams-capabilities-for-2024/"><u>Clear Visuals Ahead  Mastering Your Logitech Webcam's Capabilities for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/document-the-drive-on-your-galaxy-screen/"><u>Document the Drive on Your Galaxy Screen</u></a></li>
+<li><a href="https://video-capture.techidaily.com/elevate-your-gaming-experience-4-techniques-for-gameplay-snaps/"><u>Elevate Your Gaming Experience  4 Techniques for Gameplay Snaps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/exclusive-review-top-10-budget-friendly-video-meetup-apps-for-companies-and-schools/"><u>Exclusive Review  Top 10 Budget-Friendly Video Meetup Apps for Companies & Schools</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-timer-finds-low-cost-high-return-monetized-youtube-sites/"><u>First-Timer Finds  Low-Cost, High-Return Monetized YouTube Sites</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-19-secrets-to-free-capture-of-virtual-learning-sessions/"><u>In 2024, 19 Secrets to FREE Capture of Virtual Learning Sessions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-ace-google-call-best-screen-saver-bgs-list/"><u>In 2024, Ace Google Call  Best Screen Saver BGs List</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-from-viewer-to-voyager-in-depth-guide-for-captivating-live-tv-on-your-pc/"><u>In 2024, From Viewer to Voyager  In-Depth Guide for Captivating Live TV on Your PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-honor-magic5-ultimate-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Honor Magic5 Ultimate FRP</u></a></li>
+<li><a href="https://video-capture.techidaily.com/macs-gif-mastery-top-10-recorder-guide/"><u>Mac's GIF Mastery  Top 10 Recorder Guide</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-top-10-speech-recording-apps-for-android-smartphones-a-comprehensive-guide/"><u>New 2024 Approved Top 10 Speech Recording Apps for Android Smartphones - A Comprehensive Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/reawakening-dormant-connections-with-your-obs-cam/"><u>Reawakening Dormant Connections with Your OBS Cam</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-complete-2024-breakdown-of-powerdirectors-features/"><u>The Complete 2024 Breakdown of PowerDirector's Features</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-essential-iphone-screen-recording-manual/"><u>The Essential iPhone Screen Recording Manual</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-guide-to-best-in-class-racing-games/"><u>The Ultimate Guide to Best-in-Class Racing Games</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ticklish-titles-laugh-out-loud-gaming-for-children/"><u>Ticklish Titles  Laugh-Out-Loud Gaming for Children</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/updated-in-2024-how-to-trim-video-in-quicktime-player-on-your-mac/"><u>Updated In 2024, How to Trim Video in QuickTime Player on Your Mac</u></a></li>
+</ul></div>

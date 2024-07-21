@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, ShotChrome FX  Chrome's Screen Capturing\""
-date: 2024-05-18T08:49:34.386Z
-updated: 2024-05-19T08:49:34.386Z
+date: 2024-07-20T04:07:59.851Z
+updated: 2024-07-21T04:07:59.851Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, ShotChrome FX: Chrome's Screen Capturing\""
 excerpt: "\"This Article Describes [Updated] In 2024, ShotChrome FX: Chrome's Screen Capturing\""
 keywords: "Chrome Screenshots,ShotFX Chrome Capture,Quick Chrome Snaps,Chrome Screen Grabs,Instant Chrome FX,FX for Chrome Capture,Fast Chrome Images"
-thumbnail: https://www.lifewire.com/thmb/uayRyPYo9UvTUkcunakDixhwqrA=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Robothandholdinganapple-fbe6ff482ed641e188dd6650b9ac132e.jpg
+thumbnail: https://thmb.techidaily.com/5c5beff306decd9e31c3216a57ffb320c5012e1719fd0426ca459ec8dc06e9a5.jpg
 ---
 
 ## ShotChrome FX: Chrome's Screen Capturing
@@ -25,10 +25,17 @@ So we have done our research to assist those who are in search of a cool and eas
 
 The Chrome OS Native screenshot as well as a screen recorder application is very easy and simple to use. It comes with a simple GUI in the Chromebook OS. The recorder lets you record your screen and audio input. To get your hand on the application and learn how to use it, you gotta follow the steps below. Before moving to the “How’s” you need to know that the Chrome OS native screenshot generally comes with the OS but if you are an old user and using the old version then you will need to bring it on your OS. Let's see how can we do that.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Setting Up
 
 If you are not seeing the recorder out of the box then you will need to access the Chrome OS features. It can be done by enabling the Chromes OS flags. All you have to do is to search chrome://flags with its browser. After that search for “screen capture”. And you will see enable option in front of the screen capture bar, enable it and you will be asked for a permission reset prompt and it's done.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![chrome native screen recorder setting up](https://images.wondershare.com/filmora/article-images/chrome-native-screen-recorder-setting-up.jpg)
 
 ### Step 2: Recorder Screen
@@ -39,6 +46,9 @@ Once you are done with settings up the flag or you are using the latest Chrome O
 
 Soon as you click on the screen capture, you will be prompted to a new screen with a variety of options for the tool as shown. Here you can choose a specific target area on the screen for screenshots as well as screen videos from the “Capture Area” in the figure. You can switch using the two options as shown in the figure below. To finally start recording, click “Start Capturing” as shown in the figure.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<!-- affiliate ads end -->
 ![chrome select start](https://images.wondershare.com/filmora/article-images/chrome-select-start.jpg)
 
 Finally, once you are done recording and now it's time to stop recording. You just need to click on the stop icon in the lower-right bottom of the desktop screen as shown in the figure below.
@@ -65,14 +75,30 @@ Once you are finished signing in and installing, it's time to set microphone set
 
 You can record your desktop screen with the desktop icon. The browser tab can be recorded by clicking that icon and clicking record. Moreover, the webcam record can be captured using the webcam icon and clicking start recording as shown below in the figure.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 ![screencastify click that icon record](https://images.wondershare.com/filmora/article-images/screencastify-extension.jpg)
 
 Finally, after clicking record a new window will appear to ask you to select the entire screen. Just click the “entire screen” and click share and your recording will be started after a count down. The recording can be stopped using the “stop sharing” that appear in the end of the screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ### 2\. Awesome Screenshot Screen Recorder
 
 Another Google addon for screen recording is Awesome screenshot and screen recorder. This extension is also very easy to use and deploy onto your Chrome OS browser. All you need to search it in the extension bar by typing in “Awesome Screen Recorder.” Once it appears click on the “Add to Chrome” and click add an extension in the new popped up message.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![awesome screenshot and screen recorder](https://images.wondershare.com/filmora/article-images/awesome-screenshot-and-screen-recorder.jpg)
 
 After adding the extension a new window will appear to set up your extension. There are three steps, first, you will need to sign up using your Google account. After that, the next step is to pin the addon to the top bar. For that click on the extension icon and pin it to the bar as shown in 3 in the figure. Click next and finish the setup.
@@ -85,10 +111,16 @@ Let's come to the recording of the screen. Open up the extension from the pinned
 
 Similarly, a screenshot can be taken by going to the “Capture” section in the main bar. Click “Visible Port” and click start capturing. After that, a vibrant screenshot editor will pop up to edit your screenshot at the run time.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Nimbus
 
 Another amazing Google extension for screen recording that is used widely is Nimbus. The installation is somehow similar to the said above extensions. Search for the extension named “Nimbus”. Add it to the chrome browser like shown. After that, a signup page will appear to sign up using a Google account. Add the extension to pinned application in the bar as shown in the figure.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![nimbus screen recorder](https://images.wondershare.com/filmora/article-images/nimbus-capture-poster.png)
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
@@ -144,3 +176,42 @@ To wind up, it's true there are a lot of screen recording add-ons and applicatio
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-leading-the-charge-in-webinar-innovation/"><u>[New] 2024 Approved  Leading the Charge in Webinar Innovation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-non-disclosure-in-videos-tips-for-masking-identifiable-details/"><u>[New] 2024 Approved  Non-Disclosure in Videos  Tips for Masking Identifiable Details</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-selecting-the-ideal-imagery-for-remote-meetings/"><u>[New] 2024 Approved  Selecting the Ideal Imagery for Remote Meetings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-simple-routines-for-documenting-digital-dialogues-on-os-xpc/"><u>[New] 2024 Approved  Simple Routines for Documenting Digital Dialogues on OS X/PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-in-depth-guide-to-capturing-and-enhancing-ps4-gaming/"><u>[New] In 2024, In-Depth Guide to Capturing and Enhancing PS4 Gaming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-superior-chromebook-video-saver/"><u>[New] In 2024, Superior ChromeBook Video Saver</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-iphone-users-learn-simple-screen-recording-now-in-2024/"><u>[New] Iphone Users, Learn Simple Screen Recording Now, In 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-master-the-art-of-installing-vrecorder-for-2024/"><u>[New] Master the Art of Installing VRecorder for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-in-depth-review-screenflow-full-package-for-mac/"><u>[Updated] 2024 Approved  In-Depth Review  ScreenFlow Full Package for Mac</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-stand-up-staples-newest-funny-hits-from-tiktok-stars/"><u>[Updated] 2024 Approved  Stand-Up Staples  Newest Funny Hits From TikTok Stars</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-gold-standard-in-selecting-accurate-3ds-simulators/"><u>[Updated] 2024 Approved  The Gold Standard in Selecting Accurate 3DS Simulators</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-unpacking-manycams-revolutionary-recording-features/"><u>[Updated] 2024 Approved  Unpacking ManyCam's Revolutionary Recording Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-circumventing-virtual-classroom-videos-without-hesitation/"><u>[Updated] Circumventing Virtual Classroom Videos Without Hesitation</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-list-no-charge-platforms-for-stunning-video-transformations-for-2024/"><u>[Updated] Essential List  No-Charge Platforms for Stunning Video Transformations for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-how-to-fix-full-screen-error-in-obs-for-2024/"><u>[Updated] How to Fix Full Screen Error in OBS for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-from-plot-to-post-a-detailed-guide-to-writing-youtube-videos/"><u>[Updated] In 2024, From Plot to Post  A Detailed Guide to Writing YouTube Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-infinite-jest-joyride-top-kids-game-lineup/"><u>[Updated] In 2024, Infinite Jest Joyride - Top Kids' Game Lineup</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-prime-array-of-unplugged-digital-pastimes/"><u>[Updated] In 2024, Prime Array of Unplugged Digital Pastimes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-maximizing-video-quality-in-steam-game-recording-for-2024/"><u>[Updated] Maximizing Video Quality in Steam Game Recording for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-myvidhub-testing-a-quest-for-more-features-in-2024/"><u>[Updated] MyVidHub Testing  A Quest for More Features, In 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-powerful-insights-unlocking-full-potential-with-mobizen-screen-recording-for-2024/"><u>[Updated] Powerful Insights  Unlocking Full Potential with Mobizen Screen Recording for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-pros-choice-the-best-screen-recorders-for-editing/"><u>[Updated] Pro's Choice  The Best Screen Recorders for Editing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unveiling-obs-screen-recorder-functionality-deeply-for-2024/"><u>[Updated] Unveiling OBS Screen Recorder Functionality Deeply for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/everything-to-know-about-apple-id-password-requirements-for-iphone-13-by-drfone-ios/"><u>Everything To Know About Apple ID Password Requirements For iPhone 13</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/fundamental-codex-for-online-video-communities/"><u>Fundamental Codex for Online Video Communities</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-can-i-unlock-my-apple-iphone-x-after-forgetting-my-pin-code-by-drfone-ios/"><u>How Can I Unlock My Apple iPhone X After Forgetting my PIN Code?</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-deciding-on-the-best-videography-camera-type-dslr-or-mirrorless/"><u>In 2024, Deciding on the Best Videography Camera Type  DSLR or Mirrorless?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-essential-tools-15-windows-11-recorder-software/"><u>In 2024, Essential Tools  #15 Windows 11 Recorder Software</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-poco-x6-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Poco X6</u></a></li>
+<li><a href="https://extra-support.techidaily.com/leading-cloud-services-for-android-for-2024/"><u>Leading Cloud Services for Android for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/premier-windows-8-audio-shows/"><u>Premier Windows 8 Audio Shows</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-tecno-pop-7-pro-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Tecno Pop 7 Pro Screen | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/syncing-your-presence-in-real-time-tiktoks/"><u>Syncing Your Presence in Real-Time TikToks</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-infinix-hot-40-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Infinix Hot 40 | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/wacom-compatibility-uninstallreinstall-guide-for-windows-series/"><u>Wacom Compatibility: Uninstall/Reinstall Guide for Windows Series</u></a></li>
+</ul></div>

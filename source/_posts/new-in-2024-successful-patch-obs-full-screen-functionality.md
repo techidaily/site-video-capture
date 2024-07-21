@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Successful Patch  OBS Full Screen Functionality\""
-date: 2024-05-18T08:35:25.554Z
-updated: 2024-05-19T08:35:25.554Z
+date: 2024-07-20T03:01:23.438Z
+updated: 2024-07-21T03:01:23.438Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Successful Patch: OBS Full Screen Functionality\""
 excerpt: "\"This Article Describes [New] In 2024, Successful Patch: OBS Full Screen Functionality\""
 keywords: "Fullscreen OBS,OBS Enhancement,OBS Update Guide,Screen Capture Tech,Video Streaming Improvement,Advanced OBS Features,Live Broadcast Optimization"
-thumbnail: https://www.lifewire.com/thmb/x14UrRTf3--IfQ99R_ewwR4TwWY=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104288650-cd3f369f8ead449f94d1a1ce6f55c9de.jpg
+thumbnail: https://thmb.techidaily.com/ab68550bed8939ff878aaece9b28e90d8b0465006aaa80a48dab2ef20ecc47cd.jpg
 ---
 
 ## Successful Patch: OBS Full Screen Functionality
@@ -35,6 +35,9 @@ Step 3: Go to Output tab and change Output Mode from Simple to Advanced.
 
 Step 4: Change CPU Usage Present from Veryfast to Ultrafast so that OBS uses less CPU resources for the encoding process.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![obs change cpu usage](https://images.wondershare.com/filmora/article-images/obs-change-cpu-usage.jpg)
 
 Step 5: Click on Apply and Ok button.
@@ -51,6 +54,9 @@ Step 3: Go to Xbox Game Bar tab on the left side.
 
 4: Turn it off so that it does not record your gameplay.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ![windows settings xbox game bar](https://images.wondershare.com/filmora/article-images/windows-settings-xbox-game-bar.jpg)
 
 ## Way 3\. Empower the Compatibility Mode
@@ -63,6 +69,9 @@ Step 2: Go to Start menu and open Task Manager.
 
 Step 3: On Task manager, find OBS Studio under Apps. Right-click on it and select Properties.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ![windows task manager properties](https://images.wondershare.com/filmora/article-images/windows-task-manager-properties.jpg)
 
 Step 4: From Properties, copy the file location. Open File Explorer and go to the copied location by pasting on Address Bar.
@@ -73,6 +82,9 @@ Step 5: Find OBS Studio Application file and right-click on it and select Proper
 
 Step 6: Go to Compatibility tab and turn on “Run This Program In Compatibility Mode For”. Select Windows 8 from the list.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs64 properties run](https://images.wondershare.com/filmora/article-images/obs64-properties-run.jpg)
 
 Step 7: Click on Apply and OK button.
@@ -113,6 +125,9 @@ Step 4: Download and install OBS Studio as per your operating system. Give all t
 
 Step 5: Launch the OBS Studio after installation and check if you can record in full screen mode.
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Way 6\. Use OBS alternative
 
 When none of the above solutions work for you and even after reinstalling OBS, the issue is not solved, you have to move on from OBS Studio. We recommend Wondershare Filmora as the best alternative to OBS Studio. You can record your full screen as well as part of your screen as per requirements. You can also adjust all the different parameters of recording. Contrary to OBS Studio, Filmora has a better user interface as well as an advanced video editor. Here are the steps to record the full screen with Filmora.
@@ -147,6 +162,38 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC Screen option to capture your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<!-- affiliate ads end -->
+![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
+Step 2: Select the recording screen size as full screen.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
+
+Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+OBS full screen not working is a common issue that many users have reported on various OBS forums. There are various reasons behind the issues and we have provided all the possible solutions to fix the issue. You should try out all of them step by step before giving up on OBS Studio. Wondershare Filmora is the best alternative to OBS Studio for full screen recording without any issue.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC Screen option to capture your screen.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Select the recording screen size as full screen.
@@ -167,30 +214,16 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC Screen option to capture your screen.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Select the recording screen size as full screen.
 
-![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
-
-Step 4: When you are done, click on Stop button or press the Hotkey you have set to start and stop recording. You can edit the video and click on Export to save it on your hard drive.
-
-## Conclusion
-
-OBS full screen not working is a common issue that many users have reported on various OBS forums. There are various reasons behind the issues and we have provided all the possible solutions to fix the issue. You should try out all of them step by step before giving up on OBS Studio. Wondershare Filmora is the best alternative to OBS Studio for full screen recording without any issue.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora. Launch Filmora and click on PC Screen option to capture your screen.
-
-![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-Step 2: Select the recording screen size as full screen.
-
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 Step 3: Click on Record button when you are ready. You will get a few buffer seconds to switch to your application or game in full screen mode. Thereafter, Filmora will start recording in the background.
@@ -226,3 +259,51 @@ OBS full screen not working is a common issue that many users have reported on v
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-investigating-the-top-10-cost-effective-video-collaboration-tools-in-corporateedu-settings/"><u>[New] 2024 Approved  Investigating the Top 10 Cost-Effective Video Collaboration Tools in Corporate/Edu Settings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-list-best-windows-11-webcams-for-recording/"><u>[New] 2024 Approved  Ultimate List  Best Windows 11 Webcams for Recording</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-how-to-utilize-snap-camera-effectively-for-real-time-collaboration-in-meet/"><u>[New] In 2024, How to Utilize Snap Camera Effectively for Real-Time Collaboration in Meet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-precision-leaders-best-7-shooting-adventures/"><u>[New] In 2024, Precision Leaders  Best 7 Shooting Adventures</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-smooth-gameplay-and-seamless-recordings-by-nvidia/"><u>[New] In 2024, Smooth Gameplay & Seamless Recordings by NVIDIA</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-the-ultimate-microphone-recordings-list-9-reviews-of-choice/"><u>[New] In 2024, The Ultimate Microphone Recordings List  9 Reviews of Choice</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-precision-recording-of-skype-calls-via-obs-network-for-2024/"><u>[New] Precision Recording of Skype Calls via OBS Network for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-the-new-age-of-entertainment-tiktok-vs-snap-in-the-spotlight/"><u>[New] The New Age of Entertainment  TikTok Vs Snap in the Spotlight</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-virtual-realms-on-screen-comprehensive-techniques-for-gameplay-recording-for-2024/"><u>[New] Virtual Realms on Screen  Comprehensive Techniques for Gameplay Recording for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-your-2023-guide-best-applications-for-downloading-lite-facebook-videos/"><u>[Updated] 2024 Approved  Your 2023 Guide  Best Applications for Downloading Lite Facebook Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-efficient-techniques-for-capturing-google-voice-calls/"><u>[Updated] Efficient Techniques for Capturing Google Voice Calls</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-how-to-add-edit-and-optimize-youtube-tagstitledescription-for-more-views/"><u>[Updated] How to Add, Edit and Optimize YouTube Tags/Title/Description for More Views</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-crafting-immaculate-circular-and-spherical-shapes-in-minecraft/"><u>[Updated] In 2024, Crafting Immaculate Circular and Spherical Shapes in Minecraft</u></a></li>
+<li><a href="https://video-capture.techidaily.com/1716070305070-updated-in-2024-mastering-vrecorder-download-install/"><u>[Updated] In 2024, Mastering VRecorder Download, Install!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-shadowplay-vs-obs-pick-your-preferred-gaming-recorder/"><u>[Updated] In 2024, ShadowPlay Vs OBS - Pick Your Preferred Gaming Recorder</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-sharex-dissected-professional-views-and-counterparts/"><u>[Updated] In 2024, ShareX Dissected  Professional Views & Counterparts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-essential-blueprint-for-exceptional-video-tutorial-creation/"><u>[Updated] In 2024, The Essential Blueprint for Exceptional Video Tutorial Creation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-mac-device-visuals-and-acoustics-in-one/"><u>[Updated] In 2024, Ultimate Mac Device  Visuals & Acoustics in One</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-little-gamers-treasure-trove-of-joy-for-2024/"><u>[Updated] Little Gamers' Treasure Trove of Joy for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-livestream-quality-decision-opt-for-streamlabs-or-obs-for-2024/"><u>[Updated] Livestream Quality Decision  Opt for Streamlabs or OBS for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-perfect-timing-adjust-video-speed-in-snapchat-easily-for-2024/"><u>[Updated] Perfect Timing  Adjust Video Speed in Snapchat Easily for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-the-elite-camera-set-optimal-webcams-for-windows-11-for-2024/"><u>[Updated] The Elite Camera Set  Optimal Webcams for Windows 11 for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-valheim-seeds-and-growth-techniques-for-2024/"><u>[Updated] Top Valheim Seeds & Growth Techniques for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unveiling-the-secrets-to-effective-macbook-air-screen-capture-for-2024/"><u>[Updated] Unveiling the Secrets to Effective MacBook Air Screen Capture for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-video-ranking-rise-must-have-youtube-seo-aids-for-2024/"><u>[Updated] Video Ranking Rise – Must-Have YouTube SEO Aids for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-virtual-vetting-best-animal-games-for-android-for-2024/"><u>[Updated] Virtual Vetting  Best Animal Games for Android for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-exclusive-list-11-best-sound-capturers-guide/"><u>2024 Approved  Exclusive List  11 Best Sound Capturers Guide</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-unlocking-youtubes-potential-the-25-step-guide/"><u>2024 Approved  Unlocking YouTube's Potential  The 25-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/cost-free-screen-capture-for-windowsmacos-users/"><u>Cost-Free Screen Capture for Windows/macOS Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/countdown-configuration-in-obs-for-streamers-and-filmmakers/"><u>Countdown Configuration in OBS for Streamers and Filmmakers</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/flv-conversion-for-content-creators-top-10-youtubes-alternatives-unveiled-for-2024/"><u>Flv Conversion for Content Creators  Top 10 YouTubes Alternatives Unveiled for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-unlock-iphone-14-plus-when-we-dont-have-apple-id-or-password-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 14 Plus When We Dont Have Apple ID or Password?</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-understanding-bandicam-key-facts-revealed/"><u>In 2024, Understanding Bandicam - Key Facts Revealed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/insiders-look-at-advanced-streamlabs-obs-techniques/"><u>Insider's Look at Advanced Streamlabs OBS Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-sony-xperia-1-v-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Sony Xperia 1 V | Dr.fone</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-how-do-you-find-the-picture-ratio-calculator/"><u>New How Do You Find the Picture Ratio Calculator?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/quick-guide-downloading-and-prepping-vrecord/"><u>Quick Guide  Downloading & Prepping VRecord</u></a></li>
+<li><a href="https://some-skills.techidaily.com/syncing-speed-and-quality-in-lunapic-edits-for-2024/"><u>Syncing Speed and Quality in LunaPic Edits for 2024</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/top-10-audio-alteration-apps-for-disguise-and-entertainment-for-2024/"><u>Top 10 Audio Alteration Apps for Disguise and Entertainment for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-in-2024-10-free-football-streaming-sites-to-bookmark/"><u>Updated In 2024, 10 Free Football Streaming Sites To Bookmark</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-adding-effective-audio-to-your-quicktime-projects-2023-edition/"><u>Updated In 2024, Adding Effective Audio to Your QuickTime Projects 2023 Edition</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-ultimate-final-cut-pro-slideshow-tutorial-for-beginners/"><u>Updated In 2024, The Ultimate Final Cut Pro Slideshow Tutorial for Beginners</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-transform-your-text-into-engaging-audio-files-for-2024/"><u>Updated Transform Your Text Into Engaging Audio Files for 2024</u></a></li>
+</ul></div>
