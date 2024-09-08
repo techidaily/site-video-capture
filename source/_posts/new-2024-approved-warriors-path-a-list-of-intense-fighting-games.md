@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Warrior's Path  A List of Intense Fighting Games\""
-date: 2024-08-29T04:15:27.068Z
-updated: 2024-08-30T04:15:27.068Z
+date: 2024-09-07T07:33:32.646Z
+updated: 2024-09-08T07:33:32.646Z
 tags: 
   - screen-recording
   - ai video
@@ -15,12 +15,30 @@ keywords: "BattleFightersList,FierceGamerGames,IntensityCombat,ClashingWarriors,
 thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Warrior's Path: A List of Intense Fighting Games
 
 # Top 5 Kung Fu Games Just Like Sifu
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -31,6 +49,12 @@ To begin with, many of you might wonder the right way to say the word "sifu." It
 
  **![](https://images.wondershare.com/filmora/article-images/ramen-teacher.jpg)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ---
 
 #### **This article contains:**
@@ -40,6 +64,12 @@ _Price: [Coming soon](https://www.epicgames.com/store/en-US/p/sifu)_
 
 Is one life enough to have Kung Fu?![](https://images.wondershare.com/filmora/article-images/sifu-beard.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Sifu is a single-player martial arts game. This game is developed by Sloclap, the team of the legendary martial arts game Absolver.Sifu is based on the journey of a young Kungfu student to becoming a Kungfu Master for the vengeance of death of his family from mysterious assassins. The only purpose of his life is to make those assassins pay the price of their cruelty, who are involved in the murder of his family. After preparing for eight years to take vengeance, finally, the day has arrived. He will not stop until he takes down all his rivals, whoever comes in his way toward his revenge. He can overcome death with the help of a magical pendant whenever he dies. But this return from death has a cost to be paid in the form of age. Whenever he comes back to life, he becomes older. Will he be able to take his revenge without getting old enough for a fight? This journey of revenge goes through different phases and locations like hallways, clubs, suburbs, and more. Everything on his way can be used as a tool to fight enemies like objects, weapons, chairs, and tables. As soon as the player gets closer to the victory, he discovers more and more skills and powers.
 
 Part 2: Top 5 Kung Fu Games Just Like Sifu
@@ -103,8 +133,20 @@ It is a single-player action-adventure hardcore game. With its focus on Monster-
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -188,6 +230,3 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
