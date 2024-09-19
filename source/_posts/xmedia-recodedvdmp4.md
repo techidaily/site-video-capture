@@ -1,7 +1,7 @@
 ---
 title: XMedia Recodeで簡単にDVDファイルをMP4形式に変換する詳しい手順
-date: 2024-09-08 15:53:38
-updated: 2024-09-11 11:27:55
+date: 2024-09-15T16:05:33.490Z
+updated: 2024-09-19T16:13:12.472Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/e03e43d6c35d148960447c0d2ee89542320d7730a8e124f95538e772fc1bdf8a.jpg
@@ -56,6 +56,13 @@ For more video editing functions, you just need to press the related icon to ope
 
 ![Edit Videos on Windows 10](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-13.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 3\. Export Edited Video
 
 Once finished editing, you can click "**Finish video**", choose a video quality, and click "**Export**" to export the edited video.
@@ -88,6 +95,13 @@ Launch _**Free HD Video Converter Factory**_ after installing it on your PC. Ope
 
 ![How to Edit Videos on Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-1.webp) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Step 2: Edit Videos with Different Tools
 
 After loading the video, you can see a toolbar with the video. Then you can click each button or a combination to edit videos like trimming, cropping, rotating, etc. Below are the detailed steps of how to edit a video on Windows 10/11 with each video editing tool.
@@ -97,6 +111,13 @@ _**#1\. Merge the Videos**_
 To [merge videos into one file](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), you first need to import at least 2 or more video files into the program. Click the **Merge** button on the top menu bar and you will see the videos under the **Video List**. Select the videos and click the **middle Merge** button to save the videos in **Pack 1**. You can adjust the video order in the video pack. You can also repeat the step to create multiple packs. Finally, click the **bottom Merge** button to save the changes.
 
 ![How to Edit Videos on Laptop Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-2.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Also See:** [Free Video Merger without Watermark](https://tools.techidaily.com/videoconverterfactory/video-watermark/) | [Join Videos without Re-encoding](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 
@@ -119,6 +140,13 @@ _**#4\. Crop the Video**_
 Enter the **Crop** window by clicking the fourth icon on the toolbar. It offers [two video cropping modes](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) that allow you to freely drag the dotted box or manually input the resolution to select the crop area under **Free Aspect Ratio** or choose one common fixed aspect ratio from the drop-down list under **Fixed Aspect Ratio**. After that, you can also fine-tune the crop area for more accurate capture. Then click **OK** to go back.
 
 ![Best Free Video Editor for Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-5.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _**#5\. Add Effects/Filter to Video**_
 
@@ -151,6 +179,13 @@ After finishing the video editing process, click the output format icon to unfol
 Tips: Open the **Parameter settings** window, and you'll be able to modify the video parameters. You [can customize the video resolution](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/), bitrate, frame rate, audio bitrate, volume, and so forth.
 
 ![Best Free Video Editor for Windows 10/11](https://www.videoconverterfactory.com/tips/imgs-self/how-to-edit-videos-on-windows-10/how-to-edit-videos-on-windows-10-10.webp) 
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 4: Start Exporting the Edited Video
 
@@ -210,11 +245,29 @@ _\* Please do not use the DVD ripper to rip any copy-protected DVDs for commerci
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-strategies-for-succeeding-with-facebook-video-marketing-and-revenue/"><u>[New] In 2024, Strategies for Succeeding with Facebook Video Marketing and Revenue</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-tailoring-your-videos-for-impact-on-instagram-feed/"><u>[New] In 2024, Tailoring Your Videos for Impact on Instagram Feed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-zoom-webinar-mastery-a-novices-step-by-step-tutorial/"><u>[Updated] 2024 Approved Zoom Webinar Mastery A Novice's Step-by-Step Tutorial</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/guide-to-activating-and-utilizing-twitch-two-factor-authentication/"><u>Guide to Activating & Utilizing Twitch Two-Factor Authentication</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-6-proven-ways-to-unlock-samsung-galaxy-a14-4g-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock Samsung Galaxy A14 4G Phone When You Forget the Password</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/is-the-lg-k92-smartphone-a-justifiable-purchase-for-5g-users/"><u>Is The LG K92 Smartphone A Justifiable Purchase For 5G Users?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-messages-from-huawei-nova-y91-by-fonelab-android-recover-messages/"><u>Possible solutions to restore deleted messages from Huawei Nova Y91</u></a></li>
+<li><a href="https://video-capture.techidaily.com/top-7-premier-4k-video-capture-tools-for-your-computer/"><u>Top 7 Premier 4K Video Capture Tools for Your Computer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/transferring-mkv-media-content-seamlessly-into-imovie-a-comprehensive-tutorial/"><u>Transferring MKV Media Content Seamlessly Into iMovie – A Comprehensive Tutorial</u></a></li>
+<li><a href="https://video-capture.techidaily.com/transforming-images-into-movies-using-three-easy-to-use-applications/"><u>Transforming Images Into Movies Using Three Easy-to-Use Applications</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ts-3/"><u>TS ファイルエディターのベストな無料アプリケーション3つをご紹介</u></a></li>
+<li><a href="https://video-capture.techidaily.com/tsvmp4/"><u>TSVからMP4への変換手順：効果的なコンバート戦略</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-fixes-for-common-issues-reviving-your-ability-to-download-videos-using-videoriver-plus/"><u>Ultimate Fixes for Common Issues: Reviving Your Ability to Download Videos Using Videoriver Plus</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/unpacking-the-powerhouse-a-comprehensive-review-of-the-latest-imac-featuring-m1-chip-technology/"><u>Unpacking the Powerhouse: A Comprehensive Review of the Latest iMac Featuring M1 Chip Technology</u></a></li>
+<li><a href="https://fox-info.techidaily.com/your-pin-library-top-5-free-downloader-software-online-for-2024/"><u>Your Pin Library Top 5 Free Downloader Software Online for 2024</u></a></li>
+</ul></div>
+

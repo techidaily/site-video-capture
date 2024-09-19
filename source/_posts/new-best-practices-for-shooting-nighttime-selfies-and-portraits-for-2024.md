@@ -1,7 +1,7 @@
 ---
 title: "[New] Best Practices for Shooting Nighttime Selfies & Portraits for 2024"
-date: 2024-09-07T22:37:35.664Z
-updated: 2024-09-13T16:59:39.796Z
+date: 2024-09-18T16:20:03.984Z
+updated: 2024-09-19T16:20:37.439Z
 tags: 
   - screen-recording
   - ai video
@@ -23,13 +23,6 @@ Well, **night-mode portraits** can be such an opportunity. However, it can be a 
 
 ![night potraits](https://images.wondershare.com/filmora/article-images/2022/11/night-potraits.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Must-Dos in Night Portraits
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
@@ -46,21 +39,7 @@ While shooting **night portraits,** based on the location, you may not get suffi
 
 ![pexels matheus bertelli 573298](https://images.wondershare.com/filmora/article-images/2022/11/pexels-matheus-bertelli-573298.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 For example, it can be a car light, a phone flashlight, a billboard light and anything that can light up the subject, offering a decent amount of illumination to your camera. Make sure that the light is accessible. Experts suggest using off-camera flashlights for **night portraits** as it offers better flexibility. Based on your requirements, you can adjust the direction and brightness. Using a light stand can also be very helpful here.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3\. Make Good Use of Night Mode Portrait
 
@@ -69,10 +48,10 @@ Don't forget to take advantage of your camera's night mode portrait option to ge
 The camera will then take a series of photos at multiple exposure levels and then merge them to create a single image with great details. Even though **night mode portraits** can help you a lot, they may not work well while taking photos of moving objects. The reason behind this is that this mode takes multiple shots, and moving subjects would be blurred out. If it is a static scene, then go for it.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Shooting with a Stabilizer
@@ -88,13 +67,6 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 
 ![pexels marcelo dias 1970482](https://images.wondershare.com/filmora/article-images/2022/11/pexels-marcelo-dias-1970482.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
 
 ## Part 2: Don't-Dos in Night Portraits
@@ -106,10 +78,10 @@ When it comes to wearing black for night portraits, experts suggest avoiding it 
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 2\. Don't do a capture shoot
@@ -131,24 +103,24 @@ Speaking about white balance, it is a setting to make sure the colors in the pho
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How To Capture Good Portraits at Night?
 
@@ -159,10 +131,10 @@ As per the experts, the lower the aperture, the more light your camera will rece
 Some common mistakes that you need to avoid while shooting portraits are poor lighting, poor composition, bad background, using the incorrect lens, not properly focusing on the eyes, overexposure and more. Just follow the above-mentioned tips to get stunning night portraits.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What Are the Best Camera Settings for Night Photography?
@@ -199,18 +171,16 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-puzzling-perfection-hunt-for-the-ultimate-rooms/"><u>[New] 2024 Approved Puzzling Perfection Hunt for the Ultimate Rooms</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-capturing-life-one-click-at-a-time-the-ultimate-guide-for-documenting-your-sims-journey-in-sims-4/"><u>[New] Capturing Life, One Click at a Time The Ultimate Guide for Documenting Your Sim's Journey in Sims 4</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-essential-mobile-games-for-leisurely-indulgence/"><u>[Updated] 2024 Approved Essential Mobile Games for Leisurely Indulgence</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-how-to-utilize-snap-camera-effectively-for-real-time-collaboration-in-meet/"><u>[Updated] How to Utilize Snap Camera Effectively for Real-Time Collaboration in Meet</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-live-stream-perfection-ranking-the-best-recorder-gadgets-in-tech-for-2024/"><u>[Updated] Live Stream Perfection Ranking the Best Recorder Gadgets in Tech for 2024</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-optimize-your-channels-an-introduction-to-youtube-statistics/"><u>2024 Approved Optimize Your Channels An Introduction to YouTube Statistics</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/1721427288824-avoid-googles-wizard-bot-potential-cyber-threat-alert/"><u>Avoid Google's Wizard Bot — Potential Cyber Threat Alert!</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/best-book-trailers-for-impact/"><u>Best Book Trailers for Impact</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/emotional-algorithmics-unveiling-the-future-of-sentiment-analysis/"><u>Emotional Algorithmics: Unveiling the Future of Sentiment Analysis</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-a-damaged-video-file-of-motorola-edge-40-neo-using-video-repair-utility-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair a Damaged video file of Motorola Edge 40 Neo using Video Repair Utility on Mac?</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-solutions-to-find-your-samsung-galaxy-s24plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Solutions to Find Your Samsung Galaxy S24+ Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-samsung-galaxy-z-flip-5-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Samsung Galaxy Z Flip 5</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/regione-free-dvd-conversion-tricks-liberate-il-tuo-dvd-dal-vincolo-di-zona/"><u>Regione-Free DVD Conversion Tricks: Liberate Il Tuo DVD Dal Vincolo Di Zona</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-elevating-the-drone-scene-with-top-10-hexa-flights-for-2024/"><u>[New] Elevating the Drone Scene with Top 10 Hexa-Flights for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-instagram-tv-disable-guide-for-2024/"><u>[New] Instagram TV Disable Guide for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-foobar2000-wave-router/"><u>2024 Approved Foobar2000 Wave Router</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-free-desktop-and-web-based-video-trimmers-of-2024-top-picks/"><u>Best Free Desktop & Web-Based Video Trimmers of 2024: Top Picks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/best-no-cost-youtube-video-downloading-apps-for-windows-11-users/"><u>Best No-Cost YouTube Video Downloading Apps for Windows 11 Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/buy-ipod-video-converter-factory-pro-software-at-no-risk-shop-now/"><u>Buy iPod Video Converter Factory Pro Software at No Risk - Shop Now!</u></a></li>
+<li><a href="https://video-capture.techidaily.com/easy-methods-for-transforming-your-dvd-videos-into-swf-file-format/"><u>Easy Methods for Transforming Your DVD Videos Into SWF File Format</u></a></li>
+<li><a href="https://video-capture.techidaily.com/enhanced-sound-amplification-effortlessly-upgrade-your-videos-and-audio/"><u>Enhanced Sound Amplification: Effortlessly Upgrade Your Videos & Audio</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/essential-tips-for-using-powershell-to-unblock-files/"><u>Essential Tips for Using PowerShell to Unblock Files</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-use-snapchat-location-spoofer-to-protect-your-privacy-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>How to use Snapchat Location Spoofer to Protect Your Privacy On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-what-is-ai-voice-in-2024/"><u>New What Is AI Voice, In 2024</u></a></li>
 </ul></div>
 
