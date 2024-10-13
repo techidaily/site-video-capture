@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Apply a Classic Video Transition with Camtasia 9 for 2024"
-date: 2024-09-13T16:01:07.753Z
-updated: 2024-09-19T16:15:14.490Z
+date: 2024-10-10T19:18:00.986Z
+updated: 2024-10-13T18:09:12.104Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,6 +93,19 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -92,18 +119,26 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-channel-your-inner-videographer-to-produce-top-tier-edu-videos/"><u>[New] 2024 Approved Channel Your Inner Videographer to Produce Top-Tier Edu-Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-spotlight-on-11-top-audio-capture-equipments/"><u>[New] 2024 Approved Spotlight on 11 Top Audio Capture Equipments</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-expert-evaluation-best-action-capture-systems/"><u>[New] Expert Evaluation Best Action Capture Systems</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-from-plate-to-screen-perfecting-the-art-of-food-cinema/"><u>[New] From Plate to Screen Perfecting the Art of Food Cinema</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expert-secrets-for-effective-ipad-sound-capture/"><u>[Updated] Expert Secrets for Effective iPad Sound Capture</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-fine-tuning-team-call-aesthetics-pre-and-post-customization/"><u>[Updated] In 2024, Fine-Tuning Team Call Aesthetics Pre & Post Customization</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-overcoming-absence-of-color-in-game-recordings/"><u>[Updated] In 2024, Overcoming Absence of Color in Game Recordings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-top-5-mac-snipping-utilities-essential-choices/"><u>[Updated] Top 5 Mac Snipping Utilities Essential Choices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-brief-methods-for-sending-iphone-media-to-pc/"><u>2024 Approved Brief Methods for Sending iPhone Media to PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-secrets-of-successful-twitch-stream-capturing/"><u>2024 Approved Secrets of Successful Twitch Stream Capturing</u></a></li>
+<li><a href="https://article-tips.techidaily.com/acquire-excellent-images-at-no-cost-essential-strategies/"><u>Acquire Excellent Images at No Cost Essential Strategies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/capture-cinematic-moments-seamlessly-across-pcs-and-smartphones/"><u>Capture Cinematic Moments Seamlessly Across PCs & Smartphones</u></a></li>
+<li><a href="https://driver-download.techidaily.com/find-and-update-comprehensive-guide-to-downloading-new-bluetooth-drivers-for-windows-devices/"><u>Find & Update: Comprehensive Guide to Downloading New Bluetooth Drivers for Windows Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-3-ways-to-record-discord-live-stream/"><u>In 2024, 3 Ways to Record Discord Live Stream</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reviewing-fongos-call-quality-and-features-a-canada-perspective/"><u>Reviewing Fongo’s Call Quality and Features – A Canada Perspective</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/search-engine-optimization-seo/"><u>Search Engine Optimization (SEO)</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-techno-conductors-playbook-mastering-windows-pc-for-capturing-live-broadcasts/"><u>The Techno Conductor's Playbook Mastering Windows PC for Capturing Live Broadcasts</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-naraka-bladepoint-stutter-and-lag/"><u>Troubleshooting Naraka: Bladepoint Stutter and Lag</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unleashing-the-power-of-dji-robomaster-s1-a-fun-filled-tank-drone-with-interactive-battles-and-learning-opportunities/"><u>Unleashing the Power of DJI RoboMaster S1 – A Fun-Filled Tank Drone with Interactive Battles and Learning Opportunities</u></a></li>
+</ul></div>
 
