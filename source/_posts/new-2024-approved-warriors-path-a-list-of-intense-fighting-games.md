@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Warrior's Path  A List of Intense Fighting Games\""
-date: 2024-09-07T07:33:32.646Z
-updated: 2024-09-08T07:33:32.646Z
+date: 2024-10-18T17:36:09.987Z
+updated: 2024-10-19T16:45:45.425Z
 tags: 
   - screen-recording
   - ai video
@@ -15,30 +15,12 @@ keywords: "BattleFightersList,FierceGamerGames,IntensityCombat,ClashingWarriors,
 thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Warrior's Path: A List of Intense Fighting Games
 
 # Top 5 Kung Fu Games Just Like Sifu
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -49,12 +31,6 @@ To begin with, many of you might wonder the right way to say the word "sifu." It
 
  **![](https://images.wondershare.com/filmora/article-images/ramen-teacher.jpg)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ---
 
 #### **This article contains:**
@@ -64,12 +40,6 @@ _Price: [Coming soon](https://www.epicgames.com/store/en-US/p/sifu)_
 
 Is one life enough to have Kung Fu?![](https://images.wondershare.com/filmora/article-images/sifu-beard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Sifu is a single-player martial arts game. This game is developed by Sloclap, the team of the legendary martial arts game Absolver.Sifu is based on the journey of a young Kungfu student to becoming a Kungfu Master for the vengeance of death of his family from mysterious assassins. The only purpose of his life is to make those assassins pay the price of their cruelty, who are involved in the murder of his family. After preparing for eight years to take vengeance, finally, the day has arrived. He will not stop until he takes down all his rivals, whoever comes in his way toward his revenge. He can overcome death with the help of a magical pendant whenever he dies. But this return from death has a cost to be paid in the form of age. Whenever he comes back to life, he becomes older. Will he be able to take his revenge without getting old enough for a fight? This journey of revenge goes through different phases and locations like hallways, clubs, suburbs, and more. Everything on his way can be used as a tool to fight enemies like objects, weapons, chairs, and tables. As soon as the player gets closer to the victory, he discovers more and more skills and powers.
 
 Part 2: Top 5 Kung Fu Games Just Like Sifu
@@ -133,27 +103,13 @@ It is a single-player action-adventure hardcore game. With its focus on Monster-
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -161,3 +117,29 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-from-high-speed-to-leisurely-the-pathway-to-stellar-ig-reel-slow-motion/"><u>[Updated] From High-Speed to Leisurely The Pathway to Stellar IG Reel Slow Motion</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tips-for-easily-accessing-videos-on-facebook/"><u>[Updated] Tips for Easily Accessing Videos on Facebook</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-the-world-of-streamed-games/"><u>2024 Approved Navigating the World of Streamed Games</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ing-a-path-to-monthly-earnings-from-youtube-for-2024/"><u>Charting a Path to Monthly Earnings From YouTube for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/creating-a-singular-stream-from-diverse-youtube-videos-for-2024/"><u>Creating a Singular Stream From Diverse YouTube Videos for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-ultimate-connectivity-with-mobvoi-ticwatch-pro-4g-your-definitive-guide/"><u>Experience Ultimate Connectivity with Mobvoi Ticwatch Pro 4G - Your Definitive Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-negative-playback-on-your-instagram-feed/"><u>In 2024, Mastering Negative Playback on Your Instagram Feed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-google-pixel-7a-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Google Pixel 7a Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/try-now-the-ultimate-zune-media-transformation-tool-professional-version-for-free-via-trial-payment-system/"><u>Try Now: The Ultimate Zune Media Transformation Tool, Professional Version for Free via Trial Payment System</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-mp4-to-webm-transformation-a-step-by-step-process-for-seamless-video-format-switching/"><u>Ultimate MP4-to-WebM Transformation: A Step-by-Step Process for Seamless Video Format Switching</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-selection-of-6-leading-online-slide-show-creators-including-tutorials/"><u>Ultimate Selection of 6 Leading Online Slide Show Creators Including Tutorials</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-walkthrough-setting-up-your-kodi-device-for-movie-viewing/"><u>Ultimate Walkthrough: Setting Up Your Kodi Device for Movie Viewing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-youtube-to-video-converter-pro-seamless-transformation-of-youtuber-content-into-any-desired-format/"><u>Ultimate Youtube-to-Video Converter Pro: Seamless Transformation of YouTuber Content Into Any Desired Format</u></a></li>
+<li><a href="https://video-capture.techidaily.com/wmaiphone/"><u>WMAファイルがiPhoneで聞けるようになる手順</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
