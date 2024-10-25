@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Elite Collection  Best Kung Fu Arcade Games\""
-date: 2024-08-29T04:12:12.348Z
-updated: 2024-08-30T04:12:12.348Z
+date: 2024-10-18T20:53:07.503Z
+updated: 2024-10-25T00:09:27.761Z
 tags: 
   - screen-recording
   - ai video
@@ -111,14 +111,34 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-5-ultimate-map-quests-for-precious-in-game-finds-for-2024/"><u>[New] 5 Ultimate Map Quests for Precious In-Game Finds for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-elevating-your-content-choosing-right-youtube-duosgroups/"><u>[New] In 2024, Elevating Your Content Choosing Right YouTube Duos/Groups</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-quick-and-reliable-image-captures-pcs-top-5-apps-for-2024/"><u>[New] Quick and Reliable Image Captures PC's Top 5 Apps for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlocking-google-meet-a-comprehensive-no-cost-host-and-participant-manual-for-2024/"><u>[New] Unlocking Google Meet A Comprehensive No-Cost Host & Participant Manual for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-mastery-in-conflict-the-leading-7-total-war-tactics/"><u>[Updated] 2024 Approved Mastery in Conflict The Leading 7 Total War Tactics</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-revival-of-obs-camera-achieved/"><u>[Updated] 2024 Approved Revival of OBS Camera Achieved</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-revolutionizing-iphone-photography-with-hdr-techniques/"><u>[Updated] 2024 Approved Revolutionizing iPhone Photography with HDR Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/effortless-guide-converting-your-facebook-videos-into-mp4-format/"><u>Effortless Guide: Converting Your Facebook Videos Into MP4 Format</u></a></li>
+<li><a href="https://video-capture.techidaily.com/getting-started-macbook-cam-recording/"><u>Getting Started MacBook Cam Recording</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/how-to-insert-a-vimeo-video-into-powerpoint-for-2024/"><u>How to Insert a Vimeo Video Into PowerPoint for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/in-2024-from-cluttered-to-clear-a-beginners-guide-to-freeing-up-space-for-fcpx/"><u>In 2024, From Cluttered to Clear A Beginners Guide to Freeing Up Space for FCPX</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y77t-users-by-drfone-android/"><u>In 2024, Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y77t Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/thankful-exploration-templates-from-free-to-paid/"><u>Thankful Exploration Templates From FREE to PAID</u></a></li>
+</ul></div>
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
