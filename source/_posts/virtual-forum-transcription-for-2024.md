@@ -1,7 +1,7 @@
 ---
 title: "Virtual Forum Transcription for 2024"
-date: 2024-08-29T04:00:31.724Z
-updated: 2024-08-30T04:00:31.724Z
+date: 2024-11-01T01:04:33.123Z
+updated: 2024-11-06T01:11:55.464Z
 tags: 
   - screen-recording
   - ai video
@@ -74,11 +74,25 @@ The Audio option contains Microphone and Computer audio options that can be used
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
 #### 4. Editing a webinar
 
 ![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
@@ -93,8 +107,12 @@ Following these simple steps will help you produce insightful and well-rounded w
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Tips for Recording Webinars
 
 There is much more to making a webinar than just hitting the Record button, so in order to give your videos a more professional look, you should prepare the intro and outro graphics before you start editing your webinar and quickly add them after you've completed the recording session.
@@ -104,15 +122,17 @@ Making sure that all the settings are adjusted properly and that the amount of b
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -120,3 +140,22 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-design-your-own-screen-capture-free-ways-on-pc/"><u>[New] 2024 Approved Design Your Own Screen Capture - Free Ways on PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-capture-live-conversations-google-meet-on-phones-for-2024/"><u>[New] Capture Live Conversations Google Meet on Phones for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-excellent-record-maker-chromebook-edition/"><u>[New] Excellent Record Maker Chromebook Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-efficient-techniques-for-capturing-macos-content/"><u>[New] In 2024, Efficient Techniques for Capturing macOS Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-leveraging-obs-for-high-quality-livestreams-youtube-and-twitch/"><u>[New] Leveraging OBS for High-Quality Livestreams, YouTube & Twitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/aiffmp3-movavi-mp3/"><u>網路移動中的無限 AIFF至MP3 轉換 - 使用 Movavi 進行 MP3 音頻優化</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138580725-9781452537191-beautys-way/"><u>Beauty’S Way | Free Book</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/best-vhs-80s-effects-to-use-in-video-editing/"><u>Best VHS 80S Effects to Use in Video Editing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/converte-gratis-file-wmv-in-mp4-con-movavi-servizio-di-conversione-video-online/"><u>Converte Gratis File WMV in MP4 Con Movavi - Servizio Di Conversione Video Online</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-high-impact-hairstyle-ideas/"><u>In 2024, High-Impact Hairstyle Ideas</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/logitechs-best-offer-complimentary-webcam-driver-downloads-for-window-users/"><u>Logitech's Best Offer: Complimentary Webcam Driver Downloads for Window Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/transform-videos-on-vimeo-using-zero-dollar-resources/"><u>Transform Videos on Vimeo Using Zero-Dollar Resources</u></a></li>
+<li><a href="https://video-capture.techidaily.com/unveiling-the-top-4-fullscreen-recorder-for-pc-and-mac-users/"><u>Unveiling the Top 4 Fullscreen Recorder for PC & Mac Users</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-samsung-galaxy-z-fold-5-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Samsung Galaxy Z Fold 5 Hard Reset | Dr.fone</u></a></li>
+</ul></div>
+

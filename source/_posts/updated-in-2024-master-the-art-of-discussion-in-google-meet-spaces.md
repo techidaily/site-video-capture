@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Master the Art of Discussion in Google Meet Spaces"
-date: 2024-08-24T07:56:32.369Z
-updated: 2024-08-25T07:56:32.369Z
+date: 2024-11-01T22:33:18.139Z
+updated: 2024-11-05T21:39:30.609Z
 tags: 
   - screen-recording
   - ai video
@@ -96,6 +96,19 @@ After doing that, paste the email address of the participant that you would like
 
 ![ create group chat on Google Meet  ](https://images.wondershare.com/filmora/article-images/create-group-chat-google-meet-hangouts.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Following that, send them a hangouts link and enable video.
 
 Once that is done individuals can now chat and video conference at the same time.
@@ -107,15 +120,23 @@ Many individuals wonder if they can privately chat on Google Meet, however that 
 For instance, if a participant leaves a meeting and you send a message when they have left, then that participant joins again, the participant will not be able to receive or view your message. However, all those present in the session while the message was sent can read it. There is no option to create a private chat on Google Meet as of now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 5: How to Change Google Meet Chat Font Size?
 
 Google Meet comes fully equipped with numerous features and functions, however, changing the chat font size is not one of them. Participants cannot make any changes to the font of messages sent in the chatbox. They cannot increase the size, spacing, font style, or color of the messages that are being sent. While these options are available in other Google Application features such as Gmail and more. They are still yet to come into play on Google Meet.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 6: How to Add Emojis to Google Meet Chat?
 
 Want to make your messages on Google Meet slightly quirky or funny, why not add an emoji to spice things up! Emojis are the perfect way to grab attention to pressing messages, which individuals might overlook otherwise. You may have noticed that the Google Meet chat feature does not have an emoji button visible to you, however, you can still send emojis on Google Meet.
@@ -137,8 +158,19 @@ Click the emoji and symbols option and a popup of all the emojis available on yo
 ![ Add emojis to Google Meet chat](https://images.wondershare.com/filmora/article-images/add-emoji-to-google-meet-chat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 7: How to Turn off Google Meet Chat?
 
 Getting tired of all the messages being shared across the Google Meet session? Sending too many messages can be quite distracting. Moreover, individuals can also misuse the cat feature on Google Meet to send hostile or inappropriate messages during a professional work session. Therefore, hosts have the option of disabling messages on Google Meet as well.
@@ -156,11 +188,12 @@ A popup will appear on the right-hand side of your screen with options and setti
 ![ Google Meet turn off chat](https://images.wondershare.com/filmora/article-images/turn-off-chat-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
+
 ## Part 8: How to Retrieve Google Meet Chat History?
 
 Unlike Google Hangouts, individuals cannot retrieve chats on Google Meet. Once the call has ended the chat is automatically deleted. Unless the [video meeting is recorded](https://tools.techidaily.com/wondershare/filmora/download/) with a Google Workspace account, the chat in Google Meet is archived.
@@ -171,16 +204,11 @@ Making use of the Google Meets chat feature can be extremely handy and helpful i
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -188,3 +216,17 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-advanced-methods-for-capturing-system-sounds-on-pcs/"><u>[New] 2024 Approved Advanced Methods for Capturing System Sounds on PCs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-screen-capture-mastery-windows-edition-free-3-methods/"><u>[New] In 2024, Screen Capture Mastery Windows Edition (Free, 3 Methods)</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfect-flying-companions-the-top-kids-drones/"><u>[New] Perfect Flying Companions The Top Kids' Drones</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-premier-guide-to-filmed-action-preservation/"><u>2024 Approved Premier Guide to Filmed Action Preservation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/advanced-techniques-for-the-steam-switch-pro-controller/"><u>Advanced Techniques for the Steam Switch Pro Controller</u></a></li>
+<li><a href="https://win-guides.techidaily.com/create-spacious-flipbooks-for-improved-readability-tips-and-tricks-at-flipbuildercom/"><u>Create Spacious Flipbooks for Improved Readability - Tips and Tricks at FlipBuilder.com</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/from-discs-to-streaming-unveiling-netflixs-beginning-as-a-dvd-rental-service/"><u>From Discs to Streaming: Unveiling Netflix's Beginning as a DVD Rental Service</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-ultimate-guide-to-free-pptp-vpn-for-beginners-on-nokia-g42-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Free PPTP VPN For Beginners On Nokia G42 5G | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/vdsc-vidmaster-tale-a-comprehensive-evaluation-for-2024/"><u>VDSC VidMaster Tale A Comprehensive Evaluation for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Instructions  Grid View Activation in Google Meet\""
-date: 2024-08-24T07:54:31.094Z
-updated: 2024-08-25T07:54:31.094Z
+date: 2024-10-29T19:21:34.135Z
+updated: 2024-11-05T16:15:18.358Z
 tags: 
   - screen-recording
   - ai video
@@ -55,13 +55,23 @@ Use a slider to increase or decrease the number of participants you want to see.
 
 ![Google Meet change enable tiled view](https://images.wondershare.com/filmora/article-images/enable-tiled-view-to-view-participants.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Enable Grid View on Google Meet Mobile Apps?
 
 Google Meet apps don't support the change layout option. Thus, there are two approaches to enable the Grid view when participating in a Google Meet session through mobile phone. The following section will explain both methods in a simple step-by-step process. Let's have a look at both of them.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Method 1: Join Meeting through phone's browser
 
 **Step 1: Enable desktop site**
@@ -77,8 +87,12 @@ Click on the **three dots** at the bottom right corner and select **change layou
 ![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Ask someone else to share the screen
 
 Ask any other participant in the meeting to share the screen with tiled mode enabled.
@@ -110,8 +124,12 @@ Click on the **extension** at the top right of the screen corner and tick the **
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 4: How to Fix Google Meet Grid View Not Working Issue?
 
 By default, Google Meet Tiled View will let you view 49 participants simultaneously. Google Meet Grid View extension has proved to be a blessing for meeting hosts and participants of the Google Meet session. However, many Google Meet users have reported issues with the working of Google Meet Grid View recently. We have a quick fix for you if you encounter issues while using or enabling the Grid View. Let's follow the step-by-step guide below.
@@ -129,8 +147,12 @@ Open Google Chrome and click on the **three dots** at the top right corner. Choo
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/google-meet-grid-view-extension-developer-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 3 : Check the working in Google Meet**
 
 Click **new meeting** in the Google Meet. **Tap enable grid view** when you want to see all participants in the meeting.
@@ -138,9 +160,12 @@ Click **new meeting** in the Google Meet. **Tap enable grid view** when you want
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Frequently Asked Questions About See Everyone on Google Meet
 
 #### 1\. How do I see everyone on Google Meet mobile?
@@ -161,16 +186,11 @@ Sometimes, it becomes essential to make all participants visible in the grid. Fo
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -178,3 +198,25 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-complete-review-of-razer-video-streaming-device/"><u>[New] 2024 Approved Complete Review of Razer Video Streaming Device</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-syncopated-sing-sessions-tiktok-style/"><u>[New] 2024 Approved Syncopated Sing-Sessions TikTok Style</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-adventure-worlds-unleashed-excluding-gta-v/"><u>[New] Adventure Worlds Unleashed (Excluding GTA V)</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-crafting-compelling-spotify-campaigns-a-compreran-guide/"><u>[New] Crafting Compelling Spotify Campaigns A Compreran Guide</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-mastering-access-the-journey-through-free-visual-resources/"><u>[New] In 2024, Mastering Access The Journey Through Free Visual Resources</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-windows-10-screen-recording-tools-the-ultimate-selection/"><u>[New] In 2024, Windows 10 Screen Recording Tools - The Ultimate Selection</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-tips-for-seamless-integration-of-supplementary-footage-for-2024/"><u>[New] Tips for Seamless Integration of Supplementary Footage for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-enabling-auto-hdr-in-windows-11-a-step-by-step-guide/"><u>[Updated] In 2024, Enabling Auto HDR in Windows 11 A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-simplifying-your-workflow-online-photo-cropping-made-simple/"><u>[Updated] Simplifying Your Workflow Online Photo Cropping Made Simple</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-8-efficient-free-video-chat-platforms-available-for-pc-and-mac/"><u>2024 Approved 8 Efficient, Free Video Chat Platforms Available for PC and MAC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-e-lecture-documentation/"><u>2024 Approved E-Lecture Documentation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/decoding-mycam-cams-video-quality-and-recording-speed/"><u>Decoding MyCam Cam’s Video Quality and Recording Speed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/delving-into-vlc-screenshot-technology-for-2024/"><u>Delving Into VLC Screenshot Technology for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhance-your-online-presence-with-manycam-the-ultimate-live-webcam-solution-for-video-creators/"><u>Enhance Your Online Presence with ManyCam: The Ultimate Live Webcam Solution for Video Creators</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722967952109-get-your-latest-intel-network-driver-for-win11107-here/"><u>Get Your Latest Intel Network Driver for Win11/10/7 Here!</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-unpacking-video-editing-excellence-is-inshot-at-the-top/"><u>In 2024, Unpacking Video Editing Excellence Is InShot at the Top?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-unplugged-enjoyment-best-indoor-gaming-apps-on-mobile-devices/"><u>In 2024, Unplugged Enjoyment Best Indoor Gaming Apps on Mobile Devices</u></a></li>
+</ul></div>
+
