@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Adding Panoramic Movement  A Camtasa Guide to Ken Burns\""
-date: 2024-08-24T07:50:17.961Z
-updated: 2024-08-25T07:50:17.961Z
+date: 2024-11-13T21:43:20.433Z
+updated: 2024-11-16T09:44:34.735Z
 tags: 
   - screen-recording
   - ai video
@@ -47,6 +47,13 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -54,6 +61,13 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
 
@@ -79,13 +93,18 @@ Remember that this tool isn’t just a single trick pony, and you can use Wonder
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -93,6 +112,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-nostalgia-spin-off-the-goofy-movie-on-tape/"><u>[New] 2024 Approved Nostalgia Spin-Off The Goofy Movie on Tape</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-precision-screen-capturing-top-tools-reviewed-on-pcmac/"><u>[New] 2024 Approved Precision Screen Capturing Top Tools Reviewed on PC/Mac</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-unbeatable-ps1-emulators-for-high-quality-gaming/"><u>[New] In 2024, Unbeatable PS1 Emulators for High-Quality Gaming</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/obile-filmmaking-mastery-creating-impactful-youtube-thumbnails/"><u>[New] Mobile Filmmaking Mastery Creating Impactful YouTube Thumbnails</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-chromium-os-built-in-video-capturer/"><u>[Updated] 2024 Approved Chromium OS Built-In Video Capturer</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-freeze-your-favorite-moves-explore-these-top-9-windows-gif-recipes/"><u>[Updated] 2024 Approved Freeze Your Favorite Moves! Explore These Top 9 Windows GIF Recipes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-the-leading-free-online-screencasting-solutions/"><u>[Updated] 2024 Approved The Leading Free Online Screencasting Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-inside-obs-alternatives-for-professional-streamers/"><u>[Updated] In 2024, Inside OBS Alternatives for Professional Streamers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-master-the-art-of-playing-gb-classics-on-a-windows-pc/"><u>[Updated] Master the Art of Playing GB Classics on a Windows PC</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-premier-chromebook-monitoring-app/"><u>[Updated] Premier Chromebook Monitoring App</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-14-pro-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 14 Pro? How to Fix it?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-online-conversion-transform-your-files-into-wma-format-with-ease-moveavi/"><u>Free Online Conversion: Transform Your Files Into WMA Format with Ease - Moveavi</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-itel-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Itel Unlock Without Password</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-prospective-software-for-precision-in-animated-3d-modeling/"><u>In 2024, Prospective Software for Precision in Animated 3D Modeling</u></a></li>
+<li><a href="https://video-capture.techidaily.com/journey-through-the-maze-old-vs-innovative-rpgs/"><u>Journey Through the Maze Old Vs. Innovative RPGs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/the-definitive-guide-to-srt-editing-on-mac-for-2024/"><u>The Definitive Guide to SRT Editing on Mac for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/top-social-networks-exploring-facebook-twitter-instagram-and-youtube/"><u>Top Social Networks - Exploring Facebook, Twitter, Instagram and YouTube</u></a></li>
+</ul></div>
+
