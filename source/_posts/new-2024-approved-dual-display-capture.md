@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Dual Display Capture\""
-date: 2024-08-16T22:51:21.061Z
-updated: 2024-08-17T22:51:21.061Z
+date: 2024-11-28T14:47:15.522Z
+updated: 2024-12-05T09:56:09.269Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ If you would like to capture footage from multiple monitors, but you are not sur
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -49,8 +53,9 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Record Multiple Monitors
 
 The first step towards setting up a screencasting session with multiple displays is to make sure that the monitors are properly connected to your laptop or desktop computer. Each external monitor will display identical images when turned on, but in order to move software windows between the two screens, you'll have to enable the 'Extend These Displays' option. The actual steps you'll need to take may vary, depending on the computer and the OS you are using, and we are going to show you how to extend displays on Windows 8 or later.
@@ -58,8 +63,9 @@ The first step towards setting up a screencasting session with multiple displays
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Widely accepted as one of the best open-source broadcasting and screen recording software ever created, OBS Studio also enables its users to record multiple screens simultaneously. The plug-in for the OBS called Simple Scene Switcher that detects on which monitor the mouse cursor is and that automatically switches between two monitors as you drag a mouse is a great option if you don't want to record multiple displays at the same time. The plug-in lets you switch between windows without disrupting the flow of the video, which makes it particularly useful for LoL players and in numerous other situations. Here's how you can record multiple monitors with OBS.
@@ -77,8 +83,9 @@ Sum up the two values of the wider sides of the screens and insert the value you
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Capturing Multiple Monitor Displays with Camtasia
 
 Selecting more than one monitor from the Camtasia's Fullscreen settings is unfortunately not possible, but the Custom recording settings option allows you to capture footage from two different displays. You'll need to make sure that both monitors are properly aligned and the that Extend These Displays feature is selected. Here's how you record multiple monitors with Camtasia.
@@ -103,13 +110,11 @@ In case that you want to record your secondary monitor, we recommend you to try 
 * Splendid Annotations, Cursor Effects and Editing Features
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -118,11 +123,33 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-maximize-your-ios-for-ps2-gaming-with-best-emulators/"><u>[New] 2024 Approved Maximize Your IOS for PS2 Gaming with Best Emulators</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-friendship-and-farms-the-10-favorite-farming-titles/"><u>[New] Friendship & Farms The 10 Favorite Farming Titles</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-easy-to-follow-strategies-recording-hulu-across-windowsmacandroidios/"><u>[New] In 2024, Easy-to-Follow Strategies Recording Hulu Across Windows/Mac/Android/iOS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-screen-grab-specialists-top-apps-for-windows-10-users/"><u>[New] Screen Grab Specialists Top Apps for Windows 10 Users</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-securely-capturing-your-zoom-sessions-for-2024/"><u>[New] Securely Capturing Your Zoom Sessions for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/actical-multitasking-a-guide-to-co-watching-on-yt/"><u>[New] Tactical Multitasking A Guide to Co-Watching on YT</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-from-iciness-to-comfort-five-warm-backdrops-ideas/"><u>[Updated] 2024 Approved From Iciness to Comfort Five Warm Backdrops Ideas</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-instantaneous-window-imaging-technique/"><u>[Updated] 2024 Approved Instantaneous Window Imaging Technique</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ensuring-compliance-in-zoom-meetings-a-recording-guide/"><u>[Updated] In 2024, Ensuring Compliance in Zoom Meetings A Recording Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-revolutionizing-voice-capture-a-compreenas-guide-to-facetime-recording/"><u>2024 Approved Revolutionizing Voice Capture A Compreenas Guide to FaceTime Recording</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-iphone-11-pro-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing iPhone 11 Pro Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/digital-immersion-therapy-for-patients-for-2024/"><u>Digital Immersion Therapy for Patients for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On OnePlus Nord 3 5G? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effortless-techniques-for-inserting-text-based-programming-into-microsoft-word/"><u>Effortless Techniques for Inserting Text-Based Programming Into Microsoft Word</u></a></li>
+<li><a href="https://video-capture.techidaily.com/expert-insights-optimal-techniques-for-pc-display-recordings-for-2024/"><u>Expert Insights Optimal Techniques for PC Display Recordings for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-add-a-countdown-timer-in-obs-for-2024/"><u>How To Add a Countdown Timer in OBS for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-honor-play-7t-get-deleted-phone-number-back-with-ease-and-safety-by-fonelab-android-recover-contacts/"><u>How to Honor Play 7T Get Deleted Phone Number Back with Ease and Safety</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-from-apple-iphone-xs-max-to-samsung-galaxy-s20-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer from Apple iPhone XS Max to Samsung Galaxy S20? | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-fetch-guide-to-newest-amd-rx-580-graphics-driver-software-enhancements/"><u>Quick-Fetch Guide to Newest AMD RX 580 Graphics Driver Software Enhancements</u></a></li>
+</ul></div>
+

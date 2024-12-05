@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Zoom Meeting Fundamentals for the Uninitiated"
-date: 2024-08-16T22:52:20.624Z
-updated: 2024-08-17T22:52:20.624Z
+date: 2024-12-03T14:34:44.533Z
+updated: 2024-12-05T11:31:38.950Z
 tags: 
   - screen-recording
   - ai video
@@ -33,6 +33,10 @@ Zoom grants you access to all the tools you are going to need in order to manage
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -50,9 +54,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## What is a Zoom Webinar?
 
 A webinar is simply an online seminar, but the term can also be used to denote collaborative services such as webcasts or peer-level web meetings. Zoom allows its users to purchase webinar add-ons that can have as many as 149 hosts and 10,000 attendees. Each of the plans enables the host or hosts to have an unlimited number of meetings, which means that you can run as many webinars as you want with Zoom.
@@ -61,25 +62,27 @@ The platform doesn’t allow its users to host webinars for free and you must pu
 
 ![Add Webinar to Zoom Plan](https://images.wondershare.com/filmora/article-images/add-webinar-on-zoom-pricing.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Furthermore, each of the available plans offers the cloud recording option, and you can get up to 3 TB of extra storage for an additional fee. Once you purchase a license you will also have to assign it to the owner of the Zoom account or the admin of a particular account. You can do this by heading over to the User Management menu and selecting the Users option. After you locate the user to which you would like to assign a webinar license, you should click on the Edit button at the end of the user’s row and click on the Webinar option in the Feature menu.
 
 ![Zoom Webinar Setting Editing](https://images.wondershare.com/filmora/article-images/zoom-webinar-setting-editing.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
 Optionally, you can choose the user’s role, specify their job title or add their location. When done, you should click on the Save button to confirm the changes you’ve made and proceed with the setup of your webinar.
 
 Looking for some other webinar software? We’ve picked some of the best webinar software that you can use, you can check the [Best Webinar Software List here](https://tools.techidaily.com/wondershare/filmora/download/).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to Start a Webinar with Zoom?
 
 After purchasing the Zoom’s webinar add-on you can schedule a new webinar. Simply sign in to the webinar portal, click on the Webinars option and then click on the Schedule a Webinar button.
 
 ![Zoom Schedule Webinar](https://images.wondershare.com/filmora/article-images/schedule-zoom-webinar.jpg)
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can then provide the information about the topic of the webinar, write a short description of the webinar that is going to be displayed at the registration page, set the time and date when the webinar is supposed to take place and specify how long the webinar is going to last.
 
@@ -113,10 +116,6 @@ Hosts of webinars that require registration must send the registration link to a
 
 To start a webinar, you should click on the Meetings tab, locate the webinar and click on the Start button.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## How Do Attendees Join a Zoom Webinar?
 
 As an attendee of a Zoom webinar, you can either join a webinar through a registration link or manually. Once you completed the registration process, the host can send you a registration confirmation email that contains the join link, simply click on it to join the webinar you signed up for.
@@ -124,17 +123,15 @@ As an attendee of a Zoom webinar, you can either join a webinar through a regist
 In some cases, you can also gain access to the join link from the registration confirmation page and all you have to do is click on it to join a webinar.
 
 ![  Zoom Webinar Approve](https://images.wondershare.com/filmora/article-images/zoom-webinar-registration-approve.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 
 Zoom offers the option to join a webinar manually, and you just have to locate the 9-digit webinar ID in the registration email, before signing in to your Zoom account from your computer or your Smartphone. Proceed to click on the Join a Meeting option, insert the 9-digit webinar ID and click Join. Provide your name and email address if the platform asks for this information and then click on the Join Webinar button.
 
 Webinar attendees can only interact with a webinar by raising their hands, chatting with the host and panelists or participating in Q&A panels.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## What is the Difference between a Zoom Meeting and a Zoom Webinar?
 
 Even though meetings and webinars on Zoom have a lot of in common, there are a number of differences between these two features. The webinar is a paid add-on that is available on Pro, Business and other Zoom’s subscription models. The meeting feature, on the other hand, is available on free and all other versions of the Zoom platform.
@@ -149,13 +146,15 @@ Anyone can set up a new webinar with Zoom, even if they have no previous experie
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -163,3 +162,21 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-screencasting-simplified-adopting-the-ezvide-method/"><u>[New] 2024 Approved Screencasting Simplified Adopting the EZvide Method</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-2024-approved-understanding-customer-acquisition-costs-and-their-impact-on-roi/"><u>[New] 2024 Approved Understanding Customer Acquisition Costs and Their Impact on ROI</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-hololens-unveiled-microsofts-leap-to-3d-reality/"><u>[New] HoloLens Unveiled – Microsoft's Leap to 3D Reality</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-enhancing-television-experience-playback-tips-for-youtube-content/"><u>[New] In 2024, Enhancing Television Experience Playback Tips for YouTube Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-secrets-unveiled-best-practices-in-remote-audio-capture/"><u>[New] In 2024, Secrets Unveiled Best Practices in Remote Audio Capture</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-10-exceptional-educational-sites-a-look-without-udemy-for-2024/"><u>[Updated] 10 Exceptional Educational Sites A Look without Udemy for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-mastering-screen-recordings-on-windows-10-systems/"><u>[Updated] In 2024, Mastering Screen Recordings on Windows 10 Systems</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-rejuvenate-your-pictures-the-most-powerful-10-online-edits/"><u>[Updated] Rejuvenate Your Pictures The Most Powerful 10 Online Edits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-change-default-image-savings-in-os-x/"><u>2024 Approved Change Default Image Savings in OS X</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-high-quality-youtube-recording-techniques/"><u>2024 Approved High-Quality YouTube Recording Techniques</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/disabled-apple-iphone-15-pro-how-to-unlock-a-disabled-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>Disabled Apple iPhone 15 Pro How to Unlock a Disabled Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/efficiently-establish-your-zoom-space/"><u>Efficiently Establish Your Zoom Space</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/step-by-step-process-for-downloading-dell-laptop-e6420s-latest-drivers/"><u>Step-by-Step Process for Downloading Dell Laptop E6420's Latest Drivers</u></a></li>
+</ul></div>
+
