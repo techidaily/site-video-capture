@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Ancient Warriors, New Battlegrounds  Top Games Like the Japanese Epic\""
-date: 2024-08-16T22:43:13.278Z
-updated: 2024-08-17T22:43:13.278Z
+date: 2024-12-08T16:04:22.356Z
+updated: 2024-12-11T16:00:04.847Z
 tags: 
   - screen-recording
   - ai video
@@ -135,13 +135,25 @@ This is another astounding game like Ghost of Tsushima. It is a battle-intense g
 
 This game may not show you some of the amazing landscapes of china but it will surely provide you with amazing thrill and adventure. It doesn't contain samurai war but it puts you in an open world that is full of enemies and other characters. The main player, Krato is joined by his son Atreus and helps him defeat the enemies using bow and arrows. Players will unlock the powers of Kratos during his journey. The powers that you will explore during this journey will amaze you. These mythical powers will help you fight and defeat your most powerful enemies.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 These games like Ghost of Tsushima are unique and different in their own way but all these games revolve around the same combat system. Choose any of these games depending upon your preference and choice. These games will provide you with the same experience and thrill as Ghost of Tsushima. You will not get bored while playing the above games. Choose a game and start the thrill of fighting melee combats and intense battle fights.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -149,14 +161,25 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-step-into-windows-xp-a-filmmakers-companion/"><u>[New] 2024 Approved Step Into Windows XP A Filmmaker's Companion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-explore-and-master-group-communication-using-zoom-on-phone/"><u>[New] Explore & Master Group Communication Using Zoom on Phone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-choose-folder-for-stored-mac-screenshots/"><u>[New] In 2024, Choose Folder for Stored Mac Screenshots</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-dive-into-vimeos-free-premium-and-pro-plans-and-their-benefits/"><u>[New] In 2024, Dive Into Vimeo's Free, Premium & Pro Plans and Their Benefits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-easy-lenovo-techniques-for-capturing-your-display/"><u>[New] In 2024, Easy Lenovo Techniques for Capturing Your Display</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-start-crafting-movies-xp-edition-install-guide/"><u>[Updated] Start Crafting Movies Xp Edition Install Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-subtly-lowering-volume-alives-guide/"><u>In 2024, Subtly Lowering Volume Alive’s Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/share-your-ps4-gaming-moments-online-sharing-made-easy-for-2024/"><u>Share Your PS4 Gaming Moments Online Sharing Made Easy for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/state-of-the-art-gaming-capture-systems-not-just-fbx-files/"><u>State-of-the-Art Gaming Capture Systems, Not Just FBX Files</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/nner-workings-of-youtubes-system-after-an-upload-for-2024/"><u>The Inner Workings of YouTube's System After an Upload for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/upgraded-system-requirements-why-you-need-a-stronger-cpu-for-vanguard/"><u>Upgraded System Requirements: Why You Need a Stronger CPU for Vanguard</u></a></li>
+</ul></div>
+
