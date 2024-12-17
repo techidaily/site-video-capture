@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Effective Utilization of Whiteboards on Mobile and Desktop for Online Learning\""
-date: 2024-08-10T08:06:19.329Z
-updated: 2024-08-11T08:06:19.329Z
+date: 2024-12-14T19:27:19.211Z
+updated: 2024-12-17T18:51:50.497Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/459b794516e41ca817af82c1c22066d193c455f48
 
 # How to Use a Whiteboard in Google Meet
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -41,15 +38,13 @@ If you are interested in using this fantastic tool, the following article will c
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part 1: What is Jamboard or Whiteboard on Google Meet?**
 
 Google Meet has been a useful video communication facility for professionals and students. Google Meet integrates Jamboard, an online tool that enables you to brainstorm ideas during the virtual meet-up. The meeting host can easily activate Jamboard after starting a meeting. This makes **Google Meet Whiteboarding** easily accessible for all participants during the live session. In this way, students can collaborate with instructors or other students very clearly. Moreover, the whiteboard feature also allows them to answer questions and review notes. Let’s know how to use a whiteboard in Google Meet and how it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ## **Part 2: How to Use a Whiteboard in Google Meet on a Laptop?**
 
 The in-built whiteboard can be comfortably used in Google Meet on a laptop. You do not need any extension or third-party application to use a whiteboard. Moreover, you can create a new whiteboard or use the one you have already created. You can access the already saved whiteboard from Google Drive. If you want to excel in the art of creating a whiteboard on Google Meet, we have summarized the process in simple steps.
@@ -72,15 +67,12 @@ Click on the **start a new whiteboard** option**.**
 
 **Note:** This will create a Jam that can be used to visualize ideas on a whiteboard. The link to the Jam can be copied and sent to all participants.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
 
 Unfortunately, you cannot access the **Google Meet Whiteboarding** feature when using Google Meet through its website on your smartphone. Thus, it is recommended to use third-party tools for using the whiteboard feature. In this case, you have to share your screen in the Google Meet session and then navigate to the third-party app having a built-in whiteboard. However, the participants will not be able to make any changes on the whiteboard, and they can only watch the visuals of your screen. Are you an iPhone user and want to use whiteboard apps? If yes, the following step-by-step guide will help you.
@@ -99,6 +91,10 @@ Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
 Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Android devices. Even if you try accessing Google Meet from the browser on your android phone, you are likely to be redirected to Google Meet, where there is no whiteboard option. So, the only way out is to download an external whiteboard app from Playstore and use its whiteboard. Your whiteboard activity will be visible to other participants in a Google Meet session when you share the screen. However, this option is only viable if you are the only one illustrating on the whiteboard and no other participants are required to perform any whiteboard activity. If this works for you, follow the step-by-step guide below.
@@ -115,10 +111,11 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 
 **Navigate to your home page and launch the whiteboard app. What you draw on the whiteboard will be visible to the meeting attendees.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
 
@@ -146,13 +143,15 @@ Google Meet allows its users to enjoy the vast collection of built-in tools. **G
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -160,3 +159,25 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-effortless-srt-conversion-the-ultimate-txt-solution-in-a-flash/"><u>[New] 2024 Approved Effortless SRT Conversion The Ultimate TXT Solution in a Flash</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-top-fbx-capture-tools-beyond-traditional-recorders/"><u>[New] 2024 Approved Top FBX Capture Tools Beyond Traditional Recorders</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-freeze-frame-collection-for-mac-max-156-chars/"><u>[New] 2024 Approved Ultimate Freeze Frame Collection for Mac (Max 156 Chars)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-democracy-dynamics-leading-electoral-simulators/"><u>[New] Democracy Dynamics Leading Electoral Simulators</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-best-screen-recorders-for-google-meet-you-should-try-free-and-paid/"><u>[New] In 2024, Best Screen Recorders for Google Meet You Should Try [Free and Paid]</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-video-calls-that-protect-our-selection-of-the-best-free-secure-applications-for-mobile-tech/"><u>[New] In 2024, Video Calls That Protect Our Selection of the Best Free, Secure Applications for Mobile Tech</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-seamless-screen-capture-software-w10-edition-for-2024/"><u>[New] Seamless Screen Capture Software, W10 Edition for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-chronicles-that-captivate-top-youtube-storytelling-channels-2023/"><u>[Updated] Chronicles that Captivate Top YouTube Storytelling Channels 2023</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-navigating-the-world-of-audio-editing-in-audacity-for-mac-devices/"><u>[Updated] In 2024, Navigating the World of Audio Editing in Audacity for Mac Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-essential-guide-to-making-top-tier-educational-videos/"><u>[Updated] In 2024, The Essential Guide to Making Top-Tier Educational Videos</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-gopro-camera-showdown/"><u>[Updated] The Ultimate GoPro Camera Showdown</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-instructions-for-dells-essential-wd19-device-drivers/"><u>Download Instructions for Dell's Essential WD19 Device Drivers</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/extended-review-straightforward-implementation-of-hdr/"><u>Extended Review Straightforward Implementation of HDR</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/extensive-look-at-djis-inspire-1-drone-for-2024/"><u>Extensive Look at DJI's Inspire 1 Drone for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/hear-the-difference-explore-the-best-voice-changer-software-for-smartphones/"><u>Hear the Difference Explore the Best Voice Changer Software for Smartphones</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-realme-narzo-60x-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Realme Narzo 60x 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/making-cash-with-zero-skills-check-out-these-13-ways-on-reddit-for-2024/"><u>Making Cash with Zero Skills? Check Out These 13 Ways on Reddit for 2024</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Simplify Your Collaboration with Easy Steps to Use a Virtual Board on All Zoom Devices for 2024"
-date: 2024-08-10T08:08:51.826Z
-updated: 2024-08-11T08:08:51.826Z
+date: 2024-12-14T16:32:44.506Z
+updated: 2024-12-17T21:29:16.421Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
  Interested in creating a whiteboard video but don't know how? Here is a guide about [How to create a whiteboard animation video.](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Access Whiteboard on Zoom Meeting on Windows/Mac
 
  Since Zoom shares almost identical interface on both Mac and Windows platforms, understanding any one would automatically educate you about the other. For this demonstration, a computer running Windows 10 is used.
@@ -52,10 +56,6 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
  Click the **Share Screen**  button from the bottom of the main window during an ongoing Zoom meeting, on the **Select a window or an application that you want to share**  window, ensure that you are on the **Basic**  tab, click **Whiteboard** , and click **Share**  from the bottom-right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![Zoom Meeting Whiteboard Annotations](https://images.wondershare.com/filmora/article-images/select-screen-to-share-on-zoom.jpg)
 
  Check the [Zoom Screen Sharing Guide](https://tools.techidaily.com/wondershare/filmora/download/) to learn more details.
@@ -64,10 +64,11 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
  Use the **Annotation**  panel from the top to select your preferred tool (Text, Draw, or Stamp), and drag your mouse on the whiteboard to use **Zoom annotation** . Anything that you draw on the **Zoom meeting whiteboard**  will be shared with all the participants of the conference.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Zoom Meeting Whiteboard Annotations Interface](https://images.wondershare.com/filmora/article-images/zoom-screen-sharing-whiteboard-interface.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 4: Zoom Annotation Settings
 
@@ -75,16 +76,10 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
  If you want to save the whiteboard, click the **Save**  icon to save your whiteboard in the **Documents**  \> **Zoom**  folder. If you want to share a new screen or your desktop screen, just click the **New Share**  button from the Zoom meeting panel, and choose a second object to share it with the viewers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![Zoom Meeting Whiteboard Share New Screen](https://images.wondershare.com/filmora/article-images/new-share-in-screen-sharing.jpg)
 
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
 
  Zoom is also available for Android smart devices, and can be downloaded from Google Play Store. Once downloaded and installed, you can use your credentials to sign in to use the app on your mobile phone or tablet.
@@ -97,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Step 2: Add Annotations
 
  Tap the **Edit**  icon from the bottom-left corner of the **Zoom whiteboard** , and pick your preferred tool from the expanded panel to annotate or draw your ideas as needed.
@@ -106,6 +105,10 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
  Tap the **Delete**  icon present in the annotation panel, and tap **Clear My Drawing** , **Clear All Drawings** , or **Clear Other’ Drawings**  to remove the annotations accordingly.
 
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
 
@@ -129,9 +132,6 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
  Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
 
 #### 2\. Why can’t I see the Annotation tools?
@@ -148,10 +148,11 @@ thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343eb
 
 **Zoom whiteboard**  allows you to share your ideas with other participants of the conference. The good thing is, while using a desktop version, you can allow participants to share their whiteboard. You can also allow or prohibit them from annotating on the whiteboard that share. About the mobile versions, Zoom is available for both Android and iOS platforms. However, the latter variant of the app can be installed only on iPad. All in all, Zoom is available for Windows, Mac, Linux, Android, and iOS devices where all the variants of the program share almost identical interface and therefore can be used seamlessly throughout.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -159,11 +160,25 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-innovative-recording-solutions-for-igadgets/"><u>[New] 2024 Approved Innovative Recording Solutions for iGadgets</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ultimate-list-of-window-screenshot-utilities/"><u>[New] 2024 Approved Ultimate List of Window Screenshot Utilities</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-pixel-perfect-windows-recorder-free/"><u>[New] Pixel Perfect Windows Recorder, Free</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-streamline-your-filming-process-the-ultimate-logitech-camera-tutorials/"><u>[Updated] 2024 Approved Streamline Your Filming Process - The Ultimate Logitech Camera Tutorials</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-harmonizing-highlights-how-to-embed-songs-on-instagram-stories-for-2024/"><u>[Updated] Harmonizing Highlights How to Embed Songs on Instagram Stories for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/1719581267362-empower-yourself-with-japan-education-for-free/"><u>Empower Yourself with Japan Education, For Free!</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-obtain-and-install-sound-blaster-z-drivers-on-your-windows-11-pc/"><u>How to Obtain and Install Sound Blaster Z Drivers on Your Windows 11 PC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-avoiding-career-pitfalls-in-graphic-artistry/"><u>In 2024, Avoiding Career Pitfalls in Graphic Artistry</u></a></li>
+<li><a href="https://video-capture.techidaily.com/optimizing-googles-automatic-speech-recognition-features-for-2024/"><u>Optimizing Google's Automatic Speech Recognition Features for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/step-by-step-guide-correcting-incomplete-setup-of-ryzen-software-suite/"><u>Step-by-Step Guide: Correcting Incomplete Setup of Ryzen Software Suite</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/ultimate-guide-to-resolving-high-latency-and-stutter-in-chivalry-2/"><u>Ultimate Guide to Resolving High Latency & Stutter in Chivalry 2</u></a></li>
+</ul></div>
+

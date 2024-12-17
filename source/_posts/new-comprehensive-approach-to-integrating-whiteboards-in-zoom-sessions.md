@@ -1,7 +1,7 @@
 ---
 title: "[New] Comprehensive Approach to Integrating Whiteboards in Zoom Sessions"
-date: 2024-08-10T08:07:46.448Z
-updated: 2024-08-11T08:07:46.448Z
+date: 2024-12-13T16:43:16.545Z
+updated: 2024-12-17T18:01:53.604Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 # How to Use Whiteboard in Zoom Meeting
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -57,15 +54,16 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 ![Zoom Meeting Whiteboard Annotations](https://images.wondershare.com/filmora/article-images/select-screen-to-share-on-zoom.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check the [Zoom Screen Sharing Guide](https://tools.techidaily.com/wondershare/filmora/download/) to learn more details.
 
 #### Step 3: Use Annotation Tools
 
  Use the **Annotation**  panel from the top to select your preferred tool (Text, Draw, or Stamp), and drag your mouse on the whiteboard to use **Zoom annotation** . Anything that you draw on the **Zoom meeting whiteboard**  will be shared with all the participants of the conference.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Zoom Meeting Whiteboard Annotations Interface](https://images.wondershare.com/filmora/article-images/zoom-screen-sharing-whiteboard-interface.jpg)
 
 #### Step 4: Zoom Annotation Settings
@@ -74,10 +72,11 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
  If you want to save the whiteboard, click the **Save**  icon to save your whiteboard in the **Documents**  \> **Zoom**  folder. If you want to share a new screen or your desktop screen, just click the **New Share**  button from the Zoom meeting panel, and choose a second object to share it with the viewers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Zoom Meeting Whiteboard Share New Screen](https://images.wondershare.com/filmora/article-images/new-share-in-screen-sharing.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
@@ -91,10 +90,11 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
  After installing Zoom on your Android, and signing in to your account, start a new meeting, tap anywhere on the screen, tap **Share**  from the bottom, and tap **Share Whiteboard** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 2: Add Annotations
 
@@ -122,15 +122,16 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Frequently Asked Questions About Zoom Whiteboard
 
 #### 1\. Can we share multiple whiteboards in a meeting?
 
  Yes. Other participants of a meeting can share their whiteboard with you as well. In order to do this, you must configure Zoom by clicking the small arrow available next to the **Screen Share**  icon, and clicking the **Multiple participants can share simultaneously**  option from the menu.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
 
 #### 2\. Why can’t I see the Annotation tools?
@@ -147,10 +148,11 @@ thumbnail: https://thmb.techidaily.com/3dd5b17c533ab88ed9cc0f3b00c7a2aa3b7c864b4
 
 **Zoom whiteboard**  allows you to share your ideas with other participants of the conference. The good thing is, while using a desktop version, you can allow participants to share their whiteboard. You can also allow or prohibit them from annotating on the whiteboard that share. About the mobile versions, Zoom is available for both Android and iOS platforms. However, the latter variant of the app can be installed only on iPad. All in all, Zoom is available for Windows, Mac, Linux, Android, and iOS devices where all the variants of the program share almost identical interface and therefore can be used seamlessly throughout.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Richard Bennett
 
@@ -158,11 +160,27 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-cutting-edge-audio-setup-the-ultimate-list-for-podcasters-for-2024/"><u>[New] Cutting-Edge Audio Setup The Ultimate List for Podcasters for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-easygamerecording-by-nvidia-for-2024/"><u>[New] EasyGameRecording by NVIDIA for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-legendary-loops-leading-10-rogues/"><u>[New] Legendary Loops Leading 10 Rogues</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-experts-resource-advanced-screen-capture-techniques-by-zd/"><u>[New] The Expert's Resource Advanced Screen Capture Techniques by ZD</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-tiny-tranquil-houses-japanese-style/"><u>[New] Tiny Tranquil Houses Japanese Style</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-crafting-quality-content-image-submission-for-youtubers/"><u>[Updated] In 2024, Crafting Quality Content Image Submission for YouTubers</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-innovative-8-android-video-chat-apps-beyond-duostrios/"><u>2024 Approved Innovative 8 Android Video Chat Apps Beyond Duos/Trios</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-vidvault-capture-fb-videos/"><u>2024 Approved VidVault Capture FB Videos</u></a></li>
+<li><a href="https://win-help.techidaily.com/windows-pchotmail-secure-hotmail-backup-for-windows/"><u>安心してバックアップ：Windows PC向け最適なHotmailデータ保護ツール - Secure Hotmail Backup for Windows</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/comparing-ipad-air-4-and-ipad-air-5-is-it-time-to-switch-devices-tips-for-tech-enthusiasts/"><u>Comparing iPad Air 4 & iPad Air 지 5: Is It Time To Switch Devices? - Tips for Tech Enthusiasts</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-repair-or-replace-a-stuck-spacebar-under-windows-10-a-step-by-step-guide/"><u>How to Repair or Replace a Stuck Spacebar Under Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/revved-up-ride-essential-lights-to-improve-your-car/"><u>Revved-Up Ride: Essential Lights to Improve Your Car</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-formats-for-high-quality-dvd-ripping-which-one-should-you-choose/"><u>Top Formats for High-Quality DVD Ripping: Which One Should You Choose?</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Apex Legends Solo Play Tips & Platform Preference Guide"
-date: 2024-08-10T08:08:46.864Z
-updated: 2024-08-11T08:08:46.864Z
+date: 2024-12-13T20:35:39.752Z
+updated: 2024-12-17T16:17:44.401Z
 tags: 
   - screen-recording
   - ai video
@@ -49,9 +49,6 @@ There is a ring around the battleground that shrinks after fixed short intervals
 
 One thing that you must keep in mind while playing this game is that killing an opponent is a bit longer than other FPS (First Person Shooting) games. To kill an opponent, you may need to rely on several headshots, your legends' unique ability, and the support of your teammates.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
@@ -68,23 +65,8 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
 #### **Does it have cross-progression?**
@@ -105,9 +87,6 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Xbox Series X and S**
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-seriesx.jpg)Xbox series S and X are the latest generations of Xbox. They rival their competitor PS5 and offer competitive performance when you compare these consoles with a PS5\. They do offer better gaming performance and better graphics. But, the question is, Can you play Apex on the latest generations of Xbox? The answer is yes. You will get better performance in terms of graphics and FPS but currently, the game isn't fully optimized for the latest generations. In the coming days it is expected that the game will be optimized for the latest consoles and you can enjoy the game to the fullest. Currently, you can enjoy 1440p gaming on these consoles and can get up to 120fps.
 
 **Sony PlayStation 4**
@@ -116,9 +95,6 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Sony PlayStation 5**
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ps5-poster](https://images.wondershare.com/filmora/article-images/ps5-poster.png)
 
 Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is already playable on it. PS5 offers improved performance and better graphics as compared to its previous versions. If you were previously playing on PS4 and just switched to PS5, you can also retain all your progress and skins on PS5 also. You can use the same EA account and start enjoying Apex Legends on 1440p screen resolution.
@@ -140,9 +116,6 @@ PC Requirements For Apex Legends:
 
 **Nintendo Switch**
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
  ![](https://images.wondershare.com/filmora/article-images/Apex-switch.png)
 
 On March 9, 2021, EA released a version of this game for Nintendo switch. Currently, it is playable on the switch, and you can only match up with switch players, but soon it will be available to play with cross-platform support. It is a big achievement for EA to make this game playable on a small screen.
@@ -163,9 +136,6 @@ Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wo
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -174,11 +144,33 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-recorder-review-roundup-capturing-in-action/"><u>[New] 2024 Approved Recorder Review Roundup Capturing in Action</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/est-sound-transforming-apps-for-youtube-vloggers/"><u>[New] Best Sound Transforming Apps for YouTube Vloggers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-flip-your-video-frames-effortlessly-with-vlc-for-2024/"><u>[New] Flip Your Video Frames Effortlessly with VLC for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-efficient-video-cutting-techniques-to-boost-your-content/"><u>[New] In 2024, Efficient Video Cutting Techniques to Boost Your Content</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-unlocking-fbx-filming-in-games/"><u>[New] In 2024, Unlocking FBX Filming in Games</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mini-masterpieces-top-6-coolest-mini-houses-in-mc-for-2024/"><u>[New] Mini Masterpieces Top 6 Coolest Mini-Houses in MC for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ltimate-asmr-content-guides-for-2024/"><u>[New] Ultimate ASMR Content Guides for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quick-steps-to-record-movies-on-your-tech-devices/"><u>[Updated] 2024 Approved Quick Steps to Record Movies on Your Tech Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-10-pro-tips-for-effortless-android-recording/"><u>[Updated] In 2024, 10 Pro Tips for Effortless Android Recording</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-maximizing-youtube-earning-potential-insights-from-sourav-joshi/"><u>[Updated] In 2024, Maximizing YouTube Earning Potential Insights From Sourav Joshi</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-pathways-of-file-formats-navigating-from-srt-to-others/"><u>[Updated] In 2024, Pathways of File Formats Navigating From SRT to Others</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-increase-attendance-and-engagement-with-strategic-zoom-recordings-for-2024/"><u>[Updated] Increase Attendance and Engagement with Strategic Zoom Recordings for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/best-5-samsung-gear-vr-experiences/"><u>Best 5 Samsung Gear VR Experiences</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-predictions-annual-increase-projects-avg-laptop-memory-at-118-gb-up-by-12/"><u>Expert Predictions: Annual Increase Projects Avg. Laptop Memory at 11.8 GB - Up by 12%</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/resolving-the-coredll-file-not-found-issue-a-step-by-step-guide/"><u>Resolving the 'Core.dll' File Not Found Issue: A Step-by-Step Guide</u></a></li>
+</ul></div>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Snapshot Success  Mastering the Art of Xbox One Captures\""
-date: 2024-08-10T08:06:50.413Z
-updated: 2024-08-11T08:06:50.413Z
+date: 2024-12-15T16:29:17.492Z
+updated: 2024-12-17T20:24:26.521Z
 tags: 
   - screen-recording
   - ai video
@@ -33,14 +33,12 @@ Let's have a look at how you can take screenshots in video games you play on you
 * [Part 2: Capture Screenshots on Xbox One Using Voice Commands](#part2)
 * [Part 3: How to Manage and Share Screenshots on Xbox One](#part3)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -56,27 +54,25 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Capturing Screenshots on Xbox One Using the Controller
 
 There is nothing complicated about taking a screenshot of your favorite game on Xbox One using the device's controller. All you have to do is double-click on the Xbox button and the screenshot will be captured. A sidebar will appear on the screen asking you if you want to take a screenshot or record the last 30 seconds of the gameplay. Just hit the Y button to save the screenshot. A dialog box will appear on the screen informing you that the screenshot has been saved successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
 
@@ -86,10 +82,11 @@ Keep in mind that 4K screenshots are significantly larger in size than those in 
 
 ## Capture Screenshots on Xbox One Using Voice Commands
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
 
@@ -127,11 +124,33 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-architectural-marvels-best-6-mojave-homes/"><u>[New] 2024 Approved Architectural Marvels Best 6 Mojave Homes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-conquer-all-platforms-your-key-to-recording-hulu-effortlessly/"><u>[New] 2024 Approved Conquer All Platforms - Your Key to Recording Hulu Effortlessly</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-unlocking-your-potential-with-ez-grabber-software/"><u>[New] 2024 Approved Unlocking Your Potential with EZ Grabber Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-swift-effective-methods-for-iphone-screen-recordings/"><u>[New] In 2024, Swift, Effective Methods for iPhone Screen Recordings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-streamlining-video-conferencing-with-efficient-use-of-snap-features-on-google-meet-for-2024/"><u>[New] Streamlining Video Conferencing with Efficient Use of Snap Features on Google Meet for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-proven-steps-to-enhance-your-facetime-call-experience/"><u>[Updated] 2024 Approved Proven Steps to Enhance Your FaceTime Call Experience</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-effortless-screen-recording-on-modern-pcs/"><u>[Updated] Effortless Screen Recording on Modern PCs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-elevate-video-production-mastering-obs-on-android/"><u>[Updated] In 2024, Elevate Video Production Mastering OBS on Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-hidden-history-in-your-browser-how-to-tackle/"><u>[Updated] The Hidden History in Your Browser How to Tackle?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-unveiling-youtube-pros-tubebuddys-edge/"><u>[Updated] Unveiling YouTube Pros TubeBuddy's Edge</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-peak-performance-frames-per-second-slow-motion/"><u>2024 Approved Peak Performance Frames Per Second Slow Motion</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/assessing-true-performance-determining-ideal-pc-speed/"><u>Assessing True Performance: Determining Ideal PC Speed</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/freeze-your-favorite-moves-explore-these-top-9-windows-gif-recipes-for-2024/"><u>Freeze Your Favorite Moves! Explore These Top 9 Windows GIF Recipes for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-x50-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor X50</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-fixing-the-frustrating-missing-footage-in-fb-feed/"><u>In 2024, Fixing the Frustrating Missing Footage in FB Feed</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-things-you-should-know-when-unlocking-total-wireless-of-iphone-12-drfone-by-drfone-ios/"><u>In 2024, Things You Should Know When Unlocking Total Wireless Of iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/troubleshooting-unclickable-elements-in-windows-11/"><u>Troubleshooting Unclickable Elements in Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/k-flawless-video-thumbnails-instantly-for-2024/"><u>Unlock Flawless Video Thumbnails Instantly for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/visionary-footage-advanced-camcapturing-methods/"><u>Visionary Footage Advanced CamCapturing Methods</u></a></li>
+</ul></div>
+

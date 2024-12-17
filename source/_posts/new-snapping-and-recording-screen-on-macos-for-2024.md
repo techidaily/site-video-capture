@@ -1,7 +1,7 @@
 ---
 title: "[New] Snapping and Recording Screen on macOS for 2024"
-date: 2024-08-10T08:09:00.992Z
-updated: 2024-08-11T08:09:00.992Z
+date: 2024-12-16T20:27:16.817Z
+updated: 2024-12-17T20:48:23.358Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/6b70f639163cfe01d6518c08ef2693a5f686b7373
 
 # How to Capture a Screenshot or Video of What's Showing On Your Mac Computer
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
 
 ##### Liza Brown
@@ -32,9 +29,6 @@ Capturing screenshots on Mac computers is something many users are interested in
 
 For simple applications, the Mac screenshot keyboard shortcuts are sufficient for the job. Here is a quick review of the built-in screenshot capability using the Mac OS:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -52,14 +46,12 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Tip 1. Mac OS Keyboard shortcut screenshots
 
 • To print screen on mac (the entire screen), press \[COMMAND\] + \[SHIFT\] + 3
@@ -70,6 +62,10 @@ For more advanced Mac screenshot applications, including the capability to edit,
 
 These applications can help you improve your screen captures and recordings with advanced tools and professional capabilities.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tip 2.Free screen capture tools for Mac
 
 **QuickTime** – PROS: free and included with your Mac, easy to use, exports to popular Mac formats; CONS: a limited toolset for advanced editing.
@@ -77,6 +73,10 @@ These applications can help you improve your screen captures and recordings with
 **Captur** – PROS: adds menubar functionality for common screenshot tasks; CONS: not a full-fledged screenshot tool.
 
 **Jing** – PROS: optimized for online and social sharing of screenshots, allows video capture; CONS: limited advanced feature list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tip 3. More advanced all-in-one video capture & editing tools for Mac
 
@@ -88,9 +88,6 @@ These applications can help you improve your screen captures and recordings with
 
  **Screenium 2.1** – PROS: a full roster of advanced editing tools; CONS: steep learning curve and poor support.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Tip 4.Bonus Tip Wondershare Filmora for Mac
 
 One all-in-one video capture & editing tool for Mac that is getting a lot of attention recently in Wondershare. Users are enthusiastic about this program's blend of advanced features and more versatile and professional performance.
@@ -98,6 +95,10 @@ One all-in-one video capture & editing tool for Mac that is getting a lot of att
 [If you are using Windows, check this tutorial instead](https://www.youtube.com/watch?v=fokMGFhzbYE)
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Wondershare Filmora for Mac supports all formats (including .mov) shot on any digital camera, mobile phone, or camcorder. It also has an extensive list of advanced video editing and screen capture tools, including:
 
@@ -114,10 +115,11 @@ Another point in its favor: Wondershare Filmora for Mac is one of the least expe
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Liza Brown
 
@@ -125,11 +127,28 @@ Liza Brown is a writer and a lover of all things video.
 
 Follow @Liza Brown
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-50-top-tier-virtual-bgms-for-zoomgoogle/"><u>[New] 50 Top-Tier Virtual BGMs for Zoom/Google</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-convenient-video-sharing-on-microsoft-hub-for-2024/"><u>[New] Convenient Video Sharing on Microsoft Hub for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-sci-fis-new-realms-exploring-the-best-metaverse-adventures-on-screen/"><u>[New] In 2024, Sci-Fi's New Realms Exploring the Best Metaverse Adventures on Screen</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-snapshotpro-v2021-ultimate-edition/"><u>[New] In 2024, SnapshotPro V2021 - Ultimate Edition</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-leveraging-social-integration-auto-play-youtube-videos-on-fb-pages/"><u>[New] Leveraging Social Integration Auto-Play Youtube Videos on FB Pages</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-simple-screen-recorder-for-windows-11-download-for-2024/"><u>[New] Simple Screen Recorder for Windows 11 Download for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-broadcasting-to-the-household-watching-facebook-videos-in-2024/"><u>[Updated] Broadcasting to the Household Watching Facebook Videos, In 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-exhaustive-analysis-of-gecata-playback-device-for-2024/"><u>[Updated] Exhaustive Analysis of Gecata Playback Device for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-unlocking-composition-magic-with-blend-modes-techniques/"><u>[Updated] In 2024, Unlocking Composition Magic with Blend Modes Techniques</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-xiaomi-redmi-note-12-4g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Xiaomi Redmi Note 12 4G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-the-stream-wars-fb-live-youtube-live-and-twitters-periscope-face-off/"><u>In 2024, The Stream Wars FB Live, YouTube Live, and Twitter's Periscope Face-Off</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-huawei-mediapad-m5-assessment-exceptional-visuals-and-audio-experience/"><u>In-Depth Huawei MediaPad M5 Assessment: Exceptional Visuals & Audio Experience</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-y100i-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo Y100i Device</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-video-capabilities-dslr-or-mirrorless/"><u>Unveiling Video Capabilities DSLR or Mirrorless?</u></a></li>
+</ul></div>
+
