@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Mastering Slack & Filmora  Efficient Meeting Planning & Recording Guide\""
-date: 2024-08-10T07:54:23.362Z
-updated: 2024-08-11T07:54:23.362Z
+date: 2024-12-21T20:18:38.502Z
+updated: 2024-12-25T19:06:46.996Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 
 # How to Schedule and Record a Meeting on Slack-Wondershare Filmora
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 ##### Shanoon Cox
@@ -50,9 +47,17 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 
 ![Click Shortcut Icon](https://images.wondershare.com/filmora/article-images/click-shortcut-icon.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 2.Scroll down to find the option of **Create Event** (To schedule a meeting this way, you must first install the Outlook Calendar or Google Calendar)
 
 ![Create Slack Event](https://images.wondershare.com/filmora/article-images/create-slack-event.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3.Enter the details to schedule Slack meeting, including the date, duration, timing, etc. If you want to view the recommended Slack meeting timings, the guests must be connected to the Outlook calendar. Click on **Create**.
 
@@ -67,8 +72,9 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 ![Choose Slack Channel](https://images.wondershare.com/filmora/article-images/choose-slack-channel.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Record Slack Meetings
 
 All the text messages on Slack are backed up and can easily be searched and shared again. But, what if you start an audio or video Slack meeting? Until now, no feature enables you to record Slack meeting.
@@ -79,16 +85,10 @@ Here is how you can record Slack meeting.
 
 1.Click on the **Apps**tab on the left side menu. Click on **Add** **apps**.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![Add Slack Apps](https://images.wondershare.com/filmora/article-images/add-slack-apps.jpg)
 
 2.Now, in the search bar, type and search **Zoom**. Click on the **Add** This will take you to the Slack App Directory.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Slack App Directory](https://images.wondershare.com/filmora/article-images/slack-app-directory.jpg)
 
 3.Tap on **Add** **to** **Slack**.
@@ -97,36 +97,36 @@ Here is how you can record Slack meeting.
 
 4.**Allow**Zoom to access your data and enable the app.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Allow Zoom On Slack](https://images.wondershare.com/filmora/article-images/allow-zoom-on-slack.jpg)
 
 5.Now, go to your workspace and type the **"/zoom"**command in the chatbox. Tap on the **Zoom** meeting tab.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Slack Zoom Chatbox](https://images.wondershare.com/filmora/article-images/slack-zoom-chatbox.jpg)
 
 6.Click on **Authorize** **Zoom** and adjust the settings.
 
 ![Authorize Zoom On Slack](https://images.wondershare.com/filmora/article-images/authorize-zoom-on-slack.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7.Click on **Join** to start the meeting.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Join Slack Meeting](https://images.wondershare.com/filmora/article-images/join-slack-meeting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 8.Finally, tap on the **Record**icon to record Slack meeting. You can click on the **Pause** button or **Stop** to finish recording. Once the recording finishes, it will be automatically sent to your public or private channel(depending on the type of Slack meeting you scheduled).
 
 ![Record Slack Meeting](https://images.wondershare.com/filmora/article-images/record-slack-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 3: Slack Video Call Settings
 
 Slack allows users to schedule a meeting with third-party apps or in Slack itself. You can just as easily have a Slack meeting using the in-built video call option.
@@ -135,9 +135,6 @@ You can either have a one-on-one video call in a DM chat or have a Slack meeting
 
 The settings tab in the video call enables you to create a name for the video call. There are also audio and video settings that can be changed to enhance the video call experience.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![Slack Video Call Settings](https://images.wondershare.com/filmora/article-images/slack-video-call-settings.jpg)
 
 Moreover, if you wish to stay on mute and still engage with the speaker, just click on the emoji on the screen. Select from a variety of reactions or type a text message right on the video screen.
@@ -152,13 +149,15 @@ With this powerful tool and our guide at hand, you can transform your work life 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -167,5 +166,19 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-for-beginners-the-top-8-versatile-cameras-under-400/"><u>[New] 2024 Approved For Beginners The Top 8 Versatile Cameras Under $400</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-professional-audio-choice-the-ultimate-10-spotify-tools/"><u>[New] In 2024, Professional Audio Choice The Ultimate 10 Spotify Tools</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-newcomers-pathway-maximizing-money-on-periscope-platform/"><u>[New] Newcomer's Pathway Maximizing Money on Periscope Platform</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-unlock-the-power-of-high-quality-webcam-videos-for-2024/"><u>[New] Unlock the Power of High-Quality Webcam Videos for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-effortless-zoom-edge-management-your-visual-companion/"><u>[Updated] Effortless Zoom Edge Management Your Visual Companion</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-discover-top-rated-xbox-extra-gb-drives/"><u>[Updated] In 2024, Discover Top-Rated Xbox Extra GB Drives</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-xbox-screen-recording-uncovered-a-step-by-step-manual/"><u>2024 Approved Xbox Screen Recording Uncovered A Step-by-Step Manual</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/comparative-analysis-of-hero5-sessions-for-2024/"><u>Comparative Analysis of Hero5 Sessions for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-expertsnap-recording-tool-win-10-version/"><u>In 2024, ExpertSnap Recording Tool, Win 10 Version</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/new-in-2024-dual-approaches-to-audio-fades-in-final-cut-pro/"><u>New In 2024, Dual Approaches to Audio Fades in Final Cut Pro</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2212467-9780007536948-the-ox-in-2014-your-chinese-horoscope/"><u>The Ox in 2014: Your Chinese Horoscope | Free Book</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/top-10-videodatei-kopierer-ohne-lizenzierung-wege-um-drm-zu-umgehen/"><u>Top-10 Videodatei-Kopierer Ohne Lizenzierung: Wege Um DRM Zu Umgehen</u></a></li>
+</ul></div>
 

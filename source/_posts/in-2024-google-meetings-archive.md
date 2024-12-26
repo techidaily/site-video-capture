@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Google Meetings Archive"
-date: 2024-08-10T07:54:44.772Z
-updated: 2024-08-11T07:54:44.772Z
+date: 2024-12-20T19:16:49.717Z
+updated: 2024-12-26T02:58:30.115Z
 tags: 
   - screen-recording
   - ai video
@@ -29,6 +29,10 @@ A career is a journey on which we are continually learning and developing new sk
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -44,15 +48,13 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## How to Record Webinars
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Producing your first webinar doesn't require you to be a video-making wizard since Filmora Scrn makes this process simple. Let's have a look at the steps you'll need to take in order to record a webinar.
 
@@ -70,24 +72,19 @@ Enabling the Camera option will allow you to capture your screen simultaneously 
 
 The Audio option contains Microphone and Computer audio options that can be used to select the microphone you are going to utilize during the screen recording session.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 3. Recording a webinar ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### 4. Editing a webinar ![Filmora scrn](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Exporting and Sharing a webinar ![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Click on the Export button after you've finished editing your webinar and proceed to select the location on the hard drive where your video will be saved, file format or the resolution of the video. Alternatively, you can upload the webinar to YouTube, Vimeo, Facebook or Twitch directly from Filmora Scrn.
 
@@ -95,15 +92,20 @@ Following these simple steps will help you produce insightful and well-rounded w
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Tips for Recording Webinars
 
 There is much more to making a webinar than just hitting the Record button, so in order to give your videos a more professional look, you should prepare the intro and outro graphics before you start editing your webinar and quickly add them after you've completed the recording session.
 
 Making sure that all the settings are adjusted properly and that the amount of background noise is at the very minimum is advised if you'd like to go through the process of making a webinar with Filmora Scrn quick and smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -112,8 +114,6 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -121,5 +121,22 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-direct-pathway-streamlined-capturing-techniques-dell/"><u>[New] Direct Pathway Streamlined Capturing Techniques (Dell)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capturemaster-x-overview-evaluation/"><u>[Updated] In 2024, CaptureMaster X Overview Evaluation</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-the-ultimate-guide-to-the-top-webcams-for-windows-10/"><u>[Updated] In 2024, The Ultimate Guide to the Top Webcams for Windows 10</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-efficient-strategies-to-record-ppt-sessions/"><u>2024 Approved Efficient Strategies to Record PPT Sessions</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-small-scale-streaming-mastery-on-youtube-without-big-subscriber-base/"><u>2024 Approved Small-Scale Streaming Mastery on YouTube Without Big Subscriber Base</u></a></li>
+<li><a href="https://win-hot.techidaily.com/2nas/"><u>安定したバックアップシステムを構築する：2台のNASサーバー同期ガイド</u></a></li>
+<li><a href="https://windows11.techidaily.com/consistent-experience-migrating-powertoys-on-new-pcs/"><u>Consistent Experience: Migrating PowerToys on New PCs</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-motorola-razr-40-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Motorola Razr 40 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-on-the-apple-iphone-6-without-previous-owner-by-drfone-ios/"><u>In 2024, How to Remove Activation Lock On the Apple iPhone 6 Without Previous Owner?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/pcs-top-choice-essential-ps1-emulators-for-2024/"><u>PC's Top Choice Essential PS1 Emulators for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-ultimate-screen-capture-software-guide-apowersoft-included-for-2024/"><u>The Ultimate Screen Capture Software Guide - Apowersoft Included for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/the-visual-splendor-of-blade-cameras-in-full-hd/"><u>The Visual Splendor of Blade Cameras in Full HD</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722961951707-upgrade-to-the-newest-nvidia-video-card-drivers-supported-by-windows-operating-systems/"><u>Upgrade to the Newest Nvidia Video Card Drivers - Supported by Windows Operating Systems!</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/1719376441397-why-arent-window-11-thumbnail-images-displayed-solutions-available/"><u>Why Aren't Window 11 Thumbnail Images Displayed? Solutions Available</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, EyeDome Recorder  ChromeOS Screen Snapshots\""
-date: 2024-08-10T07:55:03.289Z
-updated: 2024-08-11T07:55:03.289Z
+date: 2024-12-23T11:23:43.979Z
+updated: 2024-12-26T06:35:53.230Z
 tags: 
   - screen-recording
   - ai video
@@ -21,21 +21,27 @@ Being an internet surfer, you would have come across a lot of screen recorder ap
 
 So we have done our research to assist those who are in search of a cool and easy screen recorder. Well, the answer is the newly launched Chrome OS screen recorder that comes in as a utility software with Chrome OS. You don’t need any plugin, software, or any settings but just a shortcut key you can access this cool screen recorder. Enough of the intro now it's time to dive into the amazing Chrome OS and other ways you can record your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Part 1: Record with Chrome Native Screen Recorder
 
 The Chrome OS Native screenshot as well as a screen recorder application is very easy and simple to use. It comes with a simple GUI in the Chromebook OS. The recorder lets you record your screen and audio input. To get your hand on the application and learn how to use it, you gotta follow the steps below. Before moving to the “How’s” you need to know that the Chrome OS native screenshot generally comes with the OS but if you are an old user and using the old version then you will need to bring it on your OS. Let's see how can we do that.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Step 1: Setting Up
 
 If you are not seeing the recorder out of the box then you will need to access the Chrome OS features. It can be done by enabling the Chromes OS flags. All you have to do is to search chrome://flags with its browser. After that search for “screen capture”. And you will see enable option in front of the screen capture bar, enable it and you will be asked for a permission reset prompt and it's done.
 
 ![chrome native screen recorder setting up](https://images.wondershare.com/filmora/article-images/chrome-native-screen-recorder-setting-up.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 2: Recorder Screen
 
@@ -47,20 +53,18 @@ Soon as you click on the screen capture, you will be prompted to a new screen wi
 
 ![chrome select start](https://images.wondershare.com/filmora/article-images/chrome-select-start.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Finally, once you are done recording and now it's time to stop recording. You just need to click on the stop icon in the lower-right bottom of the desktop screen as shown in the figure below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![chrome stop recording](https://images.wondershare.com/filmora/article-images/chrome-stop-recording.jpg)
 
 ## Part 2: Other Alternative Ways to Record Chrome Screen
 
 A lot of other applications and plugins are also used to capture screenshots and record your Chrome OS. Some of the basic and fantastic applications that might help you to record your screen are discussed in the coming sections.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. Screencastify
 
 Screencastify is one of the easy to set up and user-friendly extensions that can be used on the Chrome OS browser to record your screen. All you have to do is go to screecastify.com and click on add extension as shown in the figure.
@@ -73,14 +77,15 @@ Once it is installed, you can go to extensions and launch it. It will pop up a s
 
 Once you are finished signing in and installing, it's time to set microphone settings in a new browser window. After that click next and it will be finished. Access it from the top right corner as shown in the picture and it will be open.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![screencastify set microphone new browser](https://images.wondershare.com/filmora/article-images/screencastify-set-microphone-new-browser.jpg)
 
 You can record your desktop screen with the desktop icon. The browser tab can be recorded by clicking that icon and clicking record. Moreover, the webcam record can be captured using the webcam icon and clicking start recording as shown below in the figure.
 
 ![screencastify click that icon record](https://images.wondershare.com/filmora/article-images/screencastify-extension.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Finally, after clicking record a new window will appear to ask you to select the entire screen. Just click the “entire screen” and click share and your recording will be started after a count down. The recording can be stopped using the “stop sharing” that appear in the end of the screen.
 
@@ -92,17 +97,14 @@ Another Google addon for screen recording is Awesome screenshot and screen recor
 
 After adding the extension a new window will appear to set up your extension. There are three steps, first, you will need to sign up using your Google account. After that, the next step is to pin the addon to the top bar. For that click on the extension icon and pin it to the bar as shown in 3 in the figure. Click next and finish the setup.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![awesome screenshot pin extension](https://images.wondershare.com/filmora/article-images/awesome-screenshot-pin-extension.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Let's come to the recording of the screen. Open up the extension from the pinned icon and you will see its GUI. Select “record” and click on the “Desktop” icon as shown. Do the simple settings by selecting the storing facility, enabling the microphone, setting resolution, and enabling the camera. In the end, click start recording. Next, you will select the screen or a specific application window. Once it's chosen click share as shown in the figure. To stop the sharing click on the “Stop Sharing” button to stop.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![awesome screenshot setting resolution](https://images.wondershare.com/filmora/article-images/awesome-screenshot-setting-resolution.jpg)
 
 Similarly, a screenshot can be taken by going to the “Capture” section in the main bar. Click “Visible Port” and click start capturing. After that, a vibrant screenshot editor will pop up to edit your screenshot at the run time.
@@ -111,10 +113,11 @@ Similarly, a screenshot can be taken by going to the “Capture” section in th
 
 Another amazing Google extension for screen recording that is used widely is Nimbus. The installation is somehow similar to the said above extensions. Search for the extension named “Nimbus”. Add it to the chrome browser like shown. After that, a signup page will appear to sign up using a Google account. Add the extension to pinned application in the bar as shown in the figure.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![nimbus screen recorder](https://images.wondershare.com/filmora/article-images/nimbus-capture-poster.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
@@ -166,8 +169,19 @@ To wind up, it's true there are a lot of screen recording add-ons and applicatio
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-amplify-your-video-calls-with-these-essential-10-free-tools/"><u>[New] Amplify Your Video Calls with These Essential 10 Free Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-essential-guide-recording-video-calls-on-pctablet/"><u>[New] Essential Guide Recording Video Calls on PC/Tablet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-on-demand-broadcasts-a-guide-to-efficient-recording/"><u>[New] On-Demand Broadcasts A Guide to Efficient Recording</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-automating-video-display-in-facebook-feeds/"><u>2024 Approved Automating Video Display in Facebook Feeds</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024s-basta-cutcap-app-alternativ-15-pc-och-online-vanliga-losningar-att-finna-nu/"><u>2024S Bästa CutCap App Alternativ: 15 PC-Och Online-Vänliga Lösningar Att Finna Nu!</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-realme-11x-5g-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Realme 11X 5G Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-tecno-camon-20-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Tecno Camon 20 Without Password | Dr.fone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-sketch-funny-graphics-to-share-giphy-wide/"><u>In 2024, Sketch Funny Graphics to Share Giphy-Wide</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/innovative-tools-to-craft-top-titles/"><u>Innovative Tools to Craft Top Titles</u></a></li>
+<li><a href="https://program-issues.techidaily.com/solutions-for-monster-hunter-rise-installation-issues-fixed/"><u>Solutions for Monster Hunter Rise Installation Issues - Fixed?</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/techniques-to-ensure-uninterrupted-video-capturing/"><u>Techniques to Ensure Uninterrupted Video Capturing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-perfect-pixel-a-guide-to-captivating-pc-gaming-moments/"><u>The Perfect Pixel A Guide to Captivating PC Gaming Moments</u></a></li>
+</ul></div>
 

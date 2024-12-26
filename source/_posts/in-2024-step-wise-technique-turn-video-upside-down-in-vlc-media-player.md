@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-Wise Technique  Turn Video Upside Down in VLC Media Player\""
-date: 2024-08-10T07:53:29.274Z
-updated: 2024-08-11T07:53:29.274Z
+date: 2024-12-24T23:24:55.269Z
+updated: 2024-12-26T07:50:52.706Z
 tags: 
   - screen-recording
   - ai video
@@ -41,9 +41,6 @@ Embeded with rich video templates and resources
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1\. How to Rotate Video in VLC on Windows
 
 There are various reasons why you may want to rotate a video. It could be that the video has been taken at the wrong angle or you want to watch the video at a certain angle from a different perspective. The most common reason is that the video is taken in portrait mode and it looks small on your computer screen with black screen on both sides and you want to rotate the video to landscape mode. Here are the steps to perform VLC rotate video.
@@ -64,6 +61,10 @@ Step 6: Check Transform option and from the drop-down menu, select the required 
 
 ![vlc adjustments and effects](https://images.wondershare.com/filmora/article-images/vlc-adjustments-effects.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 The options available are – rotate by 90 degrees, 180 degrees, 270 degrees, flip horizontally or vertically, transport and anti-transpose.
 
 Step 7: If you want to rotate the video at any desired angle, you can check Rotate option and select the desired angle from the dial.
@@ -72,9 +73,6 @@ Step 7: If you want to rotate the video at any desired angle, you can check Rota
 
 Step 8: Finally, click on Save button and then on Close button.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![save rotated video vlc](https://images.wondershare.com/filmora/article-images/save-rotated-video-vlc.jpg)
 
 Now, you will get to see the video as per your selected angle instantly. But note that this VLC rotate effect will stay with VLC and if you open any other video file, it will also be displayed as per your selected angle. In order to disable this rotation effect, follow the same steps and this time, uncheck Transform and Rotate options.
@@ -95,10 +93,6 @@ Step 4: From Video Effects window, check Transform option.
 
 Step 5: From the drop-down menu, select the option as per your requirement.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![vlc rotation](https://images.wondershare.com/filmora/article-images/vlc-rotation-options.jpg)
 
 The options available are - rotate by 90 degrees, 180 degrees, and 270 degrees. Besides, you can flip horizontally or vertically.
@@ -117,9 +111,6 @@ Step 2: Follow all the steps we have mentioned on Method 1 - How to rotate video
 
 Step 3: Thereafter, go to Tool menu and select Preferences option.
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vlc preferences](https://images.wondershare.com/filmora/article-images/vlc-preferences.jpg)
 
 Step 4: Under Advanced Preferences option, go to Video > Filters option from the left menu.
@@ -144,6 +135,10 @@ Wait patiently for the process to get over and you can check the destination fol
 
 Please note that this permanent rotation feature on VLC is only available for Windows users. Mac users are yet to get the feature and you can hope to see this permanent rotation feature in upcoming versions of VLC Media Player for MAC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 4\. Alternative Way to Rotate Videos Permanently
 
 If you find the process of rotating video in VLC difficult and you want to rotate video on Mac as well, you should opt for [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). The professional video editing software is available for both Windows and Mac users. Rotating any video is super easy and you can also edit the video like a professional with its amazing tool set. Here are the three steps on how to rotate video with Filmora.
@@ -164,9 +159,6 @@ Step 2: Double-click on the video file and you will enter Video Editing Panel. C
 
 Step 3: Go to Export option and select the file format and set the other parameters correctly and click on Export button.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![shadowplay record button](https://images.wondershare.com/filmora/article-images/start-rotate-video-filmora.jpg)
 
 Now, you can check the destination folder to find the video file which is now permanently rotated.
@@ -193,10 +185,6 @@ Embeded with rich video templates and resources
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Part 1\. How to Rotate Video in VLC on Windows
 
 There are various reasons why you may want to rotate a video. It could be that the video has been taken at the wrong angle or you want to watch the video at a certain angle from a different perspective. The most common reason is that the video is taken in portrait mode and it looks small on your computer screen with black screen on both sides and you want to rotate the video to landscape mode. Here are the steps to perform VLC rotate video.
@@ -207,9 +195,6 @@ Step 2: Go to Media > Open File option and select the video file that you want t
 
 Step 3: Once the video opens, go to Tools > Effects and Filters option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![vlc tools option](https://images.wondershare.com/filmora/article-images/vlc-tools-option.jpg)
 
 Step 4: From Adjustments and Effects window, go to Video Effects tab.
@@ -224,21 +209,22 @@ The options available are – rotate by 90 degrees, 180 degrees, 270 degrees, fl
 
 Step 7: If you want to rotate the video at any desired angle, you can check Rotate option and select the desired angle from the dial.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![vlc video effects](https://images.wondershare.com/filmora/article-images/vlc-video-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 8: Finally, click on Save button and then on Close button.
 
 ![save rotated video vlc](https://images.wondershare.com/filmora/article-images/save-rotated-video-vlc.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now, you will get to see the video as per your selected angle instantly. But note that this VLC rotate effect will stay with VLC and if you open any other video file, it will also be displayed as per your selected angle. In order to disable this rotation effect, follow the same steps and this time, uncheck Transform and Rotate options.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ## Part 2\. How to Rotate Video in VLC on Mac
 
 The process of VLC Media Player rotate video is slightly different on Mac as compared to Windows. Here are the steps to follow to rotate video on VLC temporarily.
@@ -249,23 +235,12 @@ Step 2: Once you have opened the file, go to Window menu option.
 
 Step 3: From the menu, select Video Effects option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![vlc video effects mac](https://images.wondershare.com/filmora/article-images/vlc-video-effects-mac.jpg)
 
 Step 4: From Video Effects window, check Transform option.
 
 Step 5: From the drop-down menu, select the option as per your requirement.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vlc rotation](https://images.wondershare.com/filmora/article-images/vlc-rotation-options.jpg)
 
 The options available are - rotate by 90 degrees, 180 degrees, and 270 degrees. Besides, you can flip horizontally or vertically.
@@ -273,6 +248,10 @@ The options available are - rotate by 90 degrees, 180 degrees, and 270 degrees. 
 Step 6: Once done, just close Video Effects window and the changes will get saved automatically.
 
 Just like Windows, this rotation will automatically apply to all the videos you open thereafter. Therefore, you have to repeat the steps and uncheck Transform option to undo the rotation effect.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. How to Make the Rotation Permanent
 
@@ -284,9 +263,6 @@ Step 2: Follow all the steps we have mentioned on Method 1 - How to rotate video
 
 Step 3: Thereafter, go to Tool menu and select Preferences option.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![vlc preferences](https://images.wondershare.com/filmora/article-images/vlc-preferences.jpg)
 
 Step 4: Under Advanced Preferences option, go to Video > Filters option from the left menu.
@@ -335,9 +311,6 @@ Step 3: Go to Export option and select the file format and set the other paramet
 
 Now, you can check the destination folder to find the video file which is now permanently rotated.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The Bottom Line
 
 VLC Media Player is a great tool to rotate any video at any desired angle. You can make this rotation temporary for momentary viewing purpose as well as make the rotation effect permanent so that it always opens with the set rotation effect. However, the steps to rotate permanently on VLC are somewhat complex. Therefore, we recommend Wondershare Filmora where you can rotate any video permanently in three simple steps.
@@ -372,6 +345,10 @@ Step 3: Once the video opens, go to Tools > Effects and Filters option.
 
 ![vlc tools option](https://images.wondershare.com/filmora/article-images/vlc-tools-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: From Adjustments and Effects window, go to Video Effects tab.
 
 Step 5: Under Video Effects tab, go to Geometry tab.
@@ -384,10 +361,6 @@ The options available are – rotate by 90 degrees, 180 degrees, 270 degrees, fl
 
 Step 7: If you want to rotate the video at any desired angle, you can check Rotate option and select the desired angle from the dial.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![vlc video effects](https://images.wondershare.com/filmora/article-images/vlc-video-effects.jpg)
 
 Step 8: Finally, click on Save button and then on Close button.
@@ -406,10 +379,11 @@ Step 2: Once you have opened the file, go to Window menu option.
 
 Step 3: From the menu, select Video Effects option.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![vlc video effects mac](https://images.wondershare.com/filmora/article-images/vlc-video-effects-mac.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 4: From Video Effects window, check Transform option.
 
@@ -433,19 +407,17 @@ Step 2: Follow all the steps we have mentioned on Method 1 - How to rotate video
 
 Step 3: Thereafter, go to Tool menu and select Preferences option.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![vlc preferences](https://images.wondershare.com/filmora/article-images/vlc-preferences.jpg)
 
 Step 4: Under Advanced Preferences option, go to Video > Filters option from the left menu.
 
 Step 5: Check Video transformation Filter option and click on Save button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vlc transformtation filters](https://images.wondershare.com/filmora/article-images/vlc-transformation-filters.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 6: Go to Media menu and click on Convert Save option.
 
@@ -453,9 +425,6 @@ Step 7: Under Open Media Box, click on Add button and then click on Convert/Save
 
 Step 8: Under Convert Window, select Convert radio button and select a video output format. Then click on Settings icon.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![convert video vlc](https://images.wondershare.com/filmora/article-images/convert-vdeo-vlc.jpg)
 
 Step 9: Under Profile Edition window, go to Video Codec tab. Select Video Transformation Filter option and click on Save button.
@@ -466,9 +435,6 @@ Wait patiently for the process to get over and you can check the destination fol
 
 Please note that this permanent rotation feature on VLC is only available for Windows users. Mac users are yet to get the feature and you can hope to see this permanent rotation feature in upcoming versions of VLC Media Player for MAC.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4\. Alternative Way to Rotate Videos Permanently
 
 If you find the process of rotating video in VLC difficult and you want to rotate video on Mac as well, you should opt for [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). The professional video editing software is available for both Windows and Mac users. Rotating any video is super easy and you can also edit the video like a professional with its amazing tool set. Here are the three steps on how to rotate video with Filmora.
@@ -485,14 +451,19 @@ For macOS 10.12 or later
 
 Step 2: Double-click on the video file and you will enter Video Editing Panel. Check Transform option and adjust the slider on Rotate option to rotate the video at any desired angle. Finally, click on OK button and you can check the video if the rotation is perfect.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![shadowplay record button](https://images.wondershare.com/filmora/article-images/rotate-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Go to Export option and select the file format and set the other parameters correctly and click on Export button.
 
 ![shadowplay record button](https://images.wondershare.com/filmora/article-images/start-rotate-video-filmora.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now, you can check the destination folder to find the video file which is now permanently rotated.
 
@@ -528,9 +499,6 @@ Step 2: Go to Media > Open File option and select the video file that you want t
 
 Step 3: Once the video opens, go to Tools > Effects and Filters option.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vlc tools option](https://images.wondershare.com/filmora/article-images/vlc-tools-option.jpg)
 
 Step 4: From Adjustments and Effects window, go to Video Effects tab.
@@ -577,9 +545,6 @@ Step 6: Once done, just close Video Effects window and the changes will get save
 
 Just like Windows, this rotation will automatically apply to all the videos you open thereafter. Therefore, you have to repeat the steps and uncheck Transform option to undo the rotation effect.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3\. How to Make the Rotation Permanent
 
 The previous methods of VLC player rotate video on Windows and Mac will not save the video in that rotated angle as displayed. This means if you rotate a video in VLC using the method we have mentioned above, you will see the rotated video momentarily. But if you open the video in another media player or VLC without rotation settings turned off, the video will be playing at the original angle. If you want VLC rotate video and save feature so that the video’s rotation angle changes permanently, take the following steps on Windows.
@@ -590,18 +555,12 @@ Step 2: Follow all the steps we have mentioned on Method 1 - How to rotate video
 
 Step 3: Thereafter, go to Tool menu and select Preferences option.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![vlc preferences](https://images.wondershare.com/filmora/article-images/vlc-preferences.jpg)
 
 Step 4: Under Advanced Preferences option, go to Video > Filters option from the left menu.
 
 Step 5: Check Video transformation Filter option and click on Save button.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![vlc transformtation filters](https://images.wondershare.com/filmora/article-images/vlc-transformation-filters.jpg)
 
 Step 6: Go to Media menu and click on Convert Save option.
@@ -620,9 +579,6 @@ Wait patiently for the process to get over and you can check the destination fol
 
 Please note that this permanent rotation feature on VLC is only available for Windows users. Mac users are yet to get the feature and you can hope to see this permanent rotation feature in upcoming versions of VLC Media Player for MAC.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4\. Alternative Way to Rotate Videos Permanently
 
 If you find the process of rotating video in VLC difficult and you want to rotate video on Mac as well, you should opt for [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). The professional video editing software is available for both Windows and Mac users. Rotating any video is super easy and you can also edit the video like a professional with its amazing tool set. Here are the three steps on how to rotate video with Filmora.
@@ -639,9 +595,6 @@ For macOS 10.12 or later
 
 Step 2: Double-click on the video file and you will enter Video Editing Panel. Check Transform option and adjust the slider on Rotate option to rotate the video at any desired angle. Finally, click on OK button and you can check the video if the rotation is perfect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![shadowplay record button](https://images.wondershare.com/filmora/article-images/rotate-video-filmora.jpg)
 
 Step 3: Go to Export option and select the file format and set the other parameters correctly and click on Export button.
@@ -676,6 +629,17 @@ VLC Media Player is a great tool to rotate any video at any desired angle. You c
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-cutting-edge-techniques-for-backdrop-acquisition/"><u>[New] 2024 Approved Cutting-Edge Techniques for Backdrop Acquisition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-webcam-video-pros-fast-effective-filming-steps/"><u>[New] In 2024, Webcam Video Pros Fast, Effective Filming Steps</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-smart-picklist-top-value-free-livestream-software-and-apps-reviewed-this-year/"><u>[New] Smart Picklist Top Value Free Livestream Software & Apps Reviewed This Year</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-capturing-clarity-exploring-the-features-of-apeakscreen-software/"><u>[Updated] Capturing Clarity Exploring the Features of Apeakscreen Software</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-uncomplicatedscreensave-free-recording-software-for-2024/"><u>[Updated] UncomplicatedScreenSave Free Recording Software for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fixing-hardware-not-found-on-rainbow-six-expedition-comprehensive-driver-solutions/"><u>Fixing Hardware Not Found on Rainbow Six Expedition: Comprehensive Driver Solutions</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-android-can-surpass-ios-with-these-five-key-enhancements-expert-analysis-by-zdnet/"><u>How Android Can Surpass iOS with These Five Key Enhancements - Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-how-to-record-video-on-google-hangouts/"><u>In 2024, How to Record Video on Google Hangouts</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastery-over-directdraw-a-path-to-flawless-performance-in-win1011/"><u>Mastery over DirectDraw: A Path to Flawless Performance in WIN10/11</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/unearthing-the-reason-behind-your-printers-blank-page-dilemma-expert-advice-by-yl-software/"><u>Unearthing The Reason Behind Your Printer's Blank Page Dilemma: Expert Advice by YL Software</u></a></li>
+</ul></div>
 

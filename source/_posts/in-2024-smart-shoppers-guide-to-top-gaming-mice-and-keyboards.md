@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Smart Shoppers' Guide to Top Gaming Mice & Keyboards"
-date: 2024-08-10T07:52:51.993Z
-updated: 2024-08-11T07:52:51.993Z
+date: 2024-12-22T07:49:05.812Z
+updated: 2024-12-25T18:33:33.605Z
 tags: 
   - screen-recording
   - ai video
@@ -45,14 +45,120 @@ The ABS keycaps are slick and unstable, which leads to inadvertent key presses
 
 ### 2.EVGA Z12
 
+![evga-z12](https://images.wondershare.com/filmora/article-images/evga-z12.png)
+
+Look at the EVGA Z12 if you want something even cheaper. The unique EVGA Waterproof rubber dome buttons are lighter to push than Corsair RBG K55 PRO XT. Therefore gaming isn't as responsive. They have a smaller pre-travel distance, which means they type more accurately. This is a good option if you are searching for the best gaming keyboard under 100$.
+
+##### Pros
+
+Five macro keys and each one is reprogrammed.
+
+Separate media buttons.
+
+Full-size keyboard.
+
+##### Cons
+
+It is zone-lit rather than RGB.
+
+The keyboard also lacks onboard memory.
+
+Gaming isn't as responsive.
+
+### 3.G413 Logitech
+
+![g413-logitech](https://images.wondershare.com/filmora/article-images/g413-logitech.png)
+
+A good keyboard with excellent gaming performance should appeal to the majority of entry-level gamers. We can say Logitech's G413 is the best gaming keyboard under 100$. Despite its low price, it is well-made, with a plastic body and a strong metal top half so that you will have no problems with it.
+
+Only patented Romer-G Tactile switches are included, which feature a short pre-travel distance and provide excellent tactile feedback without being too heavy to write on. ABS keycaps feel pleasant to touch and seem to be solid. Thus the keyboard provides excellent typing quality. It offers minimal latency for gamers. Therefore you won't even notice any lag when playing. It features individually illuminated keys and illumination. However, it's only offered in red.
+
+##### Pros
+
+Macros can be assigned to any of the function keys.
+
+You can store your settings using the G HUB Logitech online sync feature if you wish to use them on a different computer.
+
+The best inexpensive keyboard you can buy.
+
+##### Cons
+
+The keyboard also lacks onboard memory
+
+### 4.Z15 EVGA
+
+![z15-evga](https://images.wondershare.com/filmora/article-images/z15-evga.png)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+The EVGA Z15 is the best gaming keyboard under 100$ with mechanical keys that we've tested. It's an excellent gaming keyboard featuring a few extra functions to enhance your gaming experience. It's full-size, with a sturdy frame and superior quality finishing, but still, ABS keycaps aren't as comfortable as PBT.
+
+It comes with vertical Kailh Speed Silver and Kailh clicky Speed Bronze keys, both of which we tried, and it's hot-swappable so that you can use anything you like. Our unit's clicky ones feature a short pre-travel range and low operational force, making them easy to push for gaming. The delay is also quite common, thus there should be no noticeable lag when gaming. The EVGA Release RGB software allows you to remap all keys, but it isn't as user-friendly as other rival manufacturers' software.
+
+##### Pros
+
+Keyboard is best suited to gaming.
+
+It's a straightforward keyboard with excellent ergonomics and comfy wrist rest.
+
+##### Cons
+
+The keys are too touchy for typing.
+
+Keys can be noisy in a noisy setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+### 5.Corsair K63
+
+![corsair-k63](https://images.wondershare.com/filmora/article-images/corsair-k63.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Corsair K63 is the best gaming keyboard under 100$ with the wireless link we've tested. This mechanical TenKeyLess variant may connect to up to 2 different devices at the same time, either through the USB receiver or over Bluetooth. The ergonomics are excellent since it's a horizontal keyboard with just one inclination option. However, the wrist rest looks cheap.
+
+Only linear MX Red Cherry keys are available, which take little effort to activate and provide no tactile feedback. Although the pre-travel length is somewhat greater than that of comparable gaming keyboards, the switches are still extremely sensitive and should not cause fatigue. You can reprogram or assign macros to any key, and it has some additional features like dedicated media buttons and a Windows lockout that stops you from inadvertently minimizing your game.
+
+##### Pros
+
+The quality and reliability are just adequate since the frame is composed of cheap-feeling plastic.
+
+##### Cons
+
+The illumination is limited to single blue color.
+
+#### Wondershare Filmora
+
+Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
+
+The Corsair K55 RGB PRO XT is the best gaming keyboard for under 100$ with non-mechanical buttons. It features rubber dome buttons, unlike most of the other keyboards on this list. They're a little heavier to push than traditional mechanical keyboards, and they don't provide the same haptic feedback, and they're still light enough to satisfy gamers.
+
+It's jam-packed with gaming features, including the ability to assign macros to any key and six additional macro keys just on the left side. It features complete RGB illumination and individually illuminated keys, which you can configure using the iCUE software, available for Windows and macOS. The latency is also quite minimal, which is fantastic. The keyboard includes one inclination setting and wrist rest. Thus it shouldn't be too tiring to use for extended gaming sessions.
+
+##### Pros
+
+Its keys are very quiet
+
+finest gaming keyboard with non-mechanical keys
+
+##### Cons
+
+Its typing quality is low
+
+The ABS keycaps are slick and unstable, which leads to inadvertent key presses
+
+### 2.EVGA Z12
+
 ![evga-z12](https://images.wondershare.com/filmora/article-images/evga-z12.png)
 
 Look at the EVGA Z12 if you want something even cheaper. The unique EVGA Waterproof rubber dome buttons are lighter to push than Corsair RBG K55 PRO XT. Therefore gaming isn't as responsive. They have a smaller pre-travel distance, which means they type more accurately. This is a good option if you are searching for the best gaming keyboard under 100$.
@@ -74,13 +180,11 @@ The keyboard also lacks onboard memory.
 Gaming isn't as responsive.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3.G413 Logitech
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![g413-logitech](https://images.wondershare.com/filmora/article-images/g413-logitech.png)
 
 A good keyboard with excellent gaming performance should appeal to the majority of entry-level gamers. We can say Logitech's G413 is the best gaming keyboard under 100$. Despite its low price, it is well-made, with a plastic body and a strong metal top half so that you will have no problems with it.
@@ -100,17 +204,11 @@ The best inexpensive keyboard you can buy.
 The keyboard also lacks onboard memory
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 4.Z15 EVGA
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![z15-evga](https://images.wondershare.com/filmora/article-images/z15-evga.png)
 
 The EVGA Z15 is the best gaming keyboard under 100$ with mechanical keys that we've tested. It's an excellent gaming keyboard featuring a few extra functions to enhance your gaming experience. It's full-size, with a sturdy frame and superior quality finishing, but still, ABS keycaps aren't as comfortable as PBT.
@@ -129,11 +227,12 @@ The keys are too touchy for typing.
 
 Keys can be noisy in a noisy setting.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 5.Corsair K63
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![corsair-k63](https://images.wondershare.com/filmora/article-images/corsair-k63.jpg)
 
 Corsair K63 is the best gaming keyboard under 100$ with the wireless link we've tested. This mechanical TenKeyLess variant may connect to up to 2 different devices at the same time, either through the USB receiver or over Bluetooth. The ergonomics are excellent since it's a horizontal keyboard with just one inclination option. However, the wrist rest looks cheap.
@@ -214,12 +313,13 @@ The best inexpensive keyboard you can buy.
 
 The keyboard also lacks onboard memory
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4.Z15 EVGA
 
 ![z15-evga](https://images.wondershare.com/filmora/article-images/z15-evga.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The EVGA Z15 is the best gaming keyboard under 100$ with mechanical keys that we've tested. It's an excellent gaming keyboard featuring a few extra functions to enhance your gaming experience. It's full-size, with a sturdy frame and superior quality finishing, but still, ABS keycaps aren't as comfortable as PBT.
 
@@ -236,6 +336,10 @@ It's a straightforward keyboard with excellent ergonomics and comfy wrist rest.
 The keys are too touchy for typing.
 
 Keys can be noisy in a noisy setting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 5.Corsair K63
 
@@ -259,9 +363,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
 
 The Corsair K55 RGB PRO XT is the best gaming keyboard for under 100$ with non-mechanical buttons. It features rubber dome buttons, unlike most of the other keyboards on this list. They're a little heavier to push than traditional mechanical keyboards, and they don't provide the same haptic feedback, and they're still light enough to satisfy gamers.
@@ -280,119 +381,9 @@ Its typing quality is low
 
 The ABS keycaps are slick and unstable, which leads to inadvertent key presses
 
-### 2.EVGA Z12
-
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-![evga-z12](https://images.wondershare.com/filmora/article-images/evga-z12.png)
-
-Look at the EVGA Z12 if you want something even cheaper. The unique EVGA Waterproof rubber dome buttons are lighter to push than Corsair RBG K55 PRO XT. Therefore gaming isn't as responsive. They have a smaller pre-travel distance, which means they type more accurately. This is a good option if you are searching for the best gaming keyboard under 100$.
-
-##### Pros
-
-Five macro keys and each one is reprogrammed.
-
-Separate media buttons.
-
-Full-size keyboard.
-
-##### Cons
-
-It is zone-lit rather than RGB.
-
-The keyboard also lacks onboard memory.
-
-Gaming isn't as responsive.
-
-### 3.G413 Logitech
-
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
-![g413-logitech](https://images.wondershare.com/filmora/article-images/g413-logitech.png)
-
-A good keyboard with excellent gaming performance should appeal to the majority of entry-level gamers. We can say Logitech's G413 is the best gaming keyboard under 100$. Despite its low price, it is well-made, with a plastic body and a strong metal top half so that you will have no problems with it.
-
-Only patented Romer-G Tactile switches are included, which feature a short pre-travel distance and provide excellent tactile feedback without being too heavy to write on. ABS keycaps feel pleasant to touch and seem to be solid. Thus the keyboard provides excellent typing quality. It offers minimal latency for gamers. Therefore you won't even notice any lag when playing. It features individually illuminated keys and illumination. However, it's only offered in red.
-
-##### Pros
-
-Macros can be assigned to any of the function keys.
-
-You can store your settings using the G HUB Logitech online sync feature if you wish to use them on a different computer.
-
-The best inexpensive keyboard you can buy.
-
-##### Cons
-
-The keyboard also lacks onboard memory
-
-### 4.Z15 EVGA
-
-![z15-evga](https://images.wondershare.com/filmora/article-images/z15-evga.png)
-
-The EVGA Z15 is the best gaming keyboard under 100$ with mechanical keys that we've tested. It's an excellent gaming keyboard featuring a few extra functions to enhance your gaming experience. It's full-size, with a sturdy frame and superior quality finishing, but still, ABS keycaps aren't as comfortable as PBT.
-
-It comes with vertical Kailh Speed Silver and Kailh clicky Speed Bronze keys, both of which we tried, and it's hot-swappable so that you can use anything you like. Our unit's clicky ones feature a short pre-travel range and low operational force, making them easy to push for gaming. The delay is also quite common, thus there should be no noticeable lag when gaming. The EVGA Release RGB software allows you to remap all keys, but it isn't as user-friendly as other rival manufacturers' software.
-
-##### Pros
-
-Keyboard is best suited to gaming.
-
-It's a straightforward keyboard with excellent ergonomics and comfy wrist rest.
-
-##### Cons
-
-The keys are too touchy for typing.
-
-Keys can be noisy in a noisy setting.
-
-### 5.Corsair K63
-
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
-![corsair-k63](https://images.wondershare.com/filmora/article-images/corsair-k63.jpg)
-
-Corsair K63 is the best gaming keyboard under 100$ with the wireless link we've tested. This mechanical TenKeyLess variant may connect to up to 2 different devices at the same time, either through the USB receiver or over Bluetooth. The ergonomics are excellent since it's a horizontal keyboard with just one inclination option. However, the wrist rest looks cheap.
-
-Only linear MX Red Cherry keys are available, which take little effort to activate and provide no tactile feedback. Although the pre-travel length is somewhat greater than that of comparable gaming keyboards, the switches are still extremely sensitive and should not cause fatigue. You can reprogram or assign macros to any key, and it has some additional features like dedicated media buttons and a Windows lockout that stops you from inadvertently minimizing your game.
-
-##### Pros
-
-The quality and reliability are just adequate since the frame is composed of cheap-feeling plastic.
-
-##### Cons
-
-The illumination is limited to single blue color.
-
-#### Wondershare Filmora
-
-Get started easily with Filmora's powerful performance, intuitive interface, and countless effects!
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
-
-The Corsair K55 RGB PRO XT is the best gaming keyboard for under 100$ with non-mechanical buttons. It features rubber dome buttons, unlike most of the other keyboards on this list. They're a little heavier to push than traditional mechanical keyboards, and they don't provide the same haptic feedback, and they're still light enough to satisfy gamers.
-
-It's jam-packed with gaming features, including the ability to assign macros to any key and six additional macro keys just on the left side. It features complete RGB illumination and individually illuminated keys, which you can configure using the iCUE software, available for Windows and macOS. The latency is also quite minimal, which is fantastic. The keyboard includes one inclination setting and wrist rest. Thus it shouldn't be too tiring to use for extended gaming sessions.
-
-##### Pros
-
-Its keys are very quiet
-
-finest gaming keyboard with non-mechanical keys
-
-##### Cons
-
-Its typing quality is low
-
-The ABS keycaps are slick and unstable, which leads to inadvertent key presses
 
 ### 2.EVGA Z12
 
@@ -438,9 +429,6 @@ The keyboard also lacks onboard memory
 
 ### 4.Z15 EVGA
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![z15-evga](https://images.wondershare.com/filmora/article-images/z15-evga.png)
 
 The EVGA Z15 is the best gaming keyboard under 100$ with mechanical keys that we've tested. It's an excellent gaming keyboard featuring a few extra functions to enhance your gaming experience. It's full-size, with a sturdy frame and superior quality finishing, but still, ABS keycaps aren't as comfortable as PBT.
@@ -459,16 +447,13 @@ The keys are too touchy for typing.
 
 Keys can be noisy in a noisy setting.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 5.Corsair K63
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![corsair-k63](https://images.wondershare.com/filmora/article-images/corsair-k63.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Corsair K63 is the best gaming keyboard under 100$ with the wireless link we've tested. This mechanical TenKeyLess variant may connect to up to 2 different devices at the same time, either through the USB receiver or over Bluetooth. The ergonomics are excellent since it's a horizontal keyboard with just one inclination option. However, the wrist rest looks cheap.
 
@@ -488,9 +473,6 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Learn More >](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
 
 <ins class="adsbygoogle"
@@ -515,6 +497,16 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
      data-full-width-responsive="true"></ins>
 
 
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-apple-devices-enthusiasts-guide-to-top-voice-recorders/"><u>[New] 2024 Approved Apple Devices Enthusiast's Guide to Top Voice Recorders</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-ranking-top-non-gopro-waterproof-vr-and-action-cameras/"><u>[New] 2024 Approved Ranking Top Non-GoPro Waterproof VR and Action Cameras</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-how-to-keep-your-videos-quiet-and-clear/"><u>[New] How to Keep Your Videos Quiet and Clear</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-obs-versus-shadowplay-streaming-software-showdown-for-2024/"><u>[New] OBS versus ShadowPlay - Streaming Software Showdown for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capture-studio-screen-recorder-win10/"><u>[Updated] In 2024, Capture Studio Screen Recorder Win10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-the-premier-66-tweeters-in-tourism-unbeatable-offers-and-expert-recommendations-online/"><u>Discover the Premier 66 Tweeters in Tourism: Unbeatable Offers and Expert Recommendations Online</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-nubia-z50s-pro-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Nubia Z50S Pro? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-trouble-with-apple-iphone-8-swipe-up-try-these-11-solutions-by-drfone-ios/"><u>In 2024, Trouble with Apple iPhone 8 Swipe-Up? Try These 11 Solutions</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-tecno-pova-5-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Tecno Pova 5 to PC- Detailed Steps | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Use Markers in Video Recording and Editing?"
-date: 2024-08-10T07:57:21.010Z
-updated: 2024-08-11T07:57:21.010Z
+date: 2024-12-23T21:10:03.835Z
+updated: 2024-12-25T22:18:55.323Z
 tags: 
   - screen-recording
   - ai video
@@ -19,15 +19,6 @@ thumbnail: https://thmb.techidaily.com/778dacc021ae6d569afd3e62fa61bf15ba6fe429d
 
 # How to Use Markers in Video Recording and Editing
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -40,9 +31,6 @@ Markers can be used during the video editing and after the screen recording to m
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * [Record desktop screen](https://tools.techidaily.com/wondershare/filmora/download/), voiceover, and webcam simultaneously
@@ -58,9 +46,6 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 ## Distinctions Between the Two Types of Markers
@@ -71,10 +56,11 @@ The **media markers** are the markers you can add directly to the video file you
 
 You can use them to mark a place in the screen recording you're not too happy with, or to highlight the part of the video clip that you intend on featuring in the final cut of the video you've created with Wondershare's screen capturing and screen recording software. By doing so you'll save time on going through all the material just to find a few seconds of footage that fit perfectly to your video.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora Scrn Markers](https://images.wondershare.com/filmora/article-images/filmora-scrn-markers.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The **timeline markers**, on the other hand, can only be added to a project once you've completed the recording session, during the post-production period. You can utilize them to highlight the parts of the video clip you want to remove from the final version of your video or to mark the spots on the timeline where you'd like to switch from one take to another.
 
@@ -94,8 +80,9 @@ For macOS 10.12 or later
 * [2\. How to Remove a Marker After Screen Recording](#filmora2)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. How to Add a Marker During Video Editing
 
 Adding Markers During Video Editing is essential for efficient editing process, as they help save time when reviewing the video. This section provides a detailed step-by-step guide on how to add markers before starting to edit a video with two methods:
@@ -107,6 +94,10 @@ Adding Markers During Video Editing is essential for efficient editing process, 
 To add markers, watch your video and find the mistake. Pause the video, then click the **"Add Marker"** icon on the timeline toolbar to place a marker at that point. Do this for any additional markers you want to add.
 
 ![add marker from the timeline toolbar](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##### Step 2: Access the Modification Option
 
@@ -120,22 +111,20 @@ In the Marker Editor window, make relevant changes such as naming the marker, ad
 
 ![customize the markers](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-5.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### **Method 2: Adding Markers through the Keyboard**
 
 After importing the clip into the timeline and identifying the points of error in your video, place the playhead on these points and press the **"M"** key on your keyboard to add a marker at the chosen timeframes.
 
 ![add maker through the keyboard](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### **2\. How to Remove a Marker After Screen Recording**
 
 Once you have finished editing your mistakes, it's important to remove the markers. To do this, right-click on the marker and select **"Delete"** from the options menu to remove a specific marker, or choose **"Delete All Markers"** to remove them collectively.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![remove a marker](https://images.wondershare.com/filmora/guide/guide-win/add-markers-with-filmora-7.jpg)
 
 ## Conclusion
@@ -144,13 +133,15 @@ In conclusion, markers are a valuable tool for video recording and editing. They
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -159,5 +150,24 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-decode-audio-formats-your-complete-srt-to-other-file-guide/"><u>[New] In 2024, Decode Audio Formats Your Complete SRT to Other File Guide</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-seamless-screen-record-for-windows-11/"><u>[New] In 2024, Seamless Screen Record for Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-analyzing-and-comparing-top-software-choices-for-screens-obsfraps-for-2024/"><u>[Updated] Analyzing and Comparing Top Software Choices for Screens (OBS/Fraps) for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-bridging-the-gap-between-youtube-and-instagram-stories-effectively/"><u>[Updated] Bridging the Gap Between YouTube & Instagram Stories Effectively</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-comprehensive-approach-to-integrating-whiteboards-in-zoom-sessions-for-2024/"><u>[Updated] Comprehensive Approach to Integrating Whiteboards in Zoom Sessions for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-perfect-playtime-footage-with-nvidia/"><u>[Updated] In 2024, Perfect Playtime Footage with NVIDIA</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-speech-recognition-made-accessible-transforming-audio-to-text-with-ease-in-microsoft-word-for-2024/"><u>[Updated] Speech Recognition Made Accessible Transforming Audio to Text with Ease in Microsoft Word for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ultimate-guide-to-the-best-10-spotify-music-recorder-apps/"><u>[Updated] Ultimate Guide to the Best 10 Spotify Music Recorder Apps</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-simple-paths-to-start-recording-on-hp-computers/"><u>2024 Approved Simple Paths to Start Recording on HP Computers</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722978484399-hassle-free-installation-your-essential-hp-drivers-await/"><u>Hassle-Free Installation: Your Essential HP Drivers Await!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-forgotten-pin-of-your-google-pixel-8-pro-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Google Pixel 8 Pro</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-exclusive-list-of-top-web-based-sound-capturers-2023/"><u>In 2024, Exclusive List of Top Web-Based Sound Capturers 2023</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-set-up-grid-layout-for-google-meet-participants-viewing/"><u>In 2024, Set Up Grid Layout for Google Meet Participants' Viewing</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-validating-your-channels-ad-based-income/"><u>In 2024, Validating Your Channel’s Ad-Based Income</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pro-tips-eliminate-lag-in-the-sims-4-for-pc-advanced-fixes-and-tweaks-2024-edition/"><u>Pro Tips: Eliminate Lag in The Sims 4 for PC - Advanced Fixes & Tweaks, 2024 Edition</u></a></li>
+<li><a href="https://fake-location.techidaily.com/the-best-8-vpn-hardware-devices-reviewed-on-vivo-y100t-drfone-by-drfone-virtual-android/"><u>The Best 8 VPN Hardware Devices Reviewed On Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/unlock-the-secrets-of-data-use-how-to-keep-an-eye-on-your-digital-footprint/"><u>Unlock the Secrets of Data Use: How to Keep an Eye on Your Digital Footprint</u></a></li>
+</ul></div>
 

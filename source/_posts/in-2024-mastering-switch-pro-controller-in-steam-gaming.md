@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Mastering Switch Pro Controller in Steam Gaming"
-date: 2024-08-10T07:53:49.111Z
-updated: 2024-08-11T07:53:49.111Z
+date: 2024-12-22T05:55:34.961Z
+updated: 2024-12-25T21:37:40.666Z
 tags: 
   - screen-recording
   - ai video
@@ -31,9 +31,6 @@ Utilizing the Nintendo Switch Pro controller for most of your PC games is a bree
 
 This article will tell you how to enable your Nintendo Switch Pro controller to work with Steam or Windows, either through a Bluetooth connection or a wired connection. The first thing you'll need is a Nintendo Switch Pro controller (obviously) and a USB-C cable.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![switch-pro-controller-poster](https://images.wondershare.com/filmora/article-images/switch-pro-controller-poster.jpg)
 
 ---
@@ -65,20 +62,21 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Right-click the Bluetooth icon in the system tray.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
 
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![switch-pro-controller-add-device](https://images.wondershare.com/filmora/article-images/switch-pro-controller-add-device.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Click on "Bluetooth" (since Windows 10 needs to be convinced that you want to use Bluetooth).
 * Ensure that the Pro Controller appears on the list of available devices (if it does not, ensure that the indicator lights are flashing back and forth). Pair the controller by clicking it.
@@ -89,10 +87,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![switch-pro-controller-steam-set-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The Best Way to make sure your Pro Controller works properly with your PC game is to use Steam's Big Picture mode, which uses a comfortable lean-back system to allow you to navigate.
 
@@ -109,8 +108,9 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **What To Do With Non-Steam Games?**
 
 Using the methods discussed above, you can easily use a switch pro controller with your pc, but it only works with steam games. But what if you want to play a non-steam game using a switch pro controller? What will you do now? The switch pro controller hardware support will run out of luck in this scenario.
@@ -121,26 +121,21 @@ The main problem here now is how windows will detect your switch pro controller 
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Final Verdict**
 
 This is how you can use your switch pro controller with your PC. Now you can easily enjoy your favorite games on one of the finest controllers available in the market today. All you need to do is, follow some simple steps mentioned in this article, and you are good to go. You can connect it both with wire and wirelessly. It is comparatively easy to connect it through the wire, and the performance of the controller is also slightly better when it is connected through a wire.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -149,5 +144,23 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-a-detailed-exposition-on-harnessing-power-of-adobes-cloud-data-vaults-for-2024/"><u>[New] A Detailed Exposition on Harnessing Power of Adobe's Cloud Data Vaults for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-first-timer-finds-low-cost-high-return-monetized-youtube-sites/"><u>[New] In 2024, First-Timer Finds Low-Cost, High-Return Monetized YouTube Sites</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-game-recorder-mastery-top-5-techniques-for-windows-11/"><u>[New] In 2024, Game Recorder Mastery Top 5 Techniques for Windows 11</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-crystal-clear-play-top-5-ultra-hd-gaming-pcmonitor-screens-for-2024/"><u>[Updated] Crystal Clear Play Top 5 Ultra HD Gaming PC/Monitor Screens for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-evaluating-tseries-business-model-with-youtube-viewership-metrics/"><u>[Updated] In 2024, Evaluating TSeries' Business Model with YouTube Viewership Metrics</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-lively-user-onboarding-pathway/"><u>[Updated] In 2024, Lively User Onboarding Pathway</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-iphone-sound-archive-voice-memo-tips-and-tricks/"><u>[Updated] IPhone Sound Archive Voice Memo Tips & Tricks</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-swiftcapture-solutions-w-audio-walkthrough-support/"><u>2024 Approved SwiftCapture Solutions W/ Audio Walkthrough Support</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-motorola-edge-40-neo-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Motorola Edge 40 Neo PC | Dr.fone</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-unveiling-the-5-prized-webcams-for-ultimate-game-broadcasting/"><u>In 2024, Unveiling the 5 Prized Webcams for Ultimate Game Broadcasting</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-your-first-dive-into-the-world-of-zoom-webinar-hosting/"><u>In 2024, Your First Dive Into the World of Zoom Webinar Hosting</u></a></li>
+<li><a href="https://facebook.techidaily.com/influencers-insight-amplifying-your-online-alliance/"><u>Influencers' Insight: Amplifying Your Online Alliance</u></a></li>
+<li><a href="https://facebook.techidaily.com/maintaining-professionalism-blocking-negative-profiles-from-fb/"><u>Maintaining Professionalism: Blocking Negative Profiles From FB</u></a></li>
+<li><a href="https://android-frp.techidaily.com/oneplus-nord-n30-se-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>OnePlus Nord N30 SE ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-easy-to-follow-techniques-for-facebook-call-and-chat-recording-for-2024/"><u>The Easy-to-Follow Techniques for Facebook Call and Chat Recording for 2024</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/top-pick-sbcs-the-most-advanced-and-versatile-microcomputers/"><u>Top Pick SBCs: The Most Advanced and Versatile Microcomputers</u></a></li>
+</ul></div>
 
