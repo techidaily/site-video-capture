@@ -1,7 +1,7 @@
 ---
 title: 最適なYouTube音楽MP3ダウンロードソフトとウェブサイト4選
-date: 2024-12-31T17:51:02.845Z
-updated: 2025-01-04T18:08:20.233Z
+date: 2025-01-12T23:25:07.177Z
+updated: 2025-01-16T19:47:22.610Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/71c1b0d0d145dc4c00dc6d938d03b70bdf9ec4a8786caa41676fddc28bb6d867.jpg
@@ -27,10 +27,6 @@ Best OGG to MP3 Converter
 
 ![Publish date](https://www.videoconverterfactory.com/tips/imgs-self/date.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Updated on Aug 23, 2024
 
 ![Best OGG Converter to MP3](https://www.videoconverterfactory.com/tips/imgs-self/best-ogg-to-mp3-converter/best-ogg-to-mp3-converter-00.webp) 
@@ -51,12 +47,16 @@ Quick Navigation
 
 [![Facebook](https://www.videoconverterfactory.com/tips/imgs-self/fb.png "Facebook")](https://www.facebook.com/sharer/sharer.php?u=https://www.videoconverterfactory.com/tips/best-ogg-to-mp3-converter.html) [![Twitter](https://www.videoconverterfactory.com/tips/imgs-self/tw.png "Twitter")](https://twitter.com/intent/tweet?url=https://www.videoconverterfactory.com/tips/best-ogg-to-mp3-converter.html&via=WonderFox10) [![Pinterest](https://www.videoconverterfactory.com/tips/imgs-self/pin.png "Pinterest")](https://www.pinterest.com/pin-builder/?url=https://www.videoconverterfactory.com/tips/best-ogg-to-mp3-converter.html&media=https://www.videoconverterfactory.com/tips/imgs-sns/best-ogg-to-mp3-converter.webp&method=button) [![Linkedin](https://www.videoconverterfactory.com/tips/imgs-self/in.png "Linkedin")](https://www.linkedin.com/sharing/share-offsite/?url=https://www.videoconverterfactory.com/tips/best-ogg-to-mp3-converter.html) [![Reddit](https://www.videoconverterfactory.com/tips/imgs-self/dit.png "Reddit")](https://www.reddit.com/submit?url=https://www.videoconverterfactory.com/tips/best-ogg-to-mp3-converter.html&title=Best+OGG+to+MP3+Converter+on+Windows,+Mac,+and+Online) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Both OGG and MP3 are lossy compression formats. But MP3 is far more popular and has greater compatibility than OGG. So, if you have music files saved in OGG format and want to share them with friends or upload them to other platforms without any hassles, converting OGG to MP3 is a good choice. 
 
 In this post, we outline 3 great .ogg to .mp3 converters to help you solve the incompatibility issue on Windows, Mac, and online effortlessly. 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Best OGG to MP3 Converters for Windows - WonderFox HD Video Converter Factory Pro
@@ -84,14 +84,10 @@ Open HD Video Converter Factory Pro and go into the **Converter** module. Click 
 ![Add OGG Files to the Program](https://www.videoconverterfactory.com/tips/imgs-self/best-ogg-to-mp3-converter/best-ogg-to-mp3-converter-01.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![Add OGG Files to the Program](https://www.videoconverterfactory.com/tips/imgs-self/best-ogg-to-mp3-converter/best-ogg-to-mp3-converter-01-01.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 2\. Choose MP3 as Output Format**
 
@@ -103,23 +99,19 @@ Below the format image, you can navigate to the **Parameter settings** section t
 
 ![Choose MP3 as Output Format](https://www.videoconverterfactory.com/tips/imgs-self/best-ogg-to-mp3-converter/best-ogg-to-mp3-converter-03-03.webp) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3\. Start Conversion**
 
 Click the triangle button at the bottom to set an output folder or leave it as default. Then click the **Run** button to start the conversion. 
 
 ![Start Conversion with the Best OGG to MP3 Converter](https://www.videoconverterfactory.com/tips/imgs-self/best-ogg-to-mp3-converter/best-ogg-to-mp3-converter-04.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Start Conversion with the Best OGG to MP3 Converter](https://www.videoconverterfactory.com/tips/imgs-self/best-ogg-to-mp3-converter/best-ogg-to-mp3-converter-04-04.webp) 
 
 ![Best Audio Format and Codec Converter](https://www.videoconverterfactory.com/tips/imgs-self/box-hdpro.png) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Best Audio Format&Codec Converter
 
@@ -128,6 +120,10 @@ WonderFox HD Video Converter Factory Pro is a top-rated audio format & codec con
 [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://us.videoconverterfactory.com/download/hd-video-converter-pro.exe?from=best-ogg-to-mp3-converter.html/d/ban1) [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/hd-video-converter/mobile-checking.html?from=best-ogg-to-mp3-converter.html/m/ban1) 
 
  \* Know more features of [HD Video Converter Factory Pro >](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Handy OGG to MP3 Converter for Mac - Audacity
 
@@ -152,10 +148,6 @@ Step 1\. Open Audacity.
 
 ![Convert OGG in Audacity Free](https://www.videoconverterfactory.com/tips/imgs-self/best-ogg-to-mp3-converter/best-ogg-to-mp3-converter-05.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![Convert OGG in Audacity Free](https://www.videoconverterfactory.com/tips/imgs-self/best-ogg-to-mp3-converter/best-ogg-to-mp3-converter-05-05.webp) 
 
 Step 4\. Choose a location and give a new filename. In the **Format Options** section, you can select an audio bitrate mode, the output quality, and audio channel. After that, click **Save** to start the conversion.
@@ -163,6 +155,10 @@ Step 4\. Choose a location and give a new filename. In the **Format Options** se
 ![Audacity Free Convert OGG to MP3](https://www.videoconverterfactory.com/tips/imgs-self/best-ogg-to-mp3-converter/best-ogg-to-mp3-converter-07.webp) 
 
 ![Audacity Free Convert OGG to MP3](https://www.videoconverterfactory.com/tips/imgs-self/best-ogg-to-mp3-converter/best-ogg-to-mp3-converter-07-07.webp) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Best OGG to MP3 Converters Online - Convertio
 
@@ -194,7 +190,11 @@ Step 5\. Hit the Download button to save the converted files.
 ![Best Free OGG to MP3 Converters Online](https://www.videoconverterfactory.com/tips/imgs-self/best-ogg-to-mp3-converter/best-ogg-to-mp3-converter-06-06.webp) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## In Conclusion 
@@ -209,10 +209,6 @@ Similar Articles
 
 ![WonderFox DVD Ripper Pro](https://www.videoconverterfactory.com/tips/imgs-self/box-ripperpro-l.png) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Digitize All Your DVD Collections Fast and Easily 
 
 * Rip DVD to MP4, MKV, AVI, MP3, OGG and 300+ presets.
@@ -226,10 +222,14 @@ Digitize All Your DVD Collections Fast and Easily
 [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://us.videoconverterfactory.com/download/dvd-ripper.exe?from=best-ogg-to-mp3-converter.html/d/rec) [![Free download](https://www.videoconverterfactory.com/tips/imgs-self/icon-down.png) Download for Free](https://www.videoconverterfactory.com/dvd-ripper/mobile-checking.html?from=best-ogg-to-mp3-converter.html/m/rec) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 [![Back to Top](https://www.videoconverterfactory.com/tips/amp-imgs/btt.png "Back to Top")](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -246,22 +246,22 @@ Digitize All Your DVD Collections Fast and Easily
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-seamless-backgrounds-in-teamconferences-via-microsoft-teams/"><u>[New] 2024 Approved Seamless Backgrounds in TeamConferences via Microsoft Teams</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-securecam-covers-top-10-picks-for-peace-of-mind/"><u>[New] In 2024, SecureCam Covers Top 10 Picks for Peace of Mind</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-the-recorders-eye-a-snapshot-of-best-tools/"><u>[New] In 2024, The Recorder's Eye A Snapshot of Best Tools</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-the-ultimate-guide-upgrade-your-fb-videos-with-hd-mp4-format-forfree/"><u>[New] In 2024, The Ultimate Guide Upgrade Your FB Videos with HD MP4 Format – Forfree</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-ultimate-ranking-of-top-internet-recording-tools-2023-for-2024/"><u>[New] Ultimate Ranking of Top Internet Recording Tools 2023 for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-comparing-apowersoft-to-alternatives/"><u>[Updated] In 2024, Comparing Apowersoft to Alternatives</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-unveiling-the-mysteries-high-quality-minecraft-capture-on-macos/"><u>[Updated] In 2024, Unveiling the Mysteries High-Quality Minecraft Capture on MacOS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-advanced-vision-systems-with-green-promise/"><u>2024 Approved Advanced Vision Systems with Green Promise</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-digital-room-for-screen-dance-duels/"><u>2024 Approved Digital Room for Screen Dance Duels</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/approved-top-15-youtube-template-download-sites/"><u>2024 Approved Top 15 YouTube Template Download Sites</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/exploring-your-digital-trail-a-comprehensive-guide-to-previewing-off-facebook-activities/"><u>Exploring Your Digital Trail - A Comprehensive Guide to Previewing Off-Facebook Activities</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-pictures-from-find-x7-ultra-by-fonelab-android-recover-pictures/"><u>How to recover deleted pictures from Find X7 Ultra.</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-resolve-infinix-hot-30-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Infinix Hot 30 5G Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-honor-play-8t-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Honor Play 8T Location on Twitter | Dr.fone</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-mastering-screen-recording-on-imac-with-ease/"><u>In 2024, Mastering Screen Recording on iMac with Ease</u></a></li>
-<li><a href="https://video-capture.techidaily.com/minecraft-homestead-blueprint-6-10/"><u>Minecraft Homestead Blueprint #6-10</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-benefits-and-limitations-a-comprehensive-review-of-webex-as-an-online-meeting-platform/"><u>The Benefits and Limitations: A Comprehensive Review of Webex as an Online Meeting Platform</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-effortless-group-video-chat-with-androids-facetime/"><u>[New] 2024 Approved Effortless Group Video Chat with Android's Facetime</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-leading-speech-recording-software-for-mac-discovering-our-five-favorites/"><u>[New] 2024 Approved Leading Speech Recording Software for Mac Discovering Our Five Favorites</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-crop-companion-chronicles-ultimate-agrigames-to-bond-with-buddies/"><u>[New] Crop Companion Chronicles Ultimate AgriGames to Bond with Buddies</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-elevate-your-online-presence-with-obs-on-youtube-and-twitch-for-2024/"><u>[New] Elevate Your Online Presence with OBS on YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-streamlining-your-gaming-experience-windows-11-edition/"><u>[New] In 2024, Streamlining Your Gaming Experience Windows 11 Edition</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-most-acclaimed-ipad-recording-software-3p-for-2024/"><u>[New] Most Acclaimed iPad Recording Software 3P for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-quick-pace-champions-2022-edition/"><u>[New] Quick Pace Champions 2022 Edition</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-screen-sleeves-on-sony-a6400-block-video-playback/"><u>[New] Screen Sleeves on Sony A6400 Block Video Playback</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-expert-recording-software-for-desktop-hd-video-for-2024/"><u>[Updated] Expert Recording Software for Desktop HD Video for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-picsart-guide-discreetly-mask-faces/"><u>[Updated] Picsart Guide Discreetly Mask Faces</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/30-leading-free-platforms-for-exceptional-youtube-intros-for-2024/"><u>30 Leading Free Platforms for Exceptional YouTube Intros for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-for-productivity-navigating-through-4-time-strategies/"><u>ChatGPT for Productivity: Navigating Through 4 Time Strategies</u></a></li>
+<li><a href="https://article-tips.techidaily.com/greatest-copyright-free-pubg-image-anthology-for-2024/"><u>Greatest Copyright-Free PUBG Image Anthology for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-out-of-recovery-or-dfu-mode-on-iphone-7-plus-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery or DFU Mode on iPhone 7 Plus? | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/scholars-highlight-growing-threats-as-ai-agent-use-expands-insights-from-zdnet/"><u>Scholars Highlight Growing Threats as AI Agent Use Expands - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/speedy-file-assessment-on-windows-pcs/"><u>Speedy File Assessment on Windows PCs</u></a></li>
+<li><a href="https://video-capture.techidaily.com/the-most-attractive-gaming-peripherals-for-under-100/"><u>The Most Attractive Gaming Peripherals for Under $100</u></a></li>
 </ul></div>
 
