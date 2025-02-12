@@ -1,7 +1,7 @@
 ---
 title: "\"Audiovisual Archive  System & Voice Recordings\""
-date: 2024-09-07T07:27:05.027Z
-updated: 2024-09-08T07:27:05.027Z
+date: 2025-02-07T21:29:05.007Z
+updated: 2025-02-11T23:33:24.062Z
 tags: 
   - screen-recording
   - ai video
@@ -15,12 +15,6 @@ keywords: "Audireview Listen,Audio Eval Guide,Sound Test Reviews,Recording Quali
 thumbnail: https://thmb.techidaily.com/3d4f10ff7575c64862599f681c5c76c2a7860b5686d5a4ad72e83eea7dc08de2.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Audiovisual Archive: System & Voice Recordings
 
 Sometimes you may wonder if it is possible to **record system audio and microphone** voice at the same time, especially when editing videos. You may be able to record either computer sound or microphone voices, but recording both at the same time may be difficult. This is quite a devastating thing to somebody working on a schedule.
@@ -31,26 +25,8 @@ These programs allow users to record the computer screen, computer sounds, and m
 
 integration with your computer to make this possible.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 1\. Use Stereo Mix ![stereo mix](https://images.wondershare.com/filmora/article-images/stereo-mix.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 1: Access the sound control center.**
 
 If you are using Windows 10 Sound Control Panel, you can access your sound setting through the search box.
@@ -75,12 +51,6 @@ You may be interested in adding your voice to a video, making a voice-over demo 
 
 ![filmora voide recorder](https://images.wondershare.com/filmora/guide/recording-04.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Here are steps you can follow to record system audio and microphone and add voiceover files when editing videos with Filmora software.
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -145,12 +115,6 @@ Bandicam recording tool is an easy-to-use, multi-track sound editor and recorder
 
 ![bandicam](https://images.wondershare.com/filmora/article-images/bandicam-start-streaming.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Here are steps to follow when you want to record microphone and computer sounds in your windows 10:
 
 **Step 1: Download and install a Bandicam.**
@@ -169,24 +133,12 @@ On the “Sounds” tab available in the “Primary Sound Device,” choose spea
 
 Now that you are done setting your Bandicam recorder, go back to the main interface and click the "REC" button on the top-right corner of your program screen to start recording.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. QuickTime Player
 
 Another method of recording both the computer audio and microphone at the same time on a Mac is by using the QuickTime Player audio recording tool. It is also an effective tool that can be used to record zoom meetings.
 
 ![animoto](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Steps to follow when recording computer audios together with microphone audios with this tool;
 
 **Step1:** Just like any other device, the first step is to download and install this software in your system.
@@ -201,12 +153,6 @@ EaseUS Expert is a powerful screen and microphone sound recorder that can enable
 
 ![recexpert](https://images.wondershare.com/filmora/article-images/launch-easeus-recexperts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Here are key steps to help you **record computer sound and microphone** simultaneously using this tool;
 
 **Step 1: Launch the software**
@@ -231,12 +177,6 @@ Movavi Screen recorder is video and audio recording software for Windows that ca
 
 ![movavi recorder](https://images.wondershare.com/filmora/article-images/movavi-screen-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Here are steps to follow when recording computer audio and microphone voice;
 
 **Step 1: Set up the audio**
@@ -255,18 +195,16 @@ You can click F10 on your keyboard or 'Stop' on the panel to stop the recording.
 
 Click ‘Save As’ to open the exporting options.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 8\. Screencapture.com
 
 Using Screen Capture may be the fastest way of capturing your computer screen, audio, and microphone voices simultaneously. This is a free online audio recorder tool. It can capture output from speakers, video playback, or internal audio from your system. It has a smart interface that can allow you to record computer sound and microphone simultaneously or separately.
 
 ![screen capture](https://images.wondershare.com/filmora/article-images/screencapture.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To archive this, here are some steps to follow;
 
 **Step1: Open Screen Capture**
@@ -369,12 +307,6 @@ Another method of recording both the computer audio and microphone at the same t
 
 ![animoto](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Steps to follow when recording computer audios together with microphone audios with this tool;
 
 **Step1:** Just like any other device, the first step is to download and install this software in your system.
@@ -383,18 +315,16 @@ Steps to follow when recording computer audios together with microphone audios w
 
 **Step3:** As it is integrated with Soundflower Aggregate to work on the Mac, Open QuickTime and select Soundflower as the source device. Now you can record system audio and microphone simultaneously.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. EaseUS Experts
 
 EaseUS Expert is a powerful screen and microphone sound recorder that can enable you to record webcam, audio, and screen at the same time. Using this tool you can either choose to record computer audio and microphone mac sound separately or both of them at the same time. This recording program supports many formats and you can select any supported audio format as per your recording's target format.
 
 ![recexpert](https://images.wondershare.com/filmora/article-images/launch-easeus-recexperts.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Here are key steps to help you **record computer sound and microphone** simultaneously using this tool;
 
 **Step 1: Launch the software**
@@ -412,6 +342,10 @@ After you are done with the settings start your recording by clicking on the ora
 **Step 4: Save audio.**
 
 The captured audio will be saved automatically on your computer and will be available in the recordings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Movavi Screen Recorder
 
@@ -437,17 +371,15 @@ You can click F10 on your keyboard or 'Stop' on the panel to stop the recording.
 
 Click ‘Save As’ to open the exporting options.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8\. Screencapture.com
 
 Using Screen Capture may be the fastest way of capturing your computer screen, audio, and microphone voices simultaneously. This is a free online audio recorder tool. It can capture output from speakers, video playback, or internal audio from your system. It has a smart interface that can allow you to record computer sound and microphone simultaneously or separately.
 
 ![screen capture](https://images.wondershare.com/filmora/article-images/screencapture.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 To archive this, here are some steps to follow;
 
@@ -497,24 +429,196 @@ Filmora can support up to100 audio tracks, and this feature can allow you to add
 
 After this, you can export and save your new video files in your preferred formats.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Audacity
 
 Audacity is a free-to-use recording tool that can work with different operating systems such as Windows, macOS, and Linux. It is referred to as an open-source audio editing and recording tool as it can be used as a powerful cross-platform audio recorder. It can be used to record PC sound and microphone at the same time.
 
 ![audacity](https://images.wondershare.com/filmora/article-images/Audacity-add-audio.jpg)
 
+The following steps will teach you how to record computer audio and microphone mac voices using Audacity.
+
+**Step 1: Select the sounds.**
+
+The first step when recording computer audio and microphone voice with Audacity software is to select the “Sound” option by right-clicking on the microphone icon. All the recording devices you are using will be found under the “Recording” tab. Right-click the microphone, then click “Properties” under the “Listen” tab, and tick the box before “Listen to the device.”
+
+This will enable the computer audio and the microphone voices to be recorded simultaneously.
+
+**Step 2: Select Stereo Mix**
+
+Through the drop-down menu behind the microphone icon in the upper left corner of Audacity's main interface, select the "Stereo Mix" from the menu.
+
+**Step 3: Record**
+
+Start your recording by clicking on the top red button. The recording will commence and it can capture both voice and computer audio simultaneously.
+
+After the recording is over, click the stop button to end, the recording.
+
+## 4\. Bandicam
+
+Bandicam recording tool is an easy-to-use, multi-track sound editor and recorder. This application is compatible with Windows Vista 7/8/10\. This software is used to record the computer audios and microphone sounds simultaneously on the windows computers.
+
+![bandicam](https://images.wondershare.com/filmora/article-images/bandicam-start-streaming.jpg)
+
+Here are steps to follow when you want to record microphone and computer sounds in your windows 10:
+
+**Step 1: Download and install a Bandicam.**
+
+If you have not installed a Bandicam on your windows 10 computer, you need to download and install it. Then open and launch your software to start recording.
+
+**Step2: Navigate to “Video” >”Settings”**
+
+After navigation, the new windows will pop out.
+
+**Step 3: Choose Speakers and a microphone.**
+
+On the “Sounds” tab available in the “Primary Sound Device,” choose speakers as Default Output Device” and then choose the microphone.
+
+**Step 4: Record.**
+
+Now that you are done setting your Bandicam recorder, go back to the main interface and click the "REC" button on the top-right corner of your program screen to start recording.
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+## 5\. QuickTime Player
+
+Another method of recording both the computer audio and microphone at the same time on a Mac is by using the QuickTime Player audio recording tool. It is also an effective tool that can be used to record zoom meetings.
+
+![animoto](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Steps to follow when recording computer audios together with microphone audios with this tool;
+
+**Step1:** Just like any other device, the first step is to download and install this software in your system.
+
+**Step2:** Open the macOS MIDI configuration app which is an in-built app for Mac. In the MIDI setup click the select icon situated on the left bottom and choose to create a "Multi-Output Device."
+
+**Step3:** As it is integrated with Soundflower Aggregate to work on the Mac, Open QuickTime and select Soundflower as the source device. Now you can record system audio and microphone simultaneously.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 6\. EaseUS Experts
+
+EaseUS Expert is a powerful screen and microphone sound recorder that can enable you to record webcam, audio, and screen at the same time. Using this tool you can either choose to record computer audio and microphone mac sound separately or both of them at the same time. This recording program supports many formats and you can select any supported audio format as per your recording's target format.
+
+![recexpert](https://images.wondershare.com/filmora/article-images/launch-easeus-recexperts.jpg)
+
+Here are key steps to help you **record computer sound and microphone** simultaneously using this tool;
+
+**Step 1: Launch the software**
+
+After making sure that your microphones are plugged appropriately, you can launch this program and select 'Audio' from the four modes.
+
+**Step 2: select sound.**
+
+The next step is to choose the speaker by clicking the speaker icon in the bottom left-hand corner. After this, click on 'Microphone and Sounds'. If you are using more than one microphone you can click "Options ” to select a specific Microphone Device.
+
+**Step 3: Record.**
+
+After you are done with the settings start your recording by clicking on the orange button “REC” to capture the computer audio and the microphone simultaneously. When your recording is finished, click the red “STOP” button to stop the recording.
+
+**Step 4: Save audio.**
+
+The captured audio will be saved automatically on your computer and will be available in the recordings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 7\. Movavi Screen Recorder
+
+Movavi Screen recorder is video and audio recording software for Windows that can be downloaded and installed to solve all the video and audio recording challenges. It is quite an easy and intuitive video and audio capturing tool that takes a short time to understand. This screen recorder with audio allows one to record, edit and save appropriately.
+
+![movavi recorder](https://images.wondershare.com/filmora/article-images/movavi-screen-recorder.jpg)
+
+Here are steps to follow when recording computer audio and microphone voice;
+
+**Step 1: Set up the audio**
+
+In the Movavi Screen Capture Studio, launch Windows and click 'Record Screen'. On the recording panel, choose the recording source or sources you want to record from. You can record the system sounds by clicking the System Audio button.
+
+To record voices from any of the microphones or any other device connected to your PC, click the 'Microphone' button. When recording from different devices click the arrow above the button to select your preferred device.
+
+**Step 2: Record the audio.**
+
+Click the ‘REC’ button when you are fully set and the audio recording will start.
+
+You can click F10 on your keyboard or 'Stop' on the panel to stop the recording.
+
+**Step 3: Save the audio file.**
+
+Click ‘Save As’ to open the exporting options.
+
+## 8\. Screencapture.com
+
+Using Screen Capture may be the fastest way of capturing your computer screen, audio, and microphone voices simultaneously. This is a free online audio recorder tool. It can capture output from speakers, video playback, or internal audio from your system. It has a smart interface that can allow you to record computer sound and microphone simultaneously or separately.
+
+![screen capture](https://images.wondershare.com/filmora/article-images/screencapture.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+To archive this, here are some steps to follow;
+
+**Step1: Open Screen Capture**
+
+To start recording sounds on your computer, you will need to open the app online.
+
+**Step 2: Set up audio recording and record.**
+
+Enable the ‘Sound’ icon to record your computer audios, and if you want to capture audios from the microphone and the speakers, activate the 'Microphone' icon.
+
+Press the ‘Start Recording’ Icon to capture the sounds playing. You need to allow access to your microphones and webcam.
+
+**Step 3: Save the file**
+
+When you finish recording, you can download the recording to your computer. All the files are confidential.
+
+## Conclusion
+
+This article highlights the various methods that can be used to record pc sound and microphone at the same time simultaneously. The above-described programs are just but some of the best programs that can capture audios from both inputs and as well edit them. These tools can be used to combine audio and videos or separate the same without losing the quality of both.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+**Step 1: Connect your Microphone to your computers.**
+
+When you are ready to start the recording you can connect the microphone to your computer or use external microphones to capture clear and quality voiceovers.
+
+**Step 2: Record voiceover.**
+
+If you have successfully installed Filmora software on your computer and have set the microphone, then click to launch the software, and in the starting interface click the ‘New Project’ indication icon to create a new project.
+
+Go to the Record tab and then click ‘Record a Voiceover’ to wake the audio record Window.
+
+**Step 3: Edit recorded voiceover to a video.**
+
+To start editing the recorded voiceovers, click on the audio track and the new window will pop up for you to adjust audio settings such as the speed, volume, and pitch of your voiceovers.
+
+Using this feature, you can trim and cut out the unwanted sound sections from the voiceover. Also, there is a 'fade-in and fade-out effect’, which you can use to create smoother voiceover transitions.
+
+**Step 4: Sync voiceover to video**
+
+Filmora can support up to100 audio tracks, and this feature can allow you to add background music to the voiceover records.
+
+‘Drag-n-drop’ the video track to the video track and then ‘drag-n-drop’ the audio track to the right position to combine it with the video. Keep the video track and the audio in the same length if need be.
+
+After this, you can export and save your new video files in your preferred formats.
+
+## 3\. Audacity
+
+Audacity is a free-to-use recording tool that can work with different operating systems such as Windows, macOS, and Linux. It is referred to as an open-source audio editing and recording tool as it can be used as a powerful cross-platform audio recorder. It can be used to record PC sound and microphone at the same time.
+
+![audacity](https://images.wondershare.com/filmora/article-images/Audacity-add-audio.jpg)
+
 The following steps will teach you how to record computer audio and microphone mac voices using Audacity.
 
 **Step 1: Select the sounds.**
@@ -571,254 +675,10 @@ Steps to follow when recording computer audios together with microphone audios w
 
 **Step3:** As it is integrated with Soundflower Aggregate to work on the Mac, Open QuickTime and select Soundflower as the source device. Now you can record system audio and microphone simultaneously.
 
-## 6\. EaseUS Experts
-
-EaseUS Expert is a powerful screen and microphone sound recorder that can enable you to record webcam, audio, and screen at the same time. Using this tool you can either choose to record computer audio and microphone mac sound separately or both of them at the same time. This recording program supports many formats and you can select any supported audio format as per your recording's target format.
-
-![recexpert](https://images.wondershare.com/filmora/article-images/launch-easeus-recexperts.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-Here are key steps to help you **record computer sound and microphone** simultaneously using this tool;
 
-**Step 1: Launch the software**
-
-After making sure that your microphones are plugged appropriately, you can launch this program and select 'Audio' from the four modes.
-
-**Step 2: select sound.**
-
-The next step is to choose the speaker by clicking the speaker icon in the bottom left-hand corner. After this, click on 'Microphone and Sounds'. If you are using more than one microphone you can click "Options ” to select a specific Microphone Device.
-
-**Step 3: Record.**
-
-After you are done with the settings start your recording by clicking on the orange button “REC” to capture the computer audio and the microphone simultaneously. When your recording is finished, click the red “STOP” button to stop the recording.
-
-**Step 4: Save audio.**
-
-The captured audio will be saved automatically on your computer and will be available in the recordings.
-
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 7\. Movavi Screen Recorder
-
-Movavi Screen recorder is video and audio recording software for Windows that can be downloaded and installed to solve all the video and audio recording challenges. It is quite an easy and intuitive video and audio capturing tool that takes a short time to understand. This screen recorder with audio allows one to record, edit and save appropriately.
-
-![movavi recorder](https://images.wondershare.com/filmora/article-images/movavi-screen-recorder.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Here are steps to follow when recording computer audio and microphone voice;
-
-**Step 1: Set up the audio**
-
-In the Movavi Screen Capture Studio, launch Windows and click 'Record Screen'. On the recording panel, choose the recording source or sources you want to record from. You can record the system sounds by clicking the System Audio button.
-
-To record voices from any of the microphones or any other device connected to your PC, click the 'Microphone' button. When recording from different devices click the arrow above the button to select your preferred device.
-
-**Step 2: Record the audio.**
-
-Click the ‘REC’ button when you are fully set and the audio recording will start.
-
-You can click F10 on your keyboard or 'Stop' on the panel to stop the recording.
-
-**Step 3: Save the audio file.**
-
-Click ‘Save As’ to open the exporting options.
-
-<!-- affiliate ads begin -->
-<span id="1983584">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 8\. Screencapture.com
-
-Using Screen Capture may be the fastest way of capturing your computer screen, audio, and microphone voices simultaneously. This is a free online audio recorder tool. It can capture output from speakers, video playback, or internal audio from your system. It has a smart interface that can allow you to record computer sound and microphone simultaneously or separately.
-
-![screen capture](https://images.wondershare.com/filmora/article-images/screencapture.jpg)
-
-To archive this, here are some steps to follow;
-
-**Step1: Open Screen Capture**
-
-To start recording sounds on your computer, you will need to open the app online.
-
-**Step 2: Set up audio recording and record.**
-
-Enable the ‘Sound’ icon to record your computer audios, and if you want to capture audios from the microphone and the speakers, activate the 'Microphone' icon.
-
-Press the ‘Start Recording’ Icon to capture the sounds playing. You need to allow access to your microphones and webcam.
-
-**Step 3: Save the file**
-
-When you finish recording, you can download the recording to your computer. All the files are confidential.
-
-## Conclusion
-
-This article highlights the various methods that can be used to record pc sound and microphone at the same time simultaneously. The above-described programs are just but some of the best programs that can capture audios from both inputs and as well edit them. These tools can be used to combine audio and videos or separate the same without losing the quality of both.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-**Step 1: Connect your Microphone to your computers.**
-
-When you are ready to start the recording you can connect the microphone to your computer or use external microphones to capture clear and quality voiceovers.
-
-**Step 2: Record voiceover.**
-
-If you have successfully installed Filmora software on your computer and have set the microphone, then click to launch the software, and in the starting interface click the ‘New Project’ indication icon to create a new project.
-
-Go to the Record tab and then click ‘Record a Voiceover’ to wake the audio record Window.
-
-**Step 3: Edit recorded voiceover to a video.**
-
-To start editing the recorded voiceovers, click on the audio track and the new window will pop up for you to adjust audio settings such as the speed, volume, and pitch of your voiceovers.
-
-Using this feature, you can trim and cut out the unwanted sound sections from the voiceover. Also, there is a 'fade-in and fade-out effect’, which you can use to create smoother voiceover transitions.
-
-**Step 4: Sync voiceover to video**
-
-Filmora can support up to100 audio tracks, and this feature can allow you to add background music to the voiceover records.
-
-‘Drag-n-drop’ the video track to the video track and then ‘drag-n-drop’ the audio track to the right position to combine it with the video. Keep the video track and the audio in the same length if need be.
-
-After this, you can export and save your new video files in your preferred formats.
-
-<!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 3\. Audacity
-
-Audacity is a free-to-use recording tool that can work with different operating systems such as Windows, macOS, and Linux. It is referred to as an open-source audio editing and recording tool as it can be used as a powerful cross-platform audio recorder. It can be used to record PC sound and microphone at the same time.
-
-![audacity](https://images.wondershare.com/filmora/article-images/Audacity-add-audio.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-The following steps will teach you how to record computer audio and microphone mac voices using Audacity.
-
-**Step 1: Select the sounds.**
-
-The first step when recording computer audio and microphone voice with Audacity software is to select the “Sound” option by right-clicking on the microphone icon. All the recording devices you are using will be found under the “Recording” tab. Right-click the microphone, then click “Properties” under the “Listen” tab, and tick the box before “Listen to the device.”
-
-This will enable the computer audio and the microphone voices to be recorded simultaneously.
-
-**Step 2: Select Stereo Mix**
-
-Through the drop-down menu behind the microphone icon in the upper left corner of Audacity's main interface, select the "Stereo Mix" from the menu.
-
-**Step 3: Record**
-
-Start your recording by clicking on the top red button. The recording will commence and it can capture both voice and computer audio simultaneously.
-
-After the recording is over, click the stop button to end, the recording.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-## 4\. Bandicam
-
-Bandicam recording tool is an easy-to-use, multi-track sound editor and recorder. This application is compatible with Windows Vista 7/8/10\. This software is used to record the computer audios and microphone sounds simultaneously on the windows computers.
-
-![bandicam](https://images.wondershare.com/filmora/article-images/bandicam-start-streaming.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-Here are steps to follow when you want to record microphone and computer sounds in your windows 10:
-
-**Step 1: Download and install a Bandicam.**
-
-If you have not installed a Bandicam on your windows 10 computer, you need to download and install it. Then open and launch your software to start recording.
-
-**Step2: Navigate to “Video” >”Settings”**
-
-After navigation, the new windows will pop out.
-
-**Step 3: Choose Speakers and a microphone.**
-
-On the “Sounds” tab available in the “Primary Sound Device,” choose speakers as Default Output Device” and then choose the microphone.
-
-**Step 4: Record.**
-
-Now that you are done setting your Bandicam recorder, go back to the main interface and click the "REC" button on the top-right corner of your program screen to start recording.
-
-## 5\. QuickTime Player
-
-Another method of recording both the computer audio and microphone at the same time on a Mac is by using the QuickTime Player audio recording tool. It is also an effective tool that can be used to record zoom meetings.
-
-![animoto](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
-
-Steps to follow when recording computer audios together with microphone audios with this tool;
-
-**Step1:** Just like any other device, the first step is to download and install this software in your system.
-
-**Step2:** Open the macOS MIDI configuration app which is an in-built app for Mac. In the MIDI setup click the select icon situated on the left bottom and choose to create a "Multi-Output Device."
-
-**Step3:** As it is integrated with Soundflower Aggregate to work on the Mac, Open QuickTime and select Soundflower as the source device. Now you can record system audio and microphone simultaneously.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6\. EaseUS Experts
 
 EaseUS Expert is a powerful screen and microphone sound recorder that can enable you to record webcam, audio, and screen at the same time. Using this tool you can either choose to record computer audio and microphone mac sound separately or both of them at the same time. This recording program supports many formats and you can select any supported audio format as per your recording's target format.
@@ -849,18 +709,6 @@ Movavi Screen recorder is video and audio recording software for Windows that ca
 
 ![movavi recorder](https://images.wondershare.com/filmora/article-images/movavi-screen-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Here are steps to follow when recording computer audio and microphone voice;
 
 **Step 1: Set up the audio**
@@ -885,18 +733,6 @@ Using Screen Capture may be the fastest way of capturing your computer screen, a
 
 ![screen capture](https://images.wondershare.com/filmora/article-images/screencapture.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 To archive this, here are some steps to follow;
 
 **Step1: Open Screen Capture**
@@ -939,10 +775,26 @@ This article highlights the various methods that can be used to record pc sound 
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-bilateral-screen-tracking/"><u>[New] In 2024, Bilateral Screen Tracking</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-hide-and-discover-instagram-stories-leaders/"><u>[New] In 2024, Hide & Discover Instagram Stories Leaders</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-depth-guide-to-2023s-leading-web-capture-applications-for-2024/"><u>[New] In-Depth Guide to 2023’S Leading Web Capture Applications for 2024</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-rev-up-your-recruiting-strategy-with-hot-tapes/"><u>[New] Rev Up Your Recruiting Strategy with Hot Tapes</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-eliminating-frame-discrepancies-in-obs-recordings/"><u>[Updated] 2024 Approved Eliminating Frame Discrepancies in OBS Recordings</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-affordable-gaming-capture-ranked-top-10-software-tools-for-2024/"><u>[Updated] Affordable Gaming Capture Ranked Top 10 Software Tools for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-examining-screen-capture-efficacy-obs-studio-vs-fraps-for-2024/"><u>[Updated] Examining Screen Capture Efficacy OBS Studio vs Fraps for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-leading-steadicams-for-professional-uav-filming/"><u>[Updated] In 2024, Leading Steadicams for Professional UAV Filming</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-screenshot-supreme-in-depth-recorder-reviews/"><u>[Updated] In 2024, Screenshot Supreme In-Depth Recorder Reviews</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-microcinema-plot-pointers/"><u>[Updated] Microcinema Plot Pointers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-tech-insight-saving-meetings-on-devices/"><u>[Updated] Tech Insight Saving Meetings on Devices</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unleash-potential-in-online-engagement-through-zoom-screenshares-for-2024/"><u>[Updated] Unleash Potential in Online Engagement Through Zoom Screenshares for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-design-memes-that-speak-to-your-audience/"><u>2024 Approved Design Memes That Speak to Your Audience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/achieve-flawless-imagery-how-to-remove-backgrounds-on-canva/"><u>Achieve Flawless Imagery How to Remove Backgrounds on Canva</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/best-practices-for-laptop-based-ppt-presentations-on-google-meet-for-2024/"><u>Best Practices for Laptop-Based PPT Presentations on Google Meet for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-network-errors-a-guide-for-windows-11-users/"><u>Eliminating Network Errors: A Guide for Windows 11 Users</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-mastery-over-smudge-effects-private-images-ps/"><u>In 2024, Mastery Over Smudge Effects Private Images PS</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-the-top-8-multiparty-android-conferencing-apps/"><u>In 2024, The Top 8 Multiparty Android Conferencing Apps</u></a></li>
+<li><a href="https://win-remarkable.techidaily.com/premium-blossom-wallpapers-and-visual-content-for-designers-hd-imagery-catalog-by-yl-software/"><u>Premium Blossom Wallpapers & Visual Content for Designers - HD Imagery Catalog by YL Software</u></a></li>
+</ul></div>
 
