@@ -1,7 +1,7 @@
 ---
 title: "Inside OBS File Management: A Complete Explanation of Recording Saves Locations"
-date: 2025-02-08T07:19:21.215Z
-updated: 2025-02-11T21:06:01.103Z
+date: 2025-02-27T01:57:14.462Z
+updated: 2025-03-03T05:59:38.747Z
 categories:
   - WonderFox
 thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a77042379632f2075c2e5462803d44d042.jpg
@@ -14,10 +14,6 @@ thumbnail: https://thmb.techidaily.com/5003aae1e7f947a598bd55077396c6a7704237963
  Bigo Live is a popular live streaming app and platform that allows users worldwide to go live, watch live streams, chat with others online, and more. If you want to save the live content, the best way you can try is to record BIGO Live. This post is here to show you **how to record Bigo Live without a black screen on PC, Android, and iOS devices**. Read on!.
 
 ![Carina](https://www.videoconverterfactory.com/tips/imgs-self/avatar/carina.png) [Carina](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/) | Updated on May 31, 2024
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 * [Part 1\. How to Record BIGO Live Without Black Screen on PC](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
 * [Part 2\. How to Record BIGO Live Without Black Screen on Android](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/)
@@ -44,25 +40,13 @@ _\* Before starting recording, please locate the live streaming content you want
 
 ![Open Screen Recorder](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-1.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2.** Now choose a recording mode from **Custom**, **Full-screen**, **Game recording**, or **Audio-only recording**. Then drag the four border lines to adjust the recording region if you choose the "**Custom**" mode. Click “**OK**” to confirm the recording area.
 
 ![Confirm Recording Area](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-2.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3.** Select a video recording format from the format drop-down list. Then, modify the recording quality and choose a recording frame rate. (You can turn on the GPU Acceleration to boost the recording performance if your computer supports [hardware acceleration](https://tools.techidaily.com/videoconverterfactory/hd-video-converter/).) Remember to uncheck the "**Microphone**" box if you don't want to record the background noise. Then set an output path at the bottom of the interface.
 
 ![Customize the Recording Settings](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-3.webp) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Step 4.** All set. Tap on the red “**REC**” button, and it will start recording on BIGO live video after a five-second countdown. Once done, press “**Ctrl + F1**” on your keyboard to end the recording. Then, you can watch the recorded shows on your PC or transfer the recording to other devices for viewing.
 
@@ -118,15 +102,7 @@ Then, you can find the recorded video in the Photos app.
 
 ![Capture Bigo Live on iPhone](https://www.videoconverterfactory.com/tips/imgs-self/record-bigo-live/record-bigo-live-7.webp) 
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tips: If you cannot find the “**Screen Recording**” feature in the “**Control Center**”, enter the “**Settings**” window, go to “**Control Center**” > “**Customize Controls**”, and scroll down to tap “**Screen Recording**” > “**+**” to add the recording feature to the Control Center.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Wrap-up
 
@@ -136,17 +112,9 @@ Thanks for your reading. Have a nice day!
 
 ## FAQs about BIGO Screen Recording
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Why can't I screen record Bigo Live?
 
 Most of the time, this is because your device does not have enough capacity or you did not grant permission to the tool you used to record. Check the storage space on your device (phone or computer) to solve this problem. Check to see if you have allowed the screen recorder to record a video. If everything appears to be in order, but you still cannot begin recording, try restarting your device.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. Is it illegal to screen record protected videos?
 
@@ -187,16 +155,24 @@ _\* Please DO NOT use it to rip any copy-protected DVDs for commercial purposes.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-cutting-edge-methods-to-record-and-save-lectures-on-imac/"><u>[New] Cutting-Edge Methods to Record and Save Lectures on iMac</u></a></li>
-<li><a href="https://article-tips.techidaily.com/new-sci-fi-virtual-horizons-a-selection-of-epic-movies-in-the-metaverse-realm-for-2024/"><u>[New] Sci-Fi Virtual Horizons A Selection of Epic Movies in the Metaverse Realm for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-it-takes-two-fps-drops-on-pc/"><u>[SOLVED] It Takes Two FPS Drops on PC</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-streamlining-mov-files-on-windows-11-os/"><u>[Updated] Streamlining MOV Files on Windows 11 OS</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-inclusivity-in-tech-the-expert-take-on-easeus/"><u>2024 Approved Inclusivity in Tech The Expert Take on EaseUS</u></a></li>
-<li><a href="https://win-news.techidaily.com/windows-781011-linux-usb/"><u>如何在 Windows 7、8、10、11 與 Linux 中制作可引啟 USB 設備</u></a></li>
-<li><a href="https://video-capture.techidaily.com/a-beginners-pathway-to-screen-casting-and-capturing-macos-for-2024/"><u>A Beginner's Pathway to Screen Casting and Capturing macOS for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/affordable-home-movie-experience-starter-pack-ideas/"><u>Affordable Home Movie Experience Starter Pack Ideas</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-flawlessrecorder-suite-w10-edition/"><u>In 2024, FlawlessRecorder Suite W10 Edition</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-3-ways-to-unlock-by-drfone-ios/"><u>In 2024, How To Unlock Apple iPhone 11 Pro 3 Ways To Unlock</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-11-free-apps-to-check-imei-on-realme-c55-phones-by-drfone-android/"><u>In 2024, Top 11 Free Apps to Check IMEI on Realme C55 Phones</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-understanding-the-dynamics-of-night-portraits/"><u>[New] In 2024, Understanding the Dynamics of Night Portraits</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-leveraging-whiteboards-across-ios-android-and-desktop-zoom-sessions/"><u>[New] Leveraging Whiteboards Across iOS, Android & Desktop Zoom Sessions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-mycam-recorder-review/"><u>[New] MyCam Recorder Review</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-perfect-playtime-toy-cars-and-games/"><u>[New] Perfect Playtime Toy Cars & Games</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-the-complete-blueprint-for-capturing-your-ps4-adventures/"><u>[New] The Complete Blueprint for Capturing Your PS4 Adventures</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-from-amateurs-to-experts-kinemasters-step-guide/"><u>[Updated] From Amateurs to Experts KineMaster’s Step Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-best-practices-for-rl-video-editing-and-post-processing/"><u>[Updated] In 2024, Best Practices for RL Video Editing and Post-Processing</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-obs-vs-streamlabs/"><u>[Updated] In 2024, OBS vs Streamlabs</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-revitalize-your-virtual-team-sessions-with-google-hangouts/"><u>[Updated] In 2024, Revitalize Your Virtual Team Sessions with Google Hangouts</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-ultimate-screen-recorder-unmatched-pcmacos-quality/"><u>[Updated] In 2024, Ultimate Screen Recorder - Unmatched PC/macOS Quality</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-leading-psp-ios-game-simulators-our-2023s-choices-for-2024/"><u>[Updated] Leading PSP iOS Game Simulators - Our 2023'S Choices for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-tips-swift-and-easy-fresh-installation-of-windows-11/"><u>Expert Tips: Swift and Easy Fresh Installation of Windows 11</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-apple-id-and-apple-password-from-apple-iphone-se-2020-by-drfone-ios/"><u>How to Reset Apple ID and Apple Password From Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-itel-p55-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Itel P55 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://video-capture.techidaily.com/learn-to-capture-videos-from-webcam-in-vlc/"><u>Learn to Capture Videos From Webcam in VLC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/permanent-fix-for-continuous-sony-vegas-software-crashes/"><u>Permanent Fix for Continuous Sony Vegas Software Crashes</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-greater-efficiency-using-chatgpt-innovations-in-crafting-successful-workflows/"><u>Unlocking Greater Efficiency: Using ChatGPT Innovations in Crafting Successful Workflows</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-with-linux-the-windows-integration-edge/"><u>Winning with Linux: The Windows Integration Edge</u></a></li>
 </ul></div>
 
